@@ -1,0 +1,388 @@
+ep_id,time_id,site_id,equipment_id,fuel_type_id,cost_maintenance,fuel_consumtion,downtime_hours,date,equipment_name,equipment_type,manufacture,capacity,installation_date,last_maintenance_date,fuel_name,quantity,site_name,region,operational_status
+1,1,1,4,3,2746795,909,2.23,1/2/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Coke,25400,PLTU Suralaya,South,Operating
+467,467,1,4,3,4775652,1286,0.24,4/12/2025,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Coke,25400,PLTU Suralaya,West,Operating
+71,71,1,3,3,1609320,1545,7.64,3/12/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Coke,25400,PLTU Suralaya,North,Operating
+390,390,1,3,3,2021163,1326,9.27,1/25/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Coke,25400,PLTU Suralaya,North,Overhaul
+403,403,1,3,3,1417251,1248,9.35,2/7/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Coke,25400,PLTU Suralaya,South,Operating
+436,436,1,6,3,2915665,1833,4.32,3/12/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Coke,25400,PLTU Suralaya,North,Overhaul
+446,446,1,6,3,2827519,1857,9.5,3/22/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Coke,25400,PLTU Suralaya,South,Overhaul
+262,262,1,2,3,2909225,1830,10.95,9/19/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTU Suralaya,South,Overhaul
+395,395,1,2,3,1157990,1459,4.35,1/30/2025,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTU Suralaya,Central,Operating
+385,385,1,7,3,2467097,719,1.36,1/20/2025,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Petroleum Coke,25400,PLTU Suralaya,West,Maintenance
+379,379,1,8,3,3771266,1634,3.92,1/14/2025,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Coke,25400,PLTU Suralaya,Central,Operating
+411,411,1,4,2,2833806,1169,4.79,2/15/2025,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Liquids,15300,PLTU Suralaya,South,Operating
+136,136,1,3,2,2851703,1478,1.69,5/16/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Liquids,15300,PLTU Suralaya,Central,Operating
+253,253,1,10,2,2693233,1312,3.8,9/10/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Liquids,15300,PLTU Suralaya,North,Not Operating
+394,394,1,2,2,1932869,1800,11.4,1/29/2025,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Liquids,15300,PLTU Suralaya,North,Overhaul
+408,408,1,5,2,4413374,1546,2.14,2/12/2025,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Liquids,15300,PLTU Suralaya,East,Maintenance
+28,28,1,7,2,4403929,1700,5.33,1/29/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Petroleum Liquids,15300,PLTU Suralaya,West,Overhaul
+67,67,1,7,2,2325270,1791,6.94,3/8/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Petroleum Liquids,15300,PLTU Suralaya,North,Maintenance
+190,190,1,7,2,4360801,1437,7.86,7/9/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Petroleum Liquids,15300,PLTU Suralaya,North,Maintenance
+147,147,1,8,2,2611640,1456,6.05,5/27/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTU Suralaya,Central,Overhaul
+297,297,1,8,2,2500350,1832,2.11,10/24/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTU Suralaya,West,Operating
+66,66,1,9,2,2602987,864,10.25,3/7/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Liquids,15300,PLTU Suralaya,North,Operating
+487,487,1,4,1,2608975,1597,9.06,5/2/2025,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTU Suralaya,North,Overhaul
+119,119,1,3,1,3305111,926,4.82,4/29/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Coal,19281,PLTU Suralaya,South,Operating
+380,380,1,3,1,1709757,1327,5.98,1/15/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Coal,19281,PLTU Suralaya,West,Overhaul
+8,8,1,6,1,4125634,927,0.98,1/9/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Coal,19281,PLTU Suralaya,North,Operating
+330,330,1,6,1,4294675,657,2.2,11/26/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Coal,19281,PLTU Suralaya,West,Overhaul
+416,416,1,6,1,4394026,1144,5.26,2/20/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Coal,19281,PLTU Suralaya,Central,Not Operating
+171,171,1,10,1,2017643,1888,0.65,6/20/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Coal,19281,PLTU Suralaya,North,Operating
+449,449,1,10,1,4443051,1923,11.64,3/25/2025,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Coal,19281,PLTU Suralaya,East,Operating
+113,113,1,1,1,3952394,972,2.3,4/23/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Coal,19281,PLTU Suralaya,West,Operating
+152,152,1,1,1,3336875,1200,5.84,6/1/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Coal,19281,PLTU Suralaya,West,Operating
+107,107,1,5,1,4642757,1590,3.77,4/17/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Coal,19281,PLTU Suralaya,South,Maintenance
+96,96,1,7,1,1023014,1189,2.67,4/6/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Coal,19281,PLTU Suralaya,South,Operating
+312,312,1,7,1,2455185,1084,2.58,11/8/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Coal,19281,PLTU Suralaya,East,Overhaul
+326,326,1,7,1,3094101,1103,9.17,11/22/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Coal,19281,PLTU Suralaya,North,Operating
+335,335,1,7,1,3840161,1808,4.52,12/1/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Coal,19281,PLTU Suralaya,West,Not Operating
+461,461,1,7,1,4669699,1311,9.88,4/6/2025,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Coal,19281,PLTU Suralaya,Central,Operating
+162,162,1,8,1,1032740,1140,10.86,6/11/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Coal,19281,PLTU Suralaya,North,Maintenance
+176,176,1,8,1,3519704,1895,2.79,6/25/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Coal,19281,PLTU Suralaya,Central,Operating
+252,252,1,8,1,3267074,1512,2.96,9/9/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Coal,19281,PLTU Suralaya,Central,Not Operating
+77,77,1,9,1,3452967,1818,9.95,3/18/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Coal,19281,PLTU Suralaya,Central,Operating
+476,476,1,9,1,1940470,716,1.63,4/21/2025,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Coal,19281,PLTU Suralaya,North,Overhaul
+76,76,1,3,4,3597489,1836,2.51,3/17/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTU Suralaya,South,Maintenance
+104,104,1,3,4,2340428,1631,4.95,4/14/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTU Suralaya,North,Maintenance
+135,135,1,3,4,2544522,938,5.77,5/15/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTU Suralaya,Central,Operating
+420,420,1,3,4,2157024,795,7.75,2/24/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTU Suralaya,South,Not Operating
+462,462,1,3,4,1454960,1426,1.09,4/7/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTU Suralaya,East,Operating
+191,191,1,10,4,1781960,1849,6.82,7/10/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTU Suralaya,West,Overhaul
+200,200,1,10,4,2383370,1853,0.22,7/19/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTU Suralaya,East,Not Operating
+460,460,1,10,4,2478716,963,7.54,4/5/2025,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTU Suralaya,East,Operating
+272,272,1,1,4,2923670,1632,10.24,9/29/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTU Suralaya,Central,Overhaul
+452,452,1,1,4,4873986,1393,1.55,3/28/2025,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTU Suralaya,North,Maintenance
+168,168,1,2,4,1833946,1620,9.05,6/17/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Natural Gas,23466,PLTU Suralaya,North,Operating
+73,73,1,5,4,1860689,611,8.34,3/14/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Natural Gas,23466,PLTU Suralaya,South,Not Operating
+317,317,1,5,4,4429320,1055,0.26,11/13/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Natural Gas,23466,PLTU Suralaya,Central,Maintenance
+36,36,1,7,4,1251201,1295,1.8,2/6/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTU Suralaya,West,Operating
+164,164,1,7,4,4036671,1248,5.01,6/13/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTU Suralaya,West,Operating
+177,177,1,7,4,3067357,1541,8.9,6/26/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTU Suralaya,East,Maintenance
+264,264,1,8,4,1018382,1601,5.69,9/21/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Natural Gas,23466,PLTU Suralaya,West,Maintenance
+323,323,1,8,4,3081298,1679,9.22,11/19/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Natural Gas,23466,PLTU Suralaya,West,Maintenance
+344,344,1,8,4,4128898,897,3.95,12/10/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Natural Gas,23466,PLTU Suralaya,Central,Operating
+495,495,1,8,4,1865029,1375,11.3,5/10/2025,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Natural Gas,23466,PLTU Suralaya,Central,Operating
+248,248,1,9,4,2994437,532,8.07,9/5/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Natural Gas,23466,PLTU Suralaya,South,Operating
+16,16,5,4,3,4906608,1539,3.15,1/17/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Coke,25400,PLTMH Cianjur,East,Operating
+57,57,5,4,3,4250219,533,10.93,2/27/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Coke,25400,PLTMH Cianjur,West,Operating
+175,175,5,3,3,1862866,1487,4.45,6/24/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Coke,25400,PLTMH Cianjur,West,Operating
+182,182,5,3,3,2430070,777,4,7/1/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Coke,25400,PLTMH Cianjur,Central,Maintenance
+339,339,5,3,3,3808467,1305,5.91,12/5/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Coke,25400,PLTMH Cianjur,South,Operating
+466,466,5,3,3,2371914,1219,10.83,4/11/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Coke,25400,PLTMH Cianjur,South,Overhaul
+231,231,5,1,3,2754390,767,6.14,8/19/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Coke,25400,PLTMH Cianjur,West,Maintenance
+275,275,5,1,3,3635420,662,9.02,10/2/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Coke,25400,PLTMH Cianjur,South,Maintenance
+88,88,5,2,3,2514624,1847,9.33,3/29/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTMH Cianjur,South,Maintenance
+165,165,5,2,3,4816906,1437,11.09,6/14/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTMH Cianjur,West,Operating
+244,244,5,2,3,4931066,1819,9.83,9/1/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTMH Cianjur,Central,Maintenance
+273,273,5,2,3,1747276,1733,11.75,9/30/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTMH Cianjur,West,Not Operating
+465,465,5,2,3,3818855,1875,8.97,4/10/2025,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTMH Cianjur,Central,Operating
+115,115,5,5,3,4759964,714,6.14,4/25/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Coke,25400,PLTMH Cianjur,West,Operating
+268,268,5,7,3,4165698,1356,5.63,9/25/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Petroleum Coke,25400,PLTMH Cianjur,East,Not Operating
+286,286,5,8,3,1983227,1076,7.45,10/13/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Coke,25400,PLTMH Cianjur,North,Maintenance
+79,79,5,9,3,3179819,1431,7.7,3/20/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Coke,25400,PLTMH Cianjur,West,Operating
+154,154,5,9,3,1003971,1367,5.2,6/3/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Coke,25400,PLTMH Cianjur,South,Not Operating
+157,157,5,9,3,1823555,808,5.58,6/6/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Coke,25400,PLTMH Cianjur,North,Maintenance
+60,60,5,4,2,2158852,1416,2.96,3/1/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Liquids,15300,PLTMH Cianjur,South,Operating
+72,72,5,3,2,2117597,947,11.58,3/13/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Liquids,15300,PLTMH Cianjur,West,Maintenance
+75,75,5,3,2,2230979,595,6.32,3/16/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Liquids,15300,PLTMH Cianjur,Central,Operating
+247,247,5,3,2,2022993,511,8.09,9/4/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Liquids,15300,PLTMH Cianjur,North,Operating
+299,299,5,3,2,2212268,1006,4.42,10/26/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Liquids,15300,PLTMH Cianjur,South,Operating
+398,398,5,3,2,1890918,1718,6.73,2/2/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Liquids,15300,PLTMH Cianjur,Central,Not Operating
+480,480,5,3,2,3254750,1867,6.27,4/25/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Liquids,15300,PLTMH Cianjur,Central,Maintenance
+83,83,5,6,2,3522614,1248,2.19,3/24/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Liquids,15300,PLTMH Cianjur,South,Operating
+217,217,5,6,2,4265473,1710,2.22,8/5/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Liquids,15300,PLTMH Cianjur,North,Operating
+412,412,5,10,2,3077404,1083,2.41,2/16/2025,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Liquids,15300,PLTMH Cianjur,Central,Overhaul
+38,38,5,1,2,1806085,1113,1.36,2/8/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Liquids,15300,PLTMH Cianjur,West,Operating
+117,117,5,1,2,1234081,613,5.33,4/27/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Liquids,15300,PLTMH Cianjur,Central,Maintenance
+181,181,5,1,2,4183333,1212,5.58,6/30/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Liquids,15300,PLTMH Cianjur,North,Overhaul
+362,362,5,1,2,4882455,1390,0.69,12/28/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Liquids,15300,PLTMH Cianjur,East,Operating
+453,453,5,1,2,2880488,1941,1.44,3/29/2025,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Liquids,15300,PLTMH Cianjur,West,Maintenance
+343,343,5,2,2,3256270,676,10.69,12/9/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Liquids,15300,PLTMH Cianjur,North,Operating
+346,346,5,5,2,1523330,1706,9.99,12/12/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Liquids,15300,PLTMH Cianjur,East,Operating
+405,405,5,5,2,3285522,881,6.4,2/9/2025,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Liquids,15300,PLTMH Cianjur,Central,Operating
+63,63,5,7,2,2959101,1262,7.03,3/4/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Petroleum Liquids,15300,PLTMH Cianjur,North,Not Operating
+455,455,5,7,2,3483187,1972,0.5,3/31/2025,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Petroleum Liquids,15300,PLTMH Cianjur,South,Operating
+198,198,5,8,2,3872600,1161,9.13,7/17/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTMH Cianjur,Central,Not Operating
+229,229,5,8,2,3886032,768,10.81,8/17/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTMH Cianjur,East,Overhaul
+276,276,5,9,2,3764043,1577,2.87,10/3/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Liquids,15300,PLTMH Cianjur,South,Operating
+363,363,5,4,1,2015158,1819,4.15,12/29/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTMH Cianjur,North,Maintenance
+440,440,5,4,1,1504326,1091,9.57,3/16/2025,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTMH Cianjur,South,Maintenance
+131,131,5,3,1,3729986,1711,10.2,5/11/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Coal,19281,PLTMH Cianjur,West,Operating
+241,241,5,3,1,1148947,1473,9.09,8/29/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Coal,19281,PLTMH Cianjur,Central,Maintenance
+98,98,5,6,1,3826569,693,0.64,4/8/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Coal,19281,PLTMH Cianjur,Central,Operating
+109,109,5,6,1,1744402,1288,10.54,4/19/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Coal,19281,PLTMH Cianjur,North,Maintenance
+278,278,5,6,1,3746639,1436,1.06,10/5/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Coal,19281,PLTMH Cianjur,West,Operating
+43,43,5,10,1,3311192,1282,10.71,2/13/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Coal,19281,PLTMH Cianjur,East,Operating
+87,87,5,10,1,3582382,1120,1.41,3/28/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Coal,19281,PLTMH Cianjur,North,Operating
+434,434,5,10,1,4566126,1268,2.76,3/10/2025,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Coal,19281,PLTMH Cianjur,Central,Operating
+92,92,5,1,1,2658564,817,2.32,4/2/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Coal,19281,PLTMH Cianjur,East,Maintenance
+482,482,5,1,1,1715139,1099,4.32,4/27/2025,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Coal,19281,PLTMH Cianjur,West,Overhaul
+42,42,5,2,1,3532281,1772,11.2,2/12/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Coal,19281,PLTMH Cianjur,Central,Operating
+23,23,5,5,1,2762968,1922,10.32,1/24/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Coal,19281,PLTMH Cianjur,North,Operating
+120,120,5,5,1,1661117,1129,11.02,4/30/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Coal,19281,PLTMH Cianjur,North,Maintenance
+149,149,5,5,1,3088056,1445,1.59,5/29/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Coal,19281,PLTMH Cianjur,South,Operating
+230,230,5,5,1,3991542,1616,1.35,8/18/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Coal,19281,PLTMH Cianjur,East,Maintenance
+341,341,5,7,1,3023352,1419,9.51,12/7/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Coal,19281,PLTMH Cianjur,South,Not Operating
+329,329,5,8,1,1011682,960,10.07,11/25/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Coal,19281,PLTMH Cianjur,West,Operating
+321,321,5,4,4,2607491,1203,8.92,11/17/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Natural Gas,23466,PLTMH Cianjur,South,Operating
+345,345,5,3,4,3741468,1924,9.25,12/11/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTMH Cianjur,Central,Operating
+360,360,5,3,4,2164657,1976,1.5,12/26/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTMH Cianjur,South,Maintenance
+78,78,5,6,4,1920780,537,8.35,3/19/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTMH Cianjur,East,Not Operating
+199,199,5,6,4,2353629,1934,1.47,7/18/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTMH Cianjur,West,Operating
+368,368,5,6,4,1485021,1918,3.64,1/3/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTMH Cianjur,Central,Maintenance
+41,41,5,10,4,3600930,1368,6.03,2/11/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTMH Cianjur,North,Operating
+187,187,5,10,4,2699292,685,8.17,7/6/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTMH Cianjur,South,Operating
+212,212,5,10,4,4926934,1179,6.15,7/31/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTMH Cianjur,West,Operating
+295,295,5,10,4,1441884,1729,4.99,10/22/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTMH Cianjur,East,Operating
+386,386,5,10,4,3707628,755,10.68,1/21/2025,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTMH Cianjur,Central,Not Operating
+64,64,5,1,4,3135116,1418,1.67,3/5/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTMH Cianjur,South,Operating
+84,84,5,1,4,3870299,1576,11.58,3/25/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTMH Cianjur,South,Operating
+150,150,5,1,4,2923913,1484,11.46,5/30/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTMH Cianjur,Central,Not Operating
+232,232,5,1,4,2749028,1968,10.41,8/20/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTMH Cianjur,East,Maintenance
+433,433,5,1,4,4857072,1080,11.41,3/9/2025,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTMH Cianjur,North,Maintenance
+260,260,5,2,4,1782565,1697,0.09,9/17/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Natural Gas,23466,PLTMH Cianjur,West,Overhaul
+270,270,5,2,4,4221203,911,8.46,9/27/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Natural Gas,23466,PLTMH Cianjur,North,Overhaul
+124,124,5,8,4,3334998,1769,10.06,5/4/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Natural Gas,23466,PLTMH Cianjur,West,Operating
+279,279,5,8,4,2431072,1810,6.96,10/6/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Natural Gas,23466,PLTMH Cianjur,East,Maintenance
+49,49,5,9,4,1403536,622,9.27,2/19/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Natural Gas,23466,PLTMH Cianjur,North,Operating
+366,366,5,9,4,2131302,676,3.82,1/1/2025,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Natural Gas,23466,PLTMH Cianjur,West,Operating
+203,203,3,4,3,2280541,1505,2.66,7/22/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Coke,25400,PLTD Kupang,Central,Operating
+283,283,3,4,3,4213644,1552,2.87,10/10/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Coke,25400,PLTD Kupang,West,Operating
+304,304,3,4,3,1687498,1980,6.87,10/31/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Coke,25400,PLTD Kupang,West,Operating
+13,13,3,6,3,3233024,1226,11.4,1/14/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Coke,25400,PLTD Kupang,West,Operating
+257,257,3,6,3,1718111,1967,8.74,9/14/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Coke,25400,PLTD Kupang,West,Operating
+69,69,3,10,3,2800313,1153,1.36,3/10/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Coke,25400,PLTD Kupang,Central,Maintenance
+121,121,3,10,3,3558405,1951,4.77,5/1/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Coke,25400,PLTD Kupang,West,Operating
+457,457,3,10,3,4743296,892,1.75,4/2/2025,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Coke,25400,PLTD Kupang,West,Operating
+89,89,3,1,3,3112667,1896,11.85,3/30/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Coke,25400,PLTD Kupang,Central,Operating
+17,17,3,2,3,4467842,1540,4.01,1/18/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTD Kupang,East,Operating
+53,53,3,2,3,1618789,1424,9.72,2/23/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTD Kupang,East,Not Operating
+86,86,3,2,3,4842217,1218,7.51,3/27/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTD Kupang,East,Maintenance
+54,54,3,5,3,1321802,1770,11.22,2/24/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Coke,25400,PLTD Kupang,North,Maintenance
+427,427,3,5,3,1584705,1934,10.25,3/3/2025,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Coke,25400,PLTD Kupang,North,Maintenance
+238,238,3,7,3,4894578,754,0.45,8/26/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Petroleum Coke,25400,PLTD Kupang,South,Maintenance
+318,318,3,7,3,2253987,1008,1.38,11/14/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Petroleum Coke,25400,PLTD Kupang,West,Operating
+20,20,3,8,3,3755899,1849,4.17,1/21/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Coke,25400,PLTD Kupang,West,Operating
+496,496,3,8,3,4125101,1868,10.82,5/11/2025,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Coke,25400,PLTD Kupang,Central,Not Operating
+174,174,3,9,3,2483516,1523,8.75,6/23/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Coke,25400,PLTD Kupang,South,Operating
+422,422,3,9,3,3047173,1144,6.56,2/26/2025,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Coke,25400,PLTD Kupang,South,Operating
+39,39,3,4,2,3064960,775,0.73,2/9/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Liquids,15300,PLTD Kupang,West,Overhaul
+143,143,3,4,2,3971426,1236,5.53,5/23/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Liquids,15300,PLTD Kupang,East,Operating
+313,313,3,4,2,4962229,1905,6.86,11/9/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Liquids,15300,PLTD Kupang,West,Operating
+406,406,3,3,2,1447191,944,1.36,2/10/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Liquids,15300,PLTD Kupang,North,Overhaul
+365,365,3,6,2,4012941,854,2.31,12/31/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Liquids,15300,PLTD Kupang,East,Operating
+392,392,3,10,2,3730533,736,9.82,1/27/2025,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Liquids,15300,PLTD Kupang,Central,Maintenance
+396,396,3,10,2,1033036,814,2.16,1/31/2025,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Liquids,15300,PLTD Kupang,East,Operating
+468,468,3,1,2,2629714,1195,7.12,4/13/2025,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Liquids,15300,PLTD Kupang,North,Operating
+492,492,3,1,2,2641264,849,4.61,5/7/2025,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Liquids,15300,PLTD Kupang,East,Overhaul
+415,415,3,2,2,1366699,1963,6.39,2/19/2025,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Liquids,15300,PLTD Kupang,North,Operating
+18,18,3,5,2,3326832,1408,1.35,1/19/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Liquids,15300,PLTD Kupang,North,Operating
+128,128,3,7,2,3663117,1231,7.25,5/8/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Petroleum Liquids,15300,PLTD Kupang,West,Operating
+224,224,3,7,2,4857069,1274,11.13,8/12/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Petroleum Liquids,15300,PLTD Kupang,North,Maintenance
+173,173,3,8,2,1364507,1780,4.97,6/22/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTD Kupang,East,Not Operating
+338,338,3,8,2,3371934,944,0.45,12/4/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTD Kupang,East,Operating
+500,500,3,8,2,3284186,522,2.27,5/15/2025,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTD Kupang,South,Operating
+301,301,3,9,2,1533089,728,4.92,10/28/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Liquids,15300,PLTD Kupang,South,Not Operating
+127,127,3,4,1,3125555,1145,8.69,5/7/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTD Kupang,Central,Not Operating
+172,172,3,4,1,1450927,1139,3.24,6/21/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTD Kupang,West,Operating
+197,197,3,4,1,3117681,1334,6.74,7/16/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTD Kupang,Central,Operating
+285,285,3,4,1,3368050,940,9.07,10/12/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTD Kupang,North,Operating
+300,300,3,4,1,3167748,1784,9.25,10/27/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTD Kupang,North,Operating
+314,314,3,4,1,4988453,780,1.15,11/10/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTD Kupang,East,Overhaul
+308,308,3,3,1,2911003,1623,5.28,11/4/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Coal,19281,PLTD Kupang,Central,Maintenance
+14,14,3,10,1,1151672,1708,10.56,1/15/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Coal,19281,PLTD Kupang,South,Not Operating
+9,9,3,1,1,1507518,1210,6.7,1/10/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Coal,19281,PLTD Kupang,East,Maintenance
+208,208,3,1,1,2805011,1035,0.35,7/27/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Coal,19281,PLTD Kupang,West,Operating
+316,316,3,2,1,2379366,1185,0.75,11/12/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Coal,19281,PLTD Kupang,Central,Maintenance
+447,447,3,2,1,1574540,796,7.71,3/23/2025,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Coal,19281,PLTD Kupang,East,Overhaul
+464,464,3,2,1,2977201,566,8.68,4/9/2025,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Coal,19281,PLTD Kupang,East,Operating
+100,100,3,5,1,3820913,1865,6.61,4/10/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Coal,19281,PLTD Kupang,South,Overhaul
+222,222,3,5,1,3345875,870,1.73,8/10/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Coal,19281,PLTD Kupang,Central,Maintenance
+371,371,3,5,1,4589813,1134,5.02,1/6/2025,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Coal,19281,PLTD Kupang,South,Operating
+320,320,3,7,1,3488030,805,7.13,11/16/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Coal,19281,PLTD Kupang,South,Maintenance
+470,470,3,7,1,3635121,1061,2.58,4/15/2025,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Coal,19281,PLTD Kupang,South,Maintenance
+19,19,3,8,1,4275264,1065,6.96,1/20/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Coal,19281,PLTD Kupang,South,Operating
+265,265,3,8,1,4360801,1711,7.09,9/22/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Coal,19281,PLTD Kupang,North,Operating
+441,441,3,8,1,4791514,1199,7.26,3/17/2025,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Coal,19281,PLTD Kupang,South,Overhaul
+205,205,3,9,1,1019988,1893,6.96,7/24/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Coal,19281,PLTD Kupang,East,Operating
+369,369,3,4,4,1752771,1569,11,1/4/2025,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Natural Gas,23466,PLTD Kupang,Central,Operating
+426,426,3,4,4,4148323,1937,6.24,3/2/2025,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Natural Gas,23466,PLTD Kupang,West,Maintenance
+2,2,3,3,4,2577241,1697,3.49,1/3/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTD Kupang,West,Maintenance
+129,129,3,3,4,4279889,1638,7.54,5/9/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTD Kupang,Central,Operating
+24,24,3,6,4,2623557,1395,9.68,1/25/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTD Kupang,East,Operating
+81,81,3,6,4,2857865,968,1.74,3/22/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTD Kupang,Central,Maintenance
+245,245,3,6,4,1962536,1150,1.72,9/2/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTD Kupang,North,Operating
+267,267,3,6,4,2916806,815,10.25,9/24/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTD Kupang,Central,Operating
+419,419,3,6,4,2474623,1064,9.17,2/23/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTD Kupang,West,Operating
+442,442,3,6,4,4264888,935,3.08,3/18/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTD Kupang,South,Maintenance
+225,225,3,10,4,1530025,1047,8.11,8/13/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTD Kupang,West,Maintenance
+315,315,3,10,4,4591552,893,0.86,11/11/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTD Kupang,Central,Overhaul
+125,125,3,1,4,3882454,1820,3.57,5/5/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTD Kupang,North,Maintenance
+155,155,3,1,4,1082447,1692,11.79,6/4/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTD Kupang,Central,Maintenance
+201,201,3,1,4,1751956,664,4.74,7/20/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTD Kupang,Central,Operating
+74,74,3,2,4,2382490,1734,10.99,3/15/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Natural Gas,23466,PLTD Kupang,South,Maintenance
+126,126,3,2,4,4951110,1343,6.39,5/6/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Natural Gas,23466,PLTD Kupang,East,Operating
+188,188,3,2,4,3738775,1718,7.61,7/7/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Natural Gas,23466,PLTD Kupang,South,Operating
+302,302,3,2,4,4370992,1454,9.26,10/29/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Natural Gas,23466,PLTD Kupang,North,Operating
+435,435,3,2,4,2993132,1284,0.23,3/11/2025,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Natural Gas,23466,PLTD Kupang,Central,Operating
+473,473,3,2,4,3073471,1764,1.99,4/18/2025,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Natural Gas,23466,PLTD Kupang,South,Operating
+61,61,3,5,4,4231608,1504,1.86,3/2/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Natural Gas,23466,PLTD Kupang,East,Operating
+400,400,3,5,4,2320464,661,10.58,2/4/2025,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Natural Gas,23466,PLTD Kupang,North,Operating
+22,22,3,7,4,2996338,1359,2.12,1/23/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTD Kupang,Central,Operating
+34,34,3,8,4,1619497,983,6.32,2/4/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Natural Gas,23466,PLTD Kupang,East,Operating
+159,159,3,8,4,3879962,548,9.8,6/8/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Natural Gas,23466,PLTD Kupang,North,Operating
+193,193,3,8,4,3179390,698,9.2,7/12/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Natural Gas,23466,PLTD Kupang,North,Operating
+251,251,3,9,4,2863778,647,10.74,9/8/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Natural Gas,23466,PLTD Kupang,East,Operating
+342,342,4,4,3,3805128,1918,2.55,12/8/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Coke,25400,PLTG Gorontalo,Central,Operating
+105,105,4,3,3,3756013,1898,4.76,4/15/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Coke,25400,PLTG Gorontalo,North,Overhaul
+402,402,4,3,3,3816546,1589,7.41,2/6/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Coke,25400,PLTG Gorontalo,West,Operating
+382,382,4,6,3,2863922,1120,6.54,1/17/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Coke,25400,PLTG Gorontalo,Central,Operating
+494,494,4,6,3,1421339,1182,2.13,5/9/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Coke,25400,PLTG Gorontalo,Central,Not Operating
+37,37,4,10,3,2203284,538,9.31,2/7/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Coke,25400,PLTG Gorontalo,Central,Maintenance
+50,50,4,10,3,4158145,1314,1.48,2/20/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Coke,25400,PLTG Gorontalo,East,Overhaul
+184,184,4,10,3,4657306,1604,2.65,7/3/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Coke,25400,PLTG Gorontalo,South,Operating
+292,292,4,1,3,1849281,1368,1.13,10/19/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Coke,25400,PLTG Gorontalo,Central,Operating
+393,393,4,1,3,1412307,703,6.5,1/28/2025,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Coke,25400,PLTG Gorontalo,Central,Maintenance
+85,85,4,2,3,3811680,1864,8.89,3/26/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTG Gorontalo,Central,Operating
+112,112,4,2,3,1990209,1346,5.03,4/22/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTG Gorontalo,Central,Operating
+255,255,4,2,3,3345336,1819,8.58,9/12/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTG Gorontalo,North,Operating
+373,373,4,2,3,3885596,884,7.1,1/8/2025,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTG Gorontalo,Central,Operating
+291,291,4,5,3,3910354,1271,2.08,10/18/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Coke,25400,PLTG Gorontalo,South,Overhaul
+296,296,4,5,3,4195014,1799,10.73,10/23/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Coke,25400,PLTG Gorontalo,Central,Operating
+324,324,4,5,3,2968831,604,3.45,11/20/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Coke,25400,PLTG Gorontalo,South,Operating
+45,45,4,8,3,1114708,1794,8.77,2/15/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Coke,25400,PLTG Gorontalo,East,Not Operating
+70,70,4,8,3,2387721,1838,6.3,3/11/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Coke,25400,PLTG Gorontalo,South,Operating
+156,156,4,8,3,2691538,937,5.95,6/5/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Coke,25400,PLTG Gorontalo,Central,Not Operating
+183,183,4,8,3,2471929,1826,6.2,7/2/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Coke,25400,PLTG Gorontalo,Central,Maintenance
+309,309,4,8,3,1920597,1583,5.79,11/5/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Coke,25400,PLTG Gorontalo,West,Operating
+122,122,4,9,3,2343270,1841,0.31,5/2/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Coke,25400,PLTG Gorontalo,North,Maintenance
+236,236,4,9,3,2388123,1719,3.18,8/24/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Coke,25400,PLTG Gorontalo,South,Operating
+319,319,4,4,2,4016744,1312,6.38,11/15/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Liquids,15300,PLTG Gorontalo,South,Overhaul
+228,228,4,3,2,4367953,1814,8.36,8/16/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Liquids,15300,PLTG Gorontalo,West,Operating
+266,266,4,3,2,1425476,1645,1.7,9/23/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Liquids,15300,PLTG Gorontalo,West,Operating
+10,10,4,6,2,4442867,1794,6.2,1/11/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Liquids,15300,PLTG Gorontalo,Central,Operating
+354,354,4,6,2,2275758,578,8.5,12/20/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Liquids,15300,PLTG Gorontalo,East,Overhaul
+192,192,4,10,2,3815042,1389,0.2,7/11/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Liquids,15300,PLTG Gorontalo,West,Maintenance
+259,259,4,2,2,1546023,1975,3.47,9/16/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Liquids,15300,PLTG Gorontalo,West,Operating
+353,353,4,2,2,4063659,1461,2.71,12/19/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Liquids,15300,PLTG Gorontalo,East,Operating
+68,68,4,5,2,2784144,1302,3.41,3/9/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Liquids,15300,PLTG Gorontalo,West,Not Operating
+414,414,4,5,2,1664007,991,1.97,2/18/2025,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Liquids,15300,PLTG Gorontalo,East,Operating
+163,163,4,8,2,1448413,1387,3.7,6/12/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTG Gorontalo,West,Operating
+218,218,4,8,2,2479700,1719,11.85,8/6/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTG Gorontalo,East,Operating
+298,298,4,8,2,1245053,1234,10.92,10/25/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTG Gorontalo,East,Operating
+471,471,4,8,2,4333882,541,3.16,4/16/2025,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTG Gorontalo,East,Operating
+481,481,4,8,2,2491608,526,2.59,4/26/2025,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTG Gorontalo,East,Operating
+46,46,4,9,2,2901525,716,0.83,2/16/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Liquids,15300,PLTG Gorontalo,North,Operating
+91,91,4,4,1,2143720,1162,0.74,4/1/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTG Gorontalo,North,Not Operating
+397,397,4,4,1,1546641,1845,11.93,2/1/2025,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTG Gorontalo,Central,Operating
+256,256,4,3,1,3075173,1824,11.27,9/13/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Coal,19281,PLTG Gorontalo,Central,Maintenance
+355,355,4,3,1,2236745,1859,11.19,12/21/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Coal,19281,PLTG Gorontalo,East,Maintenance
+451,451,4,3,1,4754744,1799,1.39,3/27/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Coal,19281,PLTG Gorontalo,North,Maintenance
+237,237,4,6,1,1518079,1813,4.69,8/25/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Coal,19281,PLTG Gorontalo,West,Operating
+333,333,4,6,1,4897932,1132,3.87,11/29/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Coal,19281,PLTG Gorontalo,West,Operating
+443,443,4,6,1,3472566,1886,10.66,3/19/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Coal,19281,PLTG Gorontalo,North,Operating
+472,472,4,6,1,4712464,967,3.29,4/17/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Coal,19281,PLTG Gorontalo,Central,Operating
+381,381,4,10,1,1290228,532,5.17,1/16/2025,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Coal,19281,PLTG Gorontalo,South,Operating
+7,7,4,2,1,1822482,893,5.67,1/8/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Coal,19281,PLTG Gorontalo,North,Maintenance
+479,479,4,2,1,1857416,1095,4.94,4/24/2025,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Coal,19281,PLTG Gorontalo,South,Operating
+258,258,4,5,1,2171696,1719,4.36,9/15/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Coal,19281,PLTG Gorontalo,North,Operating
+65,65,4,7,1,4645878,1333,9.3,3/6/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Coal,19281,PLTG Gorontalo,East,Operating
+123,123,4,7,1,1630890,1987,10.99,5/3/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Coal,19281,PLTG Gorontalo,Central,Maintenance
+226,226,4,8,1,4245608,1414,6.92,8/14/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Coal,19281,PLTG Gorontalo,Central,Operating
+277,277,4,8,1,1214549,1726,4.69,10/4/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Coal,19281,PLTG Gorontalo,West,Not Operating
+56,56,4,9,1,1535780,514,0.6,2/26/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Coal,19281,PLTG Gorontalo,Central,Maintenance
+306,306,4,9,1,3481639,732,2.63,11/2/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Coal,19281,PLTG Gorontalo,West,Operating
+432,432,4,4,4,3606885,1162,3.03,3/8/2025,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Natural Gas,23466,PLTG Gorontalo,Central,Operating
+133,133,4,3,4,1413439,1760,9.94,5/13/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTG Gorontalo,East,Not Operating
+94,94,4,6,4,2745521,1704,10.19,4/4/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTG Gorontalo,South,Overhaul
+141,141,4,6,4,3118731,1303,8.08,5/21/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTG Gorontalo,South,Maintenance
+144,144,4,6,4,3467441,1515,8.18,5/24/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTG Gorontalo,Central,Operating
+421,421,4,6,4,1634407,1103,3.27,2/25/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTG Gorontalo,North,Maintenance
+138,138,4,10,4,2704159,717,8.47,5/18/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTG Gorontalo,North,Not Operating
+219,219,4,10,4,2036547,534,9.71,8/7/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTG Gorontalo,South,Operating
+269,269,4,10,4,1172449,927,0.01,9/26/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTG Gorontalo,North,Operating
+332,332,4,10,4,4488049,1438,0.23,11/28/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTG Gorontalo,North,Overhaul
+424,424,4,10,4,2427953,927,2.56,2/28/2025,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTG Gorontalo,West,Maintenance
+477,477,4,10,4,3833244,1129,3.41,4/22/2025,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTG Gorontalo,West,Maintenance
+358,358,4,1,4,4929447,1278,2.64,12/24/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTG Gorontalo,East,Operating
+194,194,4,2,4,2398686,1805,0.2,7/13/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Natural Gas,23466,PLTG Gorontalo,West,Operating
+186,186,4,5,4,4817933,1277,7.98,7/5/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Natural Gas,23466,PLTG Gorontalo,Central,Operating
+459,459,4,5,4,1469795,1779,5.47,4/4/2025,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Natural Gas,23466,PLTG Gorontalo,Central,Operating
+195,195,4,7,4,3444141,1904,9.73,7/14/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTG Gorontalo,South,Operating
+204,204,4,7,4,1346667,1555,5.45,7/23/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTG Gorontalo,East,Operating
+280,280,4,7,4,1688718,1362,4.05,10/7/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTG Gorontalo,East,Overhaul
+289,289,4,7,4,1312748,1562,4.96,10/16/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTG Gorontalo,North,Operating
+430,430,4,7,4,3823597,801,4.51,3/6/2025,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTG Gorontalo,West,Operating
+352,352,4,8,4,1329982,1666,7.78,12/18/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Natural Gas,23466,PLTG Gorontalo,South,Operating
+374,374,4,8,4,4952839,1918,2.92,1/9/2025,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Natural Gas,23466,PLTG Gorontalo,East,Operating
+423,423,4,9,4,1672579,1614,6.41,2/27/2025,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Natural Gas,23466,PLTG Gorontalo,East,Operating
+106,106,2,3,3,1633623,682,10.27,4/16/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Coke,25400,PLTU Paiton,North,Operating
+110,110,2,3,3,2327089,1809,6.73,4/20/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Coke,25400,PLTU Paiton,North,Operating
+33,33,2,6,3,2927917,1646,1.75,2/3/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Coke,25400,PLTU Paiton,East,Maintenance
+284,284,2,6,3,1294172,1376,10.63,10/11/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Coke,25400,PLTU Paiton,East,Not Operating
+148,148,2,10,3,2453248,628,10.21,5/28/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Coke,25400,PLTU Paiton,West,Maintenance
+160,160,2,10,3,3390836,1907,3.68,6/9/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Coke,25400,PLTU Paiton,South,Operating
+331,331,2,10,3,4349957,722,8.88,11/27/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Coke,25400,PLTU Paiton,East,Overhaul
+370,370,2,10,3,2627194,1622,6.69,1/5/2025,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Petroleum Coke,25400,PLTU Paiton,West,Operating
+202,202,2,1,3,3985591,1662,2.99,7/21/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Coke,25400,PLTU Paiton,South,Operating
+456,456,2,1,3,1630189,735,7.98,4/1/2025,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Coke,25400,PLTU Paiton,Central,Maintenance
+51,51,2,2,3,4420130,1747,10.55,2/21/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Coke,25400,PLTU Paiton,Central,Operating
+12,12,2,5,3,1187168,1610,10.43,1/13/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Petroleum Coke,25400,PLTU Paiton,Central,Not Operating
+227,227,2,9,3,3068864,1406,1.17,8/15/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Coke,25400,PLTU Paiton,East,Operating
+4,4,2,4,2,3468455,778,8.99,1/5/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Liquids,15300,PLTU Paiton,West,Operating
+25,25,2,4,2,2994157,1641,6.38,1/26/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Liquids,15300,PLTU Paiton,Central,Operating
+29,29,2,4,2,2756691,1052,3.73,1/30/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Liquids,15300,PLTU Paiton,Central,Overhaul
+82,82,2,4,2,4098171,1949,0.78,3/23/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Petroleum Liquids,15300,PLTU Paiton,South,Operating
+137,137,2,3,2,2623700,690,2.63,5/17/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Liquids,15300,PLTU Paiton,West,Operating
+413,413,2,3,2,2555904,1854,9.16,2/17/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Petroleum Liquids,15300,PLTU Paiton,Central,Operating
+376,376,2,6,2,3184699,1180,2.7,1/11/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Liquids,15300,PLTU Paiton,South,Maintenance
+491,491,2,6,2,4767314,1876,6.04,5/6/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Petroleum Liquids,15300,PLTU Paiton,West,Operating
+211,211,2,1,2,4491315,1846,10.05,7/30/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Liquids,15300,PLTU Paiton,Central,Operating
+334,334,2,1,2,4891239,687,0.51,11/30/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Petroleum Liquids,15300,PLTU Paiton,Central,Operating
+101,101,2,2,2,1554331,1685,10.25,4/11/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Liquids,15300,PLTU Paiton,South,Operating
+178,178,2,2,2,3135287,1097,0.97,6/27/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Liquids,15300,PLTU Paiton,South,Maintenance
+438,438,2,2,2,3654505,1155,8.96,3/14/2025,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Petroleum Liquids,15300,PLTU Paiton,South,Operating
+409,409,2,7,2,1460654,1965,8.94,2/13/2025,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Petroleum Liquids,15300,PLTU Paiton,Central,Operating
+62,62,2,8,2,1924312,1072,4.84,3/3/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTU Paiton,South,Overhaul
+116,116,2,8,2,2654048,1129,9.31,4/26/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTU Paiton,West,Operating
+132,132,2,8,2,3120628,1496,5.39,5/12/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTU Paiton,North,Operating
+377,377,2,8,2,4907263,623,5.48,1/12/2025,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTU Paiton,South,Maintenance
+428,428,2,8,2,4503815,946,11.46,3/4/2025,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTU Paiton,West,Operating
+454,454,2,8,2,4063870,1686,1.8,3/30/2025,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Petroleum Liquids,15300,PLTU Paiton,North,Maintenance
+26,26,2,9,2,2928706,1343,11.04,1/27/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Liquids,15300,PLTU Paiton,North,Operating
+486,486,2,9,2,3921432,773,8.24,5/1/2025,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Petroleum Liquids,15300,PLTU Paiton,Central,Not Operating
+254,254,2,4,1,1835617,1817,10.36,9/11/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTU Paiton,Central,Operating
+463,463,2,4,1,1290249,792,7.68,4/8/2025,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Coal,19281,PLTU Paiton,North,Not Operating
+263,263,2,3,1,2685887,1402,5.66,9/20/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Coal,19281,PLTU Paiton,East,Operating
+448,448,2,3,1,2596324,868,2.94,3/24/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Coal,19281,PLTU Paiton,West,Not Operating
+293,293,2,6,1,1998075,1313,0.45,10/20/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Coal,19281,PLTU Paiton,Central,Operating
+223,223,2,10,1,1249143,608,1.56,8/11/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Coal,19281,PLTU Paiton,South,Operating
+11,11,2,1,1,2506918,1443,10.18,1/12/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Coal,19281,PLTU Paiton,East,Operating
+399,399,2,1,1,2708366,1711,7.75,2/3/2025,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Coal,19281,PLTU Paiton,West,Overhaul
+27,27,2,2,1,2031691,791,11.22,1/28/2024,PLTG Unit 2,Diesel,Mitsubishi,100,5/5/2009,10/23/2024,Coal,19281,PLTU Paiton,West,Operating
+59,59,2,5,1,1430446,609,9.82,2/29/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Coal,19281,PLTU Paiton,West,Operating
+134,134,2,5,1,2817256,1722,10.19,5/14/2024,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Coal,19281,PLTU Paiton,South,Maintenance
+347,347,2,7,1,3209729,753,11.69,12/13/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Coal,19281,PLTU Paiton,East,Overhaul
+364,364,2,7,1,3388643,1940,6.81,12/30/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Coal,19281,PLTU Paiton,South,Not Operating
+445,445,2,8,1,1176048,1614,0.31,3/21/2025,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Coal,19281,PLTU Paiton,South,Not Operating
+161,161,2,9,1,4653005,801,0.41,6/10/2024,PLTG Unit 9,Hydro,GE,150,10/27/2019,5/22/2024,Coal,19281,PLTU Paiton,West,Operating
+142,142,2,4,4,1825214,1321,10.14,5/22/2024,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Natural Gas,23466,PLTU Paiton,Central,Operating
+450,450,2,4,4,3983873,1437,10.81,3/26/2025,PLTG Unit 4,Diesel,Siemens,150,6/16/2009,6/30/2024,Natural Gas,23466,PLTU Paiton,West,Operating
+32,32,2,3,4,1742701,895,4.03,2/2/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTU Paiton,East,Overhaul
+207,207,2,3,4,1021107,604,2.3,7/26/2024,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTU Paiton,South,Operating
+418,418,2,3,4,4907160,720,6.68,2/22/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTU Paiton,Central,Overhaul
+490,490,2,3,4,2880670,607,8.72,5/5/2025,PLTG Unit 3,GT,Mitsubishi,200,3/26/2011,1/19/2025,Natural Gas,23466,PLTU Paiton,North,Operating
+140,140,2,6,4,1090741,1962,7.79,5/20/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTU Paiton,West,Operating
+242,242,2,6,4,3492707,1991,5.48,8/30/2024,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTU Paiton,West,Maintenance
+372,372,2,6,4,2510272,1461,6.08,1/7/2025,PLTG Unit 6,Steam,GE,100,11/27/2012,5/20/2024,Natural Gas,23466,PLTU Paiton,North,Maintenance
+5,5,2,10,4,3913181,1607,4.14,1/6/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTU Paiton,South,Operating
+31,31,2,10,4,2827098,1579,3.15,2/1/2024,PLTG Unit 10,Hydro,Mitsubishi,100,8/14/2018,9/1/2024,Natural Gas,23466,PLTU Paiton,West,Operating
+243,243,2,1,4,2093712,661,2.08,8/31/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTU Paiton,South,Operating
+307,307,2,1,4,4262219,1394,6.7,11/3/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTU Paiton,West,Operating
+357,357,2,1,4,2714583,1679,7.01,12/23/2024,PLTG Unit 1,Diesel,Siemens,200,2/7/2007,9/26/2024,Natural Gas,23466,PLTU Paiton,West,Operating
+425,425,2,5,4,4377689,501,2.08,3/1/2025,PLTG Unit 5,Hydro,Mitsubishi,100,12/16/2018,12/28/2024,Natural Gas,23466,PLTU Paiton,West,Operating
+209,209,2,7,4,3203948,1175,3.11,7/28/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTU Paiton,Central,Not Operating
+239,239,2,7,4,2132343,607,0.19,8/27/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTU Paiton,North,Operating
+336,336,2,7,4,4174857,1643,0.19,12/2/2024,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTU Paiton,West,Operating
+499,499,2,7,4,3432012,832,0.34,5/14/2025,PLTG Unit 7,Diesel,MAN,200,3/19/2009,10/14/2024,Natural Gas,23466,PLTU Paiton,West,Maintenance
+282,282,2,8,4,4706190,697,1.34,10/9/2024,PLTG Unit 8,Diesel,MAN,200,2/16/2008,1/5/2025,Natural Gas,23466,PLTU Paiton,South,Operating
