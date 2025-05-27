@@ -1,0 +1,1001 @@
+id,time_id,Time_Date,Time_Year,Time_Month,Time_Day,site_id,Site_Name,Site_Location,project_id,Project_Name,Project_Status
+1,1,2023-10-03 01:50:49.136371,2023,10,3,16,Tambak Lorok,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+2,2,2024-12-25 22:21:49.136371,2024,12,25,1,Karangkates,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+3,3,2023-06-13 20:10:49.136371,2023,6,13,13,Tanjung Jati B,Jawa Barat,4,Rural Electrification Delta,On Hold
+4,4,2024-05-03 22:32:49.136371,2024,5,3,7,Sibayak,Banten,1,Grid Modernization Alpha,Planning
+5,5,2023-12-19 14:37:49.136371,2023,12,19,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+6,6,2023-11-18 18:34:49.136371,2023,11,18,13,Tanjung Jati B,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+7,7,2023-07-14 05:51:49.136371,2023,7,14,11,Paiton,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+8,8,2024-06-01 06:45:49.136371,2024,6,1,23,Sorik Marapi,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+9,9,2023-06-12 23:14:49.136371,2023,6,12,21,Patuha,Lampung,3,New Renewable Hub Gamma,In Progress
+10,10,2024-08-19 07:35:49.136371,2024,8,19,7,Sibayak,Banten,2,Capacity Expansion Beta,Feasibility Study
+11,11,2025-01-08 18:48:49.136371,2025,1,8,21,Patuha,Lampung,2,Capacity Expansion Beta,Feasibility Study
+12,12,2024-01-12 09:44:49.136371,2024,1,12,22,Dieng,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+13,13,2023-10-28 02:05:49.136371,2023,10,28,8,Lahendong,DKI Jakarta,1,Grid Modernization Alpha,Planning
+14,14,2024-09-05 08:03:49.136371,2024,9,5,22,Dieng,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+15,15,2024-08-22 03:58:49.136371,2024,8,22,8,Lahendong,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+16,16,2024-06-11 03:50:49.136371,2024,6,11,15,Muara Karang,Sumatera Utara,2,Capacity Expansion Beta,Feasibility Study
+17,17,2023-05-31 11:09:49.136371,2023,5,31,1,Karangkates,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+18,18,2023-08-23 11:19:49.136371,2023,8,23,20,Gunung Salak,Sulawesi Selatan,2,Capacity Expansion Beta,Feasibility Study
+19,19,2024-06-20 21:12:49.136371,2024,6,20,3,Saguling,Jawa Tengah,1,Grid Modernization Alpha,Planning
+20,20,2024-09-28 09:07:49.136371,2024,9,28,23,Sorik Marapi,Jawa Timur,1,Grid Modernization Alpha,Planning
+21,21,2024-06-30 02:10:49.136371,2024,6,30,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+22,22,2024-03-04 22:20:49.136371,2024,3,4,11,Paiton,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+23,23,2024-01-18 00:45:49.136371,2024,1,18,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+24,24,2024-06-05 22:24:49.136371,2024,6,5,1,Karangkates,Jawa Timur,1,Grid Modernization Alpha,Planning
+25,25,2025-05-06 15:40:49.136371,2025,5,6,9,Ulumbu,Sulawesi Selatan,6,Maintenance Overhaul Zeta,Cancelled
+26,26,2024-06-30 23:21:49.136371,2024,6,30,24,Rantau Dedap,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+27,27,2024-01-30 22:52:49.136371,2024,1,30,7,Sibayak,Banten,5,Efficiency Upgrade Epsilon,Completed
+28,28,2024-06-22 04:31:49.136371,2024,6,22,11,Paiton,Sumatera Selatan,1,Grid Modernization Alpha,Planning
+29,29,2025-02-06 12:00:49.136371,2025,2,6,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+30,30,2023-07-29 08:13:49.136371,2023,7,29,19,Likupang,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+31,31,2024-07-22 12:52:49.136371,2024,7,22,20,Gunung Salak,Sulawesi Selatan,1,Grid Modernization Alpha,Planning
+32,32,2024-10-28 09:56:49.136371,2024,10,28,9,Ulumbu,Sulawesi Selatan,2,Capacity Expansion Beta,Feasibility Study
+33,33,2023-06-29 22:34:49.136371,2023,6,29,25,Muara Laboh,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+34,34,2025-03-29 03:53:49.136371,2025,3,29,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+35,35,2025-03-14 02:50:49.136371,2025,3,14,15,Muara Karang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+36,36,2024-05-27 23:09:49.136371,2024,5,27,14,Grati,Jawa Tengah,4,Rural Electrification Delta,On Hold
+37,37,2023-09-30 07:07:49.136371,2023,9,30,1,Karangkates,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+38,38,2024-10-13 02:02:49.136371,2024,10,13,22,Dieng,Sumatera Selatan,1,Grid Modernization Alpha,Planning
+39,39,2023-08-28 01:46:49.136371,2023,8,28,6,Wayang Windu,NTT,1,Grid Modernization Alpha,Planning
+40,40,2025-04-30 16:47:49.136371,2025,4,30,25,Muara Laboh,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+41,41,2025-05-09 04:33:49.136371,2025,5,9,22,Dieng,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+42,42,2024-11-01 11:32:49.136371,2024,11,1,22,Dieng,Sumatera Selatan,1,Grid Modernization Alpha,Planning
+43,43,2023-12-19 20:42:49.136371,2023,12,19,16,Tambak Lorok,Sulawesi Utara,1,Grid Modernization Alpha,Planning
+44,44,2024-11-14 20:04:49.136371,2024,11,14,14,Grati,Jawa Tengah,1,Grid Modernization Alpha,Planning
+45,45,2025-05-24 11:10:49.136371,2025,5,24,11,Paiton,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+46,46,2025-02-27 00:26:49.136371,2025,2,27,15,Muara Karang,Sumatera Utara,6,Maintenance Overhaul Zeta,Cancelled
+47,47,2024-05-15 10:32:49.136371,2024,5,15,25,Muara Laboh,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+48,48,2024-01-10 03:08:49.136371,2024,1,10,22,Dieng,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+49,49,2025-01-27 23:57:49.136371,2025,1,27,16,Tambak Lorok,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+50,50,2023-11-07 08:16:49.136371,2023,11,7,23,Sorik Marapi,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+51,51,2024-03-01 13:37:49.136371,2024,3,1,13,Tanjung Jati B,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+52,52,2024-05-12 09:35:49.136371,2024,5,12,3,Saguling,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+53,53,2024-08-11 22:13:49.136371,2024,8,11,6,Wayang Windu,NTT,2,Capacity Expansion Beta,Feasibility Study
+54,54,2024-09-15 20:57:49.136371,2024,9,15,15,Muara Karang,Sumatera Utara,5,Efficiency Upgrade Epsilon,Completed
+55,55,2023-05-30 00:07:49.136371,2023,5,30,9,Ulumbu,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+56,56,2023-05-31 10:36:49.136371,2023,5,31,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+57,57,2025-04-20 22:27:49.136371,2025,4,20,16,Tambak Lorok,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+58,58,2023-11-09 17:49:49.136371,2023,11,9,24,Rantau Dedap,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+59,59,2024-05-25 12:46:49.136371,2024,5,25,9,Ulumbu,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+60,60,2023-10-10 08:37:49.136371,2023,10,10,18,Jeneponto,Banten,5,Efficiency Upgrade Epsilon,Completed
+61,61,2025-04-23 17:59:49.136371,2025,4,23,9,Ulumbu,Sulawesi Selatan,1,Grid Modernization Alpha,Planning
+62,62,2024-10-07 08:18:49.136371,2024,10,7,9,Ulumbu,Sulawesi Selatan,6,Maintenance Overhaul Zeta,Cancelled
+63,63,2025-03-24 15:53:49.136371,2025,3,24,23,Sorik Marapi,Jawa Timur,1,Grid Modernization Alpha,Planning
+64,64,2024-10-29 07:02:49.136371,2024,10,29,17,Sidrap,NTT,6,Maintenance Overhaul Zeta,Cancelled
+65,65,2025-03-17 01:30:49.136371,2025,3,17,22,Dieng,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+66,66,2023-12-10 06:45:49.136371,2023,12,10,15,Muara Karang,Sumatera Utara,2,Capacity Expansion Beta,Feasibility Study
+67,67,2025-04-03 13:55:49.136371,2025,4,3,13,Tanjung Jati B,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+68,68,2025-02-03 04:51:49.136371,2025,2,3,8,Lahendong,DKI Jakarta,1,Grid Modernization Alpha,Planning
+69,69,2023-11-19 23:40:49.136371,2023,11,19,21,Patuha,Lampung,1,Grid Modernization Alpha,Planning
+70,70,2024-01-05 00:48:49.136371,2024,1,5,24,Rantau Dedap,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+71,71,2023-11-24 18:57:49.136371,2023,11,24,5,Darajat,Sulawesi Utara,2,Capacity Expansion Beta,Feasibility Study
+72,72,2024-04-21 01:56:49.136371,2024,4,21,15,Muara Karang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+73,73,2023-12-12 07:32:49.136371,2023,12,12,5,Darajat,Sulawesi Utara,2,Capacity Expansion Beta,Feasibility Study
+74,74,2024-05-20 15:59:49.136371,2024,5,20,24,Rantau Dedap,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+75,75,2023-09-11 08:39:49.136371,2023,9,11,7,Sibayak,Banten,5,Efficiency Upgrade Epsilon,Completed
+76,76,2025-04-01 03:35:49.136371,2025,4,1,1,Karangkates,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+77,77,2023-11-20 11:39:49.136371,2023,11,20,8,Lahendong,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+78,78,2024-12-02 20:52:49.136371,2024,12,2,13,Tanjung Jati B,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+79,79,2024-03-12 05:55:49.136371,2024,3,12,24,Rantau Dedap,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+80,80,2024-05-04 20:04:49.136371,2024,5,4,25,Muara Laboh,Jawa Tengah,1,Grid Modernization Alpha,Planning
+81,81,2024-08-19 05:56:49.136371,2024,8,19,11,Paiton,Sumatera Selatan,5,Efficiency Upgrade Epsilon,Completed
+82,82,2024-03-13 19:09:49.136371,2024,3,13,10,Mataloko,Lampung,4,Rural Electrification Delta,On Hold
+83,83,2024-02-28 00:26:49.136371,2024,2,28,12,Suralaya,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+84,84,2024-09-02 00:29:49.136371,2024,9,2,11,Paiton,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+85,85,2023-08-15 23:26:49.136371,2023,8,15,16,Tambak Lorok,Sulawesi Utara,5,Efficiency Upgrade Epsilon,Completed
+86,86,2023-11-01 05:01:49.136371,2023,11,1,22,Dieng,Sumatera Selatan,5,Efficiency Upgrade Epsilon,Completed
+87,87,2023-11-12 22:54:49.136371,2023,11,12,5,Darajat,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+88,88,2025-05-04 17:32:49.136371,2025,5,4,25,Muara Laboh,Jawa Tengah,4,Rural Electrification Delta,On Hold
+89,89,2024-09-30 16:52:49.136371,2024,9,30,23,Sorik Marapi,Jawa Timur,1,Grid Modernization Alpha,Planning
+90,90,2025-03-25 04:25:49.136371,2025,3,25,21,Patuha,Lampung,3,New Renewable Hub Gamma,In Progress
+91,91,2023-07-07 13:42:49.136371,2023,7,7,12,Suralaya,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+92,92,2024-01-30 10:21:49.136371,2024,1,30,21,Patuha,Lampung,3,New Renewable Hub Gamma,In Progress
+93,93,2023-12-09 16:44:49.136371,2023,12,9,23,Sorik Marapi,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+94,94,2025-05-10 21:46:49.136371,2025,5,10,6,Wayang Windu,NTT,2,Capacity Expansion Beta,Feasibility Study
+95,95,2023-08-23 19:43:49.136371,2023,8,23,8,Lahendong,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+96,96,2023-09-21 20:26:49.136371,2023,9,21,10,Mataloko,Lampung,4,Rural Electrification Delta,On Hold
+97,97,2024-11-05 06:15:49.136371,2024,11,5,16,Tambak Lorok,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+98,98,2024-08-18 10:08:49.136371,2024,8,18,22,Dieng,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+99,99,2024-01-16 00:03:49.136371,2024,1,16,14,Grati,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+100,100,2024-02-19 02:50:49.136371,2024,2,19,17,Sidrap,NTT,6,Maintenance Overhaul Zeta,Cancelled
+101,101,2024-05-18 17:19:49.136371,2024,5,18,23,Sorik Marapi,Jawa Timur,1,Grid Modernization Alpha,Planning
+102,102,2025-02-05 20:13:49.136371,2025,2,5,11,Paiton,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+103,103,2024-05-14 22:21:49.136371,2024,5,14,13,Tanjung Jati B,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+104,104,2025-03-11 01:00:49.136371,2025,3,11,18,Jeneponto,Banten,2,Capacity Expansion Beta,Feasibility Study
+105,105,2025-02-24 13:24:49.136371,2025,2,24,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+106,106,2023-10-03 14:08:49.136371,2023,10,3,7,Sibayak,Banten,5,Efficiency Upgrade Epsilon,Completed
+107,107,2024-11-07 01:19:49.136371,2024,11,7,11,Paiton,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+108,108,2025-01-06 14:25:49.136371,2025,1,6,23,Sorik Marapi,Jawa Timur,1,Grid Modernization Alpha,Planning
+109,109,2025-03-04 02:20:49.136371,2025,3,4,24,Rantau Dedap,Jawa Barat,4,Rural Electrification Delta,On Hold
+110,110,2023-10-31 14:31:49.136371,2023,10,31,8,Lahendong,DKI Jakarta,5,Efficiency Upgrade Epsilon,Completed
+111,111,2024-12-02 22:20:49.136371,2024,12,2,19,Likupang,DKI Jakarta,3,New Renewable Hub Gamma,In Progress
+112,112,2024-07-25 06:13:49.136371,2024,7,25,13,Tanjung Jati B,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+113,113,2024-12-01 18:00:49.136371,2024,12,1,22,Dieng,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+114,114,2024-12-08 23:40:49.136371,2024,12,8,15,Muara Karang,Sumatera Utara,4,Rural Electrification Delta,On Hold
+115,115,2023-10-02 19:37:49.136371,2023,10,2,8,Lahendong,DKI Jakarta,2,Capacity Expansion Beta,Feasibility Study
+116,116,2023-12-14 04:16:49.136371,2023,12,14,25,Muara Laboh,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+117,117,2024-07-18 09:59:49.136371,2024,7,18,24,Rantau Dedap,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+118,118,2024-09-07 17:28:49.136371,2024,9,7,14,Grati,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+119,119,2025-03-26 00:05:49.136371,2025,3,26,14,Grati,Jawa Tengah,1,Grid Modernization Alpha,Planning
+120,120,2024-07-24 23:06:49.136371,2024,7,24,6,Wayang Windu,NTT,4,Rural Electrification Delta,On Hold
+121,121,2024-09-28 19:53:49.136371,2024,9,28,23,Sorik Marapi,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+122,122,2023-08-31 10:19:49.136371,2023,8,31,11,Paiton,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+123,123,2023-12-26 04:40:49.136371,2023,12,26,14,Grati,Jawa Tengah,4,Rural Electrification Delta,On Hold
+124,124,2023-12-10 08:42:49.136371,2023,12,10,21,Patuha,Lampung,4,Rural Electrification Delta,On Hold
+125,125,2025-03-08 02:30:49.136371,2025,3,8,20,Gunung Salak,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+126,126,2025-03-16 12:34:49.136371,2025,3,16,12,Suralaya,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+127,127,2024-07-25 21:32:49.136371,2024,7,25,14,Grati,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+128,128,2024-12-05 15:21:49.136371,2024,12,5,20,Gunung Salak,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+129,129,2024-07-05 03:12:49.136371,2024,7,5,3,Saguling,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+130,130,2023-12-11 06:28:49.136371,2023,12,11,18,Jeneponto,Banten,3,New Renewable Hub Gamma,In Progress
+131,131,2024-02-20 06:48:49.136371,2024,2,20,20,Gunung Salak,Sulawesi Selatan,2,Capacity Expansion Beta,Feasibility Study
+132,132,2024-07-12 04:55:49.136371,2024,7,12,22,Dieng,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+133,133,2024-05-21 10:58:49.136371,2024,5,21,13,Tanjung Jati B,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+134,134,2024-05-08 06:17:49.136371,2024,5,8,9,Ulumbu,Sulawesi Selatan,6,Maintenance Overhaul Zeta,Cancelled
+135,135,2023-07-29 08:28:49.136371,2023,7,29,3,Saguling,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+136,136,2025-03-18 05:31:49.136371,2025,3,18,11,Paiton,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+137,137,2024-01-14 08:20:49.136371,2024,1,14,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+138,138,2023-10-05 17:50:49.136371,2023,10,5,16,Tambak Lorok,Sulawesi Utara,2,Capacity Expansion Beta,Feasibility Study
+139,139,2024-12-08 18:44:49.136371,2024,12,8,19,Likupang,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+140,140,2023-07-08 21:48:49.136371,2023,7,8,3,Saguling,Jawa Tengah,4,Rural Electrification Delta,On Hold
+141,141,2024-04-30 06:13:49.136371,2024,4,30,20,Gunung Salak,Sulawesi Selatan,1,Grid Modernization Alpha,Planning
+142,142,2025-05-26 08:11:49.136371,2025,5,26,23,Sorik Marapi,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+143,143,2025-04-22 04:24:49.136371,2025,4,22,24,Rantau Dedap,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+144,144,2023-11-16 13:59:49.136371,2023,11,16,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+145,145,2023-10-30 02:14:49.136371,2023,10,30,13,Tanjung Jati B,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+146,146,2023-09-01 22:10:49.136371,2023,9,1,21,Patuha,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+147,147,2025-05-24 04:29:49.136371,2025,5,24,25,Muara Laboh,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+148,148,2023-07-26 00:59:49.136371,2023,7,26,11,Paiton,Sumatera Selatan,1,Grid Modernization Alpha,Planning
+149,149,2024-02-29 21:53:49.136371,2024,2,29,3,Saguling,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+150,150,2024-07-24 14:20:49.136371,2024,7,24,18,Jeneponto,Banten,1,Grid Modernization Alpha,Planning
+151,151,2023-08-12 20:18:49.136371,2023,8,12,2,Cirata,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+152,152,2024-10-22 02:23:49.136371,2024,10,22,9,Ulumbu,Sulawesi Selatan,2,Capacity Expansion Beta,Feasibility Study
+153,153,2024-04-26 10:25:49.136371,2024,4,26,4,Kamojang,Sumatera Utara,5,Efficiency Upgrade Epsilon,Completed
+154,154,2023-11-25 02:39:49.136371,2023,11,25,9,Ulumbu,Sulawesi Selatan,6,Maintenance Overhaul Zeta,Cancelled
+155,155,2024-03-25 03:55:49.136371,2024,3,25,5,Darajat,Sulawesi Utara,1,Grid Modernization Alpha,Planning
+156,156,2023-06-25 21:51:49.136371,2023,6,25,4,Kamojang,Sumatera Utara,4,Rural Electrification Delta,On Hold
+157,157,2023-07-27 23:15:49.136371,2023,7,27,11,Paiton,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+158,158,2024-03-01 17:32:49.136371,2024,3,1,13,Tanjung Jati B,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+159,159,2024-11-26 19:28:49.136371,2024,11,26,25,Muara Laboh,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+160,160,2023-10-10 05:01:49.136371,2023,10,10,14,Grati,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+161,161,2025-04-28 19:14:49.136371,2025,4,28,19,Likupang,DKI Jakarta,2,Capacity Expansion Beta,Feasibility Study
+162,162,2024-05-18 11:40:49.136371,2024,5,18,2,Cirata,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+163,163,2023-08-12 02:44:49.136371,2023,8,12,16,Tambak Lorok,Sulawesi Utara,1,Grid Modernization Alpha,Planning
+164,164,2024-01-01 02:50:49.136371,2024,1,1,1,Karangkates,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+165,165,2024-04-10 11:00:49.136371,2024,4,10,6,Wayang Windu,NTT,5,Efficiency Upgrade Epsilon,Completed
+166,166,2025-04-20 23:47:49.136371,2025,4,20,8,Lahendong,DKI Jakarta,2,Capacity Expansion Beta,Feasibility Study
+167,167,2023-07-04 06:59:49.136371,2023,7,4,11,Paiton,Sumatera Selatan,5,Efficiency Upgrade Epsilon,Completed
+168,168,2024-05-01 16:18:49.136371,2024,5,1,10,Mataloko,Lampung,1,Grid Modernization Alpha,Planning
+169,169,2024-01-01 02:38:49.136371,2024,1,1,16,Tambak Lorok,Sulawesi Utara,5,Efficiency Upgrade Epsilon,Completed
+170,170,2023-09-23 05:54:49.136371,2023,9,23,12,Suralaya,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+171,171,2023-08-29 11:41:49.136371,2023,8,29,5,Darajat,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+172,172,2024-10-26 00:05:49.136371,2024,10,26,3,Saguling,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+173,173,2024-04-11 02:25:49.136371,2024,4,11,6,Wayang Windu,NTT,4,Rural Electrification Delta,On Hold
+174,174,2023-11-23 15:41:49.136371,2023,11,23,11,Paiton,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+175,175,2023-10-30 23:01:49.136371,2023,10,30,5,Darajat,Sulawesi Utara,1,Grid Modernization Alpha,Planning
+176,176,2024-08-16 06:48:49.136371,2024,8,16,5,Darajat,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+177,177,2023-10-16 01:21:49.136371,2023,10,16,13,Tanjung Jati B,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+178,178,2024-07-25 11:33:49.136371,2024,7,25,4,Kamojang,Sumatera Utara,2,Capacity Expansion Beta,Feasibility Study
+179,179,2024-04-08 05:06:49.136371,2024,4,8,10,Mataloko,Lampung,5,Efficiency Upgrade Epsilon,Completed
+180,180,2024-11-05 19:11:49.136371,2024,11,5,25,Muara Laboh,Jawa Tengah,4,Rural Electrification Delta,On Hold
+181,181,2023-12-10 21:34:49.136371,2023,12,10,18,Jeneponto,Banten,1,Grid Modernization Alpha,Planning
+182,182,2023-12-08 06:10:49.136371,2023,12,8,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+183,183,2024-06-04 02:02:49.136371,2024,6,4,14,Grati,Jawa Tengah,4,Rural Electrification Delta,On Hold
+184,184,2024-05-22 11:30:49.136371,2024,5,22,23,Sorik Marapi,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+185,185,2024-06-06 16:22:49.136371,2024,6,6,19,Likupang,DKI Jakarta,4,Rural Electrification Delta,On Hold
+186,186,2025-01-22 01:06:49.136371,2025,1,22,19,Likupang,DKI Jakarta,4,Rural Electrification Delta,On Hold
+187,187,2024-09-03 04:16:49.136371,2024,9,3,9,Ulumbu,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+188,188,2023-11-05 10:06:49.136371,2023,11,5,25,Muara Laboh,Jawa Tengah,4,Rural Electrification Delta,On Hold
+189,189,2024-07-04 11:29:49.136371,2024,7,4,16,Tambak Lorok,Sulawesi Utara,5,Efficiency Upgrade Epsilon,Completed
+190,190,2023-08-17 21:05:49.136371,2023,8,17,4,Kamojang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+191,191,2025-04-14 16:01:49.136371,2025,4,14,23,Sorik Marapi,Jawa Timur,4,Rural Electrification Delta,On Hold
+192,192,2025-02-20 04:57:49.136371,2025,2,20,15,Muara Karang,Sumatera Utara,4,Rural Electrification Delta,On Hold
+193,193,2024-06-06 02:10:49.136371,2024,6,6,18,Jeneponto,Banten,2,Capacity Expansion Beta,Feasibility Study
+194,194,2024-02-17 10:40:49.136371,2024,2,17,23,Sorik Marapi,Jawa Timur,4,Rural Electrification Delta,On Hold
+195,195,2023-06-28 08:36:49.136371,2023,6,28,17,Sidrap,NTT,1,Grid Modernization Alpha,Planning
+196,196,2024-05-24 23:53:49.136371,2024,5,24,15,Muara Karang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+197,197,2024-11-13 21:24:49.136371,2024,11,13,19,Likupang,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+198,198,2023-09-16 12:44:49.136371,2023,9,16,22,Dieng,Sumatera Selatan,5,Efficiency Upgrade Epsilon,Completed
+199,199,2024-04-28 12:44:49.136371,2024,4,28,13,Tanjung Jati B,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+200,200,2025-01-17 05:16:49.136371,2025,1,17,18,Jeneponto,Banten,3,New Renewable Hub Gamma,In Progress
+201,201,2025-04-24 09:35:49.136371,2025,4,24,15,Muara Karang,Sumatera Utara,6,Maintenance Overhaul Zeta,Cancelled
+202,202,2024-11-13 11:29:49.136371,2024,11,13,1,Karangkates,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+203,203,2023-09-04 10:49:49.136371,2023,9,4,6,Wayang Windu,NTT,4,Rural Electrification Delta,On Hold
+204,204,2024-02-13 09:20:49.136371,2024,2,13,22,Dieng,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+205,205,2024-11-30 09:42:49.136371,2024,11,30,14,Grati,Jawa Tengah,1,Grid Modernization Alpha,Planning
+206,206,2024-07-27 16:39:49.136371,2024,7,27,18,Jeneponto,Banten,1,Grid Modernization Alpha,Planning
+207,207,2024-12-21 23:12:49.136371,2024,12,21,11,Paiton,Sumatera Selatan,5,Efficiency Upgrade Epsilon,Completed
+208,208,2025-01-05 03:45:49.136371,2025,1,5,2,Cirata,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+209,209,2024-06-26 16:50:49.136371,2024,6,26,10,Mataloko,Lampung,3,New Renewable Hub Gamma,In Progress
+210,210,2024-01-10 09:40:49.136371,2024,1,10,3,Saguling,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+211,211,2024-12-01 09:12:49.136371,2024,12,1,21,Patuha,Lampung,5,Efficiency Upgrade Epsilon,Completed
+212,212,2024-12-27 20:45:49.136371,2024,12,27,2,Cirata,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+213,213,2023-10-28 01:15:49.136371,2023,10,28,17,Sidrap,NTT,3,New Renewable Hub Gamma,In Progress
+214,214,2023-07-26 16:25:49.136371,2023,7,26,24,Rantau Dedap,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+215,215,2025-02-19 15:29:49.136371,2025,2,19,23,Sorik Marapi,Jawa Timur,4,Rural Electrification Delta,On Hold
+216,216,2024-05-02 08:27:49.136371,2024,5,2,25,Muara Laboh,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+217,217,2023-12-18 09:19:49.136371,2023,12,18,22,Dieng,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+218,218,2023-08-31 10:16:49.136371,2023,8,31,10,Mataloko,Lampung,2,Capacity Expansion Beta,Feasibility Study
+219,219,2025-02-21 12:29:49.136371,2025,2,21,8,Lahendong,DKI Jakarta,4,Rural Electrification Delta,On Hold
+220,220,2025-02-09 04:04:49.136371,2025,2,9,13,Tanjung Jati B,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+221,221,2024-05-23 15:49:49.136371,2024,5,23,22,Dieng,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+222,222,2024-12-03 02:08:49.136371,2024,12,3,9,Ulumbu,Sulawesi Selatan,6,Maintenance Overhaul Zeta,Cancelled
+223,223,2023-10-20 05:53:49.136371,2023,10,20,4,Kamojang,Sumatera Utara,4,Rural Electrification Delta,On Hold
+224,224,2025-04-20 09:49:49.136371,2025,4,20,23,Sorik Marapi,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+225,225,2023-12-08 11:49:49.136371,2023,12,8,4,Kamojang,Sumatera Utara,5,Efficiency Upgrade Epsilon,Completed
+226,226,2025-02-13 05:00:49.136371,2025,2,13,12,Suralaya,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+227,227,2024-08-14 12:57:49.136371,2024,8,14,17,Sidrap,NTT,1,Grid Modernization Alpha,Planning
+228,228,2024-10-23 03:07:49.136371,2024,10,23,14,Grati,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+229,229,2025-05-15 05:21:49.136371,2025,5,15,7,Sibayak,Banten,5,Efficiency Upgrade Epsilon,Completed
+230,230,2024-04-20 08:48:49.136371,2024,4,20,6,Wayang Windu,NTT,4,Rural Electrification Delta,On Hold
+231,231,2025-05-02 02:18:49.136371,2025,5,2,11,Paiton,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+232,232,2023-08-27 14:19:49.136371,2023,8,27,9,Ulumbu,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+233,233,2024-07-07 06:22:49.136371,2024,7,7,6,Wayang Windu,NTT,1,Grid Modernization Alpha,Planning
+234,234,2024-08-23 22:13:49.136371,2024,8,23,23,Sorik Marapi,Jawa Timur,1,Grid Modernization Alpha,Planning
+235,235,2025-02-12 18:59:49.136371,2025,2,12,19,Likupang,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+236,236,2023-12-27 17:43:49.136371,2023,12,27,16,Tambak Lorok,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+237,237,2023-08-30 05:33:49.136371,2023,8,30,6,Wayang Windu,NTT,5,Efficiency Upgrade Epsilon,Completed
+238,238,2024-04-15 17:56:49.136371,2024,4,15,15,Muara Karang,Sumatera Utara,6,Maintenance Overhaul Zeta,Cancelled
+239,239,2024-05-16 12:12:49.136371,2024,5,16,16,Tambak Lorok,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+240,240,2023-12-05 05:28:49.136371,2023,12,5,4,Kamojang,Sumatera Utara,6,Maintenance Overhaul Zeta,Cancelled
+241,241,2023-08-11 00:25:49.136371,2023,8,11,3,Saguling,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+242,242,2024-04-22 16:53:49.136371,2024,4,22,13,Tanjung Jati B,Jawa Barat,4,Rural Electrification Delta,On Hold
+243,243,2023-12-15 06:57:49.136371,2023,12,15,3,Saguling,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+244,244,2023-08-25 01:32:49.136371,2023,8,25,21,Patuha,Lampung,3,New Renewable Hub Gamma,In Progress
+245,245,2024-05-20 08:28:49.136371,2024,5,20,25,Muara Laboh,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+246,246,2023-08-08 09:45:49.136371,2023,8,8,17,Sidrap,NTT,4,Rural Electrification Delta,On Hold
+247,247,2025-04-15 20:00:49.136371,2025,4,15,1,Karangkates,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+248,248,2023-06-06 14:17:49.136371,2023,6,6,9,Ulumbu,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+249,249,2025-04-22 14:02:49.136371,2025,4,22,6,Wayang Windu,NTT,6,Maintenance Overhaul Zeta,Cancelled
+250,250,2024-06-03 11:43:49.136371,2024,6,3,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+251,251,2023-11-16 19:24:49.136371,2023,11,16,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+252,252,2024-01-19 05:12:49.136371,2024,1,19,22,Dieng,Sumatera Selatan,5,Efficiency Upgrade Epsilon,Completed
+253,253,2025-01-27 08:51:49.136371,2025,1,27,17,Sidrap,NTT,1,Grid Modernization Alpha,Planning
+254,254,2024-10-06 23:34:49.136371,2024,10,6,24,Rantau Dedap,Jawa Barat,4,Rural Electrification Delta,On Hold
+255,255,2025-01-04 03:19:49.136371,2025,1,4,7,Sibayak,Banten,4,Rural Electrification Delta,On Hold
+256,256,2023-06-09 06:51:49.136371,2023,6,9,9,Ulumbu,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+257,257,2023-11-10 12:24:49.136371,2023,11,10,16,Tambak Lorok,Sulawesi Utara,5,Efficiency Upgrade Epsilon,Completed
+258,258,2024-05-13 04:43:49.136371,2024,5,13,25,Muara Laboh,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+259,259,2024-08-01 16:11:49.136371,2024,8,1,15,Muara Karang,Sumatera Utara,2,Capacity Expansion Beta,Feasibility Study
+260,260,2023-07-15 01:51:49.136371,2023,7,15,14,Grati,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+261,261,2024-07-05 13:32:49.136371,2024,7,5,13,Tanjung Jati B,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+262,262,2023-09-22 17:13:49.136371,2023,9,22,25,Muara Laboh,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+263,263,2025-04-17 20:38:49.136371,2025,4,17,3,Saguling,Jawa Tengah,1,Grid Modernization Alpha,Planning
+264,264,2023-05-31 19:31:49.136371,2023,5,31,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+265,265,2023-09-16 11:22:49.136371,2023,9,16,22,Dieng,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+266,266,2023-06-18 03:19:49.136371,2023,6,18,7,Sibayak,Banten,5,Efficiency Upgrade Epsilon,Completed
+267,267,2024-06-08 19:31:49.136371,2024,6,8,7,Sibayak,Banten,6,Maintenance Overhaul Zeta,Cancelled
+268,268,2024-08-27 08:52:49.136371,2024,8,27,11,Paiton,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+269,269,2024-06-22 04:42:49.136371,2024,6,22,24,Rantau Dedap,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+270,270,2024-10-10 21:53:49.136371,2024,10,10,4,Kamojang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+271,271,2024-09-30 23:10:49.136371,2024,9,30,13,Tanjung Jati B,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+272,272,2023-12-01 08:31:49.136371,2023,12,1,10,Mataloko,Lampung,1,Grid Modernization Alpha,Planning
+273,273,2024-07-08 17:26:49.136371,2024,7,8,12,Suralaya,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+274,274,2024-01-30 02:37:49.136371,2024,1,30,9,Ulumbu,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+275,275,2023-07-08 09:57:49.136371,2023,7,8,24,Rantau Dedap,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+276,276,2023-08-03 14:37:49.136371,2023,8,3,2,Cirata,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+277,277,2025-05-25 05:31:49.136371,2025,5,25,15,Muara Karang,Sumatera Utara,5,Efficiency Upgrade Epsilon,Completed
+278,278,2025-04-16 17:35:49.136371,2025,4,16,1,Karangkates,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+279,279,2025-04-17 00:55:49.136371,2025,4,17,4,Kamojang,Sumatera Utara,2,Capacity Expansion Beta,Feasibility Study
+280,280,2024-01-23 14:43:49.136371,2024,1,23,13,Tanjung Jati B,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+281,281,2024-03-21 08:47:49.136371,2024,3,21,5,Darajat,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+282,282,2025-05-23 23:56:49.136371,2025,5,23,13,Tanjung Jati B,Jawa Barat,1,Grid Modernization Alpha,Planning
+283,283,2024-07-02 06:45:49.136371,2024,7,2,7,Sibayak,Banten,4,Rural Electrification Delta,On Hold
+284,284,2025-04-28 23:55:49.136371,2025,4,28,6,Wayang Windu,NTT,5,Efficiency Upgrade Epsilon,Completed
+285,285,2024-02-02 20:17:49.136371,2024,2,2,20,Gunung Salak,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+286,286,2024-11-15 03:51:49.136371,2024,11,15,19,Likupang,DKI Jakarta,1,Grid Modernization Alpha,Planning
+287,287,2025-03-22 19:41:49.136371,2025,3,22,13,Tanjung Jati B,Jawa Barat,1,Grid Modernization Alpha,Planning
+288,288,2023-06-21 08:20:49.136371,2023,6,21,20,Gunung Salak,Sulawesi Selatan,1,Grid Modernization Alpha,Planning
+289,289,2025-03-25 22:27:49.136371,2025,3,25,19,Likupang,DKI Jakarta,1,Grid Modernization Alpha,Planning
+290,290,2023-06-20 08:21:49.136371,2023,6,20,18,Jeneponto,Banten,1,Grid Modernization Alpha,Planning
+291,291,2024-04-17 00:56:49.136371,2024,4,17,9,Ulumbu,Sulawesi Selatan,6,Maintenance Overhaul Zeta,Cancelled
+292,292,2024-03-07 03:51:49.136371,2024,3,7,1,Karangkates,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+293,293,2024-07-04 20:25:49.136371,2024,7,4,14,Grati,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+294,294,2024-10-17 08:06:49.136371,2024,10,17,10,Mataloko,Lampung,3,New Renewable Hub Gamma,In Progress
+295,295,2023-10-15 09:55:49.136371,2023,10,15,9,Ulumbu,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+296,296,2024-06-05 02:08:49.136371,2024,6,5,8,Lahendong,DKI Jakarta,1,Grid Modernization Alpha,Planning
+297,297,2025-04-13 04:22:49.136371,2025,4,13,25,Muara Laboh,Jawa Tengah,1,Grid Modernization Alpha,Planning
+298,298,2023-11-12 04:42:49.136371,2023,11,12,24,Rantau Dedap,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+299,299,2024-06-16 17:27:49.136371,2024,6,16,8,Lahendong,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+300,300,2024-03-15 03:50:49.136371,2024,3,15,8,Lahendong,DKI Jakarta,5,Efficiency Upgrade Epsilon,Completed
+301,301,2024-02-22 21:35:49.136371,2024,2,22,17,Sidrap,NTT,2,Capacity Expansion Beta,Feasibility Study
+302,302,2024-09-22 16:08:49.136371,2024,9,22,22,Dieng,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+303,303,2025-01-12 17:08:49.136371,2025,1,12,7,Sibayak,Banten,4,Rural Electrification Delta,On Hold
+304,304,2024-09-02 08:44:49.136371,2024,9,2,3,Saguling,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+305,305,2025-05-14 09:00:49.136371,2025,5,14,1,Karangkates,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+306,306,2025-02-06 14:12:49.136371,2025,2,6,11,Paiton,Sumatera Selatan,5,Efficiency Upgrade Epsilon,Completed
+307,307,2024-10-30 05:09:49.136371,2024,10,30,25,Muara Laboh,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+308,308,2024-10-03 13:22:49.136371,2024,10,3,14,Grati,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+309,309,2024-07-19 04:51:49.136371,2024,7,19,18,Jeneponto,Banten,5,Efficiency Upgrade Epsilon,Completed
+310,310,2023-08-27 00:27:49.136371,2023,8,27,12,Suralaya,Jawa Timur,1,Grid Modernization Alpha,Planning
+311,311,2024-01-08 15:49:49.136371,2024,1,8,8,Lahendong,DKI Jakarta,1,Grid Modernization Alpha,Planning
+312,312,2025-04-26 13:14:49.136371,2025,4,26,21,Patuha,Lampung,2,Capacity Expansion Beta,Feasibility Study
+313,313,2023-12-29 16:33:49.136371,2023,12,29,20,Gunung Salak,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+314,314,2024-07-07 05:34:49.136371,2024,7,7,4,Kamojang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+315,315,2024-01-15 11:17:49.136371,2024,1,15,14,Grati,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+316,316,2023-08-23 21:19:49.136371,2023,8,23,24,Rantau Dedap,Jawa Barat,1,Grid Modernization Alpha,Planning
+317,317,2024-09-24 17:54:49.136371,2024,9,24,18,Jeneponto,Banten,4,Rural Electrification Delta,On Hold
+318,318,2023-08-30 16:28:49.136371,2023,8,30,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+319,319,2024-09-24 04:41:49.136371,2024,9,24,19,Likupang,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+320,320,2024-03-08 04:06:49.136371,2024,3,8,1,Karangkates,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+321,321,2024-01-13 05:28:49.136371,2024,1,13,11,Paiton,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+322,322,2024-05-06 06:11:49.136371,2024,5,6,7,Sibayak,Banten,4,Rural Electrification Delta,On Hold
+323,323,2024-12-03 19:23:49.136371,2024,12,3,3,Saguling,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+324,324,2024-07-20 12:24:49.136371,2024,7,20,24,Rantau Dedap,Jawa Barat,4,Rural Electrification Delta,On Hold
+325,325,2024-10-14 19:54:49.136371,2024,10,14,20,Gunung Salak,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+326,326,2024-03-20 16:50:49.136371,2024,3,20,10,Mataloko,Lampung,1,Grid Modernization Alpha,Planning
+327,327,2025-04-03 10:26:49.136371,2025,4,3,18,Jeneponto,Banten,1,Grid Modernization Alpha,Planning
+328,328,2025-04-13 14:25:49.136371,2025,4,13,6,Wayang Windu,NTT,6,Maintenance Overhaul Zeta,Cancelled
+329,329,2024-07-16 08:46:49.136371,2024,7,16,14,Grati,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+330,330,2024-03-12 07:42:49.136371,2024,3,12,1,Karangkates,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+331,331,2024-01-16 15:07:49.136371,2024,1,16,22,Dieng,Sumatera Selatan,1,Grid Modernization Alpha,Planning
+332,332,2024-03-23 22:49:49.136371,2024,3,23,20,Gunung Salak,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+333,333,2025-03-05 04:13:49.136371,2025,3,5,17,Sidrap,NTT,6,Maintenance Overhaul Zeta,Cancelled
+334,334,2023-09-10 01:47:49.136371,2023,9,10,14,Grati,Jawa Tengah,4,Rural Electrification Delta,On Hold
+335,335,2025-05-23 19:24:49.136371,2025,5,23,4,Kamojang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+336,336,2023-06-10 00:02:49.136371,2023,6,10,3,Saguling,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+337,337,2025-01-03 02:59:49.136371,2025,1,3,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+338,338,2025-05-26 20:08:49.136371,2025,5,26,21,Patuha,Lampung,3,New Renewable Hub Gamma,In Progress
+339,339,2023-11-05 11:26:49.136371,2023,11,5,1,Karangkates,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+340,340,2023-07-01 17:54:49.136371,2023,7,1,17,Sidrap,NTT,2,Capacity Expansion Beta,Feasibility Study
+341,341,2023-05-31 15:05:49.136371,2023,5,31,14,Grati,Jawa Tengah,1,Grid Modernization Alpha,Planning
+342,342,2024-12-01 15:22:49.136371,2024,12,1,7,Sibayak,Banten,6,Maintenance Overhaul Zeta,Cancelled
+343,343,2024-11-07 00:29:49.136371,2024,11,7,25,Muara Laboh,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+344,344,2024-07-22 19:28:49.136371,2024,7,22,2,Cirata,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+345,345,2024-11-24 03:49:49.136371,2024,11,24,19,Likupang,DKI Jakarta,5,Efficiency Upgrade Epsilon,Completed
+346,346,2025-05-20 13:57:49.136371,2025,5,20,14,Grati,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+347,347,2023-12-20 11:02:49.136371,2023,12,20,18,Jeneponto,Banten,1,Grid Modernization Alpha,Planning
+348,348,2023-08-02 16:50:49.136371,2023,8,2,25,Muara Laboh,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+349,349,2024-02-15 15:36:49.136371,2024,2,15,24,Rantau Dedap,Jawa Barat,1,Grid Modernization Alpha,Planning
+350,350,2024-05-30 01:49:49.136371,2024,5,30,18,Jeneponto,Banten,1,Grid Modernization Alpha,Planning
+351,351,2023-08-27 14:55:49.136371,2023,8,27,8,Lahendong,DKI Jakarta,3,New Renewable Hub Gamma,In Progress
+352,352,2024-03-05 19:02:49.136371,2024,3,5,19,Likupang,DKI Jakarta,2,Capacity Expansion Beta,Feasibility Study
+353,353,2024-01-05 22:09:49.136371,2024,1,5,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+354,354,2024-04-17 05:16:49.136371,2024,4,17,19,Likupang,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+355,355,2024-03-15 06:14:49.136371,2024,3,15,15,Muara Karang,Sumatera Utara,2,Capacity Expansion Beta,Feasibility Study
+356,356,2023-11-13 09:56:49.136371,2023,11,13,14,Grati,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+357,357,2024-01-20 17:20:49.136371,2024,1,20,4,Kamojang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+358,358,2024-06-01 21:17:49.136371,2024,6,1,24,Rantau Dedap,Jawa Barat,1,Grid Modernization Alpha,Planning
+359,359,2023-08-06 21:19:49.136371,2023,8,6,6,Wayang Windu,NTT,4,Rural Electrification Delta,On Hold
+360,360,2024-08-12 03:02:49.136371,2024,8,12,13,Tanjung Jati B,Jawa Barat,1,Grid Modernization Alpha,Planning
+361,361,2023-11-19 02:49:49.136371,2023,11,19,16,Tambak Lorok,Sulawesi Utara,1,Grid Modernization Alpha,Planning
+362,362,2025-03-06 10:55:49.136371,2025,3,6,23,Sorik Marapi,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+363,363,2025-02-10 13:02:49.136371,2025,2,10,20,Gunung Salak,Sulawesi Selatan,2,Capacity Expansion Beta,Feasibility Study
+364,364,2024-08-10 22:04:49.136371,2024,8,10,1,Karangkates,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+365,365,2023-09-14 03:08:49.136371,2023,9,14,9,Ulumbu,Sulawesi Selatan,2,Capacity Expansion Beta,Feasibility Study
+366,366,2024-04-15 05:02:49.136371,2024,4,15,8,Lahendong,DKI Jakarta,1,Grid Modernization Alpha,Planning
+367,367,2024-06-06 10:50:49.136371,2024,6,6,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+368,368,2025-04-25 09:42:49.136371,2025,4,25,23,Sorik Marapi,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+369,369,2024-10-29 16:52:49.136371,2024,10,29,15,Muara Karang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+370,370,2023-12-02 16:04:49.136371,2023,12,2,7,Sibayak,Banten,1,Grid Modernization Alpha,Planning
+371,371,2024-12-13 10:28:49.136371,2024,12,13,14,Grati,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+372,372,2024-10-17 18:27:49.136371,2024,10,17,10,Mataloko,Lampung,2,Capacity Expansion Beta,Feasibility Study
+373,373,2024-12-28 01:48:49.136371,2024,12,28,14,Grati,Jawa Tengah,4,Rural Electrification Delta,On Hold
+374,374,2023-09-17 00:09:49.136371,2023,9,17,7,Sibayak,Banten,3,New Renewable Hub Gamma,In Progress
+375,375,2024-12-14 06:07:49.136371,2024,12,14,7,Sibayak,Banten,3,New Renewable Hub Gamma,In Progress
+376,376,2023-10-12 11:06:49.136371,2023,10,12,6,Wayang Windu,NTT,6,Maintenance Overhaul Zeta,Cancelled
+377,377,2024-01-25 15:20:49.136371,2024,1,25,23,Sorik Marapi,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+378,378,2024-02-23 12:45:49.136371,2024,2,23,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+379,379,2024-11-25 03:18:49.136371,2024,11,25,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+380,380,2024-02-22 14:30:49.136371,2024,2,22,9,Ulumbu,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+381,381,2023-11-23 13:23:49.136371,2023,11,23,14,Grati,Jawa Tengah,4,Rural Electrification Delta,On Hold
+382,382,2024-02-23 23:06:49.136371,2024,2,23,20,Gunung Salak,Sulawesi Selatan,2,Capacity Expansion Beta,Feasibility Study
+383,383,2024-07-19 14:19:49.136371,2024,7,19,20,Gunung Salak,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+384,384,2025-01-30 09:18:49.136371,2025,1,30,15,Muara Karang,Sumatera Utara,6,Maintenance Overhaul Zeta,Cancelled
+385,385,2024-02-19 18:20:49.136371,2024,2,19,8,Lahendong,DKI Jakarta,2,Capacity Expansion Beta,Feasibility Study
+386,386,2024-04-02 09:29:49.136371,2024,4,2,6,Wayang Windu,NTT,3,New Renewable Hub Gamma,In Progress
+387,387,2024-07-26 22:51:49.136371,2024,7,26,20,Gunung Salak,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+388,388,2024-05-18 04:04:49.136371,2024,5,18,25,Muara Laboh,Jawa Tengah,4,Rural Electrification Delta,On Hold
+389,389,2023-09-29 11:35:49.136371,2023,9,29,24,Rantau Dedap,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+390,390,2025-01-11 14:23:49.136371,2025,1,11,3,Saguling,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+391,391,2023-07-28 12:38:49.136371,2023,7,28,25,Muara Laboh,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+392,392,2024-06-18 20:01:49.136371,2024,6,18,7,Sibayak,Banten,3,New Renewable Hub Gamma,In Progress
+393,393,2024-01-18 08:59:49.136371,2024,1,18,17,Sidrap,NTT,4,Rural Electrification Delta,On Hold
+394,394,2025-02-14 21:23:49.136371,2025,2,14,2,Cirata,Jawa Barat,4,Rural Electrification Delta,On Hold
+395,395,2024-11-02 23:52:49.136371,2024,11,2,12,Suralaya,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+396,396,2023-08-05 19:07:49.136371,2023,8,5,5,Darajat,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+397,397,2024-01-25 05:07:49.136371,2024,1,25,25,Muara Laboh,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+398,398,2025-01-01 08:13:49.136371,2025,1,1,22,Dieng,Sumatera Selatan,1,Grid Modernization Alpha,Planning
+399,399,2023-08-04 07:43:49.136371,2023,8,4,19,Likupang,DKI Jakarta,5,Efficiency Upgrade Epsilon,Completed
+400,400,2024-12-31 16:37:49.136371,2024,12,31,8,Lahendong,DKI Jakarta,3,New Renewable Hub Gamma,In Progress
+401,401,2024-05-01 03:40:49.136371,2024,5,1,7,Sibayak,Banten,4,Rural Electrification Delta,On Hold
+402,402,2023-11-14 09:11:49.136371,2023,11,14,2,Cirata,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+403,403,2023-11-04 01:52:49.136371,2023,11,4,23,Sorik Marapi,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+404,404,2023-09-02 06:15:49.136371,2023,9,2,13,Tanjung Jati B,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+405,405,2023-12-28 05:04:49.136371,2023,12,28,24,Rantau Dedap,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+406,406,2023-12-29 18:38:49.136371,2023,12,29,2,Cirata,Jawa Barat,4,Rural Electrification Delta,On Hold
+407,407,2023-12-05 09:09:49.136371,2023,12,5,11,Paiton,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+408,408,2024-04-28 12:24:49.136371,2024,4,28,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+409,409,2023-12-04 15:52:49.136371,2023,12,4,7,Sibayak,Banten,2,Capacity Expansion Beta,Feasibility Study
+410,410,2024-11-25 20:15:49.136371,2024,11,25,16,Tambak Lorok,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+411,411,2023-07-25 07:49:49.136371,2023,7,25,14,Grati,Jawa Tengah,1,Grid Modernization Alpha,Planning
+412,412,2024-03-06 07:21:49.136371,2024,3,6,4,Kamojang,Sumatera Utara,6,Maintenance Overhaul Zeta,Cancelled
+413,413,2024-07-16 10:46:49.136371,2024,7,16,2,Cirata,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+414,414,2023-06-14 21:06:49.136371,2023,6,14,9,Ulumbu,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+415,415,2024-10-11 18:15:49.136371,2024,10,11,20,Gunung Salak,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+416,416,2024-09-21 00:53:49.136371,2024,9,21,12,Suralaya,Jawa Timur,1,Grid Modernization Alpha,Planning
+417,417,2023-07-23 00:48:49.136371,2023,7,23,25,Muara Laboh,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+418,418,2023-09-02 23:00:49.136371,2023,9,2,1,Karangkates,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+419,419,2025-04-28 01:50:49.136371,2025,4,28,4,Kamojang,Sumatera Utara,4,Rural Electrification Delta,On Hold
+420,420,2025-01-06 08:26:49.136371,2025,1,6,17,Sidrap,NTT,6,Maintenance Overhaul Zeta,Cancelled
+421,421,2023-09-12 04:32:49.136371,2023,9,12,15,Muara Karang,Sumatera Utara,6,Maintenance Overhaul Zeta,Cancelled
+422,422,2023-06-13 11:26:49.136371,2023,6,13,9,Ulumbu,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+423,423,2024-08-19 03:34:49.136371,2024,8,19,10,Mataloko,Lampung,5,Efficiency Upgrade Epsilon,Completed
+424,424,2025-05-11 09:40:49.136371,2025,5,11,19,Likupang,DKI Jakarta,2,Capacity Expansion Beta,Feasibility Study
+425,425,2024-06-28 04:43:49.136371,2024,6,28,15,Muara Karang,Sumatera Utara,2,Capacity Expansion Beta,Feasibility Study
+426,426,2024-06-26 15:46:49.136371,2024,6,26,11,Paiton,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+427,427,2024-08-21 10:34:49.136371,2024,8,21,25,Muara Laboh,Jawa Tengah,1,Grid Modernization Alpha,Planning
+428,428,2023-09-29 07:18:49.136371,2023,9,29,21,Patuha,Lampung,1,Grid Modernization Alpha,Planning
+429,429,2024-03-18 17:08:49.136371,2024,3,18,25,Muara Laboh,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+430,430,2024-08-21 12:44:49.136371,2024,8,21,12,Suralaya,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+431,431,2023-06-19 05:43:49.136371,2023,6,19,20,Gunung Salak,Sulawesi Selatan,1,Grid Modernization Alpha,Planning
+432,432,2023-10-09 22:21:49.136371,2023,10,9,22,Dieng,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+433,433,2025-01-03 09:32:49.136371,2025,1,3,3,Saguling,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+434,434,2025-04-14 12:46:49.136371,2025,4,14,24,Rantau Dedap,Jawa Barat,4,Rural Electrification Delta,On Hold
+435,435,2023-08-10 16:09:49.136371,2023,8,10,23,Sorik Marapi,Jawa Timur,4,Rural Electrification Delta,On Hold
+436,436,2023-09-26 17:34:49.136371,2023,9,26,17,Sidrap,NTT,1,Grid Modernization Alpha,Planning
+437,437,2024-07-17 16:39:49.136371,2024,7,17,12,Suralaya,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+438,438,2024-12-03 18:18:49.136371,2024,12,3,23,Sorik Marapi,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+439,439,2023-08-23 21:39:49.136371,2023,8,23,9,Ulumbu,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+440,440,2024-06-23 06:00:49.136371,2024,6,23,15,Muara Karang,Sumatera Utara,4,Rural Electrification Delta,On Hold
+441,441,2023-10-18 05:42:49.136371,2023,10,18,13,Tanjung Jati B,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+442,442,2024-06-15 08:03:49.136371,2024,6,15,16,Tambak Lorok,Sulawesi Utara,2,Capacity Expansion Beta,Feasibility Study
+443,443,2023-09-22 15:57:49.136371,2023,9,22,4,Kamojang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+444,444,2025-05-17 17:33:49.136371,2025,5,17,5,Darajat,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+445,445,2025-03-28 08:55:49.136371,2025,3,28,8,Lahendong,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+446,446,2024-02-28 08:43:49.136371,2024,2,28,11,Paiton,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+447,447,2025-01-04 15:26:49.136371,2025,1,4,17,Sidrap,NTT,6,Maintenance Overhaul Zeta,Cancelled
+448,448,2025-01-19 11:20:49.136371,2025,1,19,24,Rantau Dedap,Jawa Barat,4,Rural Electrification Delta,On Hold
+449,449,2023-12-20 19:36:49.136371,2023,12,20,18,Jeneponto,Banten,3,New Renewable Hub Gamma,In Progress
+450,450,2024-11-21 16:08:49.136371,2024,11,21,24,Rantau Dedap,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+451,451,2024-06-12 17:30:49.136371,2024,6,12,8,Lahendong,DKI Jakarta,4,Rural Electrification Delta,On Hold
+452,452,2024-04-22 08:08:49.136371,2024,4,22,5,Darajat,Sulawesi Utara,2,Capacity Expansion Beta,Feasibility Study
+453,453,2023-06-18 00:17:49.136371,2023,6,18,23,Sorik Marapi,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+454,454,2024-12-29 10:05:49.136371,2024,12,29,7,Sibayak,Banten,4,Rural Electrification Delta,On Hold
+455,455,2024-06-06 19:25:49.136371,2024,6,6,1,Karangkates,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+456,456,2024-12-11 18:30:49.136371,2024,12,11,22,Dieng,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+457,457,2024-04-06 19:18:49.136371,2024,4,6,5,Darajat,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+458,458,2025-05-17 09:24:49.136371,2025,5,17,12,Suralaya,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+459,459,2024-04-08 17:48:49.136371,2024,4,8,2,Cirata,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+460,460,2023-08-26 08:02:49.136371,2023,8,26,25,Muara Laboh,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+461,461,2025-02-10 15:43:49.136371,2025,2,10,4,Kamojang,Sumatera Utara,5,Efficiency Upgrade Epsilon,Completed
+462,462,2024-08-25 21:42:49.136371,2024,8,25,24,Rantau Dedap,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+463,463,2024-04-23 12:51:49.136371,2024,4,23,4,Kamojang,Sumatera Utara,5,Efficiency Upgrade Epsilon,Completed
+464,464,2024-09-17 04:58:49.136371,2024,9,17,23,Sorik Marapi,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+465,465,2024-01-19 23:38:49.136371,2024,1,19,21,Patuha,Lampung,5,Efficiency Upgrade Epsilon,Completed
+466,466,2023-09-21 17:14:49.136371,2023,9,21,20,Gunung Salak,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+467,467,2024-06-05 22:01:49.136371,2024,6,5,23,Sorik Marapi,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+468,468,2024-05-25 18:57:49.136371,2024,5,25,20,Gunung Salak,Sulawesi Selatan,2,Capacity Expansion Beta,Feasibility Study
+469,469,2024-10-20 00:44:49.136371,2024,10,20,24,Rantau Dedap,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+470,470,2024-11-22 11:08:49.136371,2024,11,22,25,Muara Laboh,Jawa Tengah,1,Grid Modernization Alpha,Planning
+471,471,2024-11-10 01:51:49.136371,2024,11,10,8,Lahendong,DKI Jakarta,3,New Renewable Hub Gamma,In Progress
+472,472,2024-11-17 07:16:49.136371,2024,11,17,6,Wayang Windu,NTT,1,Grid Modernization Alpha,Planning
+473,473,2024-12-21 18:22:49.136371,2024,12,21,21,Patuha,Lampung,3,New Renewable Hub Gamma,In Progress
+474,474,2024-03-23 04:50:49.136371,2024,3,23,24,Rantau Dedap,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+475,475,2025-03-12 16:48:49.136371,2025,3,12,8,Lahendong,DKI Jakarta,2,Capacity Expansion Beta,Feasibility Study
+476,476,2025-03-29 15:48:49.136371,2025,3,29,13,Tanjung Jati B,Jawa Barat,1,Grid Modernization Alpha,Planning
+477,477,2024-07-02 06:05:49.136371,2024,7,2,12,Suralaya,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+478,478,2024-08-12 13:14:49.136371,2024,8,12,13,Tanjung Jati B,Jawa Barat,1,Grid Modernization Alpha,Planning
+479,479,2024-03-10 19:12:49.136371,2024,3,10,16,Tambak Lorok,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+480,480,2024-01-27 06:18:49.136371,2024,1,27,21,Patuha,Lampung,4,Rural Electrification Delta,On Hold
+481,481,2023-07-24 01:07:49.136371,2023,7,24,23,Sorik Marapi,Jawa Timur,1,Grid Modernization Alpha,Planning
+482,482,2023-09-28 16:53:49.136371,2023,9,28,1,Karangkates,Jawa Timur,1,Grid Modernization Alpha,Planning
+483,483,2023-09-22 23:16:49.136371,2023,9,22,23,Sorik Marapi,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+484,484,2024-03-07 07:36:49.136371,2024,3,7,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+485,485,2024-01-28 21:33:49.136371,2024,1,28,17,Sidrap,NTT,6,Maintenance Overhaul Zeta,Cancelled
+486,486,2024-09-28 15:35:49.136371,2024,9,28,24,Rantau Dedap,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+487,487,2025-03-30 06:58:49.136371,2025,3,30,8,Lahendong,DKI Jakarta,1,Grid Modernization Alpha,Planning
+488,488,2023-09-29 12:35:49.136371,2023,9,29,14,Grati,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+489,489,2024-06-17 19:40:49.136371,2024,6,17,16,Tambak Lorok,Sulawesi Utara,4,Rural Electrification Delta,On Hold
+490,490,2024-05-23 05:42:49.136371,2024,5,23,22,Dieng,Sumatera Selatan,5,Efficiency Upgrade Epsilon,Completed
+491,491,2024-05-05 09:25:49.136371,2024,5,5,2,Cirata,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+492,492,2024-04-18 20:41:49.136371,2024,4,18,13,Tanjung Jati B,Jawa Barat,1,Grid Modernization Alpha,Planning
+493,493,2025-02-13 23:43:49.136371,2025,2,13,16,Tambak Lorok,Sulawesi Utara,1,Grid Modernization Alpha,Planning
+494,494,2024-08-15 08:33:49.136371,2024,8,15,13,Tanjung Jati B,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+495,495,2023-10-12 16:51:49.136371,2023,10,12,3,Saguling,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+496,496,2025-04-06 07:41:49.136371,2025,4,6,20,Gunung Salak,Sulawesi Selatan,1,Grid Modernization Alpha,Planning
+497,497,2024-03-05 13:09:49.136371,2024,3,5,24,Rantau Dedap,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+498,498,2025-02-12 23:03:49.136371,2025,2,12,20,Gunung Salak,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+499,499,2025-04-08 21:07:49.136371,2025,4,8,20,Gunung Salak,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+500,500,2024-11-21 23:03:49.136371,2024,11,21,5,Darajat,Sulawesi Utara,4,Rural Electrification Delta,On Hold
+501,501,2024-04-27 11:46:49.136371,2024,4,27,21,Patuha,Lampung,3,New Renewable Hub Gamma,In Progress
+502,502,2023-06-26 03:24:49.136371,2023,6,26,23,Sorik Marapi,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+503,503,2025-04-10 04:40:49.136371,2025,4,10,1,Karangkates,Jawa Timur,4,Rural Electrification Delta,On Hold
+504,504,2024-10-26 03:18:49.136371,2024,10,26,7,Sibayak,Banten,4,Rural Electrification Delta,On Hold
+505,505,2024-12-18 14:57:49.136371,2024,12,18,11,Paiton,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+506,506,2025-03-17 01:13:49.136371,2025,3,17,21,Patuha,Lampung,1,Grid Modernization Alpha,Planning
+507,507,2023-10-18 16:12:49.136371,2023,10,18,19,Likupang,DKI Jakarta,1,Grid Modernization Alpha,Planning
+508,508,2024-07-18 20:02:49.136371,2024,7,18,22,Dieng,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+509,509,2025-04-28 23:45:49.136371,2025,4,28,10,Mataloko,Lampung,2,Capacity Expansion Beta,Feasibility Study
+510,510,2023-11-15 12:35:49.136371,2023,11,15,11,Paiton,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+511,511,2024-01-19 20:21:49.136371,2024,1,19,20,Gunung Salak,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+512,512,2024-03-02 16:54:49.136371,2024,3,2,4,Kamojang,Sumatera Utara,2,Capacity Expansion Beta,Feasibility Study
+513,513,2025-02-10 07:58:49.136371,2025,2,10,16,Tambak Lorok,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+514,514,2024-01-28 06:59:49.136371,2024,1,28,24,Rantau Dedap,Jawa Barat,4,Rural Electrification Delta,On Hold
+515,515,2023-11-30 13:27:49.136371,2023,11,30,21,Patuha,Lampung,5,Efficiency Upgrade Epsilon,Completed
+516,516,2023-09-17 23:40:49.136371,2023,9,17,9,Ulumbu,Sulawesi Selatan,6,Maintenance Overhaul Zeta,Cancelled
+517,517,2023-08-28 13:05:49.136371,2023,8,28,3,Saguling,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+518,518,2024-03-22 14:26:49.136371,2024,3,22,23,Sorik Marapi,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+519,519,2023-12-03 12:19:49.136371,2023,12,3,9,Ulumbu,Sulawesi Selatan,1,Grid Modernization Alpha,Planning
+520,520,2024-08-31 10:18:49.136371,2024,8,31,24,Rantau Dedap,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+521,521,2025-05-04 14:25:49.136371,2025,5,4,23,Sorik Marapi,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+522,522,2024-11-04 18:53:49.136371,2024,11,4,18,Jeneponto,Banten,1,Grid Modernization Alpha,Planning
+523,523,2024-05-11 07:51:49.136371,2024,5,11,1,Karangkates,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+524,524,2024-03-17 12:58:49.136371,2024,3,17,25,Muara Laboh,Jawa Tengah,4,Rural Electrification Delta,On Hold
+525,525,2025-01-03 22:37:49.136371,2025,1,3,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+526,526,2024-02-06 21:08:49.136371,2024,2,6,17,Sidrap,NTT,6,Maintenance Overhaul Zeta,Cancelled
+527,527,2023-09-03 16:39:49.136371,2023,9,3,17,Sidrap,NTT,2,Capacity Expansion Beta,Feasibility Study
+528,528,2024-01-25 11:20:49.136371,2024,1,25,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+529,529,2025-03-27 11:50:49.136371,2025,3,27,20,Gunung Salak,Sulawesi Selatan,2,Capacity Expansion Beta,Feasibility Study
+530,530,2023-10-07 18:58:49.136371,2023,10,7,6,Wayang Windu,NTT,3,New Renewable Hub Gamma,In Progress
+531,531,2024-10-24 05:06:49.136371,2024,10,24,2,Cirata,Jawa Barat,4,Rural Electrification Delta,On Hold
+532,532,2025-05-09 01:50:49.136371,2025,5,9,4,Kamojang,Sumatera Utara,4,Rural Electrification Delta,On Hold
+533,533,2023-11-18 09:40:49.136371,2023,11,18,12,Suralaya,Jawa Timur,1,Grid Modernization Alpha,Planning
+534,534,2024-05-16 05:41:49.136371,2024,5,16,17,Sidrap,NTT,4,Rural Electrification Delta,On Hold
+535,535,2023-12-27 14:27:49.136371,2023,12,27,5,Darajat,Sulawesi Utara,4,Rural Electrification Delta,On Hold
+536,536,2024-07-24 13:21:49.136371,2024,7,24,16,Tambak Lorok,Sulawesi Utara,4,Rural Electrification Delta,On Hold
+537,537,2023-06-26 14:40:49.136371,2023,6,26,12,Suralaya,Jawa Timur,1,Grid Modernization Alpha,Planning
+538,538,2024-07-22 14:49:49.136371,2024,7,22,11,Paiton,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+539,539,2023-06-09 14:00:49.136371,2023,6,9,25,Muara Laboh,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+540,540,2024-12-25 16:10:49.136371,2024,12,25,7,Sibayak,Banten,6,Maintenance Overhaul Zeta,Cancelled
+541,541,2023-11-01 02:55:49.136371,2023,11,1,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+542,542,2023-08-24 12:56:49.136371,2023,8,24,19,Likupang,DKI Jakarta,1,Grid Modernization Alpha,Planning
+543,543,2025-05-14 22:09:49.136371,2025,5,14,12,Suralaya,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+544,544,2024-09-06 04:15:49.136371,2024,9,6,13,Tanjung Jati B,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+545,545,2024-03-05 11:27:49.136371,2024,3,5,22,Dieng,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+546,546,2023-06-09 08:17:49.136371,2023,6,9,16,Tambak Lorok,Sulawesi Utara,4,Rural Electrification Delta,On Hold
+547,547,2024-07-09 11:29:49.136371,2024,7,9,25,Muara Laboh,Jawa Tengah,1,Grid Modernization Alpha,Planning
+548,548,2024-11-15 17:58:49.136371,2024,11,15,18,Jeneponto,Banten,2,Capacity Expansion Beta,Feasibility Study
+549,549,2023-11-26 12:21:49.136371,2023,11,26,6,Wayang Windu,NTT,3,New Renewable Hub Gamma,In Progress
+550,550,2023-12-13 08:48:49.136371,2023,12,13,7,Sibayak,Banten,2,Capacity Expansion Beta,Feasibility Study
+551,551,2024-07-29 04:39:49.136371,2024,7,29,11,Paiton,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+552,552,2025-02-03 01:39:49.136371,2025,2,3,15,Muara Karang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+553,553,2024-06-29 01:02:49.136371,2024,6,29,23,Sorik Marapi,Jawa Timur,4,Rural Electrification Delta,On Hold
+554,554,2024-12-22 18:45:49.136371,2024,12,22,15,Muara Karang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+555,555,2024-04-10 22:05:49.136371,2024,4,10,14,Grati,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+556,556,2024-12-29 11:00:49.136371,2024,12,29,13,Tanjung Jati B,Jawa Barat,4,Rural Electrification Delta,On Hold
+557,557,2023-07-17 23:30:49.136371,2023,7,17,6,Wayang Windu,NTT,6,Maintenance Overhaul Zeta,Cancelled
+558,558,2023-06-08 08:26:49.136371,2023,6,8,25,Muara Laboh,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+559,559,2023-06-12 23:05:49.136371,2023,6,12,15,Muara Karang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+560,560,2024-11-09 10:35:49.136371,2024,11,9,4,Kamojang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+561,561,2023-10-11 10:05:49.136371,2023,10,11,1,Karangkates,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+562,562,2024-04-22 23:26:49.136371,2024,4,22,21,Patuha,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+563,563,2023-07-28 08:04:49.136371,2023,7,28,23,Sorik Marapi,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+564,564,2023-12-01 10:22:49.136371,2023,12,1,9,Ulumbu,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+565,565,2025-03-31 09:38:49.136371,2025,3,31,13,Tanjung Jati B,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+566,566,2024-03-04 05:53:49.136371,2024,3,4,1,Karangkates,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+567,567,2024-11-11 08:58:49.136371,2024,11,11,19,Likupang,DKI Jakarta,3,New Renewable Hub Gamma,In Progress
+568,568,2025-01-01 05:39:49.136371,2025,1,1,12,Suralaya,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+569,569,2024-08-19 03:40:49.136371,2024,8,19,15,Muara Karang,Sumatera Utara,2,Capacity Expansion Beta,Feasibility Study
+570,570,2024-05-05 08:59:49.136371,2024,5,5,5,Darajat,Sulawesi Utara,2,Capacity Expansion Beta,Feasibility Study
+571,571,2023-11-15 02:27:49.136371,2023,11,15,4,Kamojang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+572,572,2024-09-09 03:17:49.136371,2024,9,9,9,Ulumbu,Sulawesi Selatan,6,Maintenance Overhaul Zeta,Cancelled
+573,573,2023-12-16 14:04:49.136371,2023,12,16,9,Ulumbu,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+574,574,2024-06-09 06:35:49.136371,2024,6,9,23,Sorik Marapi,Jawa Timur,4,Rural Electrification Delta,On Hold
+575,575,2024-05-27 00:11:49.136371,2024,5,27,19,Likupang,DKI Jakarta,1,Grid Modernization Alpha,Planning
+576,576,2024-10-16 14:52:49.136371,2024,10,16,19,Likupang,DKI Jakarta,3,New Renewable Hub Gamma,In Progress
+577,577,2024-04-25 06:35:49.136371,2024,4,25,10,Mataloko,Lampung,2,Capacity Expansion Beta,Feasibility Study
+578,578,2023-07-01 15:37:49.136371,2023,7,1,22,Dieng,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+579,579,2025-01-13 03:26:49.136371,2025,1,13,17,Sidrap,NTT,3,New Renewable Hub Gamma,In Progress
+580,580,2023-09-30 03:16:49.136371,2023,9,30,13,Tanjung Jati B,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+581,581,2023-12-11 05:14:49.136371,2023,12,11,10,Mataloko,Lampung,3,New Renewable Hub Gamma,In Progress
+582,582,2024-08-31 20:32:49.136371,2024,8,31,21,Patuha,Lampung,2,Capacity Expansion Beta,Feasibility Study
+583,583,2025-04-10 05:40:49.136371,2025,4,10,17,Sidrap,NTT,3,New Renewable Hub Gamma,In Progress
+584,584,2025-03-03 02:14:49.136371,2025,3,3,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+585,585,2024-02-17 11:18:49.136371,2024,2,17,13,Tanjung Jati B,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+586,586,2024-12-14 16:47:49.136371,2024,12,14,21,Patuha,Lampung,4,Rural Electrification Delta,On Hold
+587,587,2025-03-10 15:57:49.136371,2025,3,10,21,Patuha,Lampung,3,New Renewable Hub Gamma,In Progress
+588,588,2023-12-25 18:40:49.136371,2023,12,25,21,Patuha,Lampung,4,Rural Electrification Delta,On Hold
+589,589,2025-01-31 09:48:49.136371,2025,1,31,23,Sorik Marapi,Jawa Timur,1,Grid Modernization Alpha,Planning
+590,590,2024-07-25 00:36:49.136371,2024,7,25,14,Grati,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+591,591,2025-01-08 08:50:49.136371,2025,1,8,10,Mataloko,Lampung,1,Grid Modernization Alpha,Planning
+592,592,2024-05-01 16:02:49.136371,2024,5,1,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+593,593,2023-12-28 22:59:49.136371,2023,12,28,18,Jeneponto,Banten,1,Grid Modernization Alpha,Planning
+594,594,2023-11-12 05:07:49.136371,2023,11,12,7,Sibayak,Banten,6,Maintenance Overhaul Zeta,Cancelled
+595,595,2023-10-02 08:41:49.136371,2023,10,2,23,Sorik Marapi,Jawa Timur,4,Rural Electrification Delta,On Hold
+596,596,2024-04-17 13:27:49.136371,2024,4,17,3,Saguling,Jawa Tengah,4,Rural Electrification Delta,On Hold
+597,597,2023-12-19 23:59:49.136371,2023,12,19,3,Saguling,Jawa Tengah,4,Rural Electrification Delta,On Hold
+598,598,2024-03-25 20:43:49.136371,2024,3,25,8,Lahendong,DKI Jakarta,3,New Renewable Hub Gamma,In Progress
+599,599,2024-07-27 20:57:49.136371,2024,7,27,2,Cirata,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+600,600,2023-11-10 20:59:49.136371,2023,11,10,15,Muara Karang,Sumatera Utara,4,Rural Electrification Delta,On Hold
+601,601,2024-12-29 21:11:49.136371,2024,12,29,18,Jeneponto,Banten,2,Capacity Expansion Beta,Feasibility Study
+602,602,2025-01-12 06:20:49.136371,2025,1,12,18,Jeneponto,Banten,1,Grid Modernization Alpha,Planning
+603,603,2024-10-26 08:51:49.136371,2024,10,26,20,Gunung Salak,Sulawesi Selatan,1,Grid Modernization Alpha,Planning
+604,604,2024-04-16 03:12:49.136371,2024,4,16,20,Gunung Salak,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+605,605,2024-01-06 16:32:49.136371,2024,1,6,17,Sidrap,NTT,3,New Renewable Hub Gamma,In Progress
+606,606,2023-07-02 06:54:49.136371,2023,7,2,12,Suralaya,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+607,607,2024-04-04 00:55:49.136371,2024,4,4,14,Grati,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+608,608,2023-06-26 17:27:49.136371,2023,6,26,24,Rantau Dedap,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+609,609,2023-10-07 15:40:49.136371,2023,10,7,25,Muara Laboh,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+610,610,2024-06-19 05:27:49.136371,2024,6,19,23,Sorik Marapi,Jawa Timur,1,Grid Modernization Alpha,Planning
+611,611,2025-03-21 17:01:49.136371,2025,3,21,17,Sidrap,NTT,2,Capacity Expansion Beta,Feasibility Study
+612,612,2024-01-30 02:39:49.136371,2024,1,30,12,Suralaya,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+613,613,2023-06-27 22:28:49.136371,2023,6,27,5,Darajat,Sulawesi Utara,1,Grid Modernization Alpha,Planning
+614,614,2023-12-28 02:46:49.136371,2023,12,28,21,Patuha,Lampung,2,Capacity Expansion Beta,Feasibility Study
+615,615,2025-01-22 21:37:49.136371,2025,1,22,15,Muara Karang,Sumatera Utara,5,Efficiency Upgrade Epsilon,Completed
+616,616,2024-03-04 19:06:49.136371,2024,3,4,14,Grati,Jawa Tengah,4,Rural Electrification Delta,On Hold
+617,617,2025-03-31 14:33:49.136371,2025,3,31,16,Tambak Lorok,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+618,618,2025-05-10 23:23:49.136371,2025,5,10,1,Karangkates,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+619,619,2024-06-22 09:03:49.136371,2024,6,22,22,Dieng,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+620,620,2023-10-11 11:54:49.136371,2023,10,11,22,Dieng,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+621,621,2024-02-04 08:47:49.136371,2024,2,4,24,Rantau Dedap,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+622,622,2023-09-13 01:52:49.136371,2023,9,13,8,Lahendong,DKI Jakarta,5,Efficiency Upgrade Epsilon,Completed
+623,623,2024-06-10 17:17:49.136371,2024,6,10,16,Tambak Lorok,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+624,624,2024-02-10 00:49:49.136371,2024,2,10,3,Saguling,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+625,625,2024-08-01 00:37:49.136371,2024,8,1,21,Patuha,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+626,626,2024-01-02 03:01:49.136371,2024,1,2,18,Jeneponto,Banten,4,Rural Electrification Delta,On Hold
+627,627,2024-03-05 14:18:49.136371,2024,3,5,11,Paiton,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+628,628,2023-07-12 20:00:49.136371,2023,7,12,8,Lahendong,DKI Jakarta,4,Rural Electrification Delta,On Hold
+629,629,2023-08-07 22:50:49.136371,2023,8,7,11,Paiton,Sumatera Selatan,1,Grid Modernization Alpha,Planning
+630,630,2024-08-21 10:35:49.136371,2024,8,21,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+631,631,2024-01-09 17:02:49.136371,2024,1,9,25,Muara Laboh,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+632,632,2025-04-18 07:21:49.136371,2025,4,18,1,Karangkates,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+633,633,2023-10-12 22:11:49.136371,2023,10,12,5,Darajat,Sulawesi Utara,4,Rural Electrification Delta,On Hold
+634,634,2024-09-07 15:02:49.136371,2024,9,7,19,Likupang,DKI Jakarta,1,Grid Modernization Alpha,Planning
+635,635,2023-12-21 13:38:49.136371,2023,12,21,22,Dieng,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+636,636,2024-03-23 17:59:49.136371,2024,3,23,3,Saguling,Jawa Tengah,1,Grid Modernization Alpha,Planning
+637,637,2023-11-24 19:42:49.136371,2023,11,24,20,Gunung Salak,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+638,638,2025-04-06 01:17:49.136371,2025,4,6,6,Wayang Windu,NTT,1,Grid Modernization Alpha,Planning
+639,639,2023-11-30 22:02:49.136371,2023,11,30,2,Cirata,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+640,640,2024-09-20 10:45:49.136371,2024,9,20,10,Mataloko,Lampung,1,Grid Modernization Alpha,Planning
+641,641,2023-08-17 23:00:49.136371,2023,8,17,9,Ulumbu,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+642,642,2024-07-28 08:35:49.136371,2024,7,28,23,Sorik Marapi,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+643,643,2023-11-21 13:12:49.136371,2023,11,21,19,Likupang,DKI Jakarta,4,Rural Electrification Delta,On Hold
+644,644,2024-09-26 19:49:49.136371,2024,9,26,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+645,645,2025-01-31 17:39:49.136371,2025,1,31,18,Jeneponto,Banten,5,Efficiency Upgrade Epsilon,Completed
+646,646,2025-04-17 10:12:49.136371,2025,4,17,24,Rantau Dedap,Jawa Barat,1,Grid Modernization Alpha,Planning
+647,647,2025-01-24 19:23:49.136371,2025,1,24,5,Darajat,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+648,648,2023-07-21 17:27:49.136371,2023,7,21,21,Patuha,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+649,649,2024-07-02 09:37:49.136371,2024,7,2,11,Paiton,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+650,650,2023-08-29 20:23:49.136371,2023,8,29,17,Sidrap,NTT,1,Grid Modernization Alpha,Planning
+651,651,2023-06-11 10:35:49.136371,2023,6,11,16,Tambak Lorok,Sulawesi Utara,2,Capacity Expansion Beta,Feasibility Study
+652,652,2025-04-13 15:34:49.136371,2025,4,13,3,Saguling,Jawa Tengah,1,Grid Modernization Alpha,Planning
+653,653,2024-09-27 03:40:49.136371,2024,9,27,2,Cirata,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+654,654,2023-06-03 16:56:49.136371,2023,6,3,3,Saguling,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+655,655,2023-12-18 17:48:49.136371,2023,12,18,19,Likupang,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+656,656,2024-08-02 11:11:49.136371,2024,8,2,22,Dieng,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+657,657,2024-02-13 22:17:49.136371,2024,2,13,8,Lahendong,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+658,658,2023-09-29 04:26:49.136371,2023,9,29,11,Paiton,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+659,659,2024-04-11 03:23:49.136371,2024,4,11,2,Cirata,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+660,660,2024-11-17 21:40:49.136371,2024,11,17,9,Ulumbu,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+661,661,2025-01-10 14:31:49.136371,2025,1,10,22,Dieng,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+662,662,2024-07-12 08:12:49.136371,2024,7,12,5,Darajat,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+663,663,2025-02-01 16:30:49.136371,2025,2,1,18,Jeneponto,Banten,5,Efficiency Upgrade Epsilon,Completed
+664,664,2023-10-01 01:25:49.136371,2023,10,1,22,Dieng,Sumatera Selatan,5,Efficiency Upgrade Epsilon,Completed
+665,665,2023-12-11 08:22:49.136371,2023,12,11,17,Sidrap,NTT,3,New Renewable Hub Gamma,In Progress
+666,666,2023-11-22 19:16:49.136371,2023,11,22,24,Rantau Dedap,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+667,667,2024-09-14 18:10:49.136371,2024,9,14,13,Tanjung Jati B,Jawa Barat,1,Grid Modernization Alpha,Planning
+668,668,2024-05-08 05:10:49.136371,2024,5,8,6,Wayang Windu,NTT,3,New Renewable Hub Gamma,In Progress
+669,669,2023-09-29 02:16:49.136371,2023,9,29,17,Sidrap,NTT,3,New Renewable Hub Gamma,In Progress
+670,670,2024-11-18 21:52:49.136371,2024,11,18,13,Tanjung Jati B,Jawa Barat,4,Rural Electrification Delta,On Hold
+671,671,2023-09-08 20:22:49.136371,2023,9,8,25,Muara Laboh,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+672,672,2024-05-16 05:15:49.136371,2024,5,16,21,Patuha,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+673,673,2024-02-27 05:39:49.136371,2024,2,27,21,Patuha,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+674,674,2023-11-07 10:35:49.136371,2023,11,7,8,Lahendong,DKI Jakarta,1,Grid Modernization Alpha,Planning
+675,675,2023-08-11 16:35:49.136371,2023,8,11,5,Darajat,Sulawesi Utara,4,Rural Electrification Delta,On Hold
+676,676,2024-05-14 18:48:49.136371,2024,5,14,18,Jeneponto,Banten,4,Rural Electrification Delta,On Hold
+677,677,2024-04-26 09:13:49.136371,2024,4,26,17,Sidrap,NTT,4,Rural Electrification Delta,On Hold
+678,678,2025-04-18 22:12:49.136371,2025,4,18,24,Rantau Dedap,Jawa Barat,4,Rural Electrification Delta,On Hold
+679,679,2024-10-21 03:41:49.136371,2024,10,21,14,Grati,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+680,680,2023-10-15 16:33:49.136371,2023,10,15,7,Sibayak,Banten,5,Efficiency Upgrade Epsilon,Completed
+681,681,2025-04-03 20:54:49.136371,2025,4,3,4,Kamojang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+682,682,2023-06-23 21:19:49.136371,2023,6,23,4,Kamojang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+683,683,2025-01-19 23:37:49.136371,2025,1,19,20,Gunung Salak,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+684,684,2023-11-27 18:13:49.136371,2023,11,27,21,Patuha,Lampung,5,Efficiency Upgrade Epsilon,Completed
+685,685,2024-01-01 13:52:49.136371,2024,1,1,13,Tanjung Jati B,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+686,686,2025-03-12 17:39:49.136371,2025,3,12,7,Sibayak,Banten,3,New Renewable Hub Gamma,In Progress
+687,687,2023-06-08 09:53:49.136371,2023,6,8,8,Lahendong,DKI Jakarta,5,Efficiency Upgrade Epsilon,Completed
+688,688,2024-09-28 21:06:49.136371,2024,9,28,9,Ulumbu,Sulawesi Selatan,2,Capacity Expansion Beta,Feasibility Study
+689,689,2024-11-23 06:38:49.136371,2024,11,23,25,Muara Laboh,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+690,690,2023-11-06 15:33:49.136371,2023,11,6,24,Rantau Dedap,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+691,691,2024-10-27 15:48:49.136371,2024,10,27,4,Kamojang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+692,692,2024-04-24 15:58:49.136371,2024,4,24,18,Jeneponto,Banten,4,Rural Electrification Delta,On Hold
+693,693,2025-04-10 10:16:49.136371,2025,4,10,5,Darajat,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+694,694,2023-08-01 21:33:49.136371,2023,8,1,4,Kamojang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+695,695,2024-01-03 09:45:49.136371,2024,1,3,9,Ulumbu,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+696,696,2025-03-22 08:31:49.136371,2025,3,22,19,Likupang,DKI Jakarta,3,New Renewable Hub Gamma,In Progress
+697,697,2024-11-16 11:31:49.136371,2024,11,16,16,Tambak Lorok,Sulawesi Utara,2,Capacity Expansion Beta,Feasibility Study
+698,698,2024-07-01 16:19:49.136371,2024,7,1,24,Rantau Dedap,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+699,699,2023-07-06 23:58:49.136371,2023,7,6,3,Saguling,Jawa Tengah,4,Rural Electrification Delta,On Hold
+700,700,2023-12-28 00:01:49.136371,2023,12,28,14,Grati,Jawa Tengah,1,Grid Modernization Alpha,Planning
+701,701,2024-03-14 08:25:49.136371,2024,3,14,17,Sidrap,NTT,5,Efficiency Upgrade Epsilon,Completed
+702,702,2024-03-30 03:22:49.136371,2024,3,30,2,Cirata,Jawa Barat,4,Rural Electrification Delta,On Hold
+703,703,2024-08-22 10:09:49.136371,2024,8,22,25,Muara Laboh,Jawa Tengah,1,Grid Modernization Alpha,Planning
+704,704,2025-04-06 22:03:49.136371,2025,4,6,1,Karangkates,Jawa Timur,4,Rural Electrification Delta,On Hold
+705,705,2025-05-25 00:39:49.136371,2025,5,25,9,Ulumbu,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+706,706,2025-01-08 13:13:49.136371,2025,1,8,13,Tanjung Jati B,Jawa Barat,4,Rural Electrification Delta,On Hold
+707,707,2025-01-31 16:15:49.136371,2025,1,31,5,Darajat,Sulawesi Utara,1,Grid Modernization Alpha,Planning
+708,708,2025-02-14 05:08:49.136371,2025,2,14,13,Tanjung Jati B,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+709,709,2024-01-19 03:27:49.136371,2024,1,19,5,Darajat,Sulawesi Utara,2,Capacity Expansion Beta,Feasibility Study
+710,710,2023-07-04 07:42:49.136371,2023,7,4,8,Lahendong,DKI Jakarta,1,Grid Modernization Alpha,Planning
+711,711,2024-01-13 00:20:49.136371,2024,1,13,13,Tanjung Jati B,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+712,712,2025-03-26 00:40:49.136371,2025,3,26,24,Rantau Dedap,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+713,713,2024-06-25 00:19:49.136371,2024,6,25,17,Sidrap,NTT,1,Grid Modernization Alpha,Planning
+714,714,2024-03-01 07:40:49.136371,2024,3,1,23,Sorik Marapi,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+715,715,2023-08-07 09:52:49.136371,2023,8,7,1,Karangkates,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+716,716,2024-06-29 08:42:49.136371,2024,6,29,25,Muara Laboh,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+717,717,2024-03-26 19:57:49.136371,2024,3,26,24,Rantau Dedap,Jawa Barat,4,Rural Electrification Delta,On Hold
+718,718,2023-08-31 09:21:49.136371,2023,8,31,9,Ulumbu,Sulawesi Selatan,2,Capacity Expansion Beta,Feasibility Study
+719,719,2025-03-31 14:33:49.136371,2025,3,31,8,Lahendong,DKI Jakarta,4,Rural Electrification Delta,On Hold
+720,720,2025-02-04 16:47:49.136371,2025,2,4,5,Darajat,Sulawesi Utara,2,Capacity Expansion Beta,Feasibility Study
+721,721,2023-10-29 07:32:49.136371,2023,10,29,6,Wayang Windu,NTT,2,Capacity Expansion Beta,Feasibility Study
+722,722,2025-03-31 12:54:49.136371,2025,3,31,6,Wayang Windu,NTT,1,Grid Modernization Alpha,Planning
+723,723,2025-04-04 10:23:49.136371,2025,4,4,7,Sibayak,Banten,2,Capacity Expansion Beta,Feasibility Study
+724,724,2023-06-08 09:43:49.136371,2023,6,8,18,Jeneponto,Banten,4,Rural Electrification Delta,On Hold
+725,725,2024-07-28 15:24:49.136371,2024,7,28,10,Mataloko,Lampung,4,Rural Electrification Delta,On Hold
+726,726,2024-05-22 21:04:49.136371,2024,5,22,3,Saguling,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+727,727,2024-05-16 10:14:49.136371,2024,5,16,22,Dieng,Sumatera Selatan,5,Efficiency Upgrade Epsilon,Completed
+728,728,2024-03-05 08:21:49.136371,2024,3,5,17,Sidrap,NTT,2,Capacity Expansion Beta,Feasibility Study
+729,729,2024-08-09 18:05:49.136371,2024,8,9,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+730,730,2024-11-03 17:03:49.136371,2024,11,3,12,Suralaya,Jawa Timur,4,Rural Electrification Delta,On Hold
+731,731,2023-10-31 15:59:49.136371,2023,10,31,17,Sidrap,NTT,3,New Renewable Hub Gamma,In Progress
+732,732,2025-01-24 05:45:49.136371,2025,1,24,7,Sibayak,Banten,1,Grid Modernization Alpha,Planning
+733,733,2025-03-29 00:45:49.136371,2025,3,29,10,Mataloko,Lampung,3,New Renewable Hub Gamma,In Progress
+734,734,2025-05-23 06:06:49.136371,2025,5,23,6,Wayang Windu,NTT,3,New Renewable Hub Gamma,In Progress
+735,735,2024-09-02 11:21:49.136371,2024,9,2,11,Paiton,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+736,736,2024-03-14 12:50:49.136371,2024,3,14,14,Grati,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+737,737,2023-06-25 18:19:49.136371,2023,6,25,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+738,738,2024-07-27 14:26:49.136371,2024,7,27,9,Ulumbu,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+739,739,2023-11-26 22:42:49.136371,2023,11,26,23,Sorik Marapi,Jawa Timur,4,Rural Electrification Delta,On Hold
+740,740,2023-06-06 03:48:49.136371,2023,6,6,12,Suralaya,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+741,741,2024-03-14 13:06:49.136371,2024,3,14,19,Likupang,DKI Jakarta,4,Rural Electrification Delta,On Hold
+742,742,2024-09-04 17:42:49.136371,2024,9,4,23,Sorik Marapi,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+743,743,2024-07-20 21:49:49.136371,2024,7,20,8,Lahendong,DKI Jakarta,5,Efficiency Upgrade Epsilon,Completed
+744,744,2023-06-17 16:47:49.136371,2023,6,17,11,Paiton,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+745,745,2024-03-25 11:53:49.136371,2024,3,25,3,Saguling,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+746,746,2023-09-16 04:47:49.136371,2023,9,16,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+747,747,2023-11-03 15:45:49.136371,2023,11,3,18,Jeneponto,Banten,4,Rural Electrification Delta,On Hold
+748,748,2023-09-24 15:04:49.136371,2023,9,24,15,Muara Karang,Sumatera Utara,6,Maintenance Overhaul Zeta,Cancelled
+749,749,2024-04-30 14:20:49.136371,2024,4,30,14,Grati,Jawa Tengah,1,Grid Modernization Alpha,Planning
+750,750,2023-10-29 14:40:49.136371,2023,10,29,7,Sibayak,Banten,1,Grid Modernization Alpha,Planning
+751,751,2024-07-31 01:10:49.136371,2024,7,31,18,Jeneponto,Banten,4,Rural Electrification Delta,On Hold
+752,752,2024-05-31 09:50:49.136371,2024,5,31,9,Ulumbu,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+753,753,2025-01-25 22:08:49.136371,2025,1,25,23,Sorik Marapi,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+754,754,2024-10-22 03:43:49.136371,2024,10,22,10,Mataloko,Lampung,3,New Renewable Hub Gamma,In Progress
+755,755,2024-10-16 18:27:49.136371,2024,10,16,4,Kamojang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+756,756,2023-09-22 05:58:49.136371,2023,9,22,6,Wayang Windu,NTT,5,Efficiency Upgrade Epsilon,Completed
+757,757,2025-03-10 21:50:49.136371,2025,3,10,9,Ulumbu,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+758,758,2024-10-28 00:17:49.136371,2024,10,28,2,Cirata,Jawa Barat,4,Rural Electrification Delta,On Hold
+759,759,2024-10-28 23:49:49.136371,2024,10,28,8,Lahendong,DKI Jakarta,2,Capacity Expansion Beta,Feasibility Study
+760,760,2024-04-30 22:23:49.136371,2024,4,30,3,Saguling,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+761,761,2024-06-12 05:21:49.136371,2024,6,12,22,Dieng,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+762,762,2025-01-15 10:28:49.136371,2025,1,15,10,Mataloko,Lampung,2,Capacity Expansion Beta,Feasibility Study
+763,763,2023-06-07 01:08:49.136371,2023,6,7,7,Sibayak,Banten,5,Efficiency Upgrade Epsilon,Completed
+764,764,2025-04-28 06:13:49.136371,2025,4,28,13,Tanjung Jati B,Jawa Barat,4,Rural Electrification Delta,On Hold
+765,765,2025-03-30 23:57:49.136371,2025,3,30,18,Jeneponto,Banten,3,New Renewable Hub Gamma,In Progress
+766,766,2025-03-08 08:36:49.136371,2025,3,8,7,Sibayak,Banten,1,Grid Modernization Alpha,Planning
+767,767,2024-02-07 05:13:49.136371,2024,2,7,19,Likupang,DKI Jakarta,3,New Renewable Hub Gamma,In Progress
+768,768,2023-06-17 09:42:49.136371,2023,6,17,18,Jeneponto,Banten,3,New Renewable Hub Gamma,In Progress
+769,769,2024-11-06 21:15:49.136371,2024,11,6,5,Darajat,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+770,770,2024-02-14 11:01:49.136371,2024,2,14,15,Muara Karang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+771,771,2023-07-04 02:46:49.136371,2023,7,4,13,Tanjung Jati B,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+772,772,2024-10-05 14:17:49.136371,2024,10,5,5,Darajat,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+773,773,2024-10-12 10:54:49.136371,2024,10,12,2,Cirata,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+774,774,2024-06-04 12:43:49.136371,2024,6,4,13,Tanjung Jati B,Jawa Barat,1,Grid Modernization Alpha,Planning
+775,775,2024-04-02 22:07:49.136371,2024,4,2,24,Rantau Dedap,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+776,776,2024-11-12 14:11:49.136371,2024,11,12,17,Sidrap,NTT,3,New Renewable Hub Gamma,In Progress
+777,777,2024-04-28 16:06:49.136371,2024,4,28,16,Tambak Lorok,Sulawesi Utara,4,Rural Electrification Delta,On Hold
+778,778,2024-11-10 20:41:49.136371,2024,11,10,1,Karangkates,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+779,779,2023-06-17 14:11:49.136371,2023,6,17,24,Rantau Dedap,Jawa Barat,4,Rural Electrification Delta,On Hold
+780,780,2024-01-19 19:27:49.136371,2024,1,19,5,Darajat,Sulawesi Utara,5,Efficiency Upgrade Epsilon,Completed
+781,781,2024-06-19 11:55:49.136371,2024,6,19,6,Wayang Windu,NTT,5,Efficiency Upgrade Epsilon,Completed
+782,782,2023-10-05 11:44:49.136371,2023,10,5,23,Sorik Marapi,Jawa Timur,1,Grid Modernization Alpha,Planning
+783,783,2023-12-28 15:59:49.136371,2023,12,28,25,Muara Laboh,Jawa Tengah,4,Rural Electrification Delta,On Hold
+784,784,2023-07-19 18:44:49.136371,2023,7,19,7,Sibayak,Banten,5,Efficiency Upgrade Epsilon,Completed
+785,785,2023-08-08 13:08:49.136371,2023,8,8,10,Mataloko,Lampung,3,New Renewable Hub Gamma,In Progress
+786,786,2024-02-29 05:16:49.136371,2024,2,29,9,Ulumbu,Sulawesi Selatan,6,Maintenance Overhaul Zeta,Cancelled
+787,787,2024-03-01 16:30:49.136371,2024,3,1,12,Suralaya,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+788,788,2023-09-08 12:56:49.136371,2023,9,8,9,Ulumbu,Sulawesi Selatan,1,Grid Modernization Alpha,Planning
+789,789,2024-03-21 17:42:49.136371,2024,3,21,20,Gunung Salak,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+790,790,2023-07-21 05:49:49.136371,2023,7,21,4,Kamojang,Sumatera Utara,4,Rural Electrification Delta,On Hold
+791,791,2025-05-18 15:04:49.136371,2025,5,18,20,Gunung Salak,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+792,792,2023-07-13 09:51:49.136371,2023,7,13,20,Gunung Salak,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+793,793,2025-01-28 22:32:49.136371,2025,1,28,6,Wayang Windu,NTT,3,New Renewable Hub Gamma,In Progress
+794,794,2023-12-27 23:18:49.136371,2023,12,27,18,Jeneponto,Banten,1,Grid Modernization Alpha,Planning
+795,795,2025-01-15 10:30:49.136371,2025,1,15,8,Lahendong,DKI Jakarta,5,Efficiency Upgrade Epsilon,Completed
+796,796,2025-03-17 10:21:49.136371,2025,3,17,8,Lahendong,DKI Jakarta,1,Grid Modernization Alpha,Planning
+797,797,2024-11-17 01:18:49.136371,2024,11,17,17,Sidrap,NTT,6,Maintenance Overhaul Zeta,Cancelled
+798,798,2023-11-25 23:49:49.136371,2023,11,25,1,Karangkates,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+799,799,2024-05-22 20:16:49.136371,2024,5,22,10,Mataloko,Lampung,4,Rural Electrification Delta,On Hold
+800,800,2024-03-23 18:00:49.136371,2024,3,23,14,Grati,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+801,801,2023-08-03 09:34:49.136371,2023,8,3,14,Grati,Jawa Tengah,1,Grid Modernization Alpha,Planning
+802,802,2023-07-09 12:32:49.136371,2023,7,9,2,Cirata,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+803,803,2024-02-19 15:41:49.136371,2024,2,19,14,Grati,Jawa Tengah,4,Rural Electrification Delta,On Hold
+804,804,2024-07-14 14:35:49.136371,2024,7,14,20,Gunung Salak,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+805,805,2024-07-02 15:40:49.136371,2024,7,2,9,Ulumbu,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+806,806,2024-12-31 17:03:49.136371,2024,12,31,2,Cirata,Jawa Barat,1,Grid Modernization Alpha,Planning
+807,807,2024-11-07 01:50:49.136371,2024,11,7,25,Muara Laboh,Jawa Tengah,4,Rural Electrification Delta,On Hold
+808,808,2023-11-20 20:28:49.136371,2023,11,20,19,Likupang,DKI Jakarta,4,Rural Electrification Delta,On Hold
+809,809,2023-12-08 20:12:49.136371,2023,12,8,4,Kamojang,Sumatera Utara,2,Capacity Expansion Beta,Feasibility Study
+810,810,2025-03-19 08:10:49.136371,2025,3,19,13,Tanjung Jati B,Jawa Barat,4,Rural Electrification Delta,On Hold
+811,811,2024-10-06 22:22:49.136371,2024,10,6,8,Lahendong,DKI Jakarta,1,Grid Modernization Alpha,Planning
+812,812,2025-05-07 09:05:49.136371,2025,5,7,16,Tambak Lorok,Sulawesi Utara,1,Grid Modernization Alpha,Planning
+813,813,2024-08-07 07:34:49.136371,2024,8,7,24,Rantau Dedap,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+814,814,2024-05-27 21:45:49.136371,2024,5,27,11,Paiton,Sumatera Selatan,5,Efficiency Upgrade Epsilon,Completed
+815,815,2023-06-20 18:16:49.136371,2023,6,20,1,Karangkates,Jawa Timur,4,Rural Electrification Delta,On Hold
+816,816,2023-08-15 22:14:49.136371,2023,8,15,13,Tanjung Jati B,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+817,817,2024-09-13 00:49:49.136371,2024,9,13,15,Muara Karang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+818,818,2023-10-24 02:05:49.136371,2023,10,24,19,Likupang,DKI Jakarta,2,Capacity Expansion Beta,Feasibility Study
+819,819,2024-07-30 05:07:49.136371,2024,7,30,4,Kamojang,Sumatera Utara,6,Maintenance Overhaul Zeta,Cancelled
+820,820,2025-03-02 19:29:49.136371,2025,3,2,19,Likupang,DKI Jakarta,4,Rural Electrification Delta,On Hold
+821,821,2024-08-26 13:47:49.136371,2024,8,26,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+822,822,2023-09-24 02:05:49.136371,2023,9,24,18,Jeneponto,Banten,2,Capacity Expansion Beta,Feasibility Study
+823,823,2023-06-14 18:27:49.136371,2023,6,14,7,Sibayak,Banten,5,Efficiency Upgrade Epsilon,Completed
+824,824,2023-07-14 19:29:49.136371,2023,7,14,22,Dieng,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+825,825,2023-07-11 19:28:49.136371,2023,7,11,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+826,826,2025-03-17 15:50:49.136371,2025,3,17,13,Tanjung Jati B,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+827,827,2024-02-26 15:05:49.136371,2024,2,26,18,Jeneponto,Banten,2,Capacity Expansion Beta,Feasibility Study
+828,828,2024-07-27 07:53:49.136371,2024,7,27,1,Karangkates,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+829,829,2025-04-23 14:50:49.136371,2025,4,23,9,Ulumbu,Sulawesi Selatan,6,Maintenance Overhaul Zeta,Cancelled
+830,830,2023-07-29 05:27:49.136371,2023,7,29,4,Kamojang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+831,831,2025-02-26 22:04:49.136371,2025,2,26,9,Ulumbu,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+832,832,2025-04-10 20:34:49.136371,2025,4,10,25,Muara Laboh,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+833,833,2023-07-15 10:31:49.136371,2023,7,15,21,Patuha,Lampung,5,Efficiency Upgrade Epsilon,Completed
+834,834,2024-12-30 14:45:49.136371,2024,12,30,21,Patuha,Lampung,5,Efficiency Upgrade Epsilon,Completed
+835,835,2024-01-06 08:21:49.136371,2024,1,6,15,Muara Karang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+836,836,2025-05-02 03:16:49.136371,2025,5,2,22,Dieng,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+837,837,2023-06-05 04:33:49.136371,2023,6,5,21,Patuha,Lampung,4,Rural Electrification Delta,On Hold
+838,838,2025-03-31 20:26:49.136371,2025,3,31,23,Sorik Marapi,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+839,839,2024-01-28 21:19:49.136371,2024,1,28,5,Darajat,Sulawesi Utara,5,Efficiency Upgrade Epsilon,Completed
+840,840,2024-04-06 01:24:49.136371,2024,4,6,19,Likupang,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+841,841,2024-02-10 14:10:49.136371,2024,2,10,1,Karangkates,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+842,842,2024-05-11 19:26:49.136371,2024,5,11,21,Patuha,Lampung,5,Efficiency Upgrade Epsilon,Completed
+843,843,2024-09-15 11:55:49.136371,2024,9,15,17,Sidrap,NTT,1,Grid Modernization Alpha,Planning
+844,844,2024-01-09 10:41:49.136371,2024,1,9,15,Muara Karang,Sumatera Utara,1,Grid Modernization Alpha,Planning
+845,845,2024-04-12 18:19:49.136371,2024,4,12,15,Muara Karang,Sumatera Utara,4,Rural Electrification Delta,On Hold
+846,846,2025-02-16 21:04:49.136371,2025,2,16,13,Tanjung Jati B,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+847,847,2024-02-13 05:25:49.136371,2024,2,13,24,Rantau Dedap,Jawa Barat,4,Rural Electrification Delta,On Hold
+848,848,2023-06-28 22:48:49.136371,2023,6,28,25,Muara Laboh,Jawa Tengah,4,Rural Electrification Delta,On Hold
+849,849,2024-04-19 16:29:49.136371,2024,4,19,22,Dieng,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+850,850,2025-03-16 19:51:49.136371,2025,3,16,19,Likupang,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+851,851,2025-02-23 06:24:49.136371,2025,2,23,23,Sorik Marapi,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+852,852,2024-05-29 13:48:49.136371,2024,5,29,16,Tambak Lorok,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+853,853,2025-03-16 21:45:49.136371,2025,3,16,14,Grati,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+854,854,2024-09-10 17:49:49.136371,2024,9,10,4,Kamojang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+855,855,2025-04-28 10:19:49.136371,2025,4,28,24,Rantau Dedap,Jawa Barat,4,Rural Electrification Delta,On Hold
+856,856,2025-02-06 02:05:49.136371,2025,2,6,5,Darajat,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+857,857,2024-08-31 23:32:49.136371,2024,8,31,24,Rantau Dedap,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+858,858,2025-01-08 05:04:49.136371,2025,1,8,7,Sibayak,Banten,1,Grid Modernization Alpha,Planning
+859,859,2024-04-01 02:24:49.136371,2024,4,1,6,Wayang Windu,NTT,5,Efficiency Upgrade Epsilon,Completed
+860,860,2024-09-02 06:52:49.136371,2024,9,2,25,Muara Laboh,Jawa Tengah,4,Rural Electrification Delta,On Hold
+861,861,2023-08-29 00:25:49.136371,2023,8,29,11,Paiton,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+862,862,2024-09-12 22:12:49.136371,2024,9,12,15,Muara Karang,Sumatera Utara,2,Capacity Expansion Beta,Feasibility Study
+863,863,2025-01-25 16:17:49.136371,2025,1,25,1,Karangkates,Jawa Timur,4,Rural Electrification Delta,On Hold
+864,864,2024-10-14 09:59:49.136371,2024,10,14,16,Tambak Lorok,Sulawesi Utara,5,Efficiency Upgrade Epsilon,Completed
+865,865,2024-01-12 20:18:49.136371,2024,1,12,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+866,866,2025-04-16 11:15:49.136371,2025,4,16,11,Paiton,Sumatera Selatan,1,Grid Modernization Alpha,Planning
+867,867,2025-03-20 16:04:49.136371,2025,3,20,19,Likupang,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+868,868,2023-07-29 10:11:49.136371,2023,7,29,17,Sidrap,NTT,2,Capacity Expansion Beta,Feasibility Study
+869,869,2023-06-17 13:28:49.136371,2023,6,17,16,Tambak Lorok,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+870,870,2024-06-18 18:25:49.136371,2024,6,18,2,Cirata,Jawa Barat,1,Grid Modernization Alpha,Planning
+871,871,2023-07-26 04:03:49.136371,2023,7,26,2,Cirata,Jawa Barat,4,Rural Electrification Delta,On Hold
+872,872,2023-08-29 23:55:49.136371,2023,8,29,24,Rantau Dedap,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+873,873,2025-03-22 11:24:49.136371,2025,3,22,13,Tanjung Jati B,Jawa Barat,4,Rural Electrification Delta,On Hold
+874,874,2024-03-17 07:21:49.136371,2024,3,17,20,Gunung Salak,Sulawesi Selatan,1,Grid Modernization Alpha,Planning
+875,875,2023-12-13 01:25:49.136371,2023,12,13,5,Darajat,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+876,876,2024-08-07 09:43:49.136371,2024,8,7,5,Darajat,Sulawesi Utara,6,Maintenance Overhaul Zeta,Cancelled
+877,877,2024-08-02 04:13:49.136371,2024,8,2,17,Sidrap,NTT,3,New Renewable Hub Gamma,In Progress
+878,878,2025-01-12 15:21:49.136371,2025,1,12,11,Paiton,Sumatera Selatan,1,Grid Modernization Alpha,Planning
+879,879,2024-02-07 18:34:49.136371,2024,2,7,10,Mataloko,Lampung,5,Efficiency Upgrade Epsilon,Completed
+880,880,2024-05-16 04:12:49.136371,2024,5,16,24,Rantau Dedap,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+881,881,2023-12-29 16:14:49.136371,2023,12,29,5,Darajat,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+882,882,2024-10-03 19:55:49.136371,2024,10,3,5,Darajat,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+883,883,2024-04-20 10:53:49.136371,2024,4,20,5,Darajat,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+884,884,2024-10-20 16:23:49.136371,2024,10,20,8,Lahendong,DKI Jakarta,2,Capacity Expansion Beta,Feasibility Study
+885,885,2023-12-01 15:33:49.136371,2023,12,1,16,Tambak Lorok,Sulawesi Utara,1,Grid Modernization Alpha,Planning
+886,886,2024-01-25 02:22:49.136371,2024,1,25,20,Gunung Salak,Sulawesi Selatan,6,Maintenance Overhaul Zeta,Cancelled
+887,887,2024-06-07 19:15:49.136371,2024,6,7,18,Jeneponto,Banten,3,New Renewable Hub Gamma,In Progress
+888,888,2024-01-10 03:36:49.136371,2024,1,10,23,Sorik Marapi,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+889,889,2025-05-21 05:45:49.136371,2025,5,21,16,Tambak Lorok,Sulawesi Utara,3,New Renewable Hub Gamma,In Progress
+890,890,2024-05-18 01:36:49.136371,2024,5,18,4,Kamojang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+891,891,2024-06-17 13:17:49.136371,2024,6,17,12,Suralaya,Jawa Timur,4,Rural Electrification Delta,On Hold
+892,892,2023-09-06 13:39:49.136371,2023,9,6,24,Rantau Dedap,Jawa Barat,1,Grid Modernization Alpha,Planning
+893,893,2025-01-20 18:57:49.136371,2025,1,20,14,Grati,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+894,894,2023-11-02 01:13:49.136371,2023,11,2,9,Ulumbu,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+895,895,2024-05-14 10:32:49.136371,2024,5,14,14,Grati,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+896,896,2023-07-04 21:55:49.136371,2023,7,4,19,Likupang,DKI Jakarta,3,New Renewable Hub Gamma,In Progress
+897,897,2023-12-04 18:17:49.136371,2023,12,4,15,Muara Karang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+898,898,2024-12-04 15:50:49.136371,2024,12,4,12,Suralaya,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+899,899,2024-08-04 14:24:49.136371,2024,8,4,15,Muara Karang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+900,900,2024-04-25 23:33:49.136371,2024,4,25,19,Likupang,DKI Jakarta,4,Rural Electrification Delta,On Hold
+901,901,2024-10-01 01:33:49.136371,2024,10,1,15,Muara Karang,Sumatera Utara,4,Rural Electrification Delta,On Hold
+902,902,2023-07-23 11:52:49.136371,2023,7,23,9,Ulumbu,Sulawesi Selatan,5,Efficiency Upgrade Epsilon,Completed
+903,903,2023-12-17 08:12:49.136371,2023,12,17,17,Sidrap,NTT,1,Grid Modernization Alpha,Planning
+904,904,2024-02-04 13:38:49.136371,2024,2,4,17,Sidrap,NTT,1,Grid Modernization Alpha,Planning
+905,905,2024-12-31 19:57:49.136371,2024,12,31,19,Likupang,DKI Jakarta,6,Maintenance Overhaul Zeta,Cancelled
+906,906,2024-11-24 00:53:49.136371,2024,11,24,22,Dieng,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+907,907,2024-03-27 18:06:49.136371,2024,3,27,1,Karangkates,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+908,908,2023-10-17 20:42:49.136371,2023,10,17,24,Rantau Dedap,Jawa Barat,1,Grid Modernization Alpha,Planning
+909,909,2025-04-30 10:33:49.136371,2025,4,30,3,Saguling,Jawa Tengah,1,Grid Modernization Alpha,Planning
+910,910,2023-12-26 14:55:49.136371,2023,12,26,25,Muara Laboh,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+911,911,2024-01-12 21:13:49.136371,2024,1,12,18,Jeneponto,Banten,2,Capacity Expansion Beta,Feasibility Study
+912,912,2023-09-07 00:31:49.136371,2023,9,7,23,Sorik Marapi,Jawa Timur,2,Capacity Expansion Beta,Feasibility Study
+913,913,2023-08-01 23:40:49.136371,2023,8,1,19,Likupang,DKI Jakarta,4,Rural Electrification Delta,On Hold
+914,914,2024-12-04 12:12:49.136371,2024,12,4,8,Lahendong,DKI Jakarta,3,New Renewable Hub Gamma,In Progress
+915,915,2025-01-04 07:25:49.136371,2025,1,4,24,Rantau Dedap,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+916,916,2024-10-27 02:20:49.136371,2024,10,27,4,Kamojang,Sumatera Utara,5,Efficiency Upgrade Epsilon,Completed
+917,917,2024-04-10 21:31:49.136371,2024,4,10,1,Karangkates,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+918,918,2024-08-06 15:06:49.136371,2024,8,6,1,Karangkates,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+919,919,2025-05-22 16:52:49.136371,2025,5,22,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+920,920,2023-12-25 02:44:49.136371,2023,12,25,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+921,921,2024-10-13 14:43:49.136371,2024,10,13,9,Ulumbu,Sulawesi Selatan,4,Rural Electrification Delta,On Hold
+922,922,2025-03-28 09:04:49.136371,2025,3,28,10,Mataloko,Lampung,2,Capacity Expansion Beta,Feasibility Study
+923,923,2023-06-14 12:42:49.136371,2023,6,14,7,Sibayak,Banten,6,Maintenance Overhaul Zeta,Cancelled
+924,924,2023-09-18 06:20:49.136371,2023,9,18,2,Cirata,Jawa Barat,5,Efficiency Upgrade Epsilon,Completed
+925,925,2023-06-18 04:43:49.136371,2023,6,18,4,Kamojang,Sumatera Utara,5,Efficiency Upgrade Epsilon,Completed
+926,926,2024-01-01 15:01:49.136371,2024,1,1,19,Likupang,DKI Jakarta,4,Rural Electrification Delta,On Hold
+927,927,2023-06-11 03:57:49.136371,2023,6,11,4,Kamojang,Sumatera Utara,2,Capacity Expansion Beta,Feasibility Study
+928,928,2024-07-29 06:28:49.136371,2024,7,29,25,Muara Laboh,Jawa Tengah,1,Grid Modernization Alpha,Planning
+929,929,2023-07-14 15:39:49.136371,2023,7,14,19,Likupang,DKI Jakarta,2,Capacity Expansion Beta,Feasibility Study
+930,930,2023-06-30 00:44:49.136371,2023,6,30,3,Saguling,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+931,931,2023-06-05 04:28:49.136371,2023,6,5,18,Jeneponto,Banten,2,Capacity Expansion Beta,Feasibility Study
+932,932,2025-04-26 07:50:49.136371,2025,4,26,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+933,933,2024-03-13 03:22:49.136371,2024,3,13,3,Saguling,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+934,934,2023-11-13 22:26:49.136371,2023,11,13,14,Grati,Jawa Tengah,2,Capacity Expansion Beta,Feasibility Study
+935,935,2023-08-09 04:11:49.136371,2023,8,9,21,Patuha,Lampung,2,Capacity Expansion Beta,Feasibility Study
+936,936,2024-04-14 21:18:49.136371,2024,4,14,1,Karangkates,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+937,937,2023-07-06 04:15:49.136371,2023,7,6,21,Patuha,Lampung,5,Efficiency Upgrade Epsilon,Completed
+938,938,2023-08-23 16:23:49.136371,2023,8,23,18,Jeneponto,Banten,5,Efficiency Upgrade Epsilon,Completed
+939,939,2024-06-13 08:08:49.136371,2024,6,13,22,Dieng,Sumatera Selatan,2,Capacity Expansion Beta,Feasibility Study
+940,940,2024-09-28 03:01:49.136371,2024,9,28,15,Muara Karang,Sumatera Utara,5,Efficiency Upgrade Epsilon,Completed
+941,941,2025-03-07 07:14:49.136371,2025,3,7,7,Sibayak,Banten,1,Grid Modernization Alpha,Planning
+942,942,2025-01-11 13:14:49.136371,2025,1,11,14,Grati,Jawa Tengah,3,New Renewable Hub Gamma,In Progress
+943,943,2023-08-06 20:11:49.136371,2023,8,6,15,Muara Karang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+944,944,2024-08-04 15:50:49.136371,2024,8,4,8,Lahendong,DKI Jakarta,5,Efficiency Upgrade Epsilon,Completed
+945,945,2023-10-25 05:21:49.136371,2023,10,25,4,Kamojang,Sumatera Utara,3,New Renewable Hub Gamma,In Progress
+946,946,2024-07-18 00:15:49.136371,2024,7,18,17,Sidrap,NTT,4,Rural Electrification Delta,On Hold
+947,947,2024-12-18 08:12:49.136371,2024,12,18,11,Paiton,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+948,948,2024-12-14 21:22:49.136371,2024,12,14,6,Wayang Windu,NTT,1,Grid Modernization Alpha,Planning
+949,949,2024-02-15 01:53:49.136371,2024,2,15,18,Jeneponto,Banten,6,Maintenance Overhaul Zeta,Cancelled
+950,950,2023-06-12 02:18:49.136371,2023,6,12,10,Mataloko,Lampung,1,Grid Modernization Alpha,Planning
+951,951,2025-04-21 23:59:49.136371,2025,4,21,21,Patuha,Lampung,3,New Renewable Hub Gamma,In Progress
+952,952,2024-12-10 22:05:49.136371,2024,12,10,13,Tanjung Jati B,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+953,953,2023-10-29 18:04:49.136371,2023,10,29,23,Sorik Marapi,Jawa Timur,1,Grid Modernization Alpha,Planning
+954,954,2023-07-18 10:59:49.136371,2023,7,18,17,Sidrap,NTT,3,New Renewable Hub Gamma,In Progress
+955,955,2023-09-24 15:41:49.136371,2023,9,24,8,Lahendong,DKI Jakarta,5,Efficiency Upgrade Epsilon,Completed
+956,956,2023-11-24 14:18:49.136371,2023,11,24,1,Karangkates,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+957,957,2023-07-18 03:16:49.136371,2023,7,18,19,Likupang,DKI Jakarta,5,Efficiency Upgrade Epsilon,Completed
+958,958,2024-09-16 00:16:49.136371,2024,9,16,23,Sorik Marapi,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+959,959,2025-05-08 08:57:49.136371,2025,5,8,11,Paiton,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+960,960,2023-07-07 22:11:49.136371,2023,7,7,22,Dieng,Sumatera Selatan,3,New Renewable Hub Gamma,In Progress
+961,961,2023-06-03 00:25:49.136371,2023,6,3,10,Mataloko,Lampung,4,Rural Electrification Delta,On Hold
+962,962,2024-06-25 00:26:49.136371,2024,6,25,3,Saguling,Jawa Tengah,5,Efficiency Upgrade Epsilon,Completed
+963,963,2024-09-11 19:31:49.136371,2024,9,11,8,Lahendong,DKI Jakarta,5,Efficiency Upgrade Epsilon,Completed
+964,964,2025-05-22 19:45:49.136371,2025,5,22,22,Dieng,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+965,965,2024-08-10 08:37:49.136371,2024,8,10,9,Ulumbu,Sulawesi Selatan,1,Grid Modernization Alpha,Planning
+966,966,2024-06-09 05:17:49.136371,2024,6,9,10,Mataloko,Lampung,6,Maintenance Overhaul Zeta,Cancelled
+967,967,2024-09-11 03:15:49.136371,2024,9,11,4,Kamojang,Sumatera Utara,6,Maintenance Overhaul Zeta,Cancelled
+968,968,2024-03-21 08:18:49.136371,2024,3,21,10,Mataloko,Lampung,1,Grid Modernization Alpha,Planning
+969,969,2024-05-25 19:00:49.136371,2024,5,25,12,Suralaya,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+970,970,2024-07-03 08:18:49.136371,2024,7,3,23,Sorik Marapi,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+971,971,2024-02-03 13:28:49.136371,2024,2,3,25,Muara Laboh,Jawa Tengah,4,Rural Electrification Delta,On Hold
+972,972,2024-12-22 17:19:49.136371,2024,12,22,23,Sorik Marapi,Jawa Timur,3,New Renewable Hub Gamma,In Progress
+973,973,2024-02-13 16:52:49.136371,2024,2,13,20,Gunung Salak,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+974,974,2025-03-31 19:30:49.136371,2025,3,31,3,Saguling,Jawa Tengah,1,Grid Modernization Alpha,Planning
+975,975,2024-01-29 07:23:49.136371,2024,1,29,19,Likupang,DKI Jakarta,3,New Renewable Hub Gamma,In Progress
+976,976,2024-07-18 01:55:49.136371,2024,7,18,9,Ulumbu,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+977,977,2023-10-02 04:34:49.136371,2023,10,2,25,Muara Laboh,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+978,978,2024-09-26 18:35:49.136371,2024,9,26,3,Saguling,Jawa Tengah,1,Grid Modernization Alpha,Planning
+979,979,2024-06-22 21:18:49.136371,2024,6,22,4,Kamojang,Sumatera Utara,6,Maintenance Overhaul Zeta,Cancelled
+980,980,2025-03-25 15:58:49.136371,2025,3,25,22,Dieng,Sumatera Selatan,6,Maintenance Overhaul Zeta,Cancelled
+981,981,2024-07-13 18:31:49.136371,2024,7,13,1,Karangkates,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+982,982,2024-10-21 12:15:49.136371,2024,10,21,20,Gunung Salak,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+983,983,2023-06-30 19:47:49.136371,2023,6,30,14,Grati,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+984,984,2025-05-19 18:05:49.136371,2025,5,19,13,Tanjung Jati B,Jawa Barat,6,Maintenance Overhaul Zeta,Cancelled
+985,985,2024-05-25 16:41:49.136371,2024,5,25,9,Ulumbu,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+986,986,2023-10-04 03:52:49.136371,2023,10,4,11,Paiton,Sumatera Selatan,4,Rural Electrification Delta,On Hold
+987,987,2023-08-25 05:49:49.136371,2023,8,25,24,Rantau Dedap,Jawa Barat,2,Capacity Expansion Beta,Feasibility Study
+988,988,2025-02-26 06:28:49.136371,2025,2,26,13,Tanjung Jati B,Jawa Barat,3,New Renewable Hub Gamma,In Progress
+989,989,2023-12-13 03:03:49.136371,2023,12,13,12,Suralaya,Jawa Timur,6,Maintenance Overhaul Zeta,Cancelled
+990,990,2023-12-30 14:03:49.136371,2023,12,30,15,Muara Karang,Sumatera Utara,6,Maintenance Overhaul Zeta,Cancelled
+991,991,2024-01-28 07:27:49.136371,2024,1,28,23,Sorik Marapi,Jawa Timur,5,Efficiency Upgrade Epsilon,Completed
+992,992,2024-07-06 03:34:49.136371,2024,7,6,21,Patuha,Lampung,5,Efficiency Upgrade Epsilon,Completed
+993,993,2025-03-21 14:29:49.136371,2025,3,21,16,Tambak Lorok,Sulawesi Utara,4,Rural Electrification Delta,On Hold
+994,994,2024-11-26 07:27:49.136371,2024,11,26,2,Cirata,Jawa Barat,1,Grid Modernization Alpha,Planning
+995,995,2024-03-09 15:15:49.136371,2024,3,9,18,Jeneponto,Banten,5,Efficiency Upgrade Epsilon,Completed
+996,996,2025-02-04 03:22:49.136371,2025,2,4,18,Jeneponto,Banten,2,Capacity Expansion Beta,Feasibility Study
+997,997,2024-10-09 04:09:49.136371,2024,10,9,9,Ulumbu,Sulawesi Selatan,3,New Renewable Hub Gamma,In Progress
+998,998,2023-10-29 20:38:49.136371,2023,10,29,21,Patuha,Lampung,5,Efficiency Upgrade Epsilon,Completed
+999,999,2024-03-26 23:45:49.136371,2024,3,26,25,Muara Laboh,Jawa Tengah,6,Maintenance Overhaul Zeta,Cancelled
+1000,1000,2025-03-28 02:37:49.136371,2025,3,28,9,Ulumbu,Sulawesi Selatan,2,Capacity Expansion Beta,Feasibility Study

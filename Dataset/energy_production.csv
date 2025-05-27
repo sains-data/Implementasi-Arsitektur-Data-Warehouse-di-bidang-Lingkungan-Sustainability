@@ -1,0 +1,1001 @@
+id,time_id,Time_Date,Time_Year,Time_Month,Time_Day,site_id,Site_Name,Site_Location,energy_type_id,Energy_Type_Name,weather_id,Weather_Condition,Weather_Temperature,equipment_id,Equipment_Name,Equipment_Type,Equipment_Rated_Capacity,Equipment_Operational_Status,electricity_Production(kWh)
+1,1,2024-05-18 06:11:43.797236,2024,5,18,13,Tanjung Jati B,Jawa Barat,3,PLTA,7,Foggy,32.7,94,Generator PLTAGenX,Spillway Gate,1541.79,Degraded,771.15
+2,2,2024-06-03 19:16:43.797236,2024,6,3,5,Darajat,Sulawesi Utara,2,PLTB,4,Overcast,37.5,88,Gearbox PLTBMaster,Gearbox,1982.98,Degraded,484.17
+3,3,2024-11-05 06:35:43.797236,2024,11,5,13,Tanjung Jati B,Jawa Barat,4,PLTG,8,Hazy,30.4,17,Binary Cycle Plant GeoFlow,Wellhead,427.49,Degraded,243.64
+4,4,2024-12-07 03:16:43.797236,2024,12,7,14,Grati,Jawa Tengah,6,PLTG,3,Cloudy,20.4,87,Fuel Tank PetroStore 50KL,Engine,111.89,Degraded,890.56
+5,5,2023-07-24 07:11:43.797236,2023,7,24,21,Patuha,Lampung,4,PLTG,3,Cloudy,25.4,8,Steam Turbine GeoPower X1,Wellhead,1777.52,Failed,1425.23
+6,6,2025-01-21 21:09:43.797236,2025,1,21,5,Darajat,Sulawesi Utara,1,PLTS,4,Overcast,24.1,81,PLTS Panel Array Alpha,Inverter,979.32,Degraded,1023.68
+7,7,2023-10-10 19:14:43.797236,2023,10,10,15,Muara Karang,Sumatera Utara,6,PLTG,5,Rain Showers,34.5,19,Alternator PLTGGen Pro,Engine,1674.77,Operational,1259.14
+8,8,2024-06-14 16:17:43.797236,2024,6,14,16,Tambak Lorok,Sulawesi Utara,3,PLTA,1,Clear,31.4,2,Kaplan Turbine FlowMax,Turbine,1713.9,Operational,1115.92
+9,9,2025-05-14 22:58:43.797236,2025,5,14,11,Paiton,Sumatera Selatan,3,PLTA,4,Overcast,27.2,86,Generator PLTAGenX,Generator,1337.82,Degraded,663.41
+10,10,2025-02-04 12:38:43.797236,2025,2,4,2,Cirata,Jawa Barat,4,PLTG,2,Partly Cloudy,28.5,10,Wellhead Unit AlphaTherm,Wellhead,1932.51,Degraded,266.48
+11,11,2023-09-24 10:53:43.797236,2023,9,24,3,Saguling,Jawa Tengah,3,PLTA,3,Cloudy,18.8,97,PLTA Turbine T-Francis,Generator,525.12,Operational,488.03
+12,12,2024-03-05 14:05:43.797236,2024,3,5,25,Muara Laboh,Jawa Tengah,2,PLTB,5,Rain Showers,36.4,59,Blade Set AeroPro,Turbine,1466.76,Degraded,1077.8
+13,13,2024-07-12 02:31:43.797236,2024,7,12,8,Lahendong,DKI Jakarta,6,PLTG,8,Hazy,20.9,50,Fuel Tank PetroStore 50KL,Generator Set,1846.95,Standby,1244.03
+14,14,2024-09-07 03:37:43.797236,2024,9,7,24,Rantau Dedap,Jawa Barat,6,PLTG,3,Cloudy,34.7,55,Engine Cummins KTA50,Generator Set,332.82,Operational,387.63
+15,15,2023-11-18 09:53:43.797236,2023,11,18,10,Mataloko,Lampung,3,PLTA,6,Thunderstorm,38.3,42,Pelton Wheel AquaForce,Generator,315.48,Failed,724.13
+16,16,2025-04-10 12:44:43.797236,2025,4,10,15,Muara Karang,Sumatera Utara,5,PLTG,4,Overcast,25.6,9,Gasifier WoodChip X200,Feeder System,213.03,Standby,432.61
+17,17,2025-03-04 06:54:43.797236,2025,3,4,5,Darajat,Sulawesi Utara,6,PLTG,6,Thunderstorm,37.8,29,PLTG Generator CAT D1000,Engine,301.6,Degraded,1256.49
+18,18,2024-08-04 09:08:43.797236,2024,8,4,14,Grati,Jawa Tengah,3,PLTA,6,Thunderstorm,25.1,42,Pelton Wheel AquaForce,Generator,972.25,Standby,1189.74
+19,19,2024-05-02 22:17:43.797236,2024,5,2,17,Sidrap,NTT,3,PLTA,2,Partly Cloudy,10.9,45,Kaplan Turbine FlowMax,Generator,1512.87,Operational,114.94
+20,20,2024-03-30 11:16:43.797236,2024,3,30,16,Tambak Lorok,Sulawesi Utara,6,PLTG,1,Clear,19.6,24,PLTG Generator CAT D1000,Exhaust System,1633.99,Standby,0.65
+21,21,2024-05-23 08:34:43.797236,2024,5,23,17,Sidrap,NTT,1,PLTS,7,Foggy,30.3,83,PLTS Panel Array Alpha,Tracker,1716.57,Maintenance,27.76
+22,22,2025-04-01 12:26:43.797236,2025,4,1,21,Patuha,Lampung,6,PLTG,4,Overcast,20.0,93,Fuel Tank PetroStore 50KL,Exhaust System,275.79,Degraded,1326.47
+23,23,2024-07-03 06:43:43.797236,2024,7,3,21,Patuha,Lampung,5,PLTG,6,Thunderstorm,33.6,90,Steam Turbine BioSteam Z,Gasifier,498.92,Failed,912.82
+24,24,2023-10-07 18:26:43.797236,2023,10,7,23,Sorik Marapi,Jawa Timur,6,PLTG,8,Hazy,34.3,87,Fuel Tank PetroStore 50KL,Engine,1891.87,Maintenance,411.11
+25,25,2024-08-17 08:11:43.797236,2024,8,17,11,Paiton,Sumatera Selatan,1,PLTS,1,Clear,32.5,62,PLTS Panel B-Series X,Inverter,1987.27,Standby,391.05
+26,26,2023-08-04 23:13:43.797236,2023,8,4,14,Grati,Jawa Tengah,3,PLTA,1,Clear,36.3,74,Generator PLTAGenX,Spillway Gate,200.5,Standby,55.32
+27,27,2024-01-20 15:45:43.797236,2024,1,20,8,Lahendong,DKI Jakarta,3,PLTA,1,Clear,34.6,49,Kaplan Turbine FlowMax,Generator,241.37,Standby,291.47
+28,28,2025-01-14 16:07:43.797236,2025,1,14,22,Dieng,Sumatera Selatan,3,PLTA,1,Clear,35.0,39,PLTA Turbine T-Francis,Turbine,1137.47,Standby,1085.83
+29,29,2023-07-27 11:22:43.797236,2023,7,27,6,Wayang PLTBu,NTT,4,PLTG,3,Cloudy,15.2,68,Cooling Tower GeoCool,Wellhead,1060.48,Standby,1464.09
+30,30,2025-02-25 16:56:43.797236,2025,2,25,15,Muara Karang,Sumatera Utara,6,PLTG,6,Thunderstorm,36.9,55,Engine Cummins KTA50,Generator Set,432.33,Failed,326.74
+31,31,2024-01-07 02:20:43.797236,2024,1,7,22,Dieng,Sumatera Selatan,6,PLTG,3,Cloudy,14.0,100,PLTG Generator CAT D1000,Fuel System,532.45,Maintenance,658.48
+32,32,2024-03-05 13:55:43.797236,2024,3,5,24,Rantau Dedap,Jawa Barat,6,PLTG,7,Foggy,12.6,55,Engine Cummins KTA50,Generator Set,128.7,Failed,1223.3
+33,33,2024-04-14 08:07:43.797236,2024,4,14,8,Lahendong,DKI Jakarta,2,PLTB,1,Clear,34.8,88,Gearbox PLTBMaster,Gearbox,956.59,Degraded,862.05
+34,34,2024-11-26 16:41:43.797236,2024,11,26,8,Lahendong,DKI Jakarta,3,PLTA,2,Partly Cloudy,28.6,42,Pelton Wheel AquaForce,Generator,325.52,Operational,485.05
+35,35,2024-12-14 06:44:43.797236,2024,12,14,14,Grati,Jawa Tengah,3,PLTA,8,Hazy,28.3,70,Generator PLTAGenX,Generator,1218.51,Operational,137.5
+36,36,2024-06-14 15:36:43.797236,2024,6,14,2,Cirata,Jawa Barat,3,PLTA,4,Overcast,27.2,46,Generator PLTAGenX,Turbine,124.08,Standby,993.02
+37,37,2024-10-20 16:56:43.797236,2024,10,20,5,Darajat,Sulawesi Utara,3,PLTA,6,Thunderstorm,27.7,49,Kaplan Turbine FlowMax,Generator,1285.25,Operational,989.21
+38,38,2024-04-22 08:19:43.797236,2024,4,22,16,Tambak Lorok,Sulawesi Utara,3,PLTA,1,Clear,23.9,39,PLTA Turbine T-Francis,Turbine,1217.43,Failed,1163.28
+39,39,2025-02-27 17:03:43.797236,2025,2,27,4,Kamojang,Sumatera Utara,4,PLTG,4,Overcast,35.2,48,Binary Cycle Plant GeoFlow,Condenser,329.37,Standby,1326.48
+40,40,2023-09-13 00:34:43.797236,2023,9,13,12,Suralaya,Jawa Timur,4,PLTG,7,Foggy,23.3,15,Wellhead Unit AlphaTherm,Wellhead,675.85,Maintenance,515.65
+41,41,2024-07-19 01:32:43.797236,2024,7,19,15,Muara Karang,Sumatera Utara,2,PLTB,7,Foggy,36.8,88,Gearbox PLTBMaster,Gearbox,1243.61,Failed,684.45
+42,42,2024-08-01 02:25:43.797236,2024,8,1,20,Gunung Salak,Sulawesi Selatan,3,PLTA,6,Thunderstorm,29.7,31,Generator PLTAGenX,Penstock,921.37,Failed,660.52
+43,43,2024-02-23 18:49:43.797236,2024,2,23,5,Darajat,Sulawesi Utara,6,PLTG,5,Rain Showers,19.1,58,Engine Cummins KTA50,Fuel System,442.07,Operational,1357.68
+44,44,2023-06-16 08:48:43.797236,2023,6,16,14,Grati,Jawa Tengah,1,PLTS,4,Overcast,24.3,23,Central Inverter SunGrow,Tracker,1507.04,Failed,609.18
+45,45,2023-10-03 07:45:43.797236,2023,10,3,14,Grati,Jawa Tengah,6,PLTG,2,Partly Cloudy,17.5,87,Fuel Tank PetroStore 50KL,Engine,1913.22,Operational,205.51
+46,46,2023-12-05 02:29:43.797236,2023,12,5,10,Mataloko,Lampung,5,PLTG,1,Clear,26.7,90,Steam Turbine BioSteam Z,Gasifier,901.02,Maintenance,63.23
+47,47,2025-04-12 22:10:43.797236,2025,4,12,21,Patuha,Lampung,6,PLTG,1,Clear,35.6,78,Fuel Tank PetroStore 50KL,Exhaust System,354.96,Operational,1119.58
+48,48,2024-08-21 17:57:43.797236,2024,8,21,1,Karangkates,Jawa Timur,3,PLTA,7,Foggy,28.2,56,PLTA Turbine T-Francis,Generator,1189.74,Degraded,580.84
+49,49,2024-01-05 20:17:43.797236,2024,1,5,20,Gunung Salak,Sulawesi Selatan,1,PLTS,2,Partly Cloudy,13.7,32,PLTS Panel B-Series X,Photovoltaic Panel,683.43,Degraded,960.26
+50,50,2023-08-10 13:34:43.797236,2023,8,10,3,Saguling,Jawa Tengah,6,PLTG,2,Partly Cloudy,15.9,78,Fuel Tank PetroStore 50KL,Exhaust System,229.46,Operational,972.93
+51,51,2023-09-22 07:00:43.797236,2023,9,22,17,Sidrap,NTT,1,PLTS,5,Rain Showers,20.6,95,PLTS Panel B-Series X,Tracker,1091.14,Standby,1445.89
+52,52,2025-02-19 04:11:43.797236,2025,2,19,13,Tanjung Jati B,Jawa Barat,5,PLTG,3,Cloudy,21.7,65,Pelletizer BioFuel,Turbine,177.76,Degraded,1018.76
+53,53,2024-01-27 11:03:43.797236,2024,1,27,23,Sorik Marapi,Jawa Timur,6,PLTG,2,Partly Cloudy,40.0,84,Engine Cummins KTA50,Exhaust System,1330.89,Maintenance,174.56
+54,54,2024-07-11 06:52:43.797236,2024,7,11,8,Lahendong,DKI Jakarta,3,PLTA,1,Clear,16.3,85,PLTA Turbine T-Francis,Turbine,483.13,Degraded,1345.52
+55,55,2024-07-11 00:16:43.797236,2024,7,11,14,Grati,Jawa Tengah,5,PLTG,7,Foggy,18.7,16,Pelletizer BioFuel,Feeder System,1059.59,Standby,1160.93
+56,56,2024-01-12 14:36:43.797236,2024,1,12,2,Cirata,Jawa Barat,4,PLTG,4,Overcast,10.8,8,Steam Turbine GeoPower X1,Wellhead,1055.2,Maintenance,166.77
+57,57,2025-04-08 09:39:43.797236,2025,4,8,15,Muara Karang,Sumatera Utara,5,PLTG,6,Thunderstorm,23.7,47,PLTG Boiler BioBurn R1,Boiler,1497.16,Failed,987.18
+58,58,2023-05-30 02:13:43.797236,2023,5,30,2,Cirata,Jawa Barat,2,PLTB,3,Cloudy,35.3,12,PLTB Turbine G100,Nacelle,1650.24,Degraded,442.09
+59,59,2024-04-30 07:35:43.797236,2024,4,30,25,Muara Laboh,Jawa Tengah,3,PLTA,3,Cloudy,20.9,39,PLTA Turbine T-Francis,Turbine,574.07,Maintenance,348.93
+60,60,2024-01-01 09:01:43.797236,2024,1,1,2,Cirata,Jawa Barat,2,PLTB,7,Foggy,37.7,38,PLTB Turbine Vestas V120,Generator,1154.34,Operational,413.93
+61,61,2024-06-04 19:22:43.797236,2024,6,4,5,Darajat,Sulawesi Utara,2,PLTB,4,Overcast,35.9,91,PLTB Turbine G100,Turbine,359.37,Standby,852.29
+62,62,2023-07-06 21:32:43.797236,2023,7,6,18,Jeneponto,Banten,3,PLTA,2,Partly Cloudy,38.1,73,PLTA Turbine T-Francis,Turbine,1800.51,Standby,1409.63
+63,63,2024-05-10 20:01:43.797236,2024,5,10,17,Sidrap,NTT,1,PLTS,1,Clear,11.6,98,Inverter SolMax 5000,Inverter,1442.94,Failed,488.56
+64,64,2025-05-10 03:18:43.797236,2025,5,10,23,Sorik Marapi,Jawa Timur,2,PLTB,7,Foggy,21.6,20,PLTB Turbine G100,Nacelle,652.84,Failed,147.06
+65,65,2023-08-01 00:53:43.797236,2023,8,1,18,Jeneponto,Banten,3,PLTA,4,Overcast,29.7,42,Pelton Wheel AquaForce,Generator,1074.37,Failed,1051.87
+66,66,2024-07-20 16:51:43.797236,2024,7,20,24,Rantau Dedap,Jawa Barat,4,PLTG,5,Rain Showers,18.2,27,Binary Cycle Plant GeoFlow,Wellhead,952.92,Maintenance,308.42
+67,67,2025-03-06 03:10:43.797236,2025,3,6,4,Kamojang,Sumatera Utara,3,PLTA,7,Foggy,12.7,97,PLTA Turbine T-Francis,Generator,497.2,Failed,41.95
+68,68,2024-04-15 21:59:43.797236,2024,4,15,20,Gunung Salak,Sulawesi Selatan,5,PLTG,5,Rain Showers,21.9,18,Pelletizer BioFuel,Feeder System,228.48,Failed,649.0
+69,69,2023-12-05 05:02:43.797236,2023,12,5,23,Sorik Marapi,Jawa Timur,3,PLTA,4,Overcast,38.0,25,Pelton Wheel AquaForce,Spillway Gate,1221.27,Standby,1466.07
+70,70,2024-08-05 15:34:43.797236,2024,8,5,7,Sibayak,Banten,5,PLTG,7,Foggy,25.2,18,Pelletizer BioFuel,Feeder System,140.12,Failed,324.57
+71,71,2023-12-14 08:25:43.797236,2023,12,14,24,Rantau Dedap,Jawa Barat,6,PLTG,5,Rain Showers,36.1,55,Engine Cummins KTA50,Generator Set,190.39,Operational,1167.78
+72,72,2024-06-05 17:09:43.797236,2024,6,5,23,Sorik Marapi,Jawa Timur,6,PLTG,8,Hazy,26.0,29,PLTG Generator CAT D1000,Engine,580.97,Operational,1333.31
+73,73,2024-07-24 02:21:43.797236,2024,7,24,19,Likupang,DKI Jakarta,3,PLTA,4,Overcast,24.1,3,PLTA Turbine T-Francis,Turbine,1305.25,Standby,946.24
+74,74,2024-05-19 13:24:43.797236,2024,5,19,20,Gunung Salak,Sulawesi Selatan,3,PLTA,3,Cloudy,38.6,97,PLTA Turbine T-Francis,Generator,1805.33,Failed,1393.24
+75,75,2023-12-17 06:47:43.797236,2023,12,17,25,Muara Laboh,Jawa Tengah,4,PLTG,4,Overcast,30.9,27,Binary Cycle Plant GeoFlow,Wellhead,433.66,Failed,1146.82
+76,76,2023-08-26 02:46:43.797236,2023,8,26,16,Tambak Lorok,Sulawesi Utara,1,PLTS,4,Overcast,18.4,52,PLTS Panel Array Alpha,Tracker,1364.12,Operational,1275.35
+77,77,2025-01-26 10:11:43.797236,2025,1,26,11,Paiton,Sumatera Selatan,3,PLTA,4,Overcast,27.5,77,Kaplan Turbine FlowMax,Generator,652.33,Operational,1142.91
+78,78,2024-04-27 16:28:43.797236,2024,4,27,23,Sorik Marapi,Jawa Timur,1,PLTS,5,Rain Showers,37.6,23,Central Inverter SunGrow,Tracker,1110.6,Degraded,215.22
+79,79,2023-10-06 06:14:43.797236,2023,10,6,10,Mataloko,Lampung,3,PLTA,5,Rain Showers,21.5,36,Pelton Wheel AquaForce,Turbine,1030.08,Degraded,1391.29
+80,80,2025-04-01 12:48:43.797236,2025,4,1,7,Sibayak,Banten,1,PLTS,1,Clear,15.9,62,PLTS Panel B-Series X,Inverter,542.19,Failed,653.29
+81,81,2023-11-18 13:05:43.797236,2023,11,18,9,Ulumbu,Sulawesi Selatan,2,PLTB,2,Partly Cloudy,17.2,38,PLTB Turbine Vestas V120,Generator,762.77,Degraded,1012.58
+82,82,2023-10-03 11:04:43.797236,2023,10,3,1,Karangkates,Jawa Timur,3,PLTA,5,Rain Showers,20.5,39,PLTA Turbine T-Francis,Turbine,1748.53,Maintenance,1017.32
+83,83,2025-04-26 09:25:43.797236,2025,4,26,17,Sidrap,NTT,6,PLTG,2,Partly Cloudy,22.0,58,Engine Cummins KTA50,Fuel System,1933.11,Standby,639.89
+84,84,2024-10-31 11:21:43.797236,2024,10,31,17,Sidrap,NTT,6,PLTG,4,Overcast,21.1,58,Engine Cummins KTA50,Fuel System,1411.74,Degraded,909.7
+85,85,2025-01-13 10:32:43.797236,2025,1,13,1,Karangkates,Jawa Timur,1,PLTS,3,Cloudy,27.5,32,PLTS Panel B-Series X,Photovoltaic Panel,771.62,Degraded,244.96
+86,86,2025-04-06 20:02:43.797236,2025,4,6,5,Darajat,Sulawesi Utara,3,PLTA,6,Thunderstorm,34.9,73,PLTA Turbine T-Francis,Turbine,1591.59,Failed,1100.24
+87,87,2024-07-08 11:18:43.797236,2024,7,8,10,Mataloko,Lampung,1,PLTS,6,Thunderstorm,23.9,62,PLTS Panel B-Series X,Inverter,834.1,Maintenance,1257.73
+88,88,2025-05-07 03:45:43.797236,2025,5,7,18,Jeneponto,Banten,2,PLTB,5,Rain Showers,12.0,88,Gearbox PLTBMaster,Gearbox,1149.03,Standby,608.19
+89,89,2023-07-02 06:50:43.797236,2023,7,2,11,Paiton,Sumatera Selatan,1,PLTS,7,Foggy,24.4,40,PLTS Panel B-Series X,Inverter,580.83,Operational,180.53
+90,90,2023-08-22 10:24:43.797236,2023,8,22,16,Tambak Lorok,Sulawesi Utara,1,PLTS,1,Clear,38.4,23,Central Inverter SunGrow,Tracker,1233.1,Maintenance,921.89
+91,91,2023-12-31 00:25:43.797236,2023,12,31,4,Kamojang,Sumatera Utara,1,PLTS,7,Foggy,34.5,52,PLTS Panel Array Alpha,Tracker,1157.6,Failed,1450.81
+92,92,2024-12-04 14:04:43.797236,2024,12,4,17,Sidrap,NTT,3,PLTA,1,Clear,18.4,36,Pelton Wheel AquaForce,Turbine,309.83,Maintenance,137.89
+93,93,2024-01-30 03:53:43.797236,2024,1,30,21,Patuha,Lampung,1,PLTS,7,Foggy,22.2,95,PLTS Panel B-Series X,Tracker,812.34,Degraded,925.26
+94,94,2025-01-12 06:34:43.797236,2025,1,12,19,Likupang,DKI Jakarta,5,PLTG,3,Cloudy,32.0,90,Steam Turbine BioSteam Z,Gasifier,568.0,Maintenance,344.32
+95,95,2024-11-12 22:02:43.797236,2024,11,12,11,Paiton,Sumatera Selatan,1,PLTS,6,Thunderstorm,36.0,40,PLTS Panel B-Series X,Inverter,1029.4,Degraded,851.41
+96,96,2024-04-01 06:18:43.797236,2024,4,1,3,Saguling,Jawa Tengah,5,PLTG,5,Rain Showers,36.0,72,Steam Turbine BioSteam Z,Turbine,707.81,Degraded,864.07
+97,97,2025-01-16 10:29:43.797236,2025,1,16,7,Sibayak,Banten,6,PLTG,5,Rain Showers,17.0,87,Fuel Tank PetroStore 50KL,Engine,1613.56,Maintenance,612.17
+98,98,2024-01-04 00:08:43.797236,2024,1,4,9,Ulumbu,Sulawesi Selatan,5,PLTG,6,Thunderstorm,10.8,47,PLTG Boiler BioBurn R1,Boiler,761.26,Degraded,486.02
+99,99,2024-07-14 11:40:43.797236,2024,7,14,23,Sorik Marapi,Jawa Timur,5,PLTG,1,Clear,30.7,65,Pelletizer BioFuel,Turbine,244.19,Failed,1349.45
+100,100,2024-08-24 15:12:43.797236,2024,8,24,5,Darajat,Sulawesi Utara,3,PLTA,1,Clear,30.9,70,Generator PLTAGenX,Generator,152.6,Standby,1091.43
+101,101,2025-03-25 18:40:43.797236,2025,3,25,6,Wayang PLTBu,NTT,3,PLTA,7,Foggy,15.8,31,Generator PLTAGenX,Penstock,373.03,Maintenance,1295.83
+102,102,2024-09-27 04:11:43.797236,2024,9,27,16,Tambak Lorok,Sulawesi Utara,6,PLTG,1,Clear,18.0,21,PLTG Generator CAT D1000,Fuel System,589.09,Standby,851.06
+103,103,2023-05-31 06:21:43.797236,2023,5,31,10,Mataloko,Lampung,1,PLTS,8,Hazy,11.0,34,Inverter SolMax 5000,Tracker,1197.26,Maintenance,199.17
+104,104,2023-06-20 22:42:43.797236,2023,6,20,14,Grati,Jawa Tengah,3,PLTA,1,Clear,23.0,31,Generator PLTAGenX,Penstock,103.6,Failed,739.8
+105,105,2024-09-07 14:12:43.797236,2024,9,7,18,Jeneponto,Banten,1,PLTS,4,Overcast,23.1,83,PLTS Panel Array Alpha,Tracker,200.51,Maintenance,905.58
+106,106,2023-07-13 18:28:43.797236,2023,7,13,1,Karangkates,Jawa Timur,1,PLTS,3,Cloudy,28.2,92,Central Inverter SunGrow,Inverter,1148.36,Failed,838.68
+107,107,2023-08-02 16:50:43.797236,2023,8,2,1,Karangkates,Jawa Timur,5,PLTG,6,Thunderstorm,23.1,9,Gasifier WoodChip X200,Feeder System,1365.24,Degraded,26.5
+108,108,2024-05-13 18:52:43.797236,2024,5,13,1,Karangkates,Jawa Timur,5,PLTG,7,Foggy,10.0,90,Steam Turbine BioSteam Z,Gasifier,1512.5,Failed,352.66
+109,109,2024-07-15 13:38:43.797236,2024,7,15,9,Ulumbu,Sulawesi Selatan,6,PLTG,6,Thunderstorm,31.7,55,Engine Cummins KTA50,Generator Set,1700.41,Failed,390.05
+110,110,2024-03-26 06:19:43.797236,2024,3,26,2,Cirata,Jawa Barat,4,PLTG,2,Partly Cloudy,38.8,15,Wellhead Unit AlphaTherm,Wellhead,285.31,Operational,136.6
+111,111,2024-03-21 17:59:43.797236,2024,3,21,21,Patuha,Lampung,4,PLTG,5,Rain Showers,27.3,48,Binary Cycle Plant GeoFlow,Condenser,643.95,Failed,1151.76
+112,112,2024-10-27 16:00:43.797236,2024,10,27,22,Dieng,Sumatera Selatan,3,PLTA,6,Thunderstorm,16.6,85,PLTA Turbine T-Francis,Turbine,1279.53,Standby,1014.09
+113,113,2024-01-17 18:14:43.797236,2024,1,17,23,Sorik Marapi,Jawa Timur,6,PLTG,3,Cloudy,21.9,19,Alternator PLTGGen Pro,Engine,102.25,Degraded,1303.39
+114,114,2024-03-02 19:19:43.797236,2024,3,2,8,Lahendong,DKI Jakarta,4,PLTG,4,Overcast,21.5,79,Wellhead Unit AlphaTherm,Steam Turbine,604.88,Standby,1453.34
+115,115,2025-05-19 20:54:43.797236,2025,5,19,6,Wayang PLTBu,NTT,3,PLTA,2,Partly Cloudy,36.8,42,Pelton Wheel AquaForce,Generator,384.03,Failed,1394.31
+116,116,2023-07-08 20:10:43.797236,2023,7,8,4,Kamojang,Sumatera Utara,3,PLTA,5,Rain Showers,35.3,70,Generator PLTAGenX,Generator,433.61,Maintenance,457.5
+117,117,2025-05-18 05:27:43.797236,2025,5,18,15,Muara Karang,Sumatera Utara,3,PLTA,5,Rain Showers,12.4,97,PLTA Turbine T-Francis,Generator,1951.29,Failed,390.69
+118,118,2023-12-10 02:49:43.797236,2023,12,10,19,Likupang,DKI Jakarta,3,PLTA,4,Overcast,33.1,56,PLTA Turbine T-Francis,Generator,470.35,Operational,259.91
+119,119,2024-10-16 12:53:43.797236,2024,10,16,4,Kamojang,Sumatera Utara,4,PLTG,5,Rain Showers,11.9,5,Binary Cycle Plant GeoFlow,Heat Exchanger,1573.69,Degraded,703.37
+120,120,2024-04-25 14:43:43.797236,2024,4,25,11,Paiton,Sumatera Selatan,2,PLTB,4,Overcast,31.5,20,PLTB Turbine G100,Nacelle,1282.66,Degraded,361.71
+121,121,2023-12-13 12:10:43.797236,2023,12,13,18,Jeneponto,Banten,1,PLTS,3,Cloudy,12.6,99,Central Inverter SunGrow,Photovoltaic Panel,1553.7,Maintenance,975.25
+122,122,2023-06-07 17:14:43.797236,2023,6,7,14,Grati,Jawa Tengah,1,PLTS,4,Overcast,33.4,44,PLTS Panel B-Series X,Mounting System,1076.04,Degraded,173.3
+123,123,2023-07-08 08:02:43.797236,2023,7,8,16,Tambak Lorok,Sulawesi Utara,6,PLTG,2,Partly Cloudy,24.5,57,PLTG Generator CAT D1000,Generator Set,1631.64,Maintenance,1108.03
+124,124,2025-01-02 18:49:43.797236,2025,1,2,8,Lahendong,DKI Jakarta,1,PLTS,6,Thunderstorm,33.8,34,Inverter SolMax 5000,Tracker,1306.48,Degraded,126.65
+125,125,2025-02-24 06:30:43.797236,2025,2,24,5,Darajat,Sulawesi Utara,6,PLTG,3,Cloudy,35.8,66,Alternator PLTGGen Pro,Exhaust System,1026.49,Failed,355.39
+126,126,2024-08-28 06:50:43.797236,2024,8,28,5,Darajat,Sulawesi Utara,1,PLTS,5,Rain Showers,24.5,44,PLTS Panel B-Series X,Mounting System,821.84,Failed,1337.05
+127,127,2024-12-12 08:53:43.797236,2024,12,12,25,Muara Laboh,Jawa Tengah,3,PLTA,1,Clear,35.7,82,Generator PLTAGenX,Spillway Gate,450.97,Standby,1346.53
+128,128,2024-05-24 10:04:43.797236,2024,5,24,3,Saguling,Jawa Tengah,2,PLTB,4,Overcast,18.1,38,PLTB Turbine Vestas V120,Generator,1408.84,Operational,262.09
+129,129,2025-01-10 14:52:43.797236,2025,1,10,14,Grati,Jawa Tengah,5,PLTG,4,Overcast,15.3,33,Steam Turbine BioSteam Z,Feeder System,1799.31,Maintenance,926.26
+130,130,2024-07-20 21:34:43.797236,2024,7,20,19,Likupang,DKI Jakarta,2,PLTB,5,Rain Showers,32.1,64,Gearbox PLTBMaster,Turbine,1785.76,Failed,612.66
+131,131,2025-01-04 11:30:43.797236,2025,1,4,13,Tanjung Jati B,Jawa Barat,3,PLTA,8,Hazy,30.5,60,Pelton Wheel AquaForce,Turbine,1949.14,Operational,772.18
+132,132,2024-09-26 16:58:43.797236,2024,9,26,18,Jeneponto,Banten,2,PLTB,1,Clear,13.3,20,PLTB Turbine G100,Nacelle,1051.02,Degraded,249.26
+133,133,2024-05-01 18:54:43.797236,2024,5,1,12,Suralaya,Jawa Timur,5,PLTG,7,Foggy,34.3,41,Steam Turbine BioSteam Z,Turbine,515.76,Maintenance,479.66
+134,134,2023-10-06 04:06:43.797236,2023,10,6,1,Karangkates,Jawa Timur,2,PLTB,5,Rain Showers,18.3,64,Gearbox PLTBMaster,Turbine,466.2,Standby,993.68
+135,135,2024-06-02 19:43:43.797236,2024,6,2,4,Kamojang,Sumatera Utara,2,PLTB,4,Overcast,10.1,88,Gearbox PLTBMaster,Gearbox,1194.57,Standby,958.41
+136,136,2024-06-08 04:53:43.797236,2024,6,8,22,Dieng,Sumatera Selatan,1,PLTS,6,Thunderstorm,33.4,52,PLTS Panel Array Alpha,Tracker,1071.5,Maintenance,1151.87
+137,137,2023-07-29 12:10:43.797236,2023,7,29,8,Lahendong,DKI Jakarta,4,PLTG,5,Rain Showers,14.2,37,Binary Cycle Plant GeoFlow,Steam Turbine,588.22,Standby,1469.31
+138,138,2023-11-25 10:51:43.797236,2023,11,25,22,Dieng,Sumatera Selatan,4,PLTG,4,Overcast,13.6,68,Cooling Tower GeoCool,Wellhead,1450.24,Degraded,20.13
+139,139,2023-12-31 01:01:43.797236,2023,12,31,22,Dieng,Sumatera Selatan,6,PLTG,1,Clear,28.2,55,Engine Cummins KTA50,Generator Set,1592.65,Maintenance,1032.8
+140,140,2024-07-05 17:11:43.797236,2024,7,5,23,Sorik Marapi,Jawa Timur,4,PLTG,8,Hazy,27.6,96,Binary Cycle Plant GeoFlow,Heat Exchanger,1233.47,Operational,1318.56
+141,141,2023-08-18 14:38:43.797236,2023,8,18,1,Karangkates,Jawa Timur,4,PLTG,1,Clear,25.4,17,Binary Cycle Plant GeoFlow,Wellhead,1498.55,Standby,739.66
+142,142,2025-05-26 19:32:43.797236,2025,5,26,17,Sidrap,NTT,1,PLTS,5,Rain Showers,25.5,6,PLTS Panel B-Series X,Inverter,941.85,Standby,1364.19
+143,143,2024-11-23 06:00:43.797236,2024,11,23,2,Cirata,Jawa Barat,4,PLTG,1,Clear,16.7,96,Binary Cycle Plant GeoFlow,Heat Exchanger,649.5,Maintenance,699.47
+144,144,2023-07-16 04:06:43.797236,2023,7,16,7,Sibayak,Banten,4,PLTG,3,Cloudy,36.1,37,Binary Cycle Plant GeoFlow,Steam Turbine,223.49,Operational,610.43
+145,145,2024-04-05 17:35:43.797236,2024,4,5,15,Muara Karang,Sumatera Utara,2,PLTB,6,Thunderstorm,15.1,88,Gearbox PLTBMaster,Gearbox,269.1,Maintenance,1173.54
+146,146,2025-05-26 03:25:43.797236,2025,5,26,23,Sorik Marapi,Jawa Timur,3,PLTA,8,Hazy,16.6,2,Kaplan Turbine FlowMax,Turbine,314.54,Operational,643.44
+147,147,2024-09-24 12:10:43.797236,2024,9,24,13,Tanjung Jati B,Jawa Barat,6,PLTG,7,Foggy,12.0,57,PLTG Generator CAT D1000,Generator Set,1610.28,Failed,535.07
+148,148,2025-04-28 10:12:43.797236,2025,4,28,8,Lahendong,DKI Jakarta,4,PLTG,2,Partly Cloudy,27.7,15,Wellhead Unit AlphaTherm,Wellhead,703.78,Maintenance,285.23
+149,149,2024-11-18 04:16:43.797236,2024,11,18,25,Muara Laboh,Jawa Tengah,2,PLTB,3,Cloudy,11.7,76,PLTB Turbine Vestas V120,Nacelle,429.45,Failed,560.86
+150,150,2023-10-21 01:28:43.797236,2023,10,21,25,Muara Laboh,Jawa Tengah,4,PLTG,3,Cloudy,26.4,22,Binary Cycle Plant GeoFlow,Wellhead,684.72,Operational,912.63
+151,151,2025-04-14 14:26:43.797236,2025,4,14,4,Kamojang,Sumatera Utara,5,PLTG,3,Cloudy,10.1,16,Pelletizer BioFuel,Feeder System,616.89,Operational,265.95
+152,152,2024-08-20 01:44:43.797236,2024,8,20,4,Kamojang,Sumatera Utara,5,PLTG,7,Foggy,29.6,41,Steam Turbine BioSteam Z,Turbine,350.31,Standby,179.12
+153,153,2025-03-29 14:37:43.797236,2025,3,29,1,Karangkates,Jawa Timur,4,PLTG,2,Partly Cloudy,37.0,28,Binary Cycle Plant GeoFlow,Heat Exchanger,577.32,Standby,1393.29
+154,154,2024-10-31 21:37:43.797236,2024,10,31,6,Wayang PLTBu,NTT,3,PLTA,5,Rain Showers,21.2,42,Pelton Wheel AquaForce,Generator,1090.28,Operational,855.41
+155,155,2023-07-10 06:05:43.797236,2023,7,10,14,Grati,Jawa Tengah,6,PLTG,2,Partly Cloudy,37.3,24,PLTG Generator CAT D1000,Exhaust System,1550.05,Standby,611.11
+156,156,2024-11-27 22:21:43.797236,2024,11,27,15,Muara Karang,Sumatera Utara,3,PLTA,1,Clear,35.6,46,Generator PLTAGenX,Turbine,433.55,Degraded,715.67
+157,157,2024-03-09 13:22:43.797236,2024,3,9,10,Mataloko,Lampung,4,PLTG,8,Hazy,29.2,15,Wellhead Unit AlphaTherm,Wellhead,1789.8,Operational,969.68
+158,158,2025-03-22 23:36:43.797236,2025,3,22,14,Grati,Jawa Tengah,3,PLTA,6,Thunderstorm,33.1,56,PLTA Turbine T-Francis,Generator,713.21,Maintenance,180.82
+159,159,2023-12-06 16:53:43.797236,2023,12,6,15,Muara Karang,Sumatera Utara,6,PLTG,2,Partly Cloudy,36.1,87,Fuel Tank PetroStore 50KL,Engine,1597.36,Standby,779.89
+160,160,2024-01-09 12:48:43.797236,2024,1,9,7,Sibayak,Banten,6,PLTG,3,Cloudy,29.6,58,Engine Cummins KTA50,Fuel System,138.42,Operational,346.39
+161,161,2023-08-13 08:34:43.797236,2023,8,13,7,Sibayak,Banten,3,PLTA,5,Rain Showers,38.2,39,PLTA Turbine T-Francis,Turbine,1756.84,Maintenance,914.15
+162,162,2024-06-11 10:15:43.797236,2024,6,11,4,Kamojang,Sumatera Utara,3,PLTA,2,Partly Cloudy,34.6,42,Pelton Wheel AquaForce,Generator,1115.13,Operational,1084.98
+163,163,2023-08-02 06:56:43.797236,2023,8,2,20,Gunung Salak,Sulawesi Selatan,6,PLTG,5,Rain Showers,24.7,57,PLTG Generator CAT D1000,Generator Set,826.36,Operational,494.27
+164,164,2023-07-11 11:11:43.797236,2023,7,11,7,Sibayak,Banten,1,PLTS,8,Hazy,26.2,92,Central Inverter SunGrow,Inverter,1721.24,Maintenance,1153.22
+165,165,2024-07-12 08:25:43.797236,2024,7,12,13,Tanjung Jati B,Jawa Barat,2,PLTB,7,Foggy,25.8,30,PLTB Turbine G100,Turbine,355.86,Maintenance,363.95
+166,166,2024-04-24 03:57:43.797236,2024,4,24,18,Jeneponto,Banten,3,PLTA,6,Thunderstorm,11.0,73,PLTA Turbine T-Francis,Turbine,1620.89,Failed,990.19
+167,167,2023-11-03 16:53:43.797236,2023,11,3,10,Mataloko,Lampung,3,PLTA,7,Foggy,22.1,86,Generator PLTAGenX,Generator,1760.02,Operational,1243.88
+168,168,2025-05-19 21:56:43.797236,2025,5,19,12,Suralaya,Jawa Timur,3,PLTA,5,Rain Showers,23.8,49,Kaplan Turbine FlowMax,Generator,1345.49,Failed,408.81
+169,169,2023-08-06 05:47:43.797236,2023,8,6,12,Suralaya,Jawa Timur,3,PLTA,3,Cloudy,20.7,31,Generator PLTAGenX,Penstock,1199.79,Failed,1337.26
+170,170,2024-02-23 04:07:43.797236,2024,2,23,9,Ulumbu,Sulawesi Selatan,6,PLTG,6,Thunderstorm,25.0,58,Engine Cummins KTA50,Fuel System,1408.96,Standby,576.46
+171,171,2023-11-01 01:13:43.797236,2023,11,1,25,Muara Laboh,Jawa Tengah,3,PLTA,3,Cloudy,20.5,46,Generator PLTAGenX,Turbine,1513.06,Failed,379.18
+172,172,2024-08-23 12:50:43.797236,2024,8,23,3,Saguling,Jawa Tengah,3,PLTA,3,Cloudy,39.7,45,Kaplan Turbine FlowMax,Generator,1582.46,Failed,665.31
+173,173,2023-11-23 03:58:43.797236,2023,11,23,19,Likupang,DKI Jakarta,3,PLTA,1,Clear,11.4,86,Generator PLTAGenX,Generator,1911.1,Maintenance,8.9
+174,174,2024-12-08 07:25:43.797236,2024,12,8,21,Patuha,Lampung,1,PLTS,5,Rain Showers,15.3,98,Inverter SolMax 5000,Inverter,303.12,Maintenance,361.69
+175,175,2023-10-27 08:56:43.797236,2023,10,27,4,Kamojang,Sumatera Utara,3,PLTA,4,Overcast,33.3,85,PLTA Turbine T-Francis,Turbine,1179.31,Failed,523.62
+176,176,2024-08-22 00:15:43.797236,2024,8,22,15,Muara Karang,Sumatera Utara,3,PLTA,7,Foggy,35.3,49,Kaplan Turbine FlowMax,Generator,972.97,Maintenance,1001.87
+177,177,2023-06-22 02:26:43.797236,2023,6,22,25,Muara Laboh,Jawa Tengah,6,PLTG,3,Cloudy,36.8,80,Alternator PLTGGen Pro,Engine,1501.51,Standby,523.45
+178,178,2025-03-23 13:06:43.797236,2025,3,23,7,Sibayak,Banten,6,PLTG,4,Overcast,19.3,54,Engine Cummins KTA50,Generator Set,1532.75,Operational,1347.91
+179,179,2025-02-25 02:46:43.797236,2025,2,25,3,Saguling,Jawa Tengah,5,PLTG,3,Cloudy,16.0,65,Pelletizer BioFuel,Turbine,1051.64,Degraded,1340.26
+180,180,2023-09-08 06:27:43.797236,2023,9,8,15,Muara Karang,Sumatera Utara,4,PLTG,3,Cloudy,23.9,68,Cooling Tower GeoCool,Wellhead,896.11,Standby,379.66
+181,181,2024-09-29 21:30:43.797236,2024,9,29,22,Dieng,Sumatera Selatan,3,PLTA,1,Clear,39.4,94,Generator PLTAGenX,Spillway Gate,1831.45,Failed,618.83
+182,182,2024-08-15 18:23:43.797236,2024,8,15,10,Mataloko,Lampung,6,PLTG,5,Rain Showers,30.5,84,Engine Cummins KTA50,Exhaust System,1939.76,Standby,114.92
+183,183,2025-04-16 02:28:43.797236,2025,4,16,24,Rantau Dedap,Jawa Barat,6,PLTG,2,Partly Cloudy,12.3,24,PLTG Generator CAT D1000,Exhaust System,714.7,Failed,170.09
+184,184,2025-03-02 19:40:43.797236,2025,3,2,21,Patuha,Lampung,2,PLTB,2,Partly Cloudy,39.5,12,PLTB Turbine G100,Nacelle,1423.81,Operational,179.87
+185,185,2025-04-23 13:00:43.797236,2025,4,23,10,Mataloko,Lampung,2,PLTB,8,Hazy,35.3,91,PLTB Turbine G100,Turbine,1990.86,Standby,247.53
+186,186,2023-07-23 20:57:43.797236,2023,7,23,2,Cirata,Jawa Barat,3,PLTA,7,Foggy,29.6,73,PLTA Turbine T-Francis,Turbine,1887.02,Maintenance,301.96
+187,187,2023-09-18 15:11:43.797236,2023,9,18,10,Mataloko,Lampung,6,PLTG,1,Clear,21.9,78,Fuel Tank PetroStore 50KL,Exhaust System,1117.08,Maintenance,362.04
+188,188,2024-11-21 13:36:43.797236,2024,11,21,17,Sidrap,NTT,6,PLTG,8,Hazy,16.0,35,PLTG Generator CAT D1000,Generator Set,297.36,Operational,40.31
+189,189,2023-11-23 21:46:43.797236,2023,11,23,7,Sibayak,Banten,5,PLTG,4,Overcast,12.7,9,Gasifier WoodChip X200,Feeder System,1765.13,Failed,1235.61
+190,190,2025-04-09 11:21:43.797236,2025,4,9,22,Dieng,Sumatera Selatan,6,PLTG,8,Hazy,30.1,29,PLTG Generator CAT D1000,Engine,1163.81,Failed,269.41
+191,191,2023-10-21 05:29:43.797236,2023,10,21,1,Karangkates,Jawa Timur,4,PLTG,2,Partly Cloudy,24.0,11,Steam Turbine GeoPower X1,Steam Turbine,985.72,Standby,888.93
+192,192,2023-11-02 23:49:43.797236,2023,11,2,18,Jeneponto,Banten,6,PLTG,6,Thunderstorm,19.0,93,Fuel Tank PetroStore 50KL,Exhaust System,974.79,Failed,597.28
+193,193,2024-12-01 10:01:43.797236,2024,12,1,1,Karangkates,Jawa Timur,6,PLTG,8,Hazy,29.2,69,Engine Cummins KTA50,Engine,201.41,Maintenance,1078.26
+194,194,2023-12-25 19:09:43.797236,2023,12,25,15,Muara Karang,Sumatera Utara,1,PLTS,6,Thunderstorm,11.8,81,PLTS Panel Array Alpha,Inverter,388.3,Failed,311.08
+195,195,2023-09-05 15:50:43.797236,2023,9,5,4,Kamojang,Sumatera Utara,4,PLTG,5,Rain Showers,11.6,8,Steam Turbine GeoPower X1,Wellhead,1882.1,Operational,1370.75
+196,196,2023-09-04 16:18:43.797236,2023,9,4,8,Lahendong,DKI Jakarta,6,PLTG,5,Rain Showers,33.8,29,PLTG Generator CAT D1000,Engine,1884.16,Maintenance,1373.33
+197,197,2024-07-16 10:06:43.797236,2024,7,16,16,Tambak Lorok,Sulawesi Utara,5,PLTG,7,Foggy,17.4,26,Pelletizer BioFuel,Feeder System,1822.21,Maintenance,1405.23
+198,198,2024-08-24 00:08:43.797236,2024,8,24,14,Grati,Jawa Tengah,3,PLTA,5,Rain Showers,29.3,86,Generator PLTAGenX,Generator,1368.43,Standby,425.31
+199,199,2025-04-22 07:14:43.797236,2025,4,22,11,Paiton,Sumatera Selatan,6,PLTG,8,Hazy,24.3,84,Engine Cummins KTA50,Exhaust System,1045.43,Operational,534.31
+200,200,2023-06-04 06:07:43.797236,2023,6,4,8,Lahendong,DKI Jakarta,6,PLTG,8,Hazy,12.5,19,Alternator PLTGGen Pro,Engine,1793.13,Standby,261.1
+201,201,2024-06-10 22:55:43.797236,2024,6,10,14,Grati,Jawa Tengah,1,PLTS,7,Foggy,15.4,23,Central Inverter SunGrow,Tracker,631.48,Failed,792.93
+202,202,2023-07-12 05:27:43.797236,2023,7,12,17,Sidrap,NTT,4,PLTG,7,Foggy,10.7,48,Binary Cycle Plant GeoFlow,Condenser,489.46,Degraded,1270.42
+203,203,2025-05-19 09:31:43.797236,2025,5,19,11,Paiton,Sumatera Selatan,2,PLTB,2,Partly Cloudy,25.2,20,PLTB Turbine G100,Nacelle,730.61,Failed,259.41
+204,204,2023-10-04 12:03:43.797236,2023,10,4,9,Ulumbu,Sulawesi Selatan,6,PLTG,5,Rain Showers,17.8,93,Fuel Tank PetroStore 50KL,Exhaust System,1676.74,Maintenance,238.55
+205,205,2025-03-30 08:25:43.797236,2025,3,30,6,Wayang PLTBu,NTT,3,PLTA,5,Rain Showers,28.3,73,PLTA Turbine T-Francis,Turbine,255.36,Failed,487.17
+206,206,2024-11-24 08:29:43.797236,2024,11,24,15,Muara Karang,Sumatera Utara,3,PLTA,1,Clear,13.4,31,Generator PLTAGenX,Penstock,116.07,Degraded,618.37
+207,207,2023-08-10 01:37:43.797236,2023,8,10,8,Lahendong,DKI Jakarta,1,PLTS,2,Partly Cloudy,27.2,61,PLTS Panel B-Series X,Mounting System,1561.01,Maintenance,228.29
+208,208,2025-04-21 08:04:43.797236,2025,4,21,17,Sidrap,NTT,4,PLTG,2,Partly Cloudy,13.1,48,Binary Cycle Plant GeoFlow,Condenser,1434.2,Maintenance,1110.66
+209,209,2024-02-28 14:11:43.797236,2024,2,28,17,Sidrap,NTT,5,PLTG,8,Hazy,18.5,33,Steam Turbine BioSteam Z,Feeder System,711.5,Degraded,257.34
+210,210,2023-08-05 06:12:43.797236,2023,8,5,22,Dieng,Sumatera Selatan,3,PLTA,4,Overcast,10.9,7,Generator PLTAGenX,Spillway Gate,1959.3,Operational,760.41
+211,211,2023-08-29 02:05:43.797236,2023,8,29,2,Cirata,Jawa Barat,2,PLTB,5,Rain Showers,10.2,89,PLTB Turbine Vestas V120,Generator,1475.51,Degraded,150.68
+212,212,2024-01-05 20:18:43.797236,2024,1,5,5,Darajat,Sulawesi Utara,6,PLTG,5,Rain Showers,25.2,57,PLTG Generator CAT D1000,Generator Set,771.3,Degraded,250.39
+213,213,2024-06-08 07:15:43.797236,2024,6,8,2,Cirata,Jawa Barat,5,PLTG,8,Hazy,22.2,90,Steam Turbine BioSteam Z,Gasifier,999.97,Standby,1469.87
+214,214,2025-02-13 09:37:43.797236,2025,2,13,8,Lahendong,DKI Jakarta,3,PLTA,4,Overcast,35.1,85,PLTA Turbine T-Francis,Turbine,996.32,Degraded,1325.43
+215,215,2023-05-28 21:42:43.797236,2023,5,28,5,Darajat,Sulawesi Utara,3,PLTA,1,Clear,29.2,74,Generator PLTAGenX,Spillway Gate,609.81,Operational,1095.05
+216,216,2024-05-07 09:13:43.797236,2024,5,7,2,Cirata,Jawa Barat,2,PLTB,8,Hazy,38.4,89,PLTB Turbine Vestas V120,Generator,1226.41,Degraded,1052.28
+217,217,2023-07-25 07:04:43.797236,2023,7,25,11,Paiton,Sumatera Selatan,4,PLTG,7,Foggy,10.9,96,Binary Cycle Plant GeoFlow,Heat Exchanger,1253.57,Maintenance,1007.69
+218,218,2024-03-17 18:37:43.797236,2024,3,17,6,Wayang PLTBu,NTT,5,PLTG,4,Overcast,11.5,33,Steam Turbine BioSteam Z,Feeder System,1272.7,Maintenance,699.09
+219,219,2025-01-17 23:58:43.797236,2025,1,17,24,Rantau Dedap,Jawa Barat,4,PLTG,4,Overcast,21.2,15,Wellhead Unit AlphaTherm,Wellhead,1542.22,Maintenance,1027.56
+220,220,2024-02-04 15:28:43.797236,2024,2,4,17,Sidrap,NTT,3,PLTA,4,Overcast,34.3,56,PLTA Turbine T-Francis,Generator,814.0,Degraded,1131.51
+221,221,2024-08-29 22:11:43.797236,2024,8,29,20,Gunung Salak,Sulawesi Selatan,5,PLTG,7,Foggy,11.7,47,PLTG Boiler BioBurn R1,Boiler,569.83,Failed,1177.11
+222,222,2024-06-04 01:41:43.797236,2024,6,4,23,Sorik Marapi,Jawa Timur,3,PLTA,1,Clear,21.1,97,PLTA Turbine T-Francis,Generator,623.01,Standby,1254.53
+223,223,2023-07-04 01:30:43.797236,2023,7,4,18,Jeneponto,Banten,1,PLTS,3,Cloudy,37.6,34,Inverter SolMax 5000,Tracker,399.08,Operational,541.55
+224,224,2025-01-06 17:24:43.797236,2025,1,6,24,Rantau Dedap,Jawa Barat,1,PLTS,1,Clear,15.4,34,Inverter SolMax 5000,Tracker,1683.67,Failed,685.07
+225,225,2024-07-11 18:58:43.797236,2024,7,11,12,Suralaya,Jawa Timur,4,PLTG,6,Thunderstorm,15.4,11,Steam Turbine GeoPower X1,Steam Turbine,1824.72,Degraded,265.54
+226,226,2024-01-24 00:37:43.797236,2024,1,24,25,Muara Laboh,Jawa Tengah,5,PLTG,8,Hazy,32.6,33,Steam Turbine BioSteam Z,Feeder System,209.02,Maintenance,481.64
+227,227,2025-02-25 01:58:43.797236,2025,2,25,12,Suralaya,Jawa Timur,6,PLTG,7,Foggy,28.2,69,Engine Cummins KTA50,Engine,617.73,Operational,883.63
+228,228,2024-11-12 11:43:43.797236,2024,11,12,22,Dieng,Sumatera Selatan,4,PLTG,7,Foggy,39.9,10,Wellhead Unit AlphaTherm,Wellhead,1748.76,Standby,147.04
+229,229,2024-11-23 10:45:43.797236,2024,11,23,3,Saguling,Jawa Tengah,6,PLTG,7,Foggy,20.9,19,Alternator PLTGGen Pro,Engine,228.71,Operational,985.89
+230,230,2023-07-09 11:20:43.797236,2023,7,9,6,Wayang PLTBu,NTT,5,PLTG,6,Thunderstorm,37.7,26,Pelletizer BioFuel,Feeder System,1750.81,Failed,214.27
+231,231,2024-10-26 22:02:43.797236,2024,10,26,16,Tambak Lorok,Sulawesi Utara,3,PLTA,8,Hazy,11.3,49,Kaplan Turbine FlowMax,Generator,879.93,Standby,984.99
+232,232,2023-11-09 09:48:43.797236,2023,11,9,18,Jeneponto,Banten,5,PLTG,1,Clear,33.8,72,Steam Turbine BioSteam Z,Turbine,1240.13,Operational,402.82
+233,233,2024-02-28 06:47:43.797236,2024,2,28,11,Paiton,Sumatera Selatan,1,PLTS,2,Partly Cloudy,27.1,95,PLTS Panel B-Series X,Tracker,837.31,Failed,108.1
+234,234,2024-12-16 01:00:43.797236,2024,12,16,25,Muara Laboh,Jawa Tengah,3,PLTA,2,Partly Cloudy,21.2,70,Generator PLTAGenX,Generator,1858.19,Maintenance,909.36
+235,235,2025-02-08 09:30:43.797236,2025,2,8,19,Likupang,DKI Jakarta,1,PLTS,3,Cloudy,39.8,99,Central Inverter SunGrow,Photovoltaic Panel,468.67,Standby,177.58
+236,236,2025-05-17 02:27:43.797236,2025,5,17,9,Ulumbu,Sulawesi Selatan,2,PLTB,3,Cloudy,21.2,59,Blade Set AeroPro,Turbine,960.2,Failed,804.35
+237,237,2023-11-23 00:30:43.797236,2023,11,23,13,Tanjung Jati B,Jawa Barat,3,PLTA,4,Overcast,34.6,56,PLTA Turbine T-Francis,Generator,373.92,Maintenance,859.74
+238,238,2024-04-03 22:51:43.797236,2024,4,3,3,Saguling,Jawa Tengah,6,PLTG,2,Partly Cloudy,21.6,24,PLTG Generator CAT D1000,Exhaust System,475.74,Operational,331.66
+239,239,2025-01-02 15:06:43.797236,2025,1,2,23,Sorik Marapi,Jawa Timur,1,PLTS,2,Partly Cloudy,14.2,83,PLTS Panel Array Alpha,Tracker,498.85,Maintenance,205.29
+240,240,2024-04-18 09:29:43.797236,2024,4,18,19,Likupang,DKI Jakarta,4,PLTG,8,Hazy,26.6,22,Binary Cycle Plant GeoFlow,Wellhead,915.03,Standby,957.7
+241,241,2024-03-08 06:04:43.797236,2024,3,8,6,Wayang PLTBu,NTT,4,PLTG,6,Thunderstorm,18.0,8,Steam Turbine GeoPower X1,Wellhead,720.27,Operational,1207.57
+242,242,2024-05-22 21:07:43.797236,2024,5,22,21,Patuha,Lampung,5,PLTG,8,Hazy,25.8,9,Gasifier WoodChip X200,Feeder System,1030.42,Operational,1466.89
+243,243,2024-07-08 12:00:43.797236,2024,7,8,11,Paiton,Sumatera Selatan,3,PLTA,2,Partly Cloudy,11.7,85,PLTA Turbine T-Francis,Turbine,124.6,Maintenance,1330.92
+244,244,2023-10-17 02:45:43.797236,2023,10,17,2,Cirata,Jawa Barat,6,PLTG,4,Overcast,22.1,19,Alternator PLTGGen Pro,Engine,708.03,Operational,1396.66
+245,245,2024-09-09 14:01:43.797236,2024,9,9,7,Sibayak,Banten,6,PLTG,4,Overcast,32.6,35,PLTG Generator CAT D1000,Generator Set,224.6,Maintenance,766.62
+246,246,2024-01-08 10:47:43.797236,2024,1,8,6,Wayang PLTBu,NTT,4,PLTG,6,Thunderstorm,28.0,48,Binary Cycle Plant GeoFlow,Condenser,271.59,Standby,741.43
+247,247,2023-07-25 10:22:43.797236,2023,7,25,21,Patuha,Lampung,1,PLTS,5,Rain Showers,11.3,62,PLTS Panel B-Series X,Inverter,1047.09,Failed,600.02
+248,248,2023-06-28 10:01:43.797236,2023,6,28,18,Jeneponto,Banten,4,PLTG,7,Foggy,15.8,27,Binary Cycle Plant GeoFlow,Wellhead,553.87,Degraded,1190.77
+249,249,2024-11-16 12:11:43.797236,2024,11,16,22,Dieng,Sumatera Selatan,1,PLTS,2,Partly Cloudy,12.2,92,Central Inverter SunGrow,Inverter,242.3,Degraded,998.51
+250,250,2024-08-18 09:36:43.797236,2024,8,18,8,Lahendong,DKI Jakarta,1,PLTS,4,Overcast,35.1,32,PLTS Panel B-Series X,Photovoltaic Panel,852.35,Operational,1209.73
+251,251,2024-06-16 14:47:43.797236,2024,6,16,8,Lahendong,DKI Jakarta,3,PLTA,8,Hazy,22.9,77,Kaplan Turbine FlowMax,Generator,701.65,Degraded,432.72
+252,252,2023-10-03 11:45:43.797236,2023,10,3,2,Cirata,Jawa Barat,2,PLTB,3,Cloudy,20.7,38,PLTB Turbine Vestas V120,Generator,854.75,Degraded,871.05
+253,253,2025-05-07 05:49:43.797236,2025,5,7,12,Suralaya,Jawa Timur,1,PLTS,7,Foggy,33.0,52,PLTS Panel Array Alpha,Tracker,1774.59,Operational,1070.12
+254,254,2024-12-28 16:07:43.797236,2024,12,28,11,Paiton,Sumatera Selatan,4,PLTG,4,Overcast,22.3,28,Binary Cycle Plant GeoFlow,Heat Exchanger,812.08,Degraded,1173.68
+255,255,2023-06-27 09:53:43.797236,2023,6,27,23,Sorik Marapi,Jawa Timur,3,PLTA,1,Clear,36.4,39,PLTA Turbine T-Francis,Turbine,539.77,Standby,699.65
+256,256,2023-07-14 06:03:43.797236,2023,7,14,2,Cirata,Jawa Barat,2,PLTB,4,Overcast,18.4,64,Gearbox PLTBMaster,Turbine,1398.71,Maintenance,217.39
+257,257,2024-09-01 21:17:43.797236,2024,9,1,24,Rantau Dedap,Jawa Barat,6,PLTG,6,Thunderstorm,33.3,66,Alternator PLTGGen Pro,Exhaust System,931.97,Failed,110.52
+258,258,2024-12-17 04:47:43.797236,2024,12,17,16,Tambak Lorok,Sulawesi Utara,3,PLTA,4,Overcast,31.2,73,PLTA Turbine T-Francis,Turbine,638.14,Maintenance,1108.89
+259,259,2024-12-23 22:37:43.797236,2024,12,23,5,Darajat,Sulawesi Utara,6,PLTG,6,Thunderstorm,33.9,69,Engine Cummins KTA50,Engine,1987.45,Operational,220.5
+260,260,2024-10-12 07:37:43.797236,2024,10,12,13,Tanjung Jati B,Jawa Barat,2,PLTB,4,Overcast,13.0,64,Gearbox PLTBMaster,Turbine,1052.63,Degraded,47.84
+261,261,2023-09-24 10:55:43.797236,2023,9,24,17,Sidrap,NTT,1,PLTS,5,Rain Showers,39.3,98,Inverter SolMax 5000,Inverter,1723.97,Failed,354.14
+262,262,2024-03-04 19:07:43.797236,2024,3,4,14,Grati,Jawa Tengah,1,PLTS,8,Hazy,31.8,92,Central Inverter SunGrow,Inverter,1047.97,Failed,616.25
+263,263,2024-04-11 03:52:43.797236,2024,4,11,15,Muara Karang,Sumatera Utara,4,PLTG,7,Foggy,27.1,28,Binary Cycle Plant GeoFlow,Heat Exchanger,1304.21,Degraded,1074.04
+264,264,2024-07-11 07:42:43.797236,2024,7,11,15,Muara Karang,Sumatera Utara,2,PLTB,5,Rain Showers,36.8,67,PLTB Turbine Vestas V120,Generator,936.98,Degraded,1211.97
+265,265,2023-08-18 15:36:43.797236,2023,8,18,24,Rantau Dedap,Jawa Barat,3,PLTA,4,Overcast,24.0,74,Generator PLTAGenX,Spillway Gate,673.09,Operational,817.18
+266,266,2024-06-24 12:34:43.797236,2024,6,24,5,Darajat,Sulawesi Utara,2,PLTB,4,Overcast,22.0,91,PLTB Turbine G100,Turbine,277.52,Degraded,1137.13
+267,267,2023-06-14 08:33:43.797236,2023,6,14,7,Sibayak,Banten,3,PLTA,3,Cloudy,16.3,73,PLTA Turbine T-Francis,Turbine,367.37,Standby,87.72
+268,268,2024-08-16 02:02:43.797236,2024,8,16,7,Sibayak,Banten,6,PLTG,6,Thunderstorm,18.6,66,Alternator PLTGGen Pro,Exhaust System,219.54,Failed,274.38
+269,269,2025-04-07 10:28:43.797236,2025,4,7,20,Gunung Salak,Sulawesi Selatan,3,PLTA,3,Cloudy,13.4,46,Generator PLTAGenX,Turbine,622.39,Failed,1136.65
+270,270,2025-03-22 23:20:43.797236,2025,3,22,3,Saguling,Jawa Tengah,2,PLTB,7,Foggy,19.9,91,PLTB Turbine G100,Turbine,1159.95,Degraded,655.06
+271,271,2025-05-05 04:37:43.797236,2025,5,5,3,Saguling,Jawa Tengah,3,PLTA,2,Partly Cloudy,31.3,39,PLTA Turbine T-Francis,Turbine,1581.46,Operational,253.34
+272,272,2023-08-09 13:39:43.797236,2023,8,9,21,Patuha,Lampung,1,PLTS,8,Hazy,32.8,23,Central Inverter SunGrow,Tracker,965.33,Degraded,887.16
+273,273,2025-04-02 06:47:43.797236,2025,4,2,18,Jeneponto,Banten,2,PLTB,8,Hazy,28.3,88,Gearbox PLTBMaster,Gearbox,1687.85,Degraded,1200.2
+274,274,2024-07-04 13:16:43.797236,2024,7,4,8,Lahendong,DKI Jakarta,3,PLTA,5,Rain Showers,21.3,25,Pelton Wheel AquaForce,Spillway Gate,1828.45,Failed,678.64
+275,275,2024-02-19 06:32:43.797236,2024,2,19,20,Gunung Salak,Sulawesi Selatan,6,PLTG,7,Foggy,26.8,80,Alternator PLTGGen Pro,Engine,1773.48,Operational,253.33
+276,276,2024-04-27 23:26:43.797236,2024,4,27,2,Cirata,Jawa Barat,2,PLTB,2,Partly Cloudy,35.1,12,PLTB Turbine G100,Nacelle,696.22,Degraded,790.25
+277,277,2024-04-09 13:13:43.797236,2024,4,9,13,Tanjung Jati B,Jawa Barat,3,PLTA,8,Hazy,13.5,85,PLTA Turbine T-Francis,Turbine,1615.91,Degraded,893.49
+278,278,2025-05-09 23:40:43.797236,2025,5,9,9,Ulumbu,Sulawesi Selatan,3,PLTA,2,Partly Cloudy,37.8,63,PLTA Turbine T-Francis,Penstock,177.4,Operational,1187.2
+279,279,2024-08-10 11:00:43.797236,2024,8,10,24,Rantau Dedap,Jawa Barat,1,PLTS,7,Foggy,24.0,99,Central Inverter SunGrow,Photovoltaic Panel,1479.83,Failed,175.19
+280,280,2023-11-11 14:17:43.797236,2023,11,11,17,Sidrap,NTT,4,PLTG,1,Clear,30.5,8,Steam Turbine GeoPower X1,Wellhead,1450.22,Operational,342.98
+281,281,2025-01-02 00:52:43.797236,2025,1,2,10,Mataloko,Lampung,2,PLTB,8,Hazy,35.2,67,PLTB Turbine Vestas V120,Generator,1101.02,Maintenance,694.56
+282,282,2025-02-27 18:41:43.797236,2025,2,27,20,Gunung Salak,Sulawesi Selatan,3,PLTA,8,Hazy,22.5,85,PLTA Turbine T-Francis,Turbine,259.3,Failed,1477.04
+283,283,2023-09-02 10:03:43.797236,2023,9,2,1,Karangkates,Jawa Timur,4,PLTG,3,Cloudy,36.0,5,Binary Cycle Plant GeoFlow,Heat Exchanger,1229.47,Maintenance,1125.05
+284,284,2023-12-27 10:20:43.797236,2023,12,27,8,Lahendong,DKI Jakarta,1,PLTS,7,Foggy,30.8,40,PLTS Panel B-Series X,Inverter,837.56,Maintenance,350.94
+285,285,2024-10-08 11:12:43.797236,2024,10,8,10,Mataloko,Lampung,2,PLTB,5,Rain Showers,14.0,64,Gearbox PLTBMaster,Turbine,1622.11,Degraded,1430.06
+286,286,2023-08-26 14:47:43.797236,2023,8,26,10,Mataloko,Lampung,3,PLTA,4,Overcast,23.4,94,Generator PLTAGenX,Spillway Gate,562.38,Maintenance,1403.0
+287,287,2025-01-31 18:38:43.797236,2025,1,31,2,Cirata,Jawa Barat,2,PLTB,4,Overcast,34.3,64,Gearbox PLTBMaster,Turbine,1255.35,Operational,526.78
+288,288,2024-02-01 21:37:43.797236,2024,2,1,13,Tanjung Jati B,Jawa Barat,2,PLTB,4,Overcast,11.1,20,PLTB Turbine G100,Nacelle,1045.97,Maintenance,310.48
+289,289,2025-02-17 01:57:43.797236,2025,2,17,14,Grati,Jawa Tengah,5,PLTG,3,Cloudy,32.8,90,Steam Turbine BioSteam Z,Gasifier,1020.56,Degraded,1064.72
+290,290,2024-03-23 20:40:43.797236,2024,3,23,9,Ulumbu,Sulawesi Selatan,1,PLTS,6,Thunderstorm,21.1,52,PLTS Panel Array Alpha,Tracker,940.73,Standby,1214.38
+291,291,2025-04-12 15:38:43.797236,2025,4,12,9,Ulumbu,Sulawesi Selatan,3,PLTA,4,Overcast,12.1,49,Kaplan Turbine FlowMax,Generator,810.89,Degraded,1071.15
+292,292,2023-12-03 19:12:43.797236,2023,12,3,5,Darajat,Sulawesi Utara,3,PLTA,1,Clear,12.1,2,Kaplan Turbine FlowMax,Turbine,656.73,Maintenance,121.32
+293,293,2023-09-16 06:40:43.797236,2023,9,16,17,Sidrap,NTT,6,PLTG,1,Clear,34.0,54,Engine Cummins KTA50,Generator Set,492.94,Operational,1371.11
+294,294,2024-03-19 06:00:43.797236,2024,3,19,21,Patuha,Lampung,4,PLTG,8,Hazy,28.9,15,Wellhead Unit AlphaTherm,Wellhead,936.59,Operational,411.55
+295,295,2024-09-08 08:04:43.797236,2024,9,8,16,Tambak Lorok,Sulawesi Utara,2,PLTB,3,Cloudy,25.2,88,Gearbox PLTBMaster,Gearbox,936.06,Maintenance,460.36
+296,296,2024-05-20 17:07:43.797236,2024,5,20,4,Kamojang,Sumatera Utara,2,PLTB,5,Rain Showers,24.2,59,Blade Set AeroPro,Turbine,1027.77,Failed,182.65
+297,297,2024-11-29 01:58:43.797236,2024,11,29,8,Lahendong,DKI Jakarta,4,PLTG,1,Clear,29.6,5,Binary Cycle Plant GeoFlow,Heat Exchanger,1510.74,Standby,538.95
+298,298,2024-10-22 05:44:43.797236,2024,10,22,14,Grati,Jawa Tengah,3,PLTA,4,Overcast,13.2,42,Pelton Wheel AquaForce,Generator,556.92,Failed,410.5
+299,299,2024-01-18 20:47:43.797236,2024,1,18,5,Darajat,Sulawesi Utara,6,PLTG,7,Foggy,30.7,54,Engine Cummins KTA50,Generator Set,416.59,Maintenance,978.36
+300,300,2024-03-29 07:07:43.797236,2024,3,29,10,Mataloko,Lampung,2,PLTB,3,Cloudy,22.4,76,PLTB Turbine Vestas V120,Nacelle,1409.81,Degraded,33.47
+301,301,2023-08-27 00:06:43.797236,2023,8,27,11,Paiton,Sumatera Selatan,4,PLTG,1,Clear,13.6,51,Binary Cycle Plant GeoFlow,Wellhead,698.68,Operational,868.94
+302,302,2023-09-15 16:32:43.797236,2023,9,15,21,Patuha,Lampung,4,PLTG,2,Partly Cloudy,24.0,48,Binary Cycle Plant GeoFlow,Condenser,1947.02,Operational,142.55
+303,303,2024-10-19 02:24:43.797236,2024,10,19,14,Grati,Jawa Tengah,3,PLTA,4,Overcast,13.2,85,PLTA Turbine T-Francis,Turbine,1646.88,Degraded,297.73
+304,304,2023-09-21 16:05:43.797236,2023,9,21,9,Ulumbu,Sulawesi Selatan,4,PLTG,8,Hazy,18.3,11,Steam Turbine GeoPower X1,Steam Turbine,507.01,Standby,1137.24
+305,305,2023-06-26 08:50:43.797236,2023,6,26,23,Sorik Marapi,Jawa Timur,3,PLTA,3,Cloudy,28.6,31,Generator PLTAGenX,Penstock,216.07,Degraded,1015.92
+306,306,2023-06-10 05:22:43.797236,2023,6,10,18,Jeneponto,Banten,6,PLTG,7,Foggy,20.5,57,PLTG Generator CAT D1000,Generator Set,1796.06,Maintenance,396.12
+307,307,2023-07-06 17:20:43.797236,2023,7,6,16,Tambak Lorok,Sulawesi Utara,4,PLTG,6,Thunderstorm,14.7,15,Wellhead Unit AlphaTherm,Wellhead,845.76,Degraded,1302.92
+308,308,2024-05-13 10:05:43.797236,2024,5,13,8,Lahendong,DKI Jakarta,5,PLTG,3,Cloudy,15.7,65,Pelletizer BioFuel,Turbine,1144.88,Degraded,630.59
+309,309,2024-05-10 15:51:43.797236,2024,5,10,21,Patuha,Lampung,3,PLTA,3,Cloudy,34.2,2,Kaplan Turbine FlowMax,Turbine,1824.3,Operational,1096.36
+310,310,2024-11-27 11:13:43.797236,2024,11,27,1,Karangkates,Jawa Timur,2,PLTB,8,Hazy,31.5,12,PLTB Turbine G100,Nacelle,314.2,Maintenance,177.13
+311,311,2025-03-17 10:41:43.797236,2025,3,17,14,Grati,Jawa Tengah,1,PLTS,2,Partly Cloudy,32.3,62,PLTS Panel B-Series X,Inverter,672.6,Standby,1022.99
+312,312,2024-04-06 19:57:43.797236,2024,4,6,20,Gunung Salak,Sulawesi Selatan,3,PLTA,1,Clear,29.9,60,Pelton Wheel AquaForce,Turbine,319.33,Failed,290.98
+313,313,2024-05-15 08:16:43.797236,2024,5,15,25,Muara Laboh,Jawa Tengah,2,PLTB,2,Partly Cloudy,10.5,59,Blade Set AeroPro,Turbine,470.38,Failed,308.58
+314,314,2023-07-23 22:45:43.797236,2023,7,23,22,Dieng,Sumatera Selatan,4,PLTG,7,Foggy,15.9,96,Binary Cycle Plant GeoFlow,Heat Exchanger,1962.16,Degraded,428.74
+315,315,2024-10-27 09:25:43.797236,2024,10,27,11,Paiton,Sumatera Selatan,2,PLTB,4,Overcast,26.4,12,PLTB Turbine G100,Nacelle,1583.2,Maintenance,41.43
+316,316,2023-07-25 23:53:43.797236,2023,7,25,25,Muara Laboh,Jawa Tengah,2,PLTB,7,Foggy,39.9,59,Blade Set AeroPro,Turbine,1483.71,Maintenance,724.38
+317,317,2024-05-22 16:57:43.797236,2024,5,22,12,Suralaya,Jawa Timur,6,PLTG,1,Clear,13.9,71,Fuel Tank PetroStore 50KL,Engine,1910.21,Degraded,916.07
+318,318,2025-04-19 00:36:43.797236,2025,4,19,9,Ulumbu,Sulawesi Selatan,1,PLTS,5,Rain Showers,27.9,23,Central Inverter SunGrow,Tracker,1117.98,Standby,1487.16
+319,319,2024-04-24 14:02:43.797236,2024,4,24,24,Rantau Dedap,Jawa Barat,6,PLTG,3,Cloudy,16.5,58,Engine Cummins KTA50,Fuel System,1559.17,Degraded,1068.61
+320,320,2023-10-08 13:48:43.797236,2023,10,8,6,Wayang PLTBu,NTT,6,PLTG,1,Clear,24.4,80,Alternator PLTGGen Pro,Engine,1789.06,Maintenance,90.42
+321,321,2023-12-01 01:03:43.797236,2023,12,1,17,Sidrap,NTT,6,PLTG,1,Clear,17.8,35,PLTG Generator CAT D1000,Generator Set,1991.42,Maintenance,168.05
+322,322,2024-05-09 02:36:43.797236,2024,5,9,5,Darajat,Sulawesi Utara,2,PLTB,1,Clear,17.4,76,PLTB Turbine Vestas V120,Nacelle,877.11,Operational,192.32
+323,323,2024-02-23 10:55:43.797236,2024,2,23,6,Wayang PLTBu,NTT,2,PLTB,3,Cloudy,39.1,20,PLTB Turbine G100,Nacelle,976.26,Failed,1181.93
+324,324,2023-10-26 02:25:43.797236,2023,10,26,1,Karangkates,Jawa Timur,4,PLTG,6,Thunderstorm,17.7,68,Cooling Tower GeoCool,Wellhead,1295.02,Failed,55.24
+325,325,2023-07-19 15:55:43.797236,2023,7,19,25,Muara Laboh,Jawa Tengah,6,PLTG,7,Foggy,19.6,55,Engine Cummins KTA50,Generator Set,999.18,Degraded,1456.24
+326,326,2023-08-29 08:35:43.797236,2023,8,29,15,Muara Karang,Sumatera Utara,6,PLTG,5,Rain Showers,18.3,14,Fuel Tank PetroStore 50KL,Engine,1459.02,Standby,481.28
+327,327,2025-04-25 18:12:43.797236,2025,4,25,4,Kamojang,Sumatera Utara,1,PLTS,7,Foggy,36.5,61,PLTS Panel B-Series X,Mounting System,1201.82,Operational,11.64
+328,328,2024-01-31 21:25:43.797236,2024,1,31,8,Lahendong,DKI Jakarta,1,PLTS,7,Foggy,37.3,62,PLTS Panel B-Series X,Inverter,925.44,Maintenance,1293.79
+329,329,2024-08-03 05:25:43.797236,2024,8,3,11,Paiton,Sumatera Selatan,5,PLTG,6,Thunderstorm,26.9,18,Pelletizer BioFuel,Feeder System,949.54,Maintenance,844.71
+330,330,2025-05-14 18:44:43.797236,2025,5,14,1,Karangkates,Jawa Timur,4,PLTG,1,Clear,32.2,51,Binary Cycle Plant GeoFlow,Wellhead,1907.71,Standby,537.85
+331,331,2024-12-06 17:43:43.797236,2024,12,6,10,Mataloko,Lampung,6,PLTG,8,Hazy,11.9,80,Alternator PLTGGen Pro,Engine,1693.47,Failed,1447.9
+332,332,2023-08-22 09:29:43.797236,2023,8,22,8,Lahendong,DKI Jakarta,1,PLTS,2,Partly Cloudy,23.1,81,PLTS Panel Array Alpha,Inverter,1136.39,Failed,1380.18
+333,333,2024-10-24 03:24:43.797236,2024,10,24,20,Gunung Salak,Sulawesi Selatan,3,PLTA,6,Thunderstorm,22.1,77,Kaplan Turbine FlowMax,Generator,802.92,Maintenance,290.17
+334,334,2024-05-31 03:45:43.797236,2024,5,31,23,Sorik Marapi,Jawa Timur,6,PLTG,8,Hazy,32.9,80,Alternator PLTGGen Pro,Engine,1046.37,Standby,1162.03
+335,335,2025-04-15 06:39:43.797236,2025,4,15,20,Gunung Salak,Sulawesi Selatan,4,PLTG,4,Overcast,33.5,68,Cooling Tower GeoCool,Wellhead,1153.25,Operational,869.12
+336,336,2024-07-11 20:41:43.797236,2024,7,11,16,Tambak Lorok,Sulawesi Utara,4,PLTG,7,Foggy,27.5,37,Binary Cycle Plant GeoFlow,Steam Turbine,103.97,Operational,646.35
+337,337,2024-07-31 15:12:43.797236,2024,7,31,1,Karangkates,Jawa Timur,6,PLTG,5,Rain Showers,38.7,55,Engine Cummins KTA50,Generator Set,192.81,Failed,737.18
+338,338,2025-05-08 15:00:43.797236,2025,5,8,19,Likupang,DKI Jakarta,4,PLTG,6,Thunderstorm,35.0,79,Wellhead Unit AlphaTherm,Steam Turbine,603.55,Maintenance,281.74
+339,339,2024-05-18 06:36:43.797236,2024,5,18,9,Ulumbu,Sulawesi Selatan,1,PLTS,8,Hazy,17.1,95,PLTS Panel B-Series X,Tracker,1144.7,Standby,304.09
+340,340,2023-05-31 06:01:43.797236,2023,5,31,22,Dieng,Sumatera Selatan,5,PLTG,7,Foggy,39.1,9,Gasifier WoodChip X200,Feeder System,1031.73,Degraded,1313.46
+341,341,2024-05-17 02:11:43.797236,2024,5,17,4,Kamojang,Sumatera Utara,3,PLTA,3,Cloudy,21.2,70,Generator PLTAGenX,Generator,1608.92,Failed,775.45
+342,342,2023-07-04 12:43:43.797236,2023,7,4,6,Wayang PLTBu,NTT,3,PLTA,1,Clear,11.9,39,PLTA Turbine T-Francis,Turbine,772.84,Failed,1103.16
+343,343,2024-04-29 02:52:43.797236,2024,4,29,10,Mataloko,Lampung,1,PLTS,8,Hazy,25.6,83,PLTS Panel Array Alpha,Tracker,1442.04,Maintenance,693.61
+344,344,2023-06-01 20:03:43.797236,2023,6,1,8,Lahendong,DKI Jakarta,4,PLTG,4,Overcast,25.2,48,Binary Cycle Plant GeoFlow,Condenser,1331.0,Operational,1468.75
+345,345,2024-06-11 19:06:43.797236,2024,6,11,14,Grati,Jawa Tengah,4,PLTG,7,Foggy,14.5,10,Wellhead Unit AlphaTherm,Wellhead,1134.59,Operational,805.12
+346,346,2024-11-18 13:12:43.797236,2024,11,18,8,Lahendong,DKI Jakarta,3,PLTA,4,Overcast,10.1,86,Generator PLTAGenX,Generator,165.43,Maintenance,1011.63
+347,347,2025-03-12 12:44:43.797236,2025,3,12,8,Lahendong,DKI Jakarta,2,PLTB,2,Partly Cloudy,22.2,12,PLTB Turbine G100,Nacelle,829.63,Failed,1051.26
+348,348,2023-07-28 06:36:43.797236,2023,7,28,13,Tanjung Jati B,Jawa Barat,4,PLTG,7,Foggy,33.1,37,Binary Cycle Plant GeoFlow,Steam Turbine,129.35,Operational,320.42
+349,349,2025-05-19 03:11:43.797236,2025,5,19,4,Kamojang,Sumatera Utara,6,PLTG,6,Thunderstorm,35.2,93,Fuel Tank PetroStore 50KL,Exhaust System,1893.92,Maintenance,774.06
+350,350,2023-12-08 02:58:43.797236,2023,12,8,2,Cirata,Jawa Barat,1,PLTS,7,Foggy,23.6,95,PLTS Panel B-Series X,Tracker,1667.1,Standby,1121.85
+351,351,2024-03-10 23:24:43.797236,2024,3,10,22,Dieng,Sumatera Selatan,1,PLTS,1,Clear,31.7,6,PLTS Panel B-Series X,Inverter,1896.4,Degraded,130.42
+352,352,2025-04-19 19:35:43.797236,2025,4,19,18,Jeneponto,Banten,1,PLTS,3,Cloudy,14.9,44,PLTS Panel B-Series X,Mounting System,1426.47,Operational,662.94
+353,353,2024-11-11 13:24:43.797236,2024,11,11,18,Jeneponto,Banten,2,PLTB,3,Cloudy,21.7,12,PLTB Turbine G100,Nacelle,1341.31,Degraded,1425.56
+354,354,2024-10-26 09:39:43.797236,2024,10,26,18,Jeneponto,Banten,4,PLTG,1,Clear,34.0,22,Binary Cycle Plant GeoFlow,Wellhead,1708.79,Standby,151.42
+355,355,2024-07-14 15:22:43.797236,2024,7,14,10,Mataloko,Lampung,3,PLTA,4,Overcast,23.1,31,Generator PLTAGenX,Penstock,336.35,Maintenance,1037.59
+356,356,2023-08-07 18:49:43.797236,2023,8,7,2,Cirata,Jawa Barat,4,PLTG,5,Rain Showers,22.4,5,Binary Cycle Plant GeoFlow,Heat Exchanger,1522.27,Maintenance,1451.94
+357,357,2025-04-26 20:16:43.797236,2025,4,26,17,Sidrap,NTT,1,PLTS,1,Clear,35.0,62,PLTS Panel B-Series X,Inverter,1965.78,Degraded,1000.98
+358,358,2025-01-13 08:13:43.797236,2025,1,13,7,Sibayak,Banten,5,PLTG,7,Foggy,16.6,16,Pelletizer BioFuel,Feeder System,115.15,Standby,596.1
+359,359,2025-03-14 23:55:43.797236,2025,3,14,12,Suralaya,Jawa Timur,4,PLTG,3,Cloudy,37.4,10,Wellhead Unit AlphaTherm,Wellhead,995.44,Operational,900.64
+360,360,2025-03-31 01:51:43.797236,2025,3,31,25,Muara Laboh,Jawa Tengah,4,PLTG,8,Hazy,20.9,96,Binary Cycle Plant GeoFlow,Heat Exchanger,571.25,Failed,86.3
+361,361,2023-08-13 06:24:43.797236,2023,8,13,5,Darajat,Sulawesi Utara,5,PLTG,4,Overcast,16.9,47,PLTG Boiler BioBurn R1,Boiler,578.28,Failed,946.03
+362,362,2025-01-13 20:06:43.797236,2025,1,13,9,Ulumbu,Sulawesi Selatan,3,PLTA,6,Thunderstorm,31.9,77,Kaplan Turbine FlowMax,Generator,738.3,Failed,1143.32
+363,363,2023-06-27 17:37:43.797236,2023,6,27,24,Rantau Dedap,Jawa Barat,6,PLTG,2,Partly Cloudy,35.1,80,Alternator PLTGGen Pro,Engine,1907.48,Failed,422.7
+364,364,2025-03-06 03:55:43.797236,2025,3,6,25,Muara Laboh,Jawa Tengah,5,PLTG,2,Partly Cloudy,26.0,43,PLTG Boiler BioBurn R1,Boiler,1205.17,Failed,24.44
+365,365,2023-10-24 08:56:43.797236,2023,10,24,23,Sorik Marapi,Jawa Timur,5,PLTG,5,Rain Showers,16.3,72,Steam Turbine BioSteam Z,Turbine,1623.44,Maintenance,602.84
+366,366,2024-09-27 14:02:43.797236,2024,9,27,12,Suralaya,Jawa Timur,5,PLTG,5,Rain Showers,19.1,41,Steam Turbine BioSteam Z,Turbine,1472.73,Failed,1013.13
+367,367,2025-01-07 16:00:43.797236,2025,1,7,7,Sibayak,Banten,1,PLTS,5,Rain Showers,11.8,92,Central Inverter SunGrow,Inverter,1205.02,Failed,564.77
+368,368,2025-05-12 12:52:43.797236,2025,5,12,8,Lahendong,DKI Jakarta,1,PLTS,5,Rain Showers,21.1,40,PLTS Panel B-Series X,Inverter,759.2,Standby,264.69
+369,369,2025-04-21 13:54:43.797236,2025,4,21,19,Likupang,DKI Jakarta,6,PLTG,3,Cloudy,14.0,50,Fuel Tank PetroStore 50KL,Generator Set,268.95,Operational,161.11
+370,370,2023-09-08 02:08:43.797236,2023,9,8,3,Saguling,Jawa Tengah,2,PLTB,8,Hazy,28.2,12,PLTB Turbine G100,Nacelle,1202.05,Failed,975.46
+371,371,2023-09-06 10:37:43.797236,2023,9,6,3,Saguling,Jawa Tengah,6,PLTG,8,Hazy,11.0,58,Engine Cummins KTA50,Fuel System,354.24,Degraded,1349.06
+372,372,2023-07-25 18:30:43.797236,2023,7,25,13,Tanjung Jati B,Jawa Barat,6,PLTG,6,Thunderstorm,37.1,66,Alternator PLTGGen Pro,Exhaust System,671.45,Standby,653.14
+373,373,2024-05-29 10:32:43.797236,2024,5,29,9,Ulumbu,Sulawesi Selatan,6,PLTG,1,Clear,19.2,71,Fuel Tank PetroStore 50KL,Engine,610.6,Maintenance,572.11
+374,374,2024-03-20 06:09:43.797236,2024,3,20,9,Ulumbu,Sulawesi Selatan,1,PLTS,5,Rain Showers,21.2,34,Inverter SolMax 5000,Tracker,603.42,Operational,1381.48
+375,375,2024-04-13 09:59:43.797236,2024,4,13,23,Sorik Marapi,Jawa Timur,6,PLTG,7,Foggy,18.2,84,Engine Cummins KTA50,Exhaust System,614.22,Maintenance,1473.99
+376,376,2024-09-13 05:32:43.797236,2024,9,13,23,Sorik Marapi,Jawa Timur,6,PLTG,8,Hazy,11.9,69,Engine Cummins KTA50,Engine,1182.05,Degraded,385.26
+377,377,2024-12-05 10:00:43.797236,2024,12,5,16,Tambak Lorok,Sulawesi Utara,3,PLTA,4,Overcast,36.1,45,Kaplan Turbine FlowMax,Generator,393.27,Operational,343.46
+378,378,2024-03-15 02:21:43.797236,2024,3,15,10,Mataloko,Lampung,6,PLTG,2,Partly Cloudy,21.7,21,PLTG Generator CAT D1000,Fuel System,1119.84,Degraded,1433.93
+379,379,2024-04-08 05:41:43.797236,2024,4,8,23,Sorik Marapi,Jawa Timur,5,PLTG,1,Clear,21.8,47,PLTG Boiler BioBurn R1,Boiler,784.9,Standby,0.53
+380,380,2024-04-28 21:10:43.797236,2024,4,28,1,Karangkates,Jawa Timur,5,PLTG,8,Hazy,39.4,18,Pelletizer BioFuel,Feeder System,1212.12,Standby,728.22
+381,381,2024-09-05 01:22:43.797236,2024,9,5,19,Likupang,DKI Jakarta,6,PLTG,4,Overcast,16.4,69,Engine Cummins KTA50,Engine,1098.04,Operational,1043.34
+382,382,2024-01-22 17:18:43.797236,2024,1,22,12,Suralaya,Jawa Timur,5,PLTG,6,Thunderstorm,28.0,72,Steam Turbine BioSteam Z,Turbine,985.27,Operational,381.93
+383,383,2024-04-14 09:00:43.797236,2024,4,14,22,Dieng,Sumatera Selatan,6,PLTG,1,Clear,35.1,78,Fuel Tank PetroStore 50KL,Exhaust System,295.77,Degraded,1133.66
+384,384,2025-05-27 02:41:43.797236,2025,5,27,3,Saguling,Jawa Tengah,6,PLTG,3,Cloudy,33.9,69,Engine Cummins KTA50,Engine,911.97,Failed,932.4
+385,385,2024-12-04 14:13:43.797236,2024,12,4,22,Dieng,Sumatera Selatan,3,PLTA,3,Cloudy,37.1,97,PLTA Turbine T-Francis,Generator,1388.66,Failed,312.72
+386,386,2024-10-29 10:01:43.797236,2024,10,29,13,Tanjung Jati B,Jawa Barat,5,PLTG,8,Hazy,23.5,18,Pelletizer BioFuel,Feeder System,317.51,Failed,506.67
+387,387,2023-07-23 15:43:43.797236,2023,7,23,7,Sibayak,Banten,5,PLTG,7,Foggy,26.6,47,PLTG Boiler BioBurn R1,Boiler,1439.5,Maintenance,1354.74
+388,388,2023-07-23 18:03:43.797236,2023,7,23,23,Sorik Marapi,Jawa Timur,2,PLTB,5,Rain Showers,33.1,1,Gearbox PLTBMaster,Turbine,314.59,Degraded,1334.89
+389,389,2023-06-26 03:58:43.797236,2023,6,26,18,Jeneponto,Banten,1,PLTS,6,Thunderstorm,22.1,40,PLTS Panel B-Series X,Inverter,652.27,Maintenance,983.73
+390,390,2024-04-04 23:00:43.797236,2024,4,4,8,Lahendong,DKI Jakarta,3,PLTA,6,Thunderstorm,16.0,86,Generator PLTAGenX,Generator,1070.67,Standby,445.82
+391,391,2023-07-11 06:32:43.797236,2023,7,11,6,Wayang PLTBu,NTT,3,PLTA,1,Clear,25.2,39,PLTA Turbine T-Francis,Turbine,666.3,Degraded,540.67
+392,392,2024-08-08 23:25:43.797236,2024,8,8,25,Muara Laboh,Jawa Tengah,6,PLTG,8,Hazy,14.4,71,Fuel Tank PetroStore 50KL,Engine,1844.6,Standby,1383.67
+393,393,2023-10-28 15:18:43.797236,2023,10,28,19,Likupang,DKI Jakarta,3,PLTA,1,Clear,11.8,56,PLTA Turbine T-Francis,Generator,1661.93,Standby,746.5
+394,394,2023-09-30 10:56:43.797236,2023,9,30,9,Ulumbu,Sulawesi Selatan,6,PLTG,6,Thunderstorm,25.0,80,Alternator PLTGGen Pro,Engine,1834.2,Failed,258.81
+395,395,2023-09-25 17:42:43.797236,2023,9,25,23,Sorik Marapi,Jawa Timur,3,PLTA,3,Cloudy,11.1,42,Pelton Wheel AquaForce,Generator,771.82,Maintenance,99.61
+396,396,2024-02-21 07:06:43.797236,2024,2,21,25,Muara Laboh,Jawa Tengah,3,PLTA,4,Overcast,23.9,97,PLTA Turbine T-Francis,Generator,1802.8,Failed,1143.44
+397,397,2023-10-22 12:26:43.797236,2023,10,22,8,Lahendong,DKI Jakarta,6,PLTG,8,Hazy,34.4,35,PLTG Generator CAT D1000,Generator Set,579.56,Maintenance,743.64
+398,398,2024-10-08 02:45:43.797236,2024,10,8,2,Cirata,Jawa Barat,1,PLTS,5,Rain Showers,23.4,61,PLTS Panel B-Series X,Mounting System,279.79,Degraded,965.2
+399,399,2024-09-07 13:21:43.797236,2024,9,7,13,Tanjung Jati B,Jawa Barat,3,PLTA,7,Foggy,27.0,75,Kaplan Turbine FlowMax,Turbine,876.17,Failed,1058.07
+400,400,2024-02-12 16:43:43.797236,2024,2,12,23,Sorik Marapi,Jawa Timur,6,PLTG,6,Thunderstorm,37.2,78,Fuel Tank PetroStore 50KL,Exhaust System,1619.36,Standby,343.61
+401,401,2023-09-09 01:25:43.797236,2023,9,9,9,Ulumbu,Sulawesi Selatan,3,PLTA,4,Overcast,14.7,7,Generator PLTAGenX,Spillway Gate,1633.32,Operational,1431.17
+402,402,2024-04-23 22:11:43.797236,2024,4,23,14,Grati,Jawa Tengah,2,PLTB,3,Cloudy,22.4,64,Gearbox PLTBMaster,Turbine,709.5,Maintenance,190.71
+403,403,2025-01-12 08:32:43.797236,2025,1,12,14,Grati,Jawa Tengah,5,PLTG,1,Clear,29.9,16,Pelletizer BioFuel,Feeder System,1334.68,Degraded,1299.14
+404,404,2023-07-15 08:06:43.797236,2023,7,15,18,Jeneponto,Banten,5,PLTG,2,Partly Cloudy,17.7,16,Pelletizer BioFuel,Feeder System,1841.73,Standby,411.45
+405,405,2024-02-03 11:53:43.797236,2024,2,3,6,Wayang PLTBu,NTT,5,PLTG,5,Rain Showers,15.6,47,PLTG Boiler BioBurn R1,Boiler,560.88,Failed,1060.62
+406,406,2023-07-18 19:47:43.797236,2023,7,18,15,Muara Karang,Sumatera Utara,3,PLTA,4,Overcast,19.9,85,PLTA Turbine T-Francis,Turbine,188.73,Operational,255.75
+407,407,2023-08-05 17:46:43.797236,2023,8,5,25,Muara Laboh,Jawa Tengah,6,PLTG,5,Rain Showers,36.4,71,Fuel Tank PetroStore 50KL,Engine,240.27,Maintenance,1057.23
+408,408,2024-06-25 17:26:43.797236,2024,6,25,20,Gunung Salak,Sulawesi Selatan,5,PLTG,2,Partly Cloudy,38.2,47,PLTG Boiler BioBurn R1,Boiler,139.66,Degraded,485.91
+409,409,2023-11-14 03:10:43.797236,2023,11,14,16,Tambak Lorok,Sulawesi Utara,3,PLTA,1,Clear,37.4,77,Kaplan Turbine FlowMax,Generator,719.36,Maintenance,722.16
+410,410,2023-11-24 01:13:43.797236,2023,11,24,20,Gunung Salak,Sulawesi Selatan,3,PLTA,1,Clear,32.0,46,Generator PLTAGenX,Turbine,595.76,Standby,1106.56
+411,411,2025-03-03 06:18:43.797236,2025,3,3,2,Cirata,Jawa Barat,3,PLTA,4,Overcast,39.3,75,Kaplan Turbine FlowMax,Turbine,111.41,Degraded,441.21
+412,412,2023-11-23 05:40:43.797236,2023,11,23,13,Tanjung Jati B,Jawa Barat,6,PLTG,2,Partly Cloudy,31.4,100,PLTG Generator CAT D1000,Fuel System,899.43,Failed,1324.84
+413,413,2023-12-23 16:02:43.797236,2023,12,23,20,Gunung Salak,Sulawesi Selatan,3,PLTA,4,Overcast,33.8,56,PLTA Turbine T-Francis,Generator,555.92,Degraded,763.35
+414,414,2023-08-29 19:40:43.797236,2023,8,29,1,Karangkates,Jawa Timur,1,PLTS,8,Hazy,24.7,6,PLTS Panel B-Series X,Inverter,1856.02,Maintenance,410.59
+415,415,2025-04-25 20:46:43.797236,2025,4,25,13,Tanjung Jati B,Jawa Barat,5,PLTG,7,Foggy,26.9,90,Steam Turbine BioSteam Z,Gasifier,544.28,Degraded,1374.19
+416,416,2024-01-21 22:09:43.797236,2024,1,21,19,Likupang,DKI Jakarta,4,PLTG,3,Cloudy,32.5,15,Wellhead Unit AlphaTherm,Wellhead,1722.04,Failed,441.14
+417,417,2024-03-25 16:13:43.797236,2024,3,25,20,Gunung Salak,Sulawesi Selatan,6,PLTG,3,Cloudy,28.9,78,Fuel Tank PetroStore 50KL,Exhaust System,1582.66,Operational,458.04
+418,418,2024-02-23 03:50:43.797236,2024,2,23,2,Cirata,Jawa Barat,4,PLTG,8,Hazy,21.7,8,Steam Turbine GeoPower X1,Wellhead,1320.47,Failed,412.81
+419,419,2025-05-01 17:36:43.797236,2025,5,1,7,Sibayak,Banten,4,PLTG,7,Foggy,20.8,68,Cooling Tower GeoCool,Wellhead,226.09,Degraded,528.66
+420,420,2023-08-01 01:43:43.797236,2023,8,1,25,Muara Laboh,Jawa Tengah,3,PLTA,7,Foggy,39.8,97,PLTA Turbine T-Francis,Generator,1019.24,Degraded,1074.69
+421,421,2024-09-12 18:17:43.797236,2024,9,12,3,Saguling,Jawa Tengah,3,PLTA,6,Thunderstorm,35.9,63,PLTA Turbine T-Francis,Penstock,927.23,Maintenance,317.63
+422,422,2024-12-19 18:33:43.797236,2024,12,19,19,Likupang,DKI Jakarta,5,PLTG,5,Rain Showers,30.5,18,Pelletizer BioFuel,Feeder System,1772.7,Maintenance,222.13
+423,423,2023-06-10 10:51:43.797236,2023,6,10,12,Suralaya,Jawa Timur,3,PLTA,1,Clear,39.8,70,Generator PLTAGenX,Generator,1015.76,Standby,1390.42
+424,424,2024-11-12 12:40:43.797236,2024,11,12,13,Tanjung Jati B,Jawa Barat,3,PLTA,7,Foggy,33.0,73,PLTA Turbine T-Francis,Turbine,1154.61,Degraded,537.23
+425,425,2024-07-29 20:17:43.797236,2024,7,29,9,Ulumbu,Sulawesi Selatan,6,PLTG,8,Hazy,19.3,57,PLTG Generator CAT D1000,Generator Set,1986.29,Maintenance,114.89
+426,426,2023-12-10 06:52:43.797236,2023,12,10,15,Muara Karang,Sumatera Utara,3,PLTA,3,Cloudy,19.8,42,Pelton Wheel AquaForce,Generator,394.14,Standby,144.17
+427,427,2024-10-13 00:10:43.797236,2024,10,13,21,Patuha,Lampung,5,PLTG,7,Foggy,16.7,72,Steam Turbine BioSteam Z,Turbine,1950.53,Standby,986.12
+428,428,2023-06-07 00:37:43.797236,2023,6,7,18,Jeneponto,Banten,6,PLTG,7,Foggy,34.6,14,Fuel Tank PetroStore 50KL,Engine,694.72,Failed,361.47
+429,429,2023-09-20 00:23:43.797236,2023,9,20,23,Sorik Marapi,Jawa Timur,5,PLTG,2,Partly Cloudy,26.2,41,Steam Turbine BioSteam Z,Turbine,1175.84,Failed,505.94
+430,430,2024-07-03 22:00:43.797236,2024,7,3,19,Likupang,DKI Jakarta,1,PLTS,4,Overcast,11.0,95,PLTS Panel B-Series X,Tracker,1744.63,Degraded,61.06
+431,431,2025-02-16 18:42:43.797236,2025,2,16,24,Rantau Dedap,Jawa Barat,3,PLTA,4,Overcast,14.6,86,Generator PLTAGenX,Generator,1243.97,Standby,573.37
+432,432,2023-11-14 03:06:43.797236,2023,11,14,16,Tambak Lorok,Sulawesi Utara,6,PLTG,4,Overcast,23.8,29,PLTG Generator CAT D1000,Engine,543.44,Degraded,1451.44
+433,433,2025-03-02 09:38:43.797236,2025,3,2,10,Mataloko,Lampung,1,PLTS,8,Hazy,39.2,62,PLTS Panel B-Series X,Inverter,1043.76,Maintenance,1013.79
+434,434,2025-05-15 13:51:43.797236,2025,5,15,22,Dieng,Sumatera Selatan,5,PLTG,5,Rain Showers,20.4,72,Steam Turbine BioSteam Z,Turbine,1116.7,Failed,978.96
+435,435,2024-05-10 23:25:43.797236,2024,5,10,5,Darajat,Sulawesi Utara,4,PLTG,2,Partly Cloudy,25.8,13,Cooling Tower GeoCool,Wellhead,1738.92,Degraded,1426.73
+436,436,2023-09-26 16:20:43.797236,2023,9,26,20,Gunung Salak,Sulawesi Selatan,2,PLTB,3,Cloudy,21.4,59,Blade Set AeroPro,Turbine,1049.29,Operational,502.74
+437,437,2023-11-01 02:23:43.797236,2023,11,1,22,Dieng,Sumatera Selatan,1,PLTS,6,Thunderstorm,15.6,40,PLTS Panel B-Series X,Inverter,443.97,Maintenance,223.19
+438,438,2024-03-10 01:00:43.797236,2024,3,10,12,Suralaya,Jawa Timur,4,PLTG,5,Rain Showers,34.7,15,Wellhead Unit AlphaTherm,Wellhead,1437.04,Failed,1356.21
+439,439,2024-11-24 03:07:43.797236,2024,11,24,9,Ulumbu,Sulawesi Selatan,5,PLTG,4,Overcast,39.1,9,Gasifier WoodChip X200,Feeder System,401.93,Operational,1330.17
+440,440,2023-10-21 11:58:43.797236,2023,10,21,18,Jeneponto,Banten,6,PLTG,4,Overcast,14.9,66,Alternator PLTGGen Pro,Exhaust System,1149.98,Maintenance,1447.75
+441,441,2025-04-16 18:37:43.797236,2025,4,16,16,Tambak Lorok,Sulawesi Utara,2,PLTB,8,Hazy,20.7,88,Gearbox PLTBMaster,Gearbox,384.83,Operational,1075.73
+442,442,2024-06-11 11:47:43.797236,2024,6,11,7,Sibayak,Banten,1,PLTS,2,Partly Cloudy,38.2,99,Central Inverter SunGrow,Photovoltaic Panel,1595.24,Standby,81.39
+443,443,2025-04-25 18:22:43.797236,2025,4,25,12,Suralaya,Jawa Timur,1,PLTS,8,Hazy,21.7,40,PLTS Panel B-Series X,Inverter,1256.14,Standby,1334.02
+444,444,2024-06-05 16:08:43.797236,2024,6,5,24,Rantau Dedap,Jawa Barat,5,PLTG,8,Hazy,22.6,41,Steam Turbine BioSteam Z,Turbine,201.38,Maintenance,497.65
+445,445,2024-11-10 21:41:43.797236,2024,11,10,1,Karangkates,Jawa Timur,3,PLTA,3,Cloudy,13.9,56,PLTA Turbine T-Francis,Generator,1952.75,Maintenance,578.51
+446,446,2023-06-06 00:30:43.797236,2023,6,6,17,Sidrap,NTT,4,PLTG,3,Cloudy,32.3,13,Cooling Tower GeoCool,Wellhead,1538.4,Maintenance,773.63
+447,447,2024-03-09 05:48:43.797236,2024,3,9,18,Jeneponto,Banten,2,PLTB,6,Thunderstorm,31.0,67,PLTB Turbine Vestas V120,Generator,1946.57,Degraded,446.91
+448,448,2025-05-08 03:59:43.797236,2025,5,8,17,Sidrap,NTT,6,PLTG,8,Hazy,37.4,93,Fuel Tank PetroStore 50KL,Exhaust System,990.38,Operational,1253.82
+449,449,2024-09-17 05:22:43.797236,2024,9,17,18,Jeneponto,Banten,4,PLTG,1,Clear,29.4,96,Binary Cycle Plant GeoFlow,Heat Exchanger,847.95,Standby,166.0
+450,450,2024-05-25 10:32:43.797236,2024,5,25,6,Wayang PLTBu,NTT,4,PLTG,8,Hazy,28.4,15,Wellhead Unit AlphaTherm,Wellhead,738.69,Standby,116.93
+451,451,2025-03-28 08:48:43.797236,2025,3,28,4,Kamojang,Sumatera Utara,4,PLTG,2,Partly Cloudy,37.5,10,Wellhead Unit AlphaTherm,Wellhead,1219.24,Failed,145.48
+452,452,2025-01-22 04:27:43.797236,2025,1,22,11,Paiton,Sumatera Selatan,2,PLTB,8,Hazy,21.0,59,Blade Set AeroPro,Turbine,908.57,Standby,1166.84
+453,453,2025-02-02 11:40:43.797236,2025,2,2,7,Sibayak,Banten,2,PLTB,2,Partly Cloudy,10.9,76,PLTB Turbine Vestas V120,Nacelle,782.15,Operational,261.88
+454,454,2024-06-27 07:07:43.797236,2024,6,27,16,Tambak Lorok,Sulawesi Utara,3,PLTA,4,Overcast,28.8,7,Generator PLTAGenX,Spillway Gate,913.69,Operational,217.97
+455,455,2024-10-21 21:52:43.797236,2024,10,21,17,Sidrap,NTT,1,PLTS,3,Cloudy,23.2,99,Central Inverter SunGrow,Photovoltaic Panel,1200.69,Failed,1465.74
+456,456,2023-07-28 10:03:43.797236,2023,7,28,4,Kamojang,Sumatera Utara,6,PLTG,5,Rain Showers,36.2,35,PLTG Generator CAT D1000,Generator Set,985.66,Maintenance,995.54
+457,457,2024-08-05 00:30:43.797236,2024,8,5,3,Saguling,Jawa Tengah,3,PLTA,3,Cloudy,13.5,60,Pelton Wheel AquaForce,Turbine,959.33,Standby,934.69
+458,458,2024-02-09 11:10:43.797236,2024,2,9,17,Sidrap,NTT,6,PLTG,2,Partly Cloudy,23.6,57,PLTG Generator CAT D1000,Generator Set,1578.48,Degraded,779.57
+459,459,2023-12-18 19:07:43.797236,2023,12,18,24,Rantau Dedap,Jawa Barat,6,PLTG,7,Foggy,12.8,100,PLTG Generator CAT D1000,Fuel System,1440.35,Degraded,1065.66
+460,460,2024-09-27 10:12:43.797236,2024,9,27,15,Muara Karang,Sumatera Utara,4,PLTG,7,Foggy,36.6,5,Binary Cycle Plant GeoFlow,Heat Exchanger,958.31,Failed,584.56
+461,461,2025-03-06 22:11:43.797236,2025,3,6,22,Dieng,Sumatera Selatan,2,PLTB,7,Foggy,30.7,38,PLTB Turbine Vestas V120,Generator,1512.89,Degraded,713.67
+462,462,2023-07-29 01:05:43.797236,2023,7,29,10,Mataloko,Lampung,4,PLTG,3,Cloudy,23.8,8,Steam Turbine GeoPower X1,Wellhead,1796.6,Degraded,265.91
+463,463,2023-08-24 11:05:43.797236,2023,8,24,17,Sidrap,NTT,5,PLTG,3,Cloudy,12.7,72,Steam Turbine BioSteam Z,Turbine,549.55,Failed,783.5
+464,464,2023-11-16 01:44:43.797236,2023,11,16,4,Kamojang,Sumatera Utara,4,PLTG,1,Clear,32.6,28,Binary Cycle Plant GeoFlow,Heat Exchanger,1789.19,Operational,123.83
+465,465,2024-02-24 06:35:43.797236,2024,2,24,7,Sibayak,Banten,6,PLTG,1,Clear,26.8,24,PLTG Generator CAT D1000,Exhaust System,1304.63,Maintenance,749.97
+466,466,2024-01-17 20:42:43.797236,2024,1,17,21,Patuha,Lampung,6,PLTG,3,Cloudy,30.8,66,Alternator PLTGGen Pro,Exhaust System,741.37,Degraded,669.49
+467,467,2024-10-01 07:28:43.797236,2024,10,1,24,Rantau Dedap,Jawa Barat,5,PLTG,7,Foggy,22.9,16,Pelletizer BioFuel,Feeder System,825.36,Operational,964.78
+468,468,2024-10-23 20:17:43.797236,2024,10,23,19,Likupang,DKI Jakarta,1,PLTS,1,Clear,10.1,95,PLTS Panel B-Series X,Tracker,1380.05,Failed,1420.75
+469,469,2024-12-26 09:04:43.797236,2024,12,26,2,Cirata,Jawa Barat,2,PLTB,6,Thunderstorm,31.4,64,Gearbox PLTBMaster,Turbine,1031.04,Operational,102.95
+470,470,2025-01-04 12:26:43.797236,2025,1,4,11,Paiton,Sumatera Selatan,5,PLTG,4,Overcast,17.4,41,Steam Turbine BioSteam Z,Turbine,1253.13,Operational,695.11
+471,471,2024-07-21 14:44:43.797236,2024,7,21,13,Tanjung Jati B,Jawa Barat,4,PLTG,1,Clear,14.2,4,Binary Cycle Plant GeoFlow,Steam Turbine,1191.36,Failed,1310.19
+472,472,2025-03-02 22:26:43.797236,2025,3,2,20,Gunung Salak,Sulawesi Selatan,4,PLTG,1,Clear,16.4,11,Steam Turbine GeoPower X1,Steam Turbine,1024.93,Standby,767.81
+473,473,2024-03-29 03:27:43.797236,2024,3,29,10,Mataloko,Lampung,5,PLTG,4,Overcast,21.4,65,Pelletizer BioFuel,Turbine,1699.6,Failed,698.82
+474,474,2023-08-16 02:17:43.797236,2023,8,16,24,Rantau Dedap,Jawa Barat,3,PLTA,1,Clear,28.6,56,PLTA Turbine T-Francis,Generator,1654.28,Operational,888.55
+475,475,2025-01-31 08:12:43.797236,2025,1,31,18,Jeneponto,Banten,3,PLTA,2,Partly Cloudy,38.6,73,PLTA Turbine T-Francis,Turbine,1215.51,Maintenance,101.84
+476,476,2023-12-29 11:51:43.797236,2023,12,29,22,Dieng,Sumatera Selatan,4,PLTG,5,Rain Showers,33.3,68,Cooling Tower GeoCool,Wellhead,1536.16,Standby,242.29
+477,477,2023-07-28 22:16:43.797236,2023,7,28,13,Tanjung Jati B,Jawa Barat,5,PLTG,2,Partly Cloudy,12.6,9,Gasifier WoodChip X200,Feeder System,1895.49,Maintenance,678.46
+478,478,2024-10-05 07:58:43.797236,2024,10,5,5,Darajat,Sulawesi Utara,4,PLTG,5,Rain Showers,25.1,48,Binary Cycle Plant GeoFlow,Condenser,482.74,Operational,130.65
+479,479,2023-06-06 07:44:43.797236,2023,6,6,23,Sorik Marapi,Jawa Timur,3,PLTA,3,Cloudy,10.3,3,PLTA Turbine T-Francis,Turbine,1716.26,Standby,340.07
+480,480,2024-09-23 16:45:43.797236,2024,9,23,5,Darajat,Sulawesi Utara,2,PLTB,8,Hazy,36.6,1,Gearbox PLTBMaster,Turbine,1323.4,Maintenance,396.53
+481,481,2024-08-03 12:46:43.797236,2024,8,3,10,Mataloko,Lampung,3,PLTA,4,Overcast,13.2,85,PLTA Turbine T-Francis,Turbine,1216.98,Maintenance,941.94
+482,482,2025-03-15 11:41:43.797236,2025,3,15,4,Kamojang,Sumatera Utara,5,PLTG,1,Clear,16.8,72,Steam Turbine BioSteam Z,Turbine,1120.37,Standby,1049.87
+483,483,2025-01-02 13:15:43.797236,2025,1,2,13,Tanjung Jati B,Jawa Barat,2,PLTB,6,Thunderstorm,14.2,59,Blade Set AeroPro,Turbine,357.99,Operational,799.72
+484,484,2023-11-15 03:28:43.797236,2023,11,15,23,Sorik Marapi,Jawa Timur,6,PLTG,5,Rain Showers,33.9,24,PLTG Generator CAT D1000,Exhaust System,1831.68,Maintenance,90.28
+485,485,2024-11-25 23:22:43.797236,2024,11,25,2,Cirata,Jawa Barat,4,PLTG,6,Thunderstorm,35.1,68,Cooling Tower GeoCool,Wellhead,1701.22,Standby,1322.32
+486,486,2024-08-23 05:05:43.797236,2024,8,23,1,Karangkates,Jawa Timur,5,PLTG,7,Foggy,14.8,9,Gasifier WoodChip X200,Feeder System,332.16,Standby,639.47
+487,487,2023-12-23 04:01:43.797236,2023,12,23,6,Wayang PLTBu,NTT,4,PLTG,5,Rain Showers,32.7,96,Binary Cycle Plant GeoFlow,Heat Exchanger,1210.74,Operational,820.93
+488,488,2024-02-08 17:20:43.797236,2024,2,8,5,Darajat,Sulawesi Utara,4,PLTG,7,Foggy,13.9,96,Binary Cycle Plant GeoFlow,Heat Exchanger,1676.52,Degraded,639.22
+489,489,2023-09-03 00:59:43.797236,2023,9,3,11,Paiton,Sumatera Selatan,5,PLTG,7,Foggy,15.9,65,Pelletizer BioFuel,Turbine,160.27,Failed,281.59
+490,490,2023-07-26 12:36:43.797236,2023,7,26,22,Dieng,Sumatera Selatan,2,PLTB,8,Hazy,24.7,91,PLTB Turbine G100,Turbine,1872.32,Degraded,151.97
+491,491,2024-02-19 00:24:43.797236,2024,2,19,25,Muara Laboh,Jawa Tengah,2,PLTB,8,Hazy,15.3,1,Gearbox PLTBMaster,Turbine,1551.74,Failed,572.55
+492,492,2023-06-29 13:14:43.797236,2023,6,29,4,Kamojang,Sumatera Utara,3,PLTA,3,Cloudy,39.8,3,PLTA Turbine T-Francis,Turbine,1600.47,Standby,1209.2
+493,493,2023-10-20 16:52:43.797236,2023,10,20,4,Kamojang,Sumatera Utara,1,PLTS,8,Hazy,25.1,98,Inverter SolMax 5000,Inverter,481.34,Maintenance,1313.32
+494,494,2024-03-26 04:02:43.797236,2024,3,26,1,Karangkates,Jawa Timur,3,PLTA,6,Thunderstorm,15.5,70,Generator PLTAGenX,Generator,1246.66,Standby,500.45
+495,495,2023-05-30 03:13:43.797236,2023,5,30,9,Ulumbu,Sulawesi Selatan,5,PLTG,5,Rain Showers,29.4,41,Steam Turbine BioSteam Z,Turbine,930.1,Standby,222.68
+496,496,2024-01-08 14:37:43.797236,2024,1,8,3,Saguling,Jawa Tengah,6,PLTG,8,Hazy,16.6,14,Fuel Tank PetroStore 50KL,Engine,486.68,Operational,893.15
+497,497,2025-03-27 06:09:43.797236,2025,3,27,16,Tambak Lorok,Sulawesi Utara,6,PLTG,6,Thunderstorm,36.2,93,Fuel Tank PetroStore 50KL,Exhaust System,1172.41,Maintenance,699.54
+498,498,2024-01-10 17:08:43.797236,2024,1,10,20,Gunung Salak,Sulawesi Selatan,2,PLTB,8,Hazy,36.1,20,PLTB Turbine G100,Nacelle,1580.39,Operational,61.23
+499,499,2025-04-10 14:46:43.797236,2025,4,10,6,Wayang PLTBu,NTT,1,PLTS,7,Foggy,13.0,32,PLTS Panel B-Series X,Photovoltaic Panel,1805.9,Maintenance,1435.93
+500,500,2024-06-25 01:43:43.797236,2024,6,25,18,Jeneponto,Banten,1,PLTS,3,Cloudy,22.7,52,PLTS Panel Array Alpha,Tracker,603.95,Degraded,1009.13
+501,501,2024-12-09 10:33:43.797236,2024,12,9,16,Tambak Lorok,Sulawesi Utara,3,PLTA,7,Foggy,21.0,74,Generator PLTAGenX,Spillway Gate,754.02,Operational,80.16
+502,502,2023-07-22 01:32:43.797236,2023,7,22,16,Tambak Lorok,Sulawesi Utara,2,PLTB,5,Rain Showers,17.1,20,PLTB Turbine G100,Nacelle,1945.04,Degraded,724.22
+503,503,2023-09-14 22:06:43.797236,2023,9,14,14,Grati,Jawa Tengah,3,PLTA,5,Rain Showers,13.6,63,PLTA Turbine T-Francis,Penstock,1108.35,Failed,1307.02
+504,504,2024-01-27 07:35:43.797236,2024,1,27,24,Rantau Dedap,Jawa Barat,3,PLTA,3,Cloudy,36.1,56,PLTA Turbine T-Francis,Generator,882.82,Maintenance,1098.8
+505,505,2024-10-16 13:44:43.797236,2024,10,16,2,Cirata,Jawa Barat,3,PLTA,6,Thunderstorm,16.3,63,PLTA Turbine T-Francis,Penstock,489.95,Degraded,1048.49
+506,506,2024-09-22 07:27:43.797236,2024,9,22,5,Darajat,Sulawesi Utara,6,PLTG,3,Cloudy,13.7,53,Alternator PLTGGen Pro,Engine,1457.03,Standby,1160.61
+507,507,2023-09-22 19:20:43.797236,2023,9,22,14,Grati,Jawa Tengah,3,PLTA,6,Thunderstorm,37.0,42,Pelton Wheel AquaForce,Generator,713.52,Failed,606.02
+508,508,2024-08-12 12:48:43.797236,2024,8,12,24,Rantau Dedap,Jawa Barat,1,PLTS,2,Partly Cloudy,14.5,99,Central Inverter SunGrow,Photovoltaic Panel,368.89,Maintenance,544.33
+509,509,2024-12-13 06:47:43.797236,2024,12,13,12,Suralaya,Jawa Timur,3,PLTA,3,Cloudy,16.5,60,Pelton Wheel AquaForce,Turbine,1638.81,Standby,657.72
+510,510,2025-02-08 01:07:43.797236,2025,2,8,17,Sidrap,NTT,2,PLTB,3,Cloudy,26.3,59,Blade Set AeroPro,Turbine,813.78,Failed,449.76
+511,511,2025-02-16 06:47:43.797236,2025,2,16,6,Wayang PLTBu,NTT,1,PLTS,8,Hazy,17.1,44,PLTS Panel B-Series X,Mounting System,1787.55,Degraded,403.07
+512,512,2023-11-03 16:55:43.797236,2023,11,3,25,Muara Laboh,Jawa Tengah,2,PLTB,1,Clear,29.4,12,PLTB Turbine G100,Nacelle,932.66,Operational,1253.52
+513,513,2024-12-08 20:31:43.797236,2024,12,8,10,Mataloko,Lampung,3,PLTA,3,Cloudy,25.5,97,PLTA Turbine T-Francis,Generator,646.59,Operational,1121.61
+514,514,2024-06-19 18:44:43.797236,2024,6,19,25,Muara Laboh,Jawa Tengah,6,PLTG,1,Clear,34.1,50,Fuel Tank PetroStore 50KL,Generator Set,136.0,Failed,1402.19
+515,515,2024-01-19 07:28:43.797236,2024,1,19,2,Cirata,Jawa Barat,3,PLTA,4,Overcast,28.5,31,Generator PLTAGenX,Penstock,1795.48,Degraded,816.25
+516,516,2025-02-18 07:10:43.797236,2025,2,18,23,Sorik Marapi,Jawa Timur,6,PLTG,1,Clear,35.3,19,Alternator PLTGGen Pro,Engine,529.5,Operational,809.11
+517,517,2025-03-24 01:26:43.797236,2025,3,24,21,Patuha,Lampung,4,PLTG,3,Cloudy,28.5,4,Binary Cycle Plant GeoFlow,Steam Turbine,1655.77,Operational,1432.21
+518,518,2023-11-06 13:24:43.797236,2023,11,6,9,Ulumbu,Sulawesi Selatan,5,PLTG,3,Cloudy,19.4,41,Steam Turbine BioSteam Z,Turbine,1510.07,Operational,55.74
+519,519,2025-01-05 08:40:43.797236,2025,1,5,13,Tanjung Jati B,Jawa Barat,1,PLTS,2,Partly Cloudy,31.7,95,PLTS Panel B-Series X,Tracker,600.72,Standby,1408.58
+520,520,2023-12-12 13:54:43.797236,2023,12,12,15,Muara Karang,Sumatera Utara,5,PLTG,7,Foggy,30.5,90,Steam Turbine BioSteam Z,Gasifier,1253.93,Degraded,998.55
+521,521,2024-06-15 01:57:43.797236,2024,6,15,15,Muara Karang,Sumatera Utara,6,PLTG,2,Partly Cloudy,26.2,57,PLTG Generator CAT D1000,Generator Set,209.27,Operational,861.94
+522,522,2024-05-02 18:04:43.797236,2024,5,2,1,Karangkates,Jawa Timur,5,PLTG,1,Clear,27.6,26,Pelletizer BioFuel,Feeder System,480.67,Maintenance,603.5
+523,523,2024-11-04 15:01:43.797236,2024,11,4,3,Saguling,Jawa Tengah,4,PLTG,7,Foggy,20.9,37,Binary Cycle Plant GeoFlow,Steam Turbine,1985.35,Operational,463.71
+524,524,2023-12-08 13:12:43.797236,2023,12,8,6,Wayang PLTBu,NTT,6,PLTG,2,Partly Cloudy,18.9,35,PLTG Generator CAT D1000,Generator Set,171.07,Maintenance,84.5
+525,525,2024-04-16 10:12:43.797236,2024,4,16,17,Sidrap,NTT,1,PLTS,6,Thunderstorm,24.9,44,PLTS Panel B-Series X,Mounting System,134.09,Maintenance,868.36
+526,526,2024-09-20 19:31:43.797236,2024,9,20,8,Lahendong,DKI Jakarta,4,PLTG,6,Thunderstorm,13.0,17,Binary Cycle Plant GeoFlow,Wellhead,1953.78,Operational,945.7
+527,527,2024-04-25 19:27:43.797236,2024,4,25,7,Sibayak,Banten,3,PLTA,4,Overcast,39.2,25,Pelton Wheel AquaForce,Spillway Gate,1428.25,Operational,26.75
+528,528,2024-09-03 11:45:43.797236,2024,9,3,3,Saguling,Jawa Tengah,2,PLTB,5,Rain Showers,34.0,67,PLTB Turbine Vestas V120,Generator,985.96,Degraded,91.13
+529,529,2024-07-11 21:10:43.797236,2024,7,11,1,Karangkates,Jawa Timur,6,PLTG,5,Rain Showers,15.7,58,Engine Cummins KTA50,Fuel System,1488.63,Maintenance,715.02
+530,530,2024-05-15 06:09:43.797236,2024,5,15,8,Lahendong,DKI Jakarta,4,PLTG,4,Overcast,27.5,11,Steam Turbine GeoPower X1,Steam Turbine,1767.72,Operational,710.97
+531,531,2024-12-14 17:49:43.797236,2024,12,14,22,Dieng,Sumatera Selatan,2,PLTB,2,Partly Cloudy,39.9,88,Gearbox PLTBMaster,Gearbox,1644.53,Standby,557.19
+532,532,2023-11-29 15:15:43.797236,2023,11,29,10,Mataloko,Lampung,3,PLTA,5,Rain Showers,14.5,75,Kaplan Turbine FlowMax,Turbine,1107.71,Failed,1468.96
+533,533,2023-08-16 12:57:43.797236,2023,8,16,1,Karangkates,Jawa Timur,1,PLTS,1,Clear,31.5,83,PLTS Panel Array Alpha,Tracker,533.9,Degraded,1024.45
+534,534,2025-03-14 15:31:43.797236,2025,3,14,25,Muara Laboh,Jawa Tengah,4,PLTG,8,Hazy,20.7,8,Steam Turbine GeoPower X1,Wellhead,475.7,Maintenance,825.1
+535,535,2024-09-23 04:09:43.797236,2024,9,23,24,Rantau Dedap,Jawa Barat,5,PLTG,1,Clear,21.2,90,Steam Turbine BioSteam Z,Gasifier,710.88,Standby,1024.34
+536,536,2024-06-21 12:55:43.797236,2024,6,21,5,Darajat,Sulawesi Utara,6,PLTG,3,Cloudy,36.3,24,PLTG Generator CAT D1000,Exhaust System,1057.5,Standby,946.92
+537,537,2024-12-11 10:43:43.797236,2024,12,11,2,Cirata,Jawa Barat,3,PLTA,2,Partly Cloudy,19.0,7,Generator PLTAGenX,Spillway Gate,338.28,Standby,1423.77
+538,538,2024-12-06 21:16:43.797236,2024,12,6,2,Cirata,Jawa Barat,6,PLTG,5,Rain Showers,23.3,35,PLTG Generator CAT D1000,Generator Set,1493.19,Standby,1086.16
+539,539,2024-07-01 07:28:43.797236,2024,7,1,1,Karangkates,Jawa Timur,6,PLTG,3,Cloudy,21.2,14,Fuel Tank PetroStore 50KL,Engine,1346.5,Failed,262.79
+540,540,2023-12-30 23:41:43.797236,2023,12,30,25,Muara Laboh,Jawa Tengah,6,PLTG,3,Cloudy,27.8,29,PLTG Generator CAT D1000,Engine,268.27,Degraded,653.7
+541,541,2024-09-27 11:43:43.797236,2024,9,27,5,Darajat,Sulawesi Utara,2,PLTB,7,Foggy,14.9,76,PLTB Turbine Vestas V120,Nacelle,125.86,Degraded,770.19
+542,542,2024-04-11 11:26:43.797236,2024,4,11,2,Cirata,Jawa Barat,4,PLTG,5,Rain Showers,10.9,13,Cooling Tower GeoCool,Wellhead,1325.98,Standby,1176.06
+543,543,2025-02-15 04:29:43.797236,2025,2,15,18,Jeneponto,Banten,3,PLTA,6,Thunderstorm,37.1,73,PLTA Turbine T-Francis,Turbine,714.54,Degraded,652.08
+544,544,2023-09-22 18:38:43.797236,2023,9,22,18,Jeneponto,Banten,3,PLTA,1,Clear,28.0,3,PLTA Turbine T-Francis,Turbine,191.85,Failed,585.73
+545,545,2024-09-17 14:11:43.797236,2024,9,17,5,Darajat,Sulawesi Utara,1,PLTS,6,Thunderstorm,19.0,23,Central Inverter SunGrow,Tracker,1918.58,Failed,901.47
+546,546,2025-05-09 18:51:43.797236,2025,5,9,25,Muara Laboh,Jawa Tengah,1,PLTS,5,Rain Showers,20.3,95,PLTS Panel B-Series X,Tracker,1696.35,Failed,793.86
+547,547,2023-10-20 05:32:43.797236,2023,10,20,21,Patuha,Lampung,4,PLTG,8,Hazy,18.0,96,Binary Cycle Plant GeoFlow,Heat Exchanger,1987.27,Failed,220.41
+548,548,2023-08-17 13:46:43.797236,2023,8,17,15,Muara Karang,Sumatera Utara,6,PLTG,8,Hazy,37.9,69,Engine Cummins KTA50,Engine,1776.58,Standby,383.78
+549,549,2024-07-10 09:10:43.797236,2024,7,10,3,Saguling,Jawa Tengah,1,PLTS,3,Cloudy,37.6,44,PLTS Panel B-Series X,Mounting System,762.4,Degraded,431.43
+550,550,2025-04-30 16:31:43.797236,2025,4,30,4,Kamojang,Sumatera Utara,3,PLTA,1,Clear,35.3,70,Generator PLTAGenX,Generator,1680.95,Operational,857.53
+551,551,2024-05-25 07:46:43.797236,2024,5,25,15,Muara Karang,Sumatera Utara,1,PLTS,7,Foggy,24.4,23,Central Inverter SunGrow,Tracker,476.5,Maintenance,901.43
+552,552,2025-03-28 17:46:43.797236,2025,3,28,8,Lahendong,DKI Jakarta,3,PLTA,5,Rain Showers,24.2,73,PLTA Turbine T-Francis,Turbine,199.13,Maintenance,179.22
+553,553,2024-08-06 11:04:43.797236,2024,8,6,6,Wayang PLTBu,NTT,2,PLTB,7,Foggy,39.6,88,Gearbox PLTBMaster,Gearbox,1106.91,Operational,1412.43
+554,554,2023-12-14 22:17:43.797236,2023,12,14,9,Ulumbu,Sulawesi Selatan,3,PLTA,3,Cloudy,33.3,63,PLTA Turbine T-Francis,Penstock,285.58,Degraded,704.83
+555,555,2024-08-15 20:07:43.797236,2024,8,15,24,Rantau Dedap,Jawa Barat,4,PLTG,6,Thunderstorm,17.2,79,Wellhead Unit AlphaTherm,Steam Turbine,764.57,Maintenance,446.14
+556,556,2025-05-08 00:22:43.797236,2025,5,8,2,Cirata,Jawa Barat,4,PLTG,3,Cloudy,14.6,79,Wellhead Unit AlphaTherm,Steam Turbine,365.33,Maintenance,1351.87
+557,557,2023-06-03 05:40:43.797236,2023,6,3,18,Jeneponto,Banten,4,PLTG,3,Cloudy,19.1,27,Binary Cycle Plant GeoFlow,Wellhead,1543.04,Failed,1408.6
+558,558,2023-11-26 12:09:43.797236,2023,11,26,15,Muara Karang,Sumatera Utara,1,PLTS,8,Hazy,26.4,61,PLTS Panel B-Series X,Mounting System,1947.63,Standby,289.23
+559,559,2023-12-06 17:03:43.797236,2023,12,6,9,Ulumbu,Sulawesi Selatan,1,PLTS,2,Partly Cloudy,29.2,95,PLTS Panel B-Series X,Tracker,1131.37,Degraded,862.52
+560,560,2025-02-04 07:36:43.797236,2025,2,4,4,Kamojang,Sumatera Utara,6,PLTG,5,Rain Showers,14.0,50,Fuel Tank PetroStore 50KL,Generator Set,944.39,Failed,731.25
+561,561,2024-08-29 11:37:43.797236,2024,8,29,15,Muara Karang,Sumatera Utara,6,PLTG,1,Clear,21.8,21,PLTG Generator CAT D1000,Fuel System,378.87,Degraded,382.87
+562,562,2023-12-16 15:50:43.797236,2023,12,16,15,Muara Karang,Sumatera Utara,3,PLTA,8,Hazy,15.8,97,PLTA Turbine T-Francis,Generator,1872.09,Standby,1449.3
+563,563,2023-10-15 02:43:43.797236,2023,10,15,8,Lahendong,DKI Jakarta,4,PLTG,3,Cloudy,35.7,27,Binary Cycle Plant GeoFlow,Wellhead,558.32,Operational,524.56
+564,564,2024-08-07 02:12:43.797236,2024,8,7,1,Karangkates,Jawa Timur,3,PLTA,6,Thunderstorm,37.5,46,Generator PLTAGenX,Turbine,429.63,Standby,916.75
+565,565,2025-01-22 09:21:43.797236,2025,1,22,25,Muara Laboh,Jawa Tengah,3,PLTA,4,Overcast,26.5,25,Pelton Wheel AquaForce,Spillway Gate,381.53,Operational,1323.97
+566,566,2023-06-19 00:32:43.797236,2023,6,19,13,Tanjung Jati B,Jawa Barat,2,PLTB,4,Overcast,39.7,91,PLTB Turbine G100,Turbine,128.37,Maintenance,1164.68
+567,567,2024-06-03 18:16:43.797236,2024,6,3,4,Kamojang,Sumatera Utara,1,PLTS,6,Thunderstorm,12.7,52,PLTS Panel Array Alpha,Tracker,762.15,Maintenance,146.44
+568,568,2024-01-26 19:49:43.797236,2024,1,26,9,Ulumbu,Sulawesi Selatan,5,PLTG,3,Cloudy,14.6,47,PLTG Boiler BioBurn R1,Boiler,119.72,Operational,487.21
+569,569,2023-09-16 00:07:43.797236,2023,9,16,6,Wayang PLTBu,NTT,3,PLTA,5,Rain Showers,31.3,42,Pelton Wheel AquaForce,Generator,1187.0,Operational,1089.41
+570,570,2025-03-22 08:00:43.797236,2025,3,22,16,Tambak Lorok,Sulawesi Utara,1,PLTS,2,Partly Cloudy,37.8,52,PLTS Panel Array Alpha,Tracker,887.81,Operational,982.82
+571,571,2024-08-01 06:38:43.797236,2024,8,1,24,Rantau Dedap,Jawa Barat,3,PLTA,7,Foggy,15.6,74,Generator PLTAGenX,Spillway Gate,1670.86,Maintenance,79.06
+572,572,2024-01-02 16:44:43.797236,2024,1,2,23,Sorik Marapi,Jawa Timur,2,PLTB,3,Cloudy,30.8,76,PLTB Turbine Vestas V120,Nacelle,1263.03,Standby,325.72
+573,573,2024-07-19 20:50:43.797236,2024,7,19,11,Paiton,Sumatera Selatan,2,PLTB,7,Foggy,29.6,20,PLTB Turbine G100,Nacelle,1226.43,Standby,637.23
+574,574,2024-06-27 08:51:43.797236,2024,6,27,11,Paiton,Sumatera Selatan,2,PLTB,1,Clear,19.2,64,Gearbox PLTBMaster,Turbine,1342.0,Failed,904.32
+575,575,2024-11-15 07:22:43.797236,2024,11,15,24,Rantau Dedap,Jawa Barat,4,PLTG,4,Overcast,37.5,96,Binary Cycle Plant GeoFlow,Heat Exchanger,1637.21,Failed,105.28
+576,576,2023-11-24 06:47:43.797236,2023,11,24,23,Sorik Marapi,Jawa Timur,3,PLTA,4,Overcast,18.5,36,Pelton Wheel AquaForce,Turbine,1081.67,Degraded,1.0
+577,577,2024-01-07 06:20:43.797236,2024,1,7,23,Sorik Marapi,Jawa Timur,4,PLTG,7,Foggy,12.9,28,Binary Cycle Plant GeoFlow,Heat Exchanger,128.61,Degraded,948.91
+578,578,2023-10-24 21:01:43.797236,2023,10,24,23,Sorik Marapi,Jawa Timur,3,PLTA,1,Clear,24.1,7,Generator PLTAGenX,Spillway Gate,1349.3,Degraded,1233.2
+579,579,2024-03-07 23:29:43.797236,2024,3,7,24,Rantau Dedap,Jawa Barat,3,PLTA,2,Partly Cloudy,24.7,73,PLTA Turbine T-Francis,Turbine,1298.7,Standby,1076.33
+580,580,2023-07-14 19:32:43.797236,2023,7,14,24,Rantau Dedap,Jawa Barat,3,PLTA,6,Thunderstorm,22.0,70,Generator PLTAGenX,Generator,1196.02,Maintenance,379.98
+581,581,2023-11-23 21:03:43.797236,2023,11,23,21,Patuha,Lampung,4,PLTG,1,Clear,36.6,13,Cooling Tower GeoCool,Wellhead,1677.82,Standby,879.01
+582,582,2023-10-04 10:12:43.797236,2023,10,4,18,Jeneponto,Banten,3,PLTA,4,Overcast,36.9,97,PLTA Turbine T-Francis,Generator,1675.68,Maintenance,683.09
+583,583,2025-01-13 04:38:43.797236,2025,1,13,4,Kamojang,Sumatera Utara,3,PLTA,7,Foggy,38.5,77,Kaplan Turbine FlowMax,Generator,364.19,Maintenance,426.73
+584,584,2024-11-07 01:44:43.797236,2024,11,7,25,Muara Laboh,Jawa Tengah,6,PLTG,7,Foggy,37.2,87,Fuel Tank PetroStore 50KL,Engine,1400.56,Maintenance,1132.34
+585,585,2025-02-22 11:46:43.797236,2025,2,22,10,Mataloko,Lampung,1,PLTS,8,Hazy,14.5,83,PLTS Panel Array Alpha,Tracker,1034.55,Maintenance,49.37
+586,586,2025-02-26 13:02:43.797236,2025,2,26,25,Muara Laboh,Jawa Tengah,1,PLTS,5,Rain Showers,19.7,83,PLTS Panel Array Alpha,Tracker,375.84,Standby,945.32
+587,587,2024-12-29 19:05:43.797236,2024,12,29,20,Gunung Salak,Sulawesi Selatan,2,PLTB,7,Foggy,15.1,88,Gearbox PLTBMaster,Gearbox,436.43,Standby,1181.0
+588,588,2023-10-19 23:42:43.797236,2023,10,19,10,Mataloko,Lampung,1,PLTS,1,Clear,19.9,99,Central Inverter SunGrow,Photovoltaic Panel,1041.7,Standby,1252.22
+589,589,2023-12-28 12:31:43.797236,2023,12,28,13,Tanjung Jati B,Jawa Barat,6,PLTG,8,Hazy,32.6,53,Alternator PLTGGen Pro,Engine,477.55,Failed,1071.5
+590,590,2023-10-10 22:55:43.797236,2023,10,10,9,Ulumbu,Sulawesi Selatan,4,PLTG,2,Partly Cloudy,34.9,8,Steam Turbine GeoPower X1,Wellhead,748.91,Degraded,1445.62
+591,591,2024-10-04 19:01:43.797236,2024,10,4,16,Tambak Lorok,Sulawesi Utara,6,PLTG,8,Hazy,21.7,24,PLTG Generator CAT D1000,Exhaust System,1767.3,Degraded,14.23
+592,592,2023-06-18 11:03:43.797236,2023,6,18,20,Gunung Salak,Sulawesi Selatan,1,PLTS,4,Overcast,26.6,62,PLTS Panel B-Series X,Inverter,1248.87,Maintenance,1083.85
+593,593,2024-08-11 19:23:43.797236,2024,8,11,24,Rantau Dedap,Jawa Barat,2,PLTB,7,Foggy,34.0,12,PLTB Turbine G100,Nacelle,1825.02,Failed,560.88
+594,594,2025-05-13 01:04:43.797236,2025,5,13,9,Ulumbu,Sulawesi Selatan,4,PLTG,3,Cloudy,16.8,68,Cooling Tower GeoCool,Wellhead,1351.84,Failed,412.15
+595,595,2024-07-25 10:37:43.797236,2024,7,25,3,Saguling,Jawa Tengah,6,PLTG,6,Thunderstorm,29.5,55,Engine Cummins KTA50,Generator Set,334.16,Maintenance,1302.59
+596,596,2024-05-16 13:41:43.797236,2024,5,16,23,Sorik Marapi,Jawa Timur,3,PLTA,5,Rain Showers,24.2,97,PLTA Turbine T-Francis,Generator,177.75,Standby,605.81
+597,597,2025-04-18 22:44:43.797236,2025,4,18,15,Muara Karang,Sumatera Utara,6,PLTG,8,Hazy,20.3,53,Alternator PLTGGen Pro,Engine,976.84,Maintenance,894.4
+598,598,2024-09-15 11:26:43.797236,2024,9,15,12,Suralaya,Jawa Timur,6,PLTG,5,Rain Showers,21.5,100,PLTG Generator CAT D1000,Fuel System,1901.1,Failed,105.37
+599,599,2023-07-25 09:20:43.797236,2023,7,25,3,Saguling,Jawa Tengah,4,PLTG,4,Overcast,21.6,8,Steam Turbine GeoPower X1,Wellhead,873.51,Maintenance,1435.46
+600,600,2024-01-18 02:08:43.797236,2024,1,18,23,Sorik Marapi,Jawa Timur,4,PLTG,1,Clear,33.5,79,Wellhead Unit AlphaTherm,Steam Turbine,1709.83,Degraded,841.42
+601,601,2025-01-28 02:16:43.797236,2025,1,28,7,Sibayak,Banten,6,PLTG,3,Cloudy,16.8,24,PLTG Generator CAT D1000,Exhaust System,521.54,Maintenance,1000.45
+602,602,2024-02-02 22:50:43.797236,2024,2,2,24,Rantau Dedap,Jawa Barat,4,PLTG,7,Foggy,22.7,5,Binary Cycle Plant GeoFlow,Heat Exchanger,1398.35,Failed,977.89
+603,603,2023-11-22 02:27:43.797236,2023,11,22,20,Gunung Salak,Sulawesi Selatan,3,PLTA,8,Hazy,31.6,60,Pelton Wheel AquaForce,Turbine,1144.58,Operational,453.88
+604,604,2023-09-15 21:23:43.797236,2023,9,15,3,Saguling,Jawa Tengah,1,PLTS,4,Overcast,30.1,99,Central Inverter SunGrow,Photovoltaic Panel,931.43,Maintenance,1031.87
+605,605,2023-09-04 12:06:43.797236,2023,9,4,8,Lahendong,DKI Jakarta,3,PLTA,1,Clear,31.7,56,PLTA Turbine T-Francis,Generator,1553.94,Standby,197.76
+606,606,2024-01-21 19:30:43.797236,2024,1,21,12,Suralaya,Jawa Timur,3,PLTA,4,Overcast,28.8,63,PLTA Turbine T-Francis,Penstock,595.65,Degraded,1265.0
+607,607,2023-10-14 10:37:43.797236,2023,10,14,12,Suralaya,Jawa Timur,1,PLTS,4,Overcast,36.8,98,Inverter SolMax 5000,Inverter,107.89,Standby,1290.51
+608,608,2024-02-08 06:59:43.797236,2024,2,8,24,Rantau Dedap,Jawa Barat,3,PLTA,4,Overcast,22.0,56,PLTA Turbine T-Francis,Generator,273.1,Failed,1446.69
+609,609,2023-06-29 07:29:43.797236,2023,6,29,2,Cirata,Jawa Barat,3,PLTA,6,Thunderstorm,34.1,39,PLTA Turbine T-Francis,Turbine,1674.09,Failed,676.83
+610,610,2024-01-20 13:15:43.797236,2024,1,20,25,Muara Laboh,Jawa Tengah,6,PLTG,3,Cloudy,38.9,66,Alternator PLTGGen Pro,Exhaust System,749.06,Standby,152.6
+611,611,2024-07-03 13:01:43.797236,2024,7,3,7,Sibayak,Banten,3,PLTA,2,Partly Cloudy,17.5,36,Pelton Wheel AquaForce,Turbine,701.71,Maintenance,1462.08
+612,612,2024-05-26 14:56:43.797236,2024,5,26,18,Jeneponto,Banten,6,PLTG,6,Thunderstorm,15.5,66,Alternator PLTGGen Pro,Exhaust System,1488.4,Operational,835.78
+613,613,2024-06-09 22:28:43.797236,2024,6,9,17,Sidrap,NTT,2,PLTB,3,Cloudy,28.2,64,Gearbox PLTBMaster,Turbine,252.62,Degraded,468.78
+614,614,2024-11-18 18:32:43.797236,2024,11,18,10,Mataloko,Lampung,5,PLTG,2,Partly Cloudy,23.2,65,Pelletizer BioFuel,Turbine,1637.96,Operational,583.63
+615,615,2024-09-02 03:20:43.797236,2024,9,2,5,Darajat,Sulawesi Utara,3,PLTA,7,Foggy,11.1,42,Pelton Wheel AquaForce,Generator,346.48,Maintenance,965.79
+616,616,2025-04-06 01:01:43.797236,2025,4,6,4,Kamojang,Sumatera Utara,5,PLTG,7,Foggy,15.4,65,Pelletizer BioFuel,Turbine,448.42,Standby,1496.07
+617,617,2023-10-27 00:30:43.797236,2023,10,27,25,Muara Laboh,Jawa Tengah,3,PLTA,7,Foggy,10.9,42,Pelton Wheel AquaForce,Generator,1801.11,Failed,420.28
+618,618,2024-07-04 00:45:43.797236,2024,7,4,1,Karangkates,Jawa Timur,6,PLTG,2,Partly Cloudy,36.1,87,Fuel Tank PetroStore 50KL,Engine,1657.09,Maintenance,220.86
+619,619,2024-06-02 00:05:43.797236,2024,6,2,15,Muara Karang,Sumatera Utara,6,PLTG,4,Overcast,18.7,58,Engine Cummins KTA50,Fuel System,1603.84,Maintenance,259.15
+620,620,2024-02-16 05:41:43.797236,2024,2,16,15,Muara Karang,Sumatera Utara,4,PLTG,2,Partly Cloudy,35.2,37,Binary Cycle Plant GeoFlow,Steam Turbine,634.12,Failed,509.22
+621,621,2025-04-19 21:22:43.797236,2025,4,19,10,Mataloko,Lampung,2,PLTB,6,Thunderstorm,22.7,89,PLTB Turbine Vestas V120,Generator,1930.59,Degraded,329.7
+622,622,2025-03-26 06:42:43.797236,2025,3,26,6,Wayang PLTBu,NTT,4,PLTG,8,Hazy,10.4,68,Cooling Tower GeoCool,Wellhead,515.48,Failed,818.28
+623,623,2024-12-31 09:50:43.797236,2024,12,31,11,Paiton,Sumatera Selatan,3,PLTA,1,Clear,33.9,46,Generator PLTAGenX,Turbine,869.57,Failed,1438.05
+624,624,2025-02-06 06:48:43.797236,2025,2,6,3,Saguling,Jawa Tengah,5,PLTG,2,Partly Cloudy,14.7,43,PLTG Boiler BioBurn R1,Boiler,1891.13,Operational,872.89
+625,625,2024-09-24 11:55:43.797236,2024,9,24,4,Kamojang,Sumatera Utara,1,PLTS,8,Hazy,14.9,52,PLTS Panel Array Alpha,Tracker,181.74,Failed,693.49
+626,626,2024-12-26 18:51:43.797236,2024,12,26,24,Rantau Dedap,Jawa Barat,3,PLTA,4,Overcast,24.1,60,Pelton Wheel AquaForce,Turbine,804.28,Failed,485.61
+627,627,2023-06-23 22:03:43.797236,2023,6,23,10,Mataloko,Lampung,4,PLTG,4,Overcast,14.4,4,Binary Cycle Plant GeoFlow,Steam Turbine,1853.06,Operational,1434.08
+628,628,2024-10-21 00:39:43.797236,2024,10,21,3,Saguling,Jawa Tengah,2,PLTB,3,Cloudy,12.9,1,Gearbox PLTBMaster,Turbine,1085.93,Failed,1410.31
+629,629,2024-11-18 16:38:43.797236,2024,11,18,20,Gunung Salak,Sulawesi Selatan,3,PLTA,2,Partly Cloudy,23.5,70,Generator PLTAGenX,Generator,1857.99,Failed,1029.95
+630,630,2024-05-03 21:34:43.797236,2024,5,3,15,Muara Karang,Sumatera Utara,1,PLTS,5,Rain Showers,36.2,92,Central Inverter SunGrow,Inverter,1488.2,Degraded,1320.07
+631,631,2024-08-07 01:48:43.797236,2024,8,7,16,Tambak Lorok,Sulawesi Utara,6,PLTG,8,Hazy,26.0,87,Fuel Tank PetroStore 50KL,Engine,994.51,Failed,296.2
+632,632,2023-10-30 13:29:43.797236,2023,10,30,4,Kamojang,Sumatera Utara,6,PLTG,4,Overcast,34.8,29,PLTG Generator CAT D1000,Engine,1669.64,Degraded,713.58
+633,633,2023-08-24 01:48:43.797236,2023,8,24,4,Kamojang,Sumatera Utara,2,PLTB,7,Foggy,39.6,67,PLTB Turbine Vestas V120,Generator,1824.99,Degraded,623.05
+634,634,2024-08-27 11:42:43.797236,2024,8,27,23,Sorik Marapi,Jawa Timur,6,PLTG,7,Foggy,22.9,50,Fuel Tank PetroStore 50KL,Generator Set,1993.56,Maintenance,426.0
+635,635,2023-10-18 19:23:43.797236,2023,10,18,7,Sibayak,Banten,2,PLTB,3,Cloudy,38.5,91,PLTB Turbine G100,Turbine,839.58,Operational,995.51
+636,636,2024-02-23 21:52:43.797236,2024,2,23,25,Muara Laboh,Jawa Tengah,1,PLTS,4,Overcast,27.0,23,Central Inverter SunGrow,Tracker,1129.71,Failed,933.07
+637,637,2024-11-15 07:27:43.797236,2024,11,15,17,Sidrap,NTT,4,PLTG,8,Hazy,25.7,28,Binary Cycle Plant GeoFlow,Heat Exchanger,1879.91,Failed,447.48
+638,638,2024-09-18 12:27:43.797236,2024,9,18,7,Sibayak,Banten,1,PLTS,6,Thunderstorm,19.3,98,Inverter SolMax 5000,Inverter,465.54,Operational,1425.44
+639,639,2024-11-07 10:03:43.797236,2024,11,7,1,Karangkates,Jawa Timur,6,PLTG,2,Partly Cloudy,27.0,93,Fuel Tank PetroStore 50KL,Exhaust System,465.89,Operational,1354.03
+640,640,2025-04-27 14:55:43.797236,2025,4,27,21,Patuha,Lampung,3,PLTA,6,Thunderstorm,10.5,2,Kaplan Turbine FlowMax,Turbine,1196.22,Operational,178.39
+641,641,2025-01-26 04:29:43.797236,2025,1,26,10,Mataloko,Lampung,3,PLTA,4,Overcast,32.9,82,Generator PLTAGenX,Spillway Gate,1074.94,Standby,338.65
+642,642,2024-01-17 12:32:43.797236,2024,1,17,21,Patuha,Lampung,3,PLTA,4,Overcast,34.2,97,PLTA Turbine T-Francis,Generator,124.9,Failed,387.93
+643,643,2024-07-09 13:13:43.797236,2024,7,9,14,Grati,Jawa Tengah,5,PLTG,5,Rain Showers,37.9,72,Steam Turbine BioSteam Z,Turbine,911.18,Standby,287.83
+644,644,2023-11-29 18:50:43.797236,2023,11,29,4,Kamojang,Sumatera Utara,6,PLTG,1,Clear,23.3,100,PLTG Generator CAT D1000,Fuel System,1723.48,Degraded,920.98
+645,645,2025-02-28 06:06:43.797236,2025,2,28,4,Kamojang,Sumatera Utara,6,PLTG,4,Overcast,12.7,84,Engine Cummins KTA50,Exhaust System,1754.28,Standby,159.61
+646,646,2024-02-12 09:01:43.797236,2024,2,12,21,Patuha,Lampung,6,PLTG,8,Hazy,18.8,19,Alternator PLTGGen Pro,Engine,1520.3,Operational,471.79
+647,647,2023-08-27 02:41:43.797236,2023,8,27,6,Wayang PLTBu,NTT,1,PLTS,4,Overcast,20.0,83,PLTS Panel Array Alpha,Tracker,1966.05,Standby,1405.41
+648,648,2023-08-09 09:23:43.797236,2023,8,9,23,Sorik Marapi,Jawa Timur,2,PLTB,6,Thunderstorm,22.2,89,PLTB Turbine Vestas V120,Generator,964.34,Failed,839.63
+649,649,2023-07-07 14:08:43.797236,2023,7,7,12,Suralaya,Jawa Timur,5,PLTG,7,Foggy,14.0,18,Pelletizer BioFuel,Feeder System,1037.19,Operational,1336.9
+650,650,2024-10-25 21:42:43.797236,2024,10,25,13,Tanjung Jati B,Jawa Barat,4,PLTG,3,Cloudy,31.8,15,Wellhead Unit AlphaTherm,Wellhead,184.49,Failed,1235.2
+651,651,2023-09-08 18:22:43.797236,2023,9,8,11,Paiton,Sumatera Selatan,2,PLTB,2,Partly Cloudy,16.2,64,Gearbox PLTBMaster,Turbine,557.98,Standby,1147.93
+652,652,2023-06-20 06:45:43.797236,2023,6,20,14,Grati,Jawa Tengah,4,PLTG,2,Partly Cloudy,11.7,51,Binary Cycle Plant GeoFlow,Wellhead,566.76,Failed,186.7
+653,653,2024-11-25 09:36:43.797236,2024,11,25,2,Cirata,Jawa Barat,3,PLTA,4,Overcast,23.1,42,Pelton Wheel AquaForce,Generator,1770.82,Failed,409.96
+654,654,2025-04-07 22:39:43.797236,2025,4,7,16,Tambak Lorok,Sulawesi Utara,3,PLTA,8,Hazy,27.6,25,Pelton Wheel AquaForce,Spillway Gate,1617.97,Degraded,225.73
+655,655,2024-01-17 19:43:43.797236,2024,1,17,13,Tanjung Jati B,Jawa Barat,3,PLTA,4,Overcast,34.3,45,Kaplan Turbine FlowMax,Generator,1834.41,Standby,620.15
+656,656,2024-02-28 06:19:43.797236,2024,2,28,22,Dieng,Sumatera Selatan,1,PLTS,2,Partly Cloudy,38.4,61,PLTS Panel B-Series X,Mounting System,121.75,Failed,63.74
+657,657,2024-11-18 18:45:43.797236,2024,11,18,16,Tambak Lorok,Sulawesi Utara,6,PLTG,4,Overcast,17.7,100,PLTG Generator CAT D1000,Fuel System,647.04,Degraded,1349.08
+658,658,2024-10-21 12:20:43.797236,2024,10,21,12,Suralaya,Jawa Timur,6,PLTG,2,Partly Cloudy,26.8,53,Alternator PLTGGen Pro,Engine,1326.39,Maintenance,613.95
+659,659,2024-09-13 19:09:43.797236,2024,9,13,17,Sidrap,NTT,1,PLTS,7,Foggy,12.7,6,PLTS Panel B-Series X,Inverter,900.2,Standby,728.55
+660,660,2023-06-24 01:32:43.797236,2023,6,24,3,Saguling,Jawa Tengah,4,PLTG,2,Partly Cloudy,32.9,17,Binary Cycle Plant GeoFlow,Wellhead,1541.68,Maintenance,123.19
+661,661,2024-11-11 12:10:43.797236,2024,11,11,10,Mataloko,Lampung,5,PLTG,8,Hazy,39.4,41,Steam Turbine BioSteam Z,Turbine,174.01,Standby,1418.66
+662,662,2025-02-12 11:33:43.797236,2025,2,12,24,Rantau Dedap,Jawa Barat,3,PLTA,6,Thunderstorm,16.7,7,Generator PLTAGenX,Spillway Gate,1402.3,Maintenance,1210.63
+663,663,2024-10-02 07:15:43.797236,2024,10,2,20,Gunung Salak,Sulawesi Selatan,6,PLTG,6,Thunderstorm,37.4,54,Engine Cummins KTA50,Generator Set,974.59,Operational,950.29
+664,664,2023-06-11 13:34:43.797236,2023,6,11,8,Lahendong,DKI Jakarta,2,PLTB,3,Cloudy,29.5,1,Gearbox PLTBMaster,Turbine,1957.32,Failed,285.77
+665,665,2025-01-28 19:05:43.797236,2025,1,28,9,Ulumbu,Sulawesi Selatan,1,PLTS,3,Cloudy,25.1,6,PLTS Panel B-Series X,Inverter,726.84,Failed,1259.19
+666,666,2024-05-05 07:11:43.797236,2024,5,5,5,Darajat,Sulawesi Utara,6,PLTG,7,Foggy,12.3,24,PLTG Generator CAT D1000,Exhaust System,1961.68,Operational,616.93
+667,667,2023-12-14 02:54:43.797236,2023,12,14,20,Gunung Salak,Sulawesi Selatan,3,PLTA,1,Clear,29.7,2,Kaplan Turbine FlowMax,Turbine,496.62,Standby,640.77
+668,668,2024-03-24 11:55:43.797236,2024,3,24,25,Muara Laboh,Jawa Tengah,1,PLTS,5,Rain Showers,12.6,92,Central Inverter SunGrow,Inverter,1436.59,Maintenance,1282.96
+669,669,2024-06-25 05:14:43.797236,2024,6,25,1,Karangkates,Jawa Timur,3,PLTA,4,Overcast,16.4,85,PLTA Turbine T-Francis,Turbine,1369.24,Degraded,1463.53
+670,670,2023-11-05 19:46:43.797236,2023,11,5,25,Muara Laboh,Jawa Tengah,6,PLTG,1,Clear,39.3,71,Fuel Tank PetroStore 50KL,Engine,870.07,Failed,174.57
+671,671,2025-02-09 23:59:43.797236,2025,2,9,14,Grati,Jawa Tengah,3,PLTA,1,Clear,38.7,42,Pelton Wheel AquaForce,Generator,1449.82,Operational,945.36
+672,672,2024-11-04 04:34:43.797236,2024,11,4,19,Likupang,DKI Jakarta,4,PLTG,1,Clear,15.6,11,Steam Turbine GeoPower X1,Steam Turbine,1655.53,Failed,472.49
+673,673,2024-11-22 09:33:43.797236,2024,11,22,3,Saguling,Jawa Tengah,2,PLTB,1,Clear,29.8,20,PLTB Turbine G100,Nacelle,388.6,Operational,863.47
+674,674,2023-09-21 17:09:43.797236,2023,9,21,3,Saguling,Jawa Tengah,4,PLTG,5,Rain Showers,18.1,37,Binary Cycle Plant GeoFlow,Steam Turbine,1392.58,Degraded,406.58
+675,675,2023-08-26 07:48:43.797236,2023,8,26,3,Saguling,Jawa Tengah,1,PLTS,7,Foggy,32.9,6,PLTS Panel B-Series X,Inverter,439.87,Standby,1479.31
+676,676,2024-11-18 05:15:43.797236,2024,11,18,18,Jeneponto,Banten,6,PLTG,2,Partly Cloudy,32.4,24,PLTG Generator CAT D1000,Exhaust System,1610.55,Maintenance,1381.24
+677,677,2025-01-07 21:05:43.797236,2025,1,7,18,Jeneponto,Banten,2,PLTB,6,Thunderstorm,32.9,67,PLTB Turbine Vestas V120,Generator,1872.11,Operational,352.81
+678,678,2025-02-13 08:31:43.797236,2025,2,13,9,Ulumbu,Sulawesi Selatan,1,PLTS,1,Clear,30.3,81,PLTS Panel Array Alpha,Inverter,1851.44,Failed,1374.53
+679,679,2024-02-20 23:01:43.797236,2024,2,20,6,Wayang PLTBu,NTT,5,PLTG,6,Thunderstorm,39.4,18,Pelletizer BioFuel,Feeder System,288.31,Degraded,591.98
+680,680,2025-04-08 22:35:43.797236,2025,4,8,9,Ulumbu,Sulawesi Selatan,2,PLTB,1,Clear,10.4,76,PLTB Turbine Vestas V120,Nacelle,150.46,Operational,65.23
+681,681,2024-02-14 16:50:43.797236,2024,2,14,18,Jeneponto,Banten,6,PLTG,2,Partly Cloudy,24.4,66,Alternator PLTGGen Pro,Exhaust System,988.31,Maintenance,629.51
+682,682,2024-07-23 00:43:43.797236,2024,7,23,25,Muara Laboh,Jawa Tengah,1,PLTS,7,Foggy,12.8,40,PLTS Panel B-Series X,Inverter,1528.5,Standby,1086.02
+683,683,2023-08-03 18:46:43.797236,2023,8,3,1,Karangkates,Jawa Timur,4,PLTG,4,Overcast,14.2,96,Binary Cycle Plant GeoFlow,Heat Exchanger,266.56,Degraded,425.88
+684,684,2024-05-23 23:42:43.797236,2024,5,23,12,Suralaya,Jawa Timur,4,PLTG,2,Partly Cloudy,20.6,79,Wellhead Unit AlphaTherm,Steam Turbine,471.81,Maintenance,799.33
+685,685,2023-11-26 17:49:43.797236,2023,11,26,5,Darajat,Sulawesi Utara,4,PLTG,2,Partly Cloudy,21.0,27,Binary Cycle Plant GeoFlow,Wellhead,123.53,Degraded,77.05
+686,686,2024-02-28 17:55:43.797236,2024,2,28,10,Mataloko,Lampung,4,PLTG,5,Rain Showers,27.2,28,Binary Cycle Plant GeoFlow,Heat Exchanger,719.97,Maintenance,1474.46
+687,687,2024-06-03 23:28:43.797236,2024,6,3,16,Tambak Lorok,Sulawesi Utara,5,PLTG,8,Hazy,12.8,9,Gasifier WoodChip X200,Feeder System,1207.93,Degraded,1385.43
+688,688,2024-06-05 03:11:43.797236,2024,6,5,9,Ulumbu,Sulawesi Selatan,4,PLTG,8,Hazy,22.5,96,Binary Cycle Plant GeoFlow,Heat Exchanger,1233.37,Degraded,1158.31
+689,689,2025-04-01 17:41:43.797236,2025,4,1,8,Lahendong,DKI Jakarta,1,PLTS,5,Rain Showers,15.7,44,PLTS Panel B-Series X,Mounting System,1898.94,Maintenance,993.63
+690,690,2023-07-23 05:44:43.797236,2023,7,23,24,Rantau Dedap,Jawa Barat,2,PLTB,7,Foggy,31.3,59,Blade Set AeroPro,Turbine,1935.57,Standby,1075.83
+691,691,2024-06-13 19:39:43.797236,2024,6,13,10,Mataloko,Lampung,1,PLTS,7,Foggy,24.8,99,Central Inverter SunGrow,Photovoltaic Panel,1869.5,Failed,720.89
+692,692,2024-05-13 11:45:43.797236,2024,5,13,21,Patuha,Lampung,2,PLTB,2,Partly Cloudy,24.9,38,PLTB Turbine Vestas V120,Generator,1716.82,Degraded,969.36
+693,693,2024-01-11 19:37:43.797236,2024,1,11,7,Sibayak,Banten,4,PLTG,2,Partly Cloudy,10.2,28,Binary Cycle Plant GeoFlow,Heat Exchanger,681.5,Operational,1252.23
+694,694,2024-05-31 17:16:43.797236,2024,5,31,8,Lahendong,DKI Jakarta,2,PLTB,4,Overcast,10.4,38,PLTB Turbine Vestas V120,Generator,1662.14,Standby,328.53
+695,695,2024-05-12 11:27:43.797236,2024,5,12,4,Kamojang,Sumatera Utara,3,PLTA,6,Thunderstorm,17.8,3,PLTA Turbine T-Francis,Turbine,680.39,Failed,728.7
+696,696,2024-01-10 16:43:43.797236,2024,1,10,17,Sidrap,NTT,1,PLTS,2,Partly Cloudy,35.6,61,PLTS Panel B-Series X,Mounting System,1936.46,Failed,603.77
+697,697,2024-01-11 12:48:43.797236,2024,1,11,22,Dieng,Sumatera Selatan,1,PLTS,8,Hazy,34.3,98,Inverter SolMax 5000,Inverter,954.05,Degraded,608.51
+698,698,2024-03-20 16:02:43.797236,2024,3,20,7,Sibayak,Banten,4,PLTG,3,Cloudy,18.0,4,Binary Cycle Plant GeoFlow,Steam Turbine,340.04,Degraded,611.28
+699,699,2023-09-04 08:15:43.797236,2023,9,4,4,Kamojang,Sumatera Utara,6,PLTG,5,Rain Showers,29.5,80,Alternator PLTGGen Pro,Engine,1226.92,Operational,1106.4
+700,700,2024-03-04 20:31:43.797236,2024,3,4,23,Sorik Marapi,Jawa Timur,1,PLTS,7,Foggy,23.8,92,Central Inverter SunGrow,Inverter,413.39,Maintenance,311.28
+701,701,2024-06-24 07:21:43.797236,2024,6,24,25,Muara Laboh,Jawa Tengah,4,PLTG,7,Foggy,29.1,28,Binary Cycle Plant GeoFlow,Heat Exchanger,923.52,Operational,130.11
+702,702,2025-03-23 05:21:43.797236,2025,3,23,7,Sibayak,Banten,6,PLTG,5,Rain Showers,13.2,55,Engine Cummins KTA50,Generator Set,1676.9,Operational,1432.54
+703,703,2025-03-08 10:14:43.797236,2025,3,8,23,Sorik Marapi,Jawa Timur,4,PLTG,2,Partly Cloudy,12.9,48,Binary Cycle Plant GeoFlow,Condenser,1684.22,Failed,1127.69
+704,704,2024-10-06 22:46:43.797236,2024,10,6,12,Suralaya,Jawa Timur,6,PLTG,7,Foggy,36.0,71,Fuel Tank PetroStore 50KL,Engine,978.79,Degraded,606.97
+705,705,2025-05-18 23:14:43.797236,2025,5,18,24,Rantau Dedap,Jawa Barat,3,PLTA,5,Rain Showers,13.1,94,Generator PLTAGenX,Spillway Gate,1011.24,Standby,1377.12
+706,706,2024-07-09 08:46:43.797236,2024,7,9,20,Gunung Salak,Sulawesi Selatan,1,PLTS,6,Thunderstorm,15.9,98,Inverter SolMax 5000,Inverter,788.92,Failed,431.99
+707,707,2025-02-21 13:44:43.797236,2025,2,21,4,Kamojang,Sumatera Utara,1,PLTS,2,Partly Cloudy,35.0,62,PLTS Panel B-Series X,Inverter,306.66,Maintenance,1294.89
+708,708,2024-12-01 11:05:43.797236,2024,12,1,20,Gunung Salak,Sulawesi Selatan,3,PLTA,3,Cloudy,10.1,49,Kaplan Turbine FlowMax,Generator,1561.85,Standby,1413.22
+709,709,2024-09-07 21:03:43.797236,2024,9,7,15,Muara Karang,Sumatera Utara,3,PLTA,1,Clear,35.7,94,Generator PLTAGenX,Spillway Gate,419.13,Standby,645.41
+710,710,2024-06-16 15:50:43.797236,2024,6,16,20,Gunung Salak,Sulawesi Selatan,4,PLTG,4,Overcast,14.5,37,Binary Cycle Plant GeoFlow,Steam Turbine,1215.86,Degraded,1167.61
+711,711,2024-10-06 20:22:43.797236,2024,10,6,9,Ulumbu,Sulawesi Selatan,2,PLTB,1,Clear,16.3,38,PLTB Turbine Vestas V120,Generator,126.2,Standby,1155.78
+712,712,2024-01-13 11:05:43.797236,2024,1,13,7,Sibayak,Banten,3,PLTA,2,Partly Cloudy,18.2,46,Generator PLTAGenX,Turbine,258.33,Standby,1074.71
+713,713,2025-04-14 06:52:43.797236,2025,4,14,7,Sibayak,Banten,4,PLTG,1,Clear,34.6,96,Binary Cycle Plant GeoFlow,Heat Exchanger,554.94,Operational,985.13
+714,714,2025-04-18 02:19:43.797236,2025,4,18,14,Grati,Jawa Tengah,5,PLTG,8,Hazy,14.9,72,Steam Turbine BioSteam Z,Turbine,1352.19,Standby,641.6
+715,715,2024-08-05 17:20:43.797236,2024,8,5,3,Saguling,Jawa Tengah,4,PLTG,2,Partly Cloudy,27.4,48,Binary Cycle Plant GeoFlow,Condenser,1164.67,Degraded,462.87
+716,716,2024-12-07 21:23:43.797236,2024,12,7,17,Sidrap,NTT,6,PLTG,4,Overcast,35.6,55,Engine Cummins KTA50,Generator Set,1251.96,Standby,1333.12
+717,717,2023-10-24 11:11:43.797236,2023,10,24,2,Cirata,Jawa Barat,4,PLTG,2,Partly Cloudy,33.6,11,Steam Turbine GeoPower X1,Steam Turbine,1910.47,Failed,1029.47
+718,718,2024-06-11 02:02:43.797236,2024,6,11,6,Wayang PLTBu,NTT,3,PLTA,3,Cloudy,36.2,86,Generator PLTAGenX,Generator,1573.62,Operational,235.12
+719,719,2023-06-30 01:44:43.797236,2023,6,30,10,Mataloko,Lampung,6,PLTG,3,Cloudy,30.3,93,Fuel Tank PetroStore 50KL,Exhaust System,1154.96,Operational,1204.54
+720,720,2023-06-27 12:36:43.797236,2023,6,27,15,Muara Karang,Sumatera Utara,5,PLTG,7,Foggy,27.9,41,Steam Turbine BioSteam Z,Turbine,1007.15,Standby,1422.05
+721,721,2025-05-22 10:35:43.797236,2025,5,22,6,Wayang PLTBu,NTT,6,PLTG,3,Cloudy,36.8,71,Fuel Tank PetroStore 50KL,Engine,1397.6,Standby,764.68
+722,722,2023-07-26 16:44:43.797236,2023,7,26,22,Dieng,Sumatera Selatan,1,PLTS,2,Partly Cloudy,37.8,52,PLTS Panel Array Alpha,Tracker,866.65,Maintenance,1113.45
+723,723,2025-03-30 19:00:43.797236,2025,3,30,23,Sorik Marapi,Jawa Timur,5,PLTG,2,Partly Cloudy,19.1,33,Steam Turbine BioSteam Z,Feeder System,1945.46,Degraded,389.89
+724,724,2024-09-12 07:50:43.797236,2024,9,12,19,Likupang,DKI Jakarta,4,PLTG,8,Hazy,26.4,96,Binary Cycle Plant GeoFlow,Heat Exchanger,759.25,Failed,1425.57
+725,725,2024-04-16 02:27:43.797236,2024,4,16,23,Sorik Marapi,Jawa Timur,3,PLTA,8,Hazy,36.8,25,Pelton Wheel AquaForce,Spillway Gate,817.63,Standby,168.44
+726,726,2024-09-27 17:30:43.797236,2024,9,27,17,Sidrap,NTT,1,PLTS,4,Overcast,23.2,23,Central Inverter SunGrow,Tracker,1460.95,Degraded,1128.22
+727,727,2024-10-23 16:57:43.797236,2024,10,23,5,Darajat,Sulawesi Utara,4,PLTG,8,Hazy,34.2,27,Binary Cycle Plant GeoFlow,Wellhead,1971.91,Standby,752.05
+728,728,2024-11-28 05:50:43.797236,2024,11,28,25,Muara Laboh,Jawa Tengah,3,PLTA,1,Clear,22.6,49,Kaplan Turbine FlowMax,Generator,277.27,Degraded,980.43
+729,729,2024-11-19 10:25:43.797236,2024,11,19,21,Patuha,Lampung,4,PLTG,1,Clear,30.3,51,Binary Cycle Plant GeoFlow,Wellhead,1279.76,Degraded,146.41
+730,730,2023-07-12 05:29:43.797236,2023,7,12,22,Dieng,Sumatera Selatan,4,PLTG,4,Overcast,39.6,11,Steam Turbine GeoPower X1,Steam Turbine,606.06,Operational,1145.64
+731,731,2024-12-18 00:51:43.797236,2024,12,18,15,Muara Karang,Sumatera Utara,3,PLTA,6,Thunderstorm,12.8,77,Kaplan Turbine FlowMax,Generator,1837.92,Operational,1263.76
+732,732,2024-09-11 14:41:43.797236,2024,9,11,7,Sibayak,Banten,4,PLTG,8,Hazy,16.6,68,Cooling Tower GeoCool,Wellhead,205.45,Degraded,1492.78
+733,733,2023-08-18 12:12:43.797236,2023,8,18,2,Cirata,Jawa Barat,3,PLTA,6,Thunderstorm,18.2,7,Generator PLTAGenX,Spillway Gate,1990.88,Failed,490.57
+734,734,2024-09-29 12:47:43.797236,2024,9,29,11,Paiton,Sumatera Selatan,3,PLTA,8,Hazy,38.7,75,Kaplan Turbine FlowMax,Turbine,325.24,Degraded,781.56
+735,735,2023-11-18 00:24:43.797236,2023,11,18,18,Jeneponto,Banten,4,PLTG,7,Foggy,21.4,5,Binary Cycle Plant GeoFlow,Heat Exchanger,191.05,Degraded,948.49
+736,736,2024-04-02 13:42:43.797236,2024,4,2,13,Tanjung Jati B,Jawa Barat,6,PLTG,3,Cloudy,17.2,50,Fuel Tank PetroStore 50KL,Generator Set,1093.67,Maintenance,26.59
+737,737,2024-09-10 22:55:43.797236,2024,9,10,19,Likupang,DKI Jakarta,3,PLTA,6,Thunderstorm,38.0,82,Generator PLTAGenX,Spillway Gate,1290.54,Standby,478.42
+738,738,2023-11-24 21:10:43.797236,2023,11,24,13,Tanjung Jati B,Jawa Barat,6,PLTG,8,Hazy,23.1,53,Alternator PLTGGen Pro,Engine,1469.63,Failed,1039.83
+739,739,2025-01-29 21:58:43.797236,2025,1,29,23,Sorik Marapi,Jawa Timur,6,PLTG,1,Clear,29.9,55,Engine Cummins KTA50,Generator Set,584.49,Standby,302.55
+740,740,2025-05-17 06:23:43.797236,2025,5,17,25,Muara Laboh,Jawa Tengah,2,PLTB,2,Partly Cloudy,33.1,59,Blade Set AeroPro,Turbine,1655.18,Maintenance,693.49
+741,741,2023-10-29 18:35:43.797236,2023,10,29,3,Saguling,Jawa Tengah,6,PLTG,7,Foggy,15.3,24,PLTG Generator CAT D1000,Exhaust System,254.44,Operational,142.76
+742,742,2024-03-16 07:09:43.797236,2024,3,16,16,Tambak Lorok,Sulawesi Utara,4,PLTG,8,Hazy,21.2,17,Binary Cycle Plant GeoFlow,Wellhead,1990.97,Standby,562.44
+743,743,2025-03-13 23:45:43.797236,2025,3,13,16,Tambak Lorok,Sulawesi Utara,3,PLTA,1,Clear,16.9,73,PLTA Turbine T-Francis,Turbine,1421.13,Degraded,367.94
+744,744,2024-10-06 16:00:43.797236,2024,10,6,20,Gunung Salak,Sulawesi Selatan,3,PLTA,8,Hazy,27.3,39,PLTA Turbine T-Francis,Turbine,552.17,Maintenance,316.06
+745,745,2024-11-13 07:14:43.797236,2024,11,13,24,Rantau Dedap,Jawa Barat,6,PLTG,6,Thunderstorm,31.7,14,Fuel Tank PetroStore 50KL,Engine,890.15,Degraded,760.63
+746,746,2024-11-07 04:02:43.797236,2024,11,7,3,Saguling,Jawa Tengah,4,PLTG,8,Hazy,28.0,22,Binary Cycle Plant GeoFlow,Wellhead,1439.31,Maintenance,37.93
+747,747,2024-05-06 16:47:43.797236,2024,5,6,24,Rantau Dedap,Jawa Barat,6,PLTG,7,Foggy,37.9,14,Fuel Tank PetroStore 50KL,Engine,906.23,Operational,244.22
+748,748,2025-01-06 20:29:43.797236,2025,1,6,10,Mataloko,Lampung,4,PLTG,1,Clear,27.6,48,Binary Cycle Plant GeoFlow,Condenser,249.93,Operational,62.1
+749,749,2023-12-31 23:33:43.797236,2023,12,31,6,Wayang PLTBu,NTT,4,PLTG,5,Rain Showers,16.1,8,Steam Turbine GeoPower X1,Wellhead,1158.81,Maintenance,279.77
+750,750,2024-02-22 10:52:43.797236,2024,2,22,9,Ulumbu,Sulawesi Selatan,4,PLTG,3,Cloudy,19.5,37,Binary Cycle Plant GeoFlow,Steam Turbine,129.75,Operational,339.6
+751,751,2024-09-15 16:27:43.797236,2024,9,15,4,Kamojang,Sumatera Utara,6,PLTG,5,Rain Showers,16.4,87,Fuel Tank PetroStore 50KL,Engine,1620.94,Maintenance,840.61
+752,752,2024-03-30 21:50:43.797236,2024,3,30,14,Grati,Jawa Tengah,6,PLTG,8,Hazy,37.3,50,Fuel Tank PetroStore 50KL,Generator Set,1640.67,Degraded,568.96
+753,753,2024-05-09 12:32:43.797236,2024,5,9,10,Mataloko,Lampung,3,PLTA,6,Thunderstorm,13.6,31,Generator PLTAGenX,Penstock,202.9,Maintenance,4.15
+754,754,2023-08-15 22:10:43.797236,2023,8,15,25,Muara Laboh,Jawa Tengah,3,PLTA,5,Rain Showers,39.2,45,Kaplan Turbine FlowMax,Generator,843.16,Maintenance,865.4
+755,755,2024-07-13 08:58:43.797236,2024,7,13,8,Lahendong,DKI Jakarta,6,PLTG,7,Foggy,11.7,14,Fuel Tank PetroStore 50KL,Engine,1419.05,Failed,445.05
+756,756,2025-03-19 00:33:43.797236,2025,3,19,4,Kamojang,Sumatera Utara,2,PLTB,6,Thunderstorm,17.0,12,PLTB Turbine G100,Nacelle,250.95,Degraded,132.51
+757,757,2025-04-24 21:10:43.797236,2025,4,24,1,Karangkates,Jawa Timur,4,PLTG,5,Rain Showers,26.5,27,Binary Cycle Plant GeoFlow,Wellhead,1599.96,Standby,99.34
+758,758,2025-01-19 23:02:43.797236,2025,1,19,1,Karangkates,Jawa Timur,6,PLTG,3,Cloudy,33.8,19,Alternator PLTGGen Pro,Engine,542.7,Failed,1273.14
+759,759,2023-11-23 18:09:43.797236,2023,11,23,14,Grati,Jawa Tengah,6,PLTG,6,Thunderstorm,36.7,21,PLTG Generator CAT D1000,Fuel System,910.43,Maintenance,966.07
+760,760,2023-08-23 13:39:43.797236,2023,8,23,22,Dieng,Sumatera Selatan,6,PLTG,6,Thunderstorm,10.0,93,Fuel Tank PetroStore 50KL,Exhaust System,667.54,Degraded,974.7
+761,761,2023-10-04 18:40:43.797236,2023,10,4,7,Sibayak,Banten,4,PLTG,5,Rain Showers,12.3,13,Cooling Tower GeoCool,Wellhead,810.27,Operational,1482.81
+762,762,2024-02-12 06:52:43.797236,2024,2,12,16,Tambak Lorok,Sulawesi Utara,4,PLTG,1,Clear,16.3,48,Binary Cycle Plant GeoFlow,Condenser,886.69,Degraded,639.7
+763,763,2023-08-22 19:51:43.797236,2023,8,22,25,Muara Laboh,Jawa Tengah,6,PLTG,2,Partly Cloudy,19.8,53,Alternator PLTGGen Pro,Engine,1740.21,Operational,989.34
+764,764,2023-08-05 15:01:43.797236,2023,8,5,16,Tambak Lorok,Sulawesi Utara,3,PLTA,1,Clear,39.0,2,Kaplan Turbine FlowMax,Turbine,202.03,Maintenance,1457.23
+765,765,2024-11-18 17:20:43.797236,2024,11,18,16,Tambak Lorok,Sulawesi Utara,3,PLTA,6,Thunderstorm,34.3,42,Pelton Wheel AquaForce,Generator,1150.54,Failed,1321.09
+766,766,2023-09-09 03:50:43.797236,2023,9,9,23,Sorik Marapi,Jawa Timur,6,PLTG,7,Foggy,30.5,93,Fuel Tank PetroStore 50KL,Exhaust System,1157.79,Degraded,1391.83
+767,767,2025-04-03 06:01:43.797236,2025,4,3,5,Darajat,Sulawesi Utara,5,PLTG,4,Overcast,38.8,26,Pelletizer BioFuel,Feeder System,1135.34,Degraded,403.23
+768,768,2023-06-08 12:48:43.797236,2023,6,8,24,Rantau Dedap,Jawa Barat,3,PLTA,3,Cloudy,34.5,2,Kaplan Turbine FlowMax,Turbine,1991.84,Operational,696.34
+769,769,2025-02-22 11:31:43.797236,2025,2,22,12,Suralaya,Jawa Timur,2,PLTB,7,Foggy,29.3,91,PLTB Turbine G100,Turbine,607.7,Failed,1050.77
+770,770,2023-09-11 16:02:43.797236,2023,9,11,2,Cirata,Jawa Barat,2,PLTB,4,Overcast,38.4,20,PLTB Turbine G100,Nacelle,1048.91,Failed,581.52
+771,771,2024-09-11 08:08:43.797236,2024,9,11,15,Muara Karang,Sumatera Utara,3,PLTA,3,Cloudy,16.4,63,PLTA Turbine T-Francis,Penstock,784.96,Failed,1460.33
+772,772,2024-01-25 21:05:43.797236,2024,1,25,21,Patuha,Lampung,3,PLTA,8,Hazy,22.4,63,PLTA Turbine T-Francis,Penstock,475.4,Failed,470.34
+773,773,2023-12-15 00:35:43.797236,2023,12,15,21,Patuha,Lampung,3,PLTA,3,Cloudy,30.0,94,Generator PLTAGenX,Spillway Gate,1040.73,Failed,311.86
+774,774,2024-08-08 09:52:43.797236,2024,8,8,22,Dieng,Sumatera Selatan,6,PLTG,7,Foggy,21.8,24,PLTG Generator CAT D1000,Exhaust System,1324.58,Failed,453.03
+775,775,2024-08-21 07:57:43.797236,2024,8,21,5,Darajat,Sulawesi Utara,2,PLTB,4,Overcast,12.0,64,Gearbox PLTBMaster,Turbine,1298.22,Maintenance,1470.91
+776,776,2023-09-14 19:05:43.797236,2023,9,14,23,Sorik Marapi,Jawa Timur,5,PLTG,2,Partly Cloudy,22.6,26,Pelletizer BioFuel,Feeder System,1791.44,Standby,79.81
+777,777,2024-06-23 19:50:43.797236,2024,6,23,11,Paiton,Sumatera Selatan,5,PLTG,7,Foggy,17.1,47,PLTG Boiler BioBurn R1,Boiler,277.5,Standby,997.63
+778,778,2024-06-02 02:52:43.797236,2024,6,2,23,Sorik Marapi,Jawa Timur,2,PLTB,7,Foggy,19.1,12,PLTB Turbine G100,Nacelle,427.53,Maintenance,1084.14
+779,779,2024-06-09 15:53:43.797236,2024,6,9,9,Ulumbu,Sulawesi Selatan,3,PLTA,5,Rain Showers,34.2,39,PLTA Turbine T-Francis,Turbine,409.99,Maintenance,744.36
+780,780,2024-08-23 02:43:43.797236,2024,8,23,10,Mataloko,Lampung,4,PLTG,8,Hazy,26.4,22,Binary Cycle Plant GeoFlow,Wellhead,1127.06,Failed,670.62
+781,781,2025-02-06 05:46:43.797236,2025,2,6,17,Sidrap,NTT,4,PLTG,5,Rain Showers,14.8,15,Wellhead Unit AlphaTherm,Wellhead,967.28,Failed,360.69
+782,782,2025-02-27 20:46:43.797236,2025,2,27,24,Rantau Dedap,Jawa Barat,4,PLTG,6,Thunderstorm,35.2,27,Binary Cycle Plant GeoFlow,Wellhead,1841.46,Operational,511.22
+783,783,2025-01-03 23:50:43.797236,2025,1,3,23,Sorik Marapi,Jawa Timur,4,PLTG,5,Rain Showers,35.4,51,Binary Cycle Plant GeoFlow,Wellhead,610.19,Maintenance,837.55
+784,784,2024-03-29 02:14:43.797236,2024,3,29,24,Rantau Dedap,Jawa Barat,4,PLTG,2,Partly Cloudy,27.9,22,Binary Cycle Plant GeoFlow,Wellhead,187.01,Maintenance,301.39
+785,785,2024-03-06 11:57:43.797236,2024,3,6,16,Tambak Lorok,Sulawesi Utara,5,PLTG,8,Hazy,25.7,41,Steam Turbine BioSteam Z,Turbine,1476.3,Operational,583.98
+786,786,2023-08-15 08:13:43.797236,2023,8,15,11,Paiton,Sumatera Selatan,6,PLTG,4,Overcast,32.1,53,Alternator PLTGGen Pro,Engine,536.08,Standby,874.18
+787,787,2024-06-26 05:13:43.797236,2024,6,26,10,Mataloko,Lampung,3,PLTA,4,Overcast,38.0,56,PLTA Turbine T-Francis,Generator,188.05,Degraded,261.53
+788,788,2024-04-23 22:37:43.797236,2024,4,23,25,Muara Laboh,Jawa Tengah,5,PLTG,2,Partly Cloudy,39.3,65,Pelletizer BioFuel,Turbine,101.11,Failed,219.26
+789,789,2025-04-15 11:46:43.797236,2025,4,15,15,Muara Karang,Sumatera Utara,6,PLTG,5,Rain Showers,39.9,14,Fuel Tank PetroStore 50KL,Engine,1512.3,Failed,934.54
+790,790,2024-08-23 18:13:43.797236,2024,8,23,24,Rantau Dedap,Jawa Barat,6,PLTG,3,Cloudy,17.8,53,Alternator PLTGGen Pro,Engine,1919.17,Degraded,797.07
+791,791,2023-05-29 20:53:43.797236,2023,5,29,3,Saguling,Jawa Tengah,6,PLTG,3,Cloudy,17.7,21,PLTG Generator CAT D1000,Fuel System,1146.39,Failed,1358.1
+792,792,2024-09-28 15:52:43.797236,2024,9,28,23,Sorik Marapi,Jawa Timur,4,PLTG,2,Partly Cloudy,38.4,17,Binary Cycle Plant GeoFlow,Wellhead,1325.92,Degraded,839.88
+793,793,2023-11-12 12:24:43.797236,2023,11,12,18,Jeneponto,Banten,6,PLTG,7,Foggy,29.2,57,PLTG Generator CAT D1000,Generator Set,533.08,Maintenance,589.57
+794,794,2025-03-02 15:13:43.797236,2025,3,2,25,Muara Laboh,Jawa Tengah,3,PLTA,3,Cloudy,22.6,45,Kaplan Turbine FlowMax,Generator,339.35,Operational,491.78
+795,795,2023-08-03 19:47:43.797236,2023,8,3,19,Likupang,DKI Jakarta,1,PLTS,5,Rain Showers,33.0,83,PLTS Panel Array Alpha,Tracker,892.23,Degraded,544.51
+796,796,2023-07-09 18:03:43.797236,2023,7,9,12,Suralaya,Jawa Timur,2,PLTB,5,Rain Showers,12.6,91,PLTB Turbine G100,Turbine,779.58,Maintenance,1300.98
+797,797,2025-02-23 04:11:43.797236,2025,2,23,6,Wayang PLTBu,NTT,2,PLTB,5,Rain Showers,29.3,64,Gearbox PLTBMaster,Turbine,1511.17,Degraded,256.88
+798,798,2024-06-03 11:08:43.797236,2024,6,3,11,Paiton,Sumatera Selatan,3,PLTA,7,Foggy,25.3,25,Pelton Wheel AquaForce,Spillway Gate,545.04,Failed,837.79
+799,799,2024-04-01 23:06:43.797236,2024,4,1,16,Tambak Lorok,Sulawesi Utara,1,PLTS,6,Thunderstorm,25.3,6,PLTS Panel B-Series X,Inverter,759.65,Degraded,592.79
+800,800,2024-09-12 01:03:43.797236,2024,9,12,14,Grati,Jawa Tengah,2,PLTB,7,Foggy,26.8,38,PLTB Turbine Vestas V120,Generator,1965.91,Operational,748.06
+801,801,2024-03-22 23:05:43.797236,2024,3,22,6,Wayang PLTBu,NTT,6,PLTG,1,Clear,38.7,84,Engine Cummins KTA50,Exhaust System,1293.66,Degraded,702.26
+802,802,2024-07-16 03:03:43.797236,2024,7,16,18,Jeneponto,Banten,4,PLTG,1,Clear,17.1,11,Steam Turbine GeoPower X1,Steam Turbine,1131.53,Maintenance,1475.05
+803,803,2023-10-04 02:07:43.797236,2023,10,4,21,Patuha,Lampung,1,PLTS,8,Hazy,33.3,44,PLTS Panel B-Series X,Mounting System,449.98,Maintenance,1375.31
+804,804,2023-11-14 08:23:43.797236,2023,11,14,19,Likupang,DKI Jakarta,3,PLTA,1,Clear,11.1,36,Pelton Wheel AquaForce,Turbine,1356.68,Failed,1159.54
+805,805,2025-02-11 14:51:43.797236,2025,2,11,2,Cirata,Jawa Barat,6,PLTG,1,Clear,31.6,100,PLTG Generator CAT D1000,Fuel System,893.4,Standby,35.58
+806,806,2024-08-31 05:45:43.797236,2024,8,31,25,Muara Laboh,Jawa Tengah,6,PLTG,3,Cloudy,24.7,80,Alternator PLTGGen Pro,Engine,1237.31,Standby,385.81
+807,807,2025-05-27 04:18:43.797236,2025,5,27,2,Cirata,Jawa Barat,4,PLTG,4,Overcast,27.1,27,Binary Cycle Plant GeoFlow,Wellhead,1755.47,Operational,973.24
+808,808,2025-03-05 00:33:43.797236,2025,3,5,7,Sibayak,Banten,6,PLTG,1,Clear,38.0,53,Alternator PLTGGen Pro,Engine,408.49,Operational,710.61
+809,809,2024-05-10 03:06:43.797236,2024,5,10,14,Grati,Jawa Tengah,2,PLTB,7,Foggy,32.0,20,PLTB Turbine G100,Nacelle,312.91,Maintenance,205.37
+810,810,2023-07-06 12:56:43.797236,2023,7,6,12,Suralaya,Jawa Timur,2,PLTB,6,Thunderstorm,36.1,91,PLTB Turbine G100,Turbine,678.03,Maintenance,717.8
+811,811,2024-08-29 13:31:43.797236,2024,8,29,4,Kamojang,Sumatera Utara,3,PLTA,8,Hazy,28.3,97,PLTA Turbine T-Francis,Generator,601.99,Maintenance,895.54
+812,812,2024-05-05 19:07:43.797236,2024,5,5,4,Kamojang,Sumatera Utara,1,PLTS,2,Partly Cloudy,18.5,81,PLTS Panel Array Alpha,Inverter,1997.73,Operational,363.39
+813,813,2024-01-01 03:49:43.797236,2024,1,1,14,Grati,Jawa Tengah,1,PLTS,2,Partly Cloudy,37.4,61,PLTS Panel B-Series X,Mounting System,1777.36,Failed,251.88
+814,814,2025-04-07 02:30:43.797236,2025,4,7,19,Likupang,DKI Jakarta,2,PLTB,3,Cloudy,14.0,88,Gearbox PLTBMaster,Gearbox,1344.59,Maintenance,1457.85
+815,815,2024-03-24 09:06:43.797236,2024,3,24,5,Darajat,Sulawesi Utara,6,PLTG,1,Clear,22.4,57,PLTG Generator CAT D1000,Generator Set,812.52,Standby,1063.66
+816,816,2024-08-17 04:54:43.797236,2024,8,17,17,Sidrap,NTT,2,PLTB,3,Cloudy,28.3,64,Gearbox PLTBMaster,Turbine,1302.2,Failed,1302.83
+817,817,2024-09-03 00:42:43.797236,2024,9,3,1,Karangkates,Jawa Timur,1,PLTS,1,Clear,14.6,44,PLTS Panel B-Series X,Mounting System,284.76,Maintenance,1480.04
+818,818,2024-11-21 18:05:43.797236,2024,11,21,5,Darajat,Sulawesi Utara,6,PLTG,4,Overcast,25.6,54,Engine Cummins KTA50,Generator Set,1344.8,Maintenance,880.09
+819,819,2025-02-15 05:28:43.797236,2025,2,15,11,Paiton,Sumatera Selatan,3,PLTA,1,Clear,12.4,94,Generator PLTAGenX,Spillway Gate,1928.05,Operational,691.81
+820,820,2024-06-27 16:22:43.797236,2024,6,27,6,Wayang PLTBu,NTT,4,PLTG,7,Foggy,39.7,4,Binary Cycle Plant GeoFlow,Steam Turbine,1387.49,Operational,653.4
+821,821,2023-08-11 23:50:43.797236,2023,8,11,18,Jeneponto,Banten,1,PLTS,6,Thunderstorm,17.9,34,Inverter SolMax 5000,Tracker,875.51,Operational,1115.83
+822,822,2025-04-26 13:13:43.797236,2025,4,26,21,Patuha,Lampung,1,PLTS,4,Overcast,31.3,83,PLTS Panel Array Alpha,Tracker,861.08,Standby,1116.47
+823,823,2023-07-09 05:12:43.797236,2023,7,9,22,Dieng,Sumatera Selatan,2,PLTB,7,Foggy,19.1,89,PLTB Turbine Vestas V120,Generator,1663.82,Operational,1100.93
+824,824,2023-10-27 01:28:43.797236,2023,10,27,10,Mataloko,Lampung,4,PLTG,8,Hazy,10.4,8,Steam Turbine GeoPower X1,Wellhead,1138.75,Maintenance,604.72
+825,825,2023-10-17 03:13:43.797236,2023,10,17,17,Sidrap,NTT,3,PLTA,1,Clear,12.3,82,Generator PLTAGenX,Spillway Gate,1005.77,Standby,265.46
+826,826,2024-01-27 02:30:43.797236,2024,1,27,14,Grati,Jawa Tengah,5,PLTG,3,Cloudy,21.7,90,Steam Turbine BioSteam Z,Gasifier,1814.52,Standby,1446.76
+827,827,2023-12-06 08:16:43.797236,2023,12,6,20,Gunung Salak,Sulawesi Selatan,1,PLTS,5,Rain Showers,35.3,62,PLTS Panel B-Series X,Inverter,1904.18,Standby,260.99
+828,828,2023-09-29 19:39:43.797236,2023,9,29,8,Lahendong,DKI Jakarta,6,PLTG,4,Overcast,32.9,35,PLTG Generator CAT D1000,Generator Set,1157.68,Degraded,1280.8
+829,829,2023-07-19 06:30:43.797236,2023,7,19,7,Sibayak,Banten,4,PLTG,7,Foggy,34.7,37,Binary Cycle Plant GeoFlow,Steam Turbine,1921.7,Operational,1190.26
+830,830,2025-03-21 14:12:43.797236,2025,3,21,14,Grati,Jawa Tengah,1,PLTS,5,Rain Showers,31.8,6,PLTS Panel B-Series X,Inverter,718.13,Maintenance,95.03
+831,831,2024-08-10 14:00:43.797236,2024,8,10,14,Grati,Jawa Tengah,4,PLTG,5,Rain Showers,22.9,15,Wellhead Unit AlphaTherm,Wellhead,1434.6,Standby,1293.2
+832,832,2025-05-11 06:59:43.797236,2025,5,11,19,Likupang,DKI Jakarta,6,PLTG,1,Clear,24.6,69,Engine Cummins KTA50,Engine,117.75,Operational,832.22
+833,833,2025-02-10 03:39:43.797236,2025,2,10,12,Suralaya,Jawa Timur,4,PLTG,2,Partly Cloudy,11.7,17,Binary Cycle Plant GeoFlow,Wellhead,730.66,Degraded,224.15
+834,834,2023-12-28 02:42:43.797236,2023,12,28,12,Suralaya,Jawa Timur,1,PLTS,8,Hazy,33.0,32,PLTS Panel B-Series X,Photovoltaic Panel,1417.7,Operational,70.86
+835,835,2024-10-13 21:13:43.797236,2024,10,13,18,Jeneponto,Banten,3,PLTA,3,Cloudy,18.0,45,Kaplan Turbine FlowMax,Generator,1001.81,Standby,1275.37
+836,836,2024-08-15 05:33:43.797236,2024,8,15,7,Sibayak,Banten,4,PLTG,7,Foggy,19.4,15,Wellhead Unit AlphaTherm,Wellhead,747.76,Standby,1402.08
+837,837,2024-06-16 14:35:43.797236,2024,6,16,11,Paiton,Sumatera Selatan,1,PLTS,7,Foggy,16.3,32,PLTS Panel B-Series X,Photovoltaic Panel,1246.43,Operational,1126.6
+838,838,2024-04-24 06:04:43.797236,2024,4,24,21,Patuha,Lampung,3,PLTA,2,Partly Cloudy,22.7,70,Generator PLTAGenX,Generator,694.28,Maintenance,661.72
+839,839,2025-01-20 01:39:43.797236,2025,1,20,23,Sorik Marapi,Jawa Timur,6,PLTG,4,Overcast,36.2,71,Fuel Tank PetroStore 50KL,Engine,527.45,Operational,451.0
+840,840,2024-10-30 00:58:43.797236,2024,10,30,10,Mataloko,Lampung,6,PLTG,4,Overcast,33.2,35,PLTG Generator CAT D1000,Generator Set,505.01,Maintenance,1349.55
+841,841,2025-03-24 23:42:43.797236,2025,3,24,14,Grati,Jawa Tengah,4,PLTG,8,Hazy,23.4,48,Binary Cycle Plant GeoFlow,Condenser,105.94,Failed,1221.04
+842,842,2023-06-11 19:00:43.797236,2023,6,11,6,Wayang PLTBu,NTT,3,PLTA,3,Cloudy,10.0,77,Kaplan Turbine FlowMax,Generator,1934.96,Degraded,1081.42
+843,843,2025-05-27 06:18:43.797236,2025,5,27,25,Muara Laboh,Jawa Tengah,3,PLTA,5,Rain Showers,28.0,25,Pelton Wheel AquaForce,Spillway Gate,809.88,Failed,599.13
+844,844,2024-11-03 03:23:43.797236,2024,11,3,11,Paiton,Sumatera Selatan,1,PLTS,7,Foggy,38.2,81,PLTS Panel Array Alpha,Inverter,108.81,Maintenance,140.61
+845,845,2025-01-24 14:40:43.797236,2025,1,24,23,Sorik Marapi,Jawa Timur,4,PLTG,1,Clear,28.9,68,Cooling Tower GeoCool,Wellhead,1094.67,Operational,1471.04
+846,846,2024-06-30 07:37:43.797236,2024,6,30,8,Lahendong,DKI Jakarta,6,PLTG,6,Thunderstorm,39.7,87,Fuel Tank PetroStore 50KL,Engine,846.8,Failed,1407.09
+847,847,2024-12-18 07:06:43.797236,2024,12,18,17,Sidrap,NTT,5,PLTG,8,Hazy,27.1,26,Pelletizer BioFuel,Feeder System,1359.96,Maintenance,579.74
+848,848,2023-08-16 16:30:43.797236,2023,8,16,24,Rantau Dedap,Jawa Barat,1,PLTS,1,Clear,18.9,83,PLTS Panel Array Alpha,Tracker,1036.3,Failed,124.84
+849,849,2025-04-15 04:06:43.797236,2025,4,15,21,Patuha,Lampung,4,PLTG,4,Overcast,16.9,13,Cooling Tower GeoCool,Wellhead,706.62,Degraded,809.41
+850,850,2024-01-05 11:36:43.797236,2024,1,5,4,Kamojang,Sumatera Utara,6,PLTG,4,Overcast,30.9,53,Alternator PLTGGen Pro,Engine,1388.89,Degraded,1310.89
+851,851,2024-05-07 19:16:43.797236,2024,5,7,20,Gunung Salak,Sulawesi Selatan,3,PLTA,7,Foggy,19.6,56,PLTA Turbine T-Francis,Generator,976.4,Standby,481.91
+852,852,2023-12-26 05:24:43.797236,2023,12,26,23,Sorik Marapi,Jawa Timur,3,PLTA,2,Partly Cloudy,12.5,39,PLTA Turbine T-Francis,Turbine,1422.59,Maintenance,321.8
+853,853,2025-02-19 11:25:43.797236,2025,2,19,19,Likupang,DKI Jakarta,1,PLTS,3,Cloudy,24.7,52,PLTS Panel Array Alpha,Tracker,1662.02,Maintenance,675.01
+854,854,2024-07-08 14:27:43.797236,2024,7,8,11,Paiton,Sumatera Selatan,3,PLTA,7,Foggy,20.6,85,PLTA Turbine T-Francis,Turbine,468.87,Standby,298.28
+855,855,2025-05-06 18:06:43.797236,2025,5,6,6,Wayang PLTBu,NTT,6,PLTG,7,Foggy,28.6,14,Fuel Tank PetroStore 50KL,Engine,870.92,Standby,386.56
+856,856,2024-05-25 21:06:43.797236,2024,5,25,7,Sibayak,Banten,3,PLTA,1,Clear,15.1,70,Generator PLTAGenX,Generator,874.97,Failed,500.64
+857,857,2023-10-17 09:03:43.797236,2023,10,17,15,Muara Karang,Sumatera Utara,3,PLTA,8,Hazy,26.2,86,Generator PLTAGenX,Generator,1752.93,Degraded,538.03
+858,858,2025-03-03 08:37:43.797236,2025,3,3,21,Patuha,Lampung,1,PLTS,5,Rain Showers,37.5,40,PLTS Panel B-Series X,Inverter,465.02,Degraded,894.26
+859,859,2024-02-15 11:13:43.797236,2024,2,15,7,Sibayak,Banten,2,PLTB,6,Thunderstorm,25.5,20,PLTB Turbine G100,Nacelle,281.66,Standby,434.6
+860,860,2025-03-21 06:11:43.797236,2025,3,21,3,Saguling,Jawa Tengah,6,PLTG,2,Partly Cloudy,15.7,29,PLTG Generator CAT D1000,Engine,1631.49,Maintenance,951.67
+861,861,2023-11-01 14:13:43.797236,2023,11,1,7,Sibayak,Banten,3,PLTA,4,Overcast,33.1,94,Generator PLTAGenX,Spillway Gate,778.64,Maintenance,1056.63
+862,862,2024-10-28 12:22:43.797236,2024,10,28,25,Muara Laboh,Jawa Tengah,1,PLTS,3,Cloudy,38.8,6,PLTS Panel B-Series X,Inverter,393.8,Operational,780.1
+863,863,2023-09-29 18:00:43.797236,2023,9,29,22,Dieng,Sumatera Selatan,2,PLTB,5,Rain Showers,14.6,89,PLTB Turbine Vestas V120,Generator,1845.34,Standby,1302.26
+864,864,2024-07-17 20:31:43.797236,2024,7,17,20,Gunung Salak,Sulawesi Selatan,3,PLTA,6,Thunderstorm,24.9,3,PLTA Turbine T-Francis,Turbine,1754.7,Standby,602.95
+865,865,2025-03-19 04:40:43.797236,2025,3,19,16,Tambak Lorok,Sulawesi Utara,3,PLTA,7,Foggy,11.0,85,PLTA Turbine T-Francis,Turbine,1335.43,Maintenance,619.99
+866,866,2024-11-19 00:34:43.797236,2024,11,19,23,Sorik Marapi,Jawa Timur,6,PLTG,7,Foggy,38.2,21,PLTG Generator CAT D1000,Fuel System,405.69,Standby,351.35
+867,867,2024-06-23 20:50:43.797236,2024,6,23,14,Grati,Jawa Tengah,4,PLTG,2,Partly Cloudy,32.0,27,Binary Cycle Plant GeoFlow,Wellhead,1037.1,Maintenance,1349.85
+868,868,2023-10-25 20:38:43.797236,2023,10,25,5,Darajat,Sulawesi Utara,5,PLTG,6,Thunderstorm,38.9,65,Pelletizer BioFuel,Turbine,1814.12,Standby,1311.9
+869,869,2023-12-20 15:44:43.797236,2023,12,20,5,Darajat,Sulawesi Utara,5,PLTG,8,Hazy,28.2,65,Pelletizer BioFuel,Turbine,1545.39,Maintenance,164.0
+870,870,2024-04-23 05:54:43.797236,2024,4,23,9,Ulumbu,Sulawesi Selatan,4,PLTG,4,Overcast,22.0,10,Wellhead Unit AlphaTherm,Wellhead,201.79,Degraded,442.24
+871,871,2024-05-05 00:18:43.797236,2024,5,5,8,Lahendong,DKI Jakarta,3,PLTA,7,Foggy,34.2,94,Generator PLTAGenX,Spillway Gate,1150.41,Degraded,781.25
+872,872,2024-04-20 10:13:43.797236,2024,4,20,25,Muara Laboh,Jawa Tengah,2,PLTB,2,Partly Cloudy,21.1,67,PLTB Turbine Vestas V120,Generator,929.54,Operational,1177.1
+873,873,2025-01-24 00:39:43.797236,2025,1,24,16,Tambak Lorok,Sulawesi Utara,3,PLTA,4,Overcast,21.0,36,Pelton Wheel AquaForce,Turbine,634.57,Operational,327.43
+874,874,2023-09-21 21:35:43.797236,2023,9,21,24,Rantau Dedap,Jawa Barat,6,PLTG,4,Overcast,21.3,71,Fuel Tank PetroStore 50KL,Engine,619.1,Operational,833.27
+875,875,2024-06-19 10:02:43.797236,2024,6,19,16,Tambak Lorok,Sulawesi Utara,3,PLTA,2,Partly Cloudy,21.2,3,PLTA Turbine T-Francis,Turbine,1694.91,Standby,452.16
+876,876,2023-10-31 03:16:43.797236,2023,10,31,6,Wayang PLTBu,NTT,2,PLTB,3,Cloudy,14.7,12,PLTB Turbine G100,Nacelle,538.39,Operational,1090.67
+877,877,2023-11-06 12:42:43.797236,2023,11,6,6,Wayang PLTBu,NTT,3,PLTA,8,Hazy,18.5,45,Kaplan Turbine FlowMax,Generator,850.5,Degraded,496.0
+878,878,2024-10-20 01:27:43.797236,2024,10,20,18,Jeneponto,Banten,6,PLTG,6,Thunderstorm,11.0,35,PLTG Generator CAT D1000,Generator Set,1813.4,Failed,947.49
+879,879,2023-08-19 17:57:43.797236,2023,8,19,21,Patuha,Lampung,1,PLTS,1,Clear,20.5,32,PLTS Panel B-Series X,Photovoltaic Panel,626.08,Maintenance,330.42
+880,880,2023-12-20 17:37:43.797236,2023,12,20,15,Muara Karang,Sumatera Utara,2,PLTB,2,Partly Cloudy,21.4,89,PLTB Turbine Vestas V120,Generator,1893.5,Standby,429.55
+881,881,2024-07-14 19:42:43.797236,2024,7,14,7,Sibayak,Banten,3,PLTA,7,Foggy,39.7,46,Generator PLTAGenX,Turbine,1652.03,Standby,617.69
+882,882,2023-09-15 19:25:43.797236,2023,9,15,17,Sidrap,NTT,3,PLTA,1,Clear,24.0,63,PLTA Turbine T-Francis,Penstock,110.17,Failed,1319.73
+883,883,2024-04-29 13:45:43.797236,2024,4,29,15,Muara Karang,Sumatera Utara,2,PLTB,8,Hazy,10.4,89,PLTB Turbine Vestas V120,Generator,1372.5,Degraded,2.1
+884,884,2025-01-06 09:33:43.797236,2025,1,6,5,Darajat,Sulawesi Utara,4,PLTG,1,Clear,16.2,5,Binary Cycle Plant GeoFlow,Heat Exchanger,184.17,Operational,549.83
+885,885,2023-12-23 01:23:43.797236,2023,12,23,15,Muara Karang,Sumatera Utara,6,PLTG,4,Overcast,29.4,14,Fuel Tank PetroStore 50KL,Engine,974.33,Degraded,73.94
+886,886,2024-07-11 10:33:43.797236,2024,7,11,18,Jeneponto,Banten,3,PLTA,6,Thunderstorm,33.2,42,Pelton Wheel AquaForce,Generator,1726.63,Standby,1413.29
+887,887,2024-12-19 02:27:43.797236,2024,12,19,20,Gunung Salak,Sulawesi Selatan,4,PLTG,1,Clear,30.1,22,Binary Cycle Plant GeoFlow,Wellhead,384.23,Failed,126.71
+888,888,2023-07-16 16:41:43.797236,2023,7,16,15,Muara Karang,Sumatera Utara,1,PLTS,2,Partly Cloudy,36.7,62,PLTS Panel B-Series X,Inverter,1606.57,Standby,1216.8
+889,889,2023-08-29 18:14:43.797236,2023,8,29,24,Rantau Dedap,Jawa Barat,3,PLTA,6,Thunderstorm,14.3,39,PLTA Turbine T-Francis,Turbine,815.51,Failed,1209.94
+890,890,2025-03-26 19:09:43.797236,2025,3,26,22,Dieng,Sumatera Selatan,3,PLTA,5,Rain Showers,30.1,36,Pelton Wheel AquaForce,Turbine,1119.47,Degraded,1007.73
+891,891,2024-04-16 06:37:43.797236,2024,4,16,15,Muara Karang,Sumatera Utara,4,PLTG,6,Thunderstorm,34.8,15,Wellhead Unit AlphaTherm,Wellhead,295.52,Maintenance,186.4
+892,892,2024-08-25 19:19:43.797236,2024,8,25,3,Saguling,Jawa Tengah,3,PLTA,5,Rain Showers,19.2,56,PLTA Turbine T-Francis,Generator,1500.29,Operational,2.4
+893,893,2024-08-01 02:25:43.797236,2024,8,1,2,Cirata,Jawa Barat,1,PLTS,5,Rain Showers,16.5,99,Central Inverter SunGrow,Photovoltaic Panel,1774.71,Failed,630.51
+894,894,2024-04-28 03:16:43.797236,2024,4,28,8,Lahendong,DKI Jakarta,4,PLTG,4,Overcast,24.2,22,Binary Cycle Plant GeoFlow,Wellhead,995.42,Failed,1484.08
+895,895,2023-08-12 22:28:43.797236,2023,8,12,25,Muara Laboh,Jawa Tengah,6,PLTG,4,Overcast,17.3,100,PLTG Generator CAT D1000,Fuel System,1895.46,Failed,1405.18
+896,896,2023-11-28 06:08:43.797236,2023,11,28,18,Jeneponto,Banten,4,PLTG,6,Thunderstorm,22.5,96,Binary Cycle Plant GeoFlow,Heat Exchanger,1007.68,Operational,1414.02
+897,897,2024-04-12 23:51:43.797236,2024,4,12,22,Dieng,Sumatera Selatan,6,PLTG,6,Thunderstorm,35.8,71,Fuel Tank PetroStore 50KL,Engine,1625.38,Failed,1115.92
+898,898,2023-12-11 16:13:43.797236,2023,12,11,12,Suralaya,Jawa Timur,3,PLTA,4,Overcast,12.4,70,Generator PLTAGenX,Generator,1758.36,Degraded,1146.49
+899,899,2023-07-04 21:52:43.797236,2023,7,4,25,Muara Laboh,Jawa Tengah,3,PLTA,1,Clear,24.0,60,Pelton Wheel AquaForce,Turbine,1033.31,Maintenance,960.27
+900,900,2024-02-15 01:34:43.797236,2024,2,15,10,Mataloko,Lampung,6,PLTG,2,Partly Cloudy,26.8,53,Alternator PLTGGen Pro,Engine,777.87,Failed,566.05
+901,901,2024-11-25 02:02:43.797236,2024,11,25,2,Cirata,Jawa Barat,4,PLTG,8,Hazy,30.6,51,Binary Cycle Plant GeoFlow,Wellhead,512.65,Degraded,1062.94
+902,902,2024-01-05 20:17:43.797236,2024,1,5,24,Rantau Dedap,Jawa Barat,6,PLTG,4,Overcast,21.8,24,PLTG Generator CAT D1000,Exhaust System,406.14,Maintenance,1072.33
+903,903,2024-11-11 10:19:43.797236,2024,11,11,3,Saguling,Jawa Tengah,4,PLTG,1,Clear,23.5,8,Steam Turbine GeoPower X1,Wellhead,375.62,Failed,707.65
+904,904,2024-01-12 09:08:43.797236,2024,1,12,24,Rantau Dedap,Jawa Barat,5,PLTG,6,Thunderstorm,33.3,33,Steam Turbine BioSteam Z,Feeder System,1689.82,Degraded,748.77
+905,905,2024-09-05 06:02:43.797236,2024,9,5,20,Gunung Salak,Sulawesi Selatan,6,PLTG,4,Overcast,29.1,84,Engine Cummins KTA50,Exhaust System,1647.57,Degraded,782.71
+906,906,2023-11-15 18:48:43.797236,2023,11,15,4,Kamojang,Sumatera Utara,4,PLTG,4,Overcast,38.4,51,Binary Cycle Plant GeoFlow,Wellhead,323.46,Maintenance,146.17
+907,907,2024-06-16 22:48:43.797236,2024,6,16,16,Tambak Lorok,Sulawesi Utara,1,PLTS,1,Clear,14.4,23,Central Inverter SunGrow,Tracker,1403.55,Standby,323.84
+908,908,2024-08-05 11:09:43.797236,2024,8,5,14,Grati,Jawa Tengah,3,PLTA,4,Overcast,29.6,36,Pelton Wheel AquaForce,Turbine,796.18,Standby,863.85
+909,909,2023-12-29 07:51:43.797236,2023,12,29,2,Cirata,Jawa Barat,4,PLTG,8,Hazy,37.0,27,Binary Cycle Plant GeoFlow,Wellhead,200.71,Standby,1439.78
+910,910,2025-01-20 00:17:43.797236,2025,1,20,6,Wayang PLTBu,NTT,6,PLTG,2,Partly Cloudy,38.6,19,Alternator PLTGGen Pro,Engine,590.71,Standby,692.77
+911,911,2024-05-16 07:48:43.797236,2024,5,16,10,Mataloko,Lampung,2,PLTB,2,Partly Cloudy,20.9,59,Blade Set AeroPro,Turbine,1467.05,Degraded,489.32
+912,912,2023-12-23 09:17:43.797236,2023,12,23,5,Darajat,Sulawesi Utara,6,PLTG,8,Hazy,35.6,55,Engine Cummins KTA50,Generator Set,1617.28,Degraded,695.39
+913,913,2024-04-23 03:07:43.797236,2024,4,23,3,Saguling,Jawa Tengah,3,PLTA,3,Cloudy,32.3,60,Pelton Wheel AquaForce,Turbine,1596.76,Standby,23.85
+914,914,2025-04-22 19:40:43.797236,2025,4,22,6,Wayang PLTBu,NTT,1,PLTS,7,Foggy,15.6,44,PLTS Panel B-Series X,Mounting System,1122.87,Maintenance,476.53
+915,915,2024-04-09 20:09:43.797236,2024,4,9,17,Sidrap,NTT,2,PLTB,2,Partly Cloudy,25.9,12,PLTB Turbine G100,Nacelle,1763.74,Operational,1226.19
+916,916,2025-02-09 04:14:43.797236,2025,2,9,17,Sidrap,NTT,1,PLTS,3,Cloudy,34.4,92,Central Inverter SunGrow,Inverter,625.61,Failed,1137.41
+917,917,2025-01-15 06:33:43.797236,2025,1,15,19,Likupang,DKI Jakarta,1,PLTS,2,Partly Cloudy,20.6,40,PLTS Panel B-Series X,Inverter,1047.06,Maintenance,921.69
+918,918,2024-01-12 16:57:43.797236,2024,1,12,15,Muara Karang,Sumatera Utara,6,PLTG,8,Hazy,19.7,50,Fuel Tank PetroStore 50KL,Generator Set,432.65,Failed,738.59
+919,919,2023-12-14 07:57:43.797236,2023,12,14,23,Sorik Marapi,Jawa Timur,3,PLTA,7,Foggy,16.7,7,Generator PLTAGenX,Spillway Gate,1664.14,Degraded,468.21
+920,920,2023-06-02 07:27:43.797236,2023,6,2,11,Paiton,Sumatera Selatan,5,PLTG,8,Hazy,35.2,26,Pelletizer BioFuel,Feeder System,1984.38,Standby,652.02
+921,921,2024-10-19 03:12:43.797236,2024,10,19,5,Darajat,Sulawesi Utara,3,PLTA,6,Thunderstorm,21.5,63,PLTA Turbine T-Francis,Penstock,545.13,Operational,1029.7
+922,922,2024-02-27 11:10:43.797236,2024,2,27,7,Sibayak,Banten,6,PLTG,6,Thunderstorm,24.1,93,Fuel Tank PetroStore 50KL,Exhaust System,869.67,Degraded,955.06
+923,923,2023-11-29 05:43:43.797236,2023,11,29,12,Suralaya,Jawa Timur,3,PLTA,7,Foggy,21.8,25,Pelton Wheel AquaForce,Spillway Gate,1356.09,Failed,618.88
+924,924,2023-08-13 06:42:43.797236,2023,8,13,1,Karangkates,Jawa Timur,6,PLTG,4,Overcast,27.6,14,Fuel Tank PetroStore 50KL,Engine,1321.77,Failed,1143.71
+925,925,2023-10-10 06:48:43.797236,2023,10,10,16,Tambak Lorok,Sulawesi Utara,2,PLTB,1,Clear,25.1,76,PLTB Turbine Vestas V120,Nacelle,518.08,Standby,1351.43
+926,926,2023-07-17 01:09:43.797236,2023,7,17,22,Dieng,Sumatera Selatan,1,PLTS,4,Overcast,34.5,81,PLTS Panel Array Alpha,Inverter,865.31,Operational,938.69
+927,927,2023-07-29 15:41:43.797236,2023,7,29,12,Suralaya,Jawa Timur,1,PLTS,1,Clear,39.5,6,PLTS Panel B-Series X,Inverter,1327.87,Maintenance,944.41
+928,928,2025-02-26 04:44:43.797236,2025,2,26,6,Wayang PLTBu,NTT,3,PLTA,8,Hazy,14.1,86,Generator PLTAGenX,Generator,1152.83,Maintenance,951.52
+929,929,2023-07-26 22:11:43.797236,2023,7,26,22,Dieng,Sumatera Selatan,5,PLTG,5,Rain Showers,17.4,18,Pelletizer BioFuel,Feeder System,660.87,Operational,972.4
+930,930,2024-01-20 19:34:43.797236,2024,1,20,24,Rantau Dedap,Jawa Barat,1,PLTS,5,Rain Showers,28.4,98,Inverter SolMax 5000,Inverter,426.21,Maintenance,1392.63
+931,931,2025-05-13 20:10:43.797236,2025,5,13,17,Sidrap,NTT,6,PLTG,4,Overcast,12.3,14,Fuel Tank PetroStore 50KL,Engine,115.25,Degraded,1203.31
+932,932,2024-03-03 01:11:43.797236,2024,3,3,13,Tanjung Jati B,Jawa Barat,4,PLTG,4,Overcast,21.0,13,Cooling Tower GeoCool,Wellhead,1864.09,Maintenance,269.2
+933,933,2024-02-14 17:13:43.797236,2024,2,14,17,Sidrap,NTT,6,PLTG,6,Thunderstorm,17.1,71,Fuel Tank PetroStore 50KL,Engine,271.94,Operational,615.14
+934,934,2023-08-02 15:12:43.797236,2023,8,2,21,Patuha,Lampung,6,PLTG,3,Cloudy,29.2,58,Engine Cummins KTA50,Fuel System,651.9,Degraded,420.36
+935,935,2024-12-12 17:34:43.797236,2024,12,12,9,Ulumbu,Sulawesi Selatan,6,PLTG,3,Cloudy,25.4,93,Fuel Tank PetroStore 50KL,Exhaust System,1576.89,Standby,842.02
+936,936,2024-09-30 08:23:43.797236,2024,9,30,18,Jeneponto,Banten,2,PLTB,5,Rain Showers,13.2,88,Gearbox PLTBMaster,Gearbox,1203.78,Maintenance,813.71
+937,937,2023-09-02 06:31:43.797236,2023,9,2,17,Sidrap,NTT,6,PLTG,6,Thunderstorm,17.2,35,PLTG Generator CAT D1000,Generator Set,1508.9,Failed,429.71
+938,938,2024-09-20 12:05:43.797236,2024,9,20,25,Muara Laboh,Jawa Tengah,3,PLTA,5,Rain Showers,21.0,86,Generator PLTAGenX,Generator,1500.86,Failed,810.45
+939,939,2024-05-04 00:26:43.797236,2024,5,4,5,Darajat,Sulawesi Utara,3,PLTA,7,Foggy,11.0,75,Kaplan Turbine FlowMax,Turbine,302.98,Operational,120.04
+940,940,2023-07-30 23:34:43.797236,2023,7,30,2,Cirata,Jawa Barat,1,PLTS,4,Overcast,25.2,6,PLTS Panel B-Series X,Inverter,480.42,Standby,1342.46
+941,941,2024-09-06 11:27:43.797236,2024,9,6,11,Paiton,Sumatera Selatan,1,PLTS,4,Overcast,14.8,32,PLTS Panel B-Series X,Photovoltaic Panel,366.71,Standby,1054.15
+942,942,2024-06-05 14:04:43.797236,2024,6,5,9,Ulumbu,Sulawesi Selatan,1,PLTS,8,Hazy,28.3,83,PLTS Panel Array Alpha,Tracker,1925.21,Degraded,193.15
+943,943,2024-12-18 03:18:43.797236,2024,12,18,1,Karangkates,Jawa Timur,4,PLTG,1,Clear,21.1,27,Binary Cycle Plant GeoFlow,Wellhead,984.9,Maintenance,996.61
+944,944,2024-10-06 14:02:43.797236,2024,10,6,18,Jeneponto,Banten,3,PLTA,4,Overcast,20.3,2,Kaplan Turbine FlowMax,Turbine,137.62,Operational,1086.61
+945,945,2023-06-24 09:02:43.797236,2023,6,24,5,Darajat,Sulawesi Utara,1,PLTS,3,Cloudy,29.6,92,Central Inverter SunGrow,Inverter,1692.57,Degraded,1458.98
+946,946,2024-08-19 17:00:43.797236,2024,8,19,2,Cirata,Jawa Barat,3,PLTA,5,Rain Showers,20.1,56,PLTA Turbine T-Francis,Generator,673.99,Failed,27.88
+947,947,2024-06-10 15:17:43.797236,2024,6,10,15,Muara Karang,Sumatera Utara,1,PLTS,6,Thunderstorm,36.6,61,PLTS Panel B-Series X,Mounting System,430.33,Operational,1492.86
+948,948,2023-10-26 07:30:43.797236,2023,10,26,6,Wayang PLTBu,NTT,1,PLTS,3,Cloudy,32.0,99,Central Inverter SunGrow,Photovoltaic Panel,1533.11,Failed,1411.78
+949,949,2024-10-03 02:03:43.797236,2024,10,3,9,Ulumbu,Sulawesi Selatan,5,PLTG,2,Partly Cloudy,20.4,90,Steam Turbine BioSteam Z,Gasifier,1847.86,Standby,1021.77
+950,950,2025-02-13 12:26:43.797236,2025,2,13,6,Wayang PLTBu,NTT,5,PLTG,4,Overcast,11.6,9,Gasifier WoodChip X200,Feeder System,1548.91,Degraded,1395.7
+951,951,2024-02-09 12:34:43.797236,2024,2,9,11,Paiton,Sumatera Selatan,6,PLTG,4,Overcast,10.7,71,Fuel Tank PetroStore 50KL,Engine,908.16,Degraded,1082.94
+952,952,2023-11-25 10:30:43.797236,2023,11,25,4,Kamojang,Sumatera Utara,2,PLTB,8,Hazy,15.2,67,PLTB Turbine Vestas V120,Generator,591.8,Standby,182.29
+953,953,2025-05-05 08:10:43.797236,2025,5,5,15,Muara Karang,Sumatera Utara,1,PLTS,3,Cloudy,21.7,44,PLTS Panel B-Series X,Mounting System,1643.34,Standby,1088.07
+954,954,2024-09-12 09:29:43.797236,2024,9,12,11,Paiton,Sumatera Selatan,5,PLTG,8,Hazy,37.6,26,Pelletizer BioFuel,Feeder System,111.42,Standby,606.04
+955,955,2024-01-10 22:47:43.797236,2024,1,10,7,Sibayak,Banten,4,PLTG,5,Rain Showers,24.1,15,Wellhead Unit AlphaTherm,Wellhead,1761.13,Failed,97.55
+956,956,2025-04-02 04:00:43.797236,2025,4,2,6,Wayang PLTBu,NTT,1,PLTS,2,Partly Cloudy,24.8,62,PLTS Panel B-Series X,Inverter,1549.27,Maintenance,1130.68
+957,957,2025-01-04 23:26:43.797236,2025,1,4,8,Lahendong,DKI Jakarta,4,PLTG,1,Clear,16.3,11,Steam Turbine GeoPower X1,Steam Turbine,1387.12,Failed,1292.38
+958,958,2024-04-26 19:32:43.797236,2024,4,26,15,Muara Karang,Sumatera Utara,5,PLTG,3,Cloudy,26.6,16,Pelletizer BioFuel,Feeder System,1205.85,Operational,798.89
+959,959,2025-02-27 20:24:43.797236,2025,2,27,9,Ulumbu,Sulawesi Selatan,6,PLTG,6,Thunderstorm,10.9,29,PLTG Generator CAT D1000,Engine,142.77,Standby,110.69
+960,960,2023-08-03 07:39:43.797236,2023,8,3,25,Muara Laboh,Jawa Tengah,4,PLTG,5,Rain Showers,11.6,8,Steam Turbine GeoPower X1,Wellhead,1116.84,Degraded,869.4
+961,961,2024-02-24 12:00:43.797236,2024,2,24,25,Muara Laboh,Jawa Tengah,4,PLTG,6,Thunderstorm,19.6,27,Binary Cycle Plant GeoFlow,Wellhead,1499.9,Maintenance,1392.53
+962,962,2024-03-27 08:16:43.797236,2024,3,27,3,Saguling,Jawa Tengah,5,PLTG,3,Cloudy,33.2,47,PLTG Boiler BioBurn R1,Boiler,368.81,Failed,6.53
+963,963,2024-02-15 00:19:43.797236,2024,2,15,25,Muara Laboh,Jawa Tengah,1,PLTS,8,Hazy,38.0,32,PLTS Panel B-Series X,Photovoltaic Panel,244.61,Standby,968.86
+964,964,2024-03-26 15:56:43.797236,2024,3,26,4,Kamojang,Sumatera Utara,3,PLTA,5,Rain Showers,21.6,3,PLTA Turbine T-Francis,Turbine,804.06,Degraded,1379.03
+965,965,2023-12-28 09:38:43.797236,2023,12,28,19,Likupang,DKI Jakarta,6,PLTG,8,Hazy,26.2,54,Engine Cummins KTA50,Generator Set,112.99,Operational,92.2
+966,966,2024-08-22 19:32:43.797236,2024,8,22,19,Likupang,DKI Jakarta,6,PLTG,3,Cloudy,36.6,50,Fuel Tank PetroStore 50KL,Generator Set,496.66,Failed,50.54
+967,967,2023-07-20 02:06:43.797236,2023,7,20,13,Tanjung Jati B,Jawa Barat,5,PLTG,3,Cloudy,11.7,90,Steam Turbine BioSteam Z,Gasifier,970.19,Maintenance,288.0
+968,968,2025-01-27 22:46:43.797236,2025,1,27,11,Paiton,Sumatera Selatan,3,PLTA,1,Clear,12.1,2,Kaplan Turbine FlowMax,Turbine,997.96,Failed,913.32
+969,969,2025-01-24 20:36:43.797236,2025,1,24,11,Paiton,Sumatera Selatan,6,PLTG,6,Thunderstorm,13.5,50,Fuel Tank PetroStore 50KL,Generator Set,930.67,Standby,237.35
+970,970,2024-11-26 06:18:43.797236,2024,11,26,15,Muara Karang,Sumatera Utara,3,PLTA,5,Rain Showers,13.9,77,Kaplan Turbine FlowMax,Generator,928.76,Failed,1090.97
+971,971,2024-04-22 05:36:43.797236,2024,4,22,8,Lahendong,DKI Jakarta,3,PLTA,4,Overcast,22.5,42,Pelton Wheel AquaForce,Generator,1797.45,Failed,497.49
+972,972,2024-02-04 04:58:43.797236,2024,2,4,7,Sibayak,Banten,5,PLTG,1,Clear,28.2,18,Pelletizer BioFuel,Feeder System,1371.09,Maintenance,1179.95
+973,973,2024-12-16 09:19:43.797236,2024,12,16,13,Tanjung Jati B,Jawa Barat,3,PLTA,2,Partly Cloudy,35.3,2,Kaplan Turbine FlowMax,Turbine,1720.03,Standby,1041.61
+974,974,2025-05-09 17:51:43.797236,2025,5,9,15,Muara Karang,Sumatera Utara,2,PLTB,1,Clear,12.9,88,Gearbox PLTBMaster,Gearbox,1090.05,Failed,1313.01
+975,975,2025-02-17 05:49:43.797236,2025,2,17,1,Karangkates,Jawa Timur,3,PLTA,2,Partly Cloudy,25.5,46,Generator PLTAGenX,Turbine,498.18,Maintenance,1478.78
+976,976,2023-07-09 02:07:43.797236,2023,7,9,17,Sidrap,NTT,6,PLTG,6,Thunderstorm,14.9,55,Engine Cummins KTA50,Generator Set,969.47,Maintenance,1344.7
+977,977,2023-10-25 00:31:43.797236,2023,10,25,20,Gunung Salak,Sulawesi Selatan,1,PLTS,4,Overcast,18.2,34,Inverter SolMax 5000,Tracker,1418.66,Maintenance,724.75
+978,978,2024-03-19 18:17:43.797236,2024,3,19,5,Darajat,Sulawesi Utara,1,PLTS,4,Overcast,31.5,62,PLTS Panel B-Series X,Inverter,571.57,Degraded,1335.86
+979,979,2024-02-08 05:05:43.797236,2024,2,8,24,Rantau Dedap,Jawa Barat,3,PLTA,4,Overcast,38.5,56,PLTA Turbine T-Francis,Generator,144.2,Standby,1227.09
+980,980,2024-12-29 18:54:43.797236,2024,12,29,24,Rantau Dedap,Jawa Barat,1,PLTS,4,Overcast,34.1,44,PLTS Panel B-Series X,Mounting System,727.07,Operational,496.06
+981,981,2024-12-30 19:37:43.797236,2024,12,30,11,Paiton,Sumatera Selatan,3,PLTA,2,Partly Cloudy,39.9,39,PLTA Turbine T-Francis,Turbine,1461.39,Maintenance,1310.78
+982,982,2023-12-30 05:10:43.797236,2023,12,30,14,Grati,Jawa Tengah,4,PLTG,1,Clear,38.4,48,Binary Cycle Plant GeoFlow,Condenser,1306.07,Degraded,631.33
+983,983,2023-11-15 13:18:43.797236,2023,11,15,11,Paiton,Sumatera Selatan,2,PLTB,8,Hazy,23.2,67,PLTB Turbine Vestas V120,Generator,150.41,Failed,437.53
+984,984,2024-04-22 09:50:43.797236,2024,4,22,8,Lahendong,DKI Jakarta,3,PLTA,1,Clear,16.7,85,PLTA Turbine T-Francis,Turbine,1349.22,Degraded,86.29
+985,985,2024-07-03 06:07:43.797236,2024,7,3,8,Lahendong,DKI Jakarta,6,PLTG,7,Foggy,30.4,58,Engine Cummins KTA50,Fuel System,137.83,Operational,1259.43
+986,986,2024-11-15 09:54:43.797236,2024,11,15,10,Mataloko,Lampung,3,PLTA,8,Hazy,12.9,60,Pelton Wheel AquaForce,Turbine,727.91,Operational,836.07
+987,987,2023-07-11 12:26:43.797236,2023,7,11,15,Muara Karang,Sumatera Utara,1,PLTS,6,Thunderstorm,32.8,32,PLTS Panel B-Series X,Photovoltaic Panel,1542.1,Degraded,473.11
+988,988,2024-10-01 10:04:43.797236,2024,10,1,20,Gunung Salak,Sulawesi Selatan,2,PLTB,4,Overcast,18.5,59,Blade Set AeroPro,Turbine,404.93,Failed,25.62
+989,989,2024-04-13 19:32:43.797236,2024,4,13,23,Sorik Marapi,Jawa Timur,5,PLTG,4,Overcast,12.7,72,Steam Turbine BioSteam Z,Turbine,1826.89,Operational,741.62
+990,990,2025-04-22 04:17:43.797236,2025,4,22,4,Kamojang,Sumatera Utara,2,PLTB,5,Rain Showers,15.9,76,PLTB Turbine Vestas V120,Nacelle,498.22,Operational,1143.29
+991,991,2024-02-15 00:34:43.797236,2024,2,15,6,Wayang PLTBu,NTT,2,PLTB,7,Foggy,10.2,1,Gearbox PLTBMaster,Turbine,347.76,Standby,625.72
+992,992,2024-06-30 09:59:43.797236,2024,6,30,18,Jeneponto,Banten,2,PLTB,1,Clear,28.4,88,Gearbox PLTBMaster,Gearbox,327.39,Maintenance,1184.48
+993,993,2023-11-25 17:01:43.797236,2023,11,25,21,Patuha,Lampung,6,PLTG,6,Thunderstorm,33.7,100,PLTG Generator CAT D1000,Fuel System,1609.56,Degraded,1444.39
+994,994,2024-12-29 21:47:43.797236,2024,12,29,10,Mataloko,Lampung,4,PLTG,4,Overcast,21.7,15,Wellhead Unit AlphaTherm,Wellhead,1067.5,Operational,386.8
+995,995,2025-05-13 19:26:43.797236,2025,5,13,6,Wayang PLTBu,NTT,5,PLTG,5,Rain Showers,34.5,26,Pelletizer BioFuel,Feeder System,525.14,Standby,11.88
+996,996,2023-09-09 03:25:43.797236,2023,9,9,24,Rantau Dedap,Jawa Barat,2,PLTB,4,Overcast,21.9,12,PLTB Turbine G100,Nacelle,327.76,Maintenance,1325.09
+997,997,2025-03-22 00:45:43.797236,2025,3,22,6,Wayang PLTBu,NTT,1,PLTS,3,Cloudy,22.9,40,PLTS Panel B-Series X,Inverter,976.88,Standby,476.42
+998,998,2024-05-04 09:01:43.797236,2024,5,4,8,Lahendong,DKI Jakarta,3,PLTA,8,Hazy,26.7,7,Generator PLTAGenX,Spillway Gate,417.46,Operational,896.62
+999,999,2025-01-29 05:52:43.797236,2025,1,29,4,Kamojang,Sumatera Utara,6,PLTG,2,Partly Cloudy,27.5,55,Engine Cummins KTA50,Generator Set,644.67,Standby,739.65
+1000,1000,2024-07-14 11:47:43.797236,2024,7,14,17,Sidrap,NTT,3,PLTA,1,Clear,13.2,75,Kaplan Turbine FlowMax,Turbine,1630.4,Maintenance,566.28

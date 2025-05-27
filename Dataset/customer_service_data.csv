@@ -1,0 +1,1001 @@
+id,time_id,Time_Date,Time_Year,Time_Month,Time_Day,site_id,Site_Name,Site_Location,customer_segment_id,Customer_Segment_Name,Customer_Type
+1,1,2025-03-20 03:36:15.892032,2025,3,20,24,Rantau Dedap,Jawa Barat,1,Residential,Postpaid
+2,2,2024-08-23 03:29:15.892032,2024,8,23,18,Jeneponto,Banten,1,Residential,Postpaid
+3,3,2025-03-16 07:02:15.892032,2025,3,16,6,Wayang Windu,NTT,1,Residential,Prepaid
+4,4,2024-09-28 16:41:15.892032,2024,9,28,9,Ulumbu,Sulawesi Selatan,2,Commercial,Postpaid
+5,5,2025-02-15 09:38:15.892032,2025,2,15,15,Muara Karang,Sumatera Utara,3,Industrial,Prepaid
+6,6,2024-06-21 15:57:15.892032,2024,6,21,3,Saguling,Jawa Tengah,1,Residential,Prepaid
+7,7,2024-06-21 03:49:15.892032,2024,6,21,5,Darajat,Sulawesi Utara,4,Government,Postpaid
+8,8,2024-07-20 21:43:15.892032,2024,7,20,25,Muara Laboh,Jawa Tengah,1,Residential,Prepaid
+9,9,2025-05-11 02:17:15.892032,2025,5,11,4,Kamojang,Sumatera Utara,1,Residential,Prepaid
+10,10,2024-10-12 17:00:15.892032,2024,10,12,24,Rantau Dedap,Jawa Barat,3,Industrial,Postpaid
+11,11,2025-03-07 12:33:15.892032,2025,3,7,21,Patuha,Lampung,2,Commercial,Prepaid
+12,12,2024-09-07 17:52:15.892032,2024,9,7,8,Lahendong,DKI Jakarta,2,Commercial,Prepaid
+13,13,2024-08-20 23:08:15.892032,2024,8,20,10,Mataloko,Lampung,1,Residential,Postpaid
+14,14,2024-09-14 08:11:15.892032,2024,9,14,13,Tanjung Jati B,Jawa Barat,2,Commercial,Prepaid
+15,15,2024-10-05 18:40:15.892032,2024,10,5,19,Likupang,DKI Jakarta,1,Residential,Prepaid
+16,16,2025-03-22 10:32:15.892032,2025,3,22,25,Muara Laboh,Jawa Tengah,1,Residential,Prepaid
+17,17,2024-06-08 19:43:15.892032,2024,6,8,22,Dieng,Sumatera Selatan,2,Commercial,Postpaid
+18,18,2024-07-31 07:25:15.892032,2024,7,31,22,Dieng,Sumatera Selatan,2,Commercial,Postpaid
+19,19,2024-05-29 20:05:15.892032,2024,5,29,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+20,20,2025-02-24 15:13:15.892032,2025,2,24,25,Muara Laboh,Jawa Tengah,2,Commercial,Prepaid
+21,21,2025-05-19 15:35:15.892032,2025,5,19,7,Sibayak,Banten,1,Residential,Postpaid
+22,22,2024-06-07 06:50:15.892032,2024,6,7,24,Rantau Dedap,Jawa Barat,2,Commercial,Postpaid
+23,23,2025-03-10 17:17:15.892032,2025,3,10,17,Sidrap,NTT,4,Government,Prepaid
+24,24,2024-07-24 17:12:15.892032,2024,7,24,9,Ulumbu,Sulawesi Selatan,2,Commercial,Prepaid
+25,25,2025-02-28 00:34:15.892032,2025,2,28,11,Paiton,Sumatera Selatan,1,Residential,Postpaid
+26,26,2025-04-20 14:14:15.892032,2025,4,20,3,Saguling,Jawa Tengah,3,Industrial,Postpaid
+27,27,2025-05-14 07:47:15.892032,2025,5,14,8,Lahendong,DKI Jakarta,1,Residential,Postpaid
+28,28,2025-02-18 01:25:15.892032,2025,2,18,4,Kamojang,Sumatera Utara,3,Industrial,Prepaid
+29,29,2024-11-19 05:03:15.892032,2024,11,19,6,Wayang Windu,NTT,2,Commercial,Postpaid
+30,30,2025-04-17 16:42:15.892032,2025,4,17,2,Cirata,Jawa Barat,4,Government,Postpaid
+31,31,2024-07-13 03:54:15.892032,2024,7,13,19,Likupang,DKI Jakarta,3,Industrial,Postpaid
+32,32,2024-11-19 01:18:15.892032,2024,11,19,12,Suralaya,Jawa Timur,1,Residential,Postpaid
+33,33,2024-12-26 17:21:15.892032,2024,12,26,18,Jeneponto,Banten,2,Commercial,Postpaid
+34,34,2025-05-13 08:45:15.892032,2025,5,13,6,Wayang Windu,NTT,2,Commercial,Postpaid
+35,35,2024-12-04 01:08:15.892032,2024,12,4,3,Saguling,Jawa Tengah,1,Residential,Postpaid
+36,36,2024-12-10 08:54:15.892032,2024,12,10,19,Likupang,DKI Jakarta,2,Commercial,Postpaid
+37,37,2024-11-07 17:59:15.892032,2024,11,7,1,Karangkates,Jawa Timur,2,Commercial,Postpaid
+38,38,2024-07-10 13:24:15.892032,2024,7,10,23,Sorik Marapi,Jawa Timur,3,Industrial,Postpaid
+39,39,2024-07-07 10:35:15.892032,2024,7,7,22,Dieng,Sumatera Selatan,3,Industrial,Prepaid
+40,40,2024-09-10 06:10:15.892032,2024,9,10,18,Jeneponto,Banten,3,Industrial,Postpaid
+41,41,2025-01-14 09:22:15.892032,2025,1,14,16,Tambak Lorok,Sulawesi Utara,2,Commercial,Prepaid
+42,42,2025-01-14 23:05:15.892032,2025,1,14,24,Rantau Dedap,Jawa Barat,4,Government,Prepaid
+43,43,2024-09-17 16:09:15.892032,2024,9,17,10,Mataloko,Lampung,2,Commercial,Prepaid
+44,44,2025-04-27 13:01:15.892032,2025,4,27,22,Dieng,Sumatera Selatan,1,Residential,Postpaid
+45,45,2024-06-27 06:42:15.892032,2024,6,27,13,Tanjung Jati B,Jawa Barat,3,Industrial,Prepaid
+46,46,2025-05-20 12:36:15.892032,2025,5,20,4,Kamojang,Sumatera Utara,4,Government,Prepaid
+47,47,2025-03-06 23:43:15.892032,2025,3,6,3,Saguling,Jawa Tengah,4,Government,Postpaid
+48,48,2024-11-15 18:05:15.892032,2024,11,15,19,Likupang,DKI Jakarta,1,Residential,Postpaid
+49,49,2024-06-30 14:37:15.892032,2024,6,30,5,Darajat,Sulawesi Utara,4,Government,Postpaid
+50,50,2025-05-03 07:10:15.892032,2025,5,3,11,Paiton,Sumatera Selatan,1,Residential,Prepaid
+51,51,2025-03-06 17:31:15.892032,2025,3,6,20,Gunung Salak,Sulawesi Selatan,2,Commercial,Prepaid
+52,52,2024-10-07 04:13:15.892032,2024,10,7,14,Grati,Jawa Tengah,2,Commercial,Postpaid
+53,53,2024-07-12 03:51:15.892032,2024,7,12,12,Suralaya,Jawa Timur,3,Industrial,Postpaid
+54,54,2024-08-23 22:49:15.892032,2024,8,23,9,Ulumbu,Sulawesi Selatan,3,Industrial,Postpaid
+55,55,2025-01-04 06:11:15.892032,2025,1,4,18,Jeneponto,Banten,4,Government,Postpaid
+56,56,2024-09-05 15:22:15.892032,2024,9,5,6,Wayang Windu,NTT,4,Government,Postpaid
+57,57,2025-05-26 20:16:15.892032,2025,5,26,23,Sorik Marapi,Jawa Timur,4,Government,Postpaid
+58,58,2025-04-05 10:14:15.892032,2025,4,5,24,Rantau Dedap,Jawa Barat,3,Industrial,Postpaid
+59,59,2025-02-25 23:38:15.892032,2025,2,25,13,Tanjung Jati B,Jawa Barat,4,Government,Prepaid
+60,60,2025-02-25 02:10:15.892032,2025,2,25,22,Dieng,Sumatera Selatan,2,Commercial,Postpaid
+61,61,2024-08-04 03:13:15.892032,2024,8,4,25,Muara Laboh,Jawa Tengah,1,Residential,Postpaid
+62,62,2025-04-28 02:29:15.892032,2025,4,28,9,Ulumbu,Sulawesi Selatan,3,Industrial,Postpaid
+63,63,2024-09-23 19:50:15.892032,2024,9,23,6,Wayang Windu,NTT,1,Residential,Postpaid
+64,64,2024-11-02 02:52:15.892032,2024,11,2,12,Suralaya,Jawa Timur,1,Residential,Prepaid
+65,65,2024-10-22 22:17:15.892032,2024,10,22,4,Kamojang,Sumatera Utara,4,Government,Prepaid
+66,66,2025-05-04 02:29:15.892032,2025,5,4,23,Sorik Marapi,Jawa Timur,1,Residential,Prepaid
+67,67,2024-12-01 14:21:15.892032,2024,12,1,18,Jeneponto,Banten,4,Government,Prepaid
+68,68,2024-10-19 01:19:15.892032,2024,10,19,10,Mataloko,Lampung,2,Commercial,Prepaid
+69,69,2024-11-17 10:25:15.892032,2024,11,17,24,Rantau Dedap,Jawa Barat,2,Commercial,Prepaid
+70,70,2025-03-12 18:13:15.892032,2025,3,12,19,Likupang,DKI Jakarta,4,Government,Postpaid
+71,71,2024-08-09 17:00:15.892032,2024,8,9,13,Tanjung Jati B,Jawa Barat,4,Government,Postpaid
+72,72,2025-03-15 12:52:15.892032,2025,3,15,7,Sibayak,Banten,1,Residential,Prepaid
+73,73,2024-06-13 13:11:15.892032,2024,6,13,23,Sorik Marapi,Jawa Timur,2,Commercial,Postpaid
+74,74,2025-05-19 20:44:15.892032,2025,5,19,9,Ulumbu,Sulawesi Selatan,3,Industrial,Postpaid
+75,75,2025-03-21 20:43:15.892032,2025,3,21,24,Rantau Dedap,Jawa Barat,3,Industrial,Prepaid
+76,76,2024-09-08 02:50:15.892032,2024,9,8,20,Gunung Salak,Sulawesi Selatan,3,Industrial,Postpaid
+77,77,2025-02-16 23:00:15.892032,2025,2,16,3,Saguling,Jawa Tengah,4,Government,Postpaid
+78,78,2024-05-28 17:27:15.892032,2024,5,28,4,Kamojang,Sumatera Utara,3,Industrial,Postpaid
+79,79,2025-04-22 05:25:15.892032,2025,4,22,12,Suralaya,Jawa Timur,1,Residential,Postpaid
+80,80,2025-03-29 15:14:15.892032,2025,3,29,13,Tanjung Jati B,Jawa Barat,1,Residential,Prepaid
+81,81,2025-02-21 15:50:15.892032,2025,2,21,5,Darajat,Sulawesi Utara,1,Residential,Prepaid
+82,82,2025-04-30 05:58:15.892032,2025,4,30,13,Tanjung Jati B,Jawa Barat,1,Residential,Postpaid
+83,83,2024-08-07 04:35:15.892032,2024,8,7,18,Jeneponto,Banten,3,Industrial,Prepaid
+84,84,2025-01-30 21:01:15.892032,2025,1,30,5,Darajat,Sulawesi Utara,1,Residential,Postpaid
+85,85,2024-11-06 00:32:15.892032,2024,11,6,24,Rantau Dedap,Jawa Barat,2,Commercial,Prepaid
+86,86,2024-06-16 17:06:15.892032,2024,6,16,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+87,87,2024-06-17 22:34:15.892032,2024,6,17,4,Kamojang,Sumatera Utara,1,Residential,Prepaid
+88,88,2024-08-30 22:18:15.892032,2024,8,30,25,Muara Laboh,Jawa Tengah,2,Commercial,Prepaid
+89,89,2024-08-30 20:40:15.892032,2024,8,30,21,Patuha,Lampung,2,Commercial,Postpaid
+90,90,2025-03-02 05:27:15.892032,2025,3,2,16,Tambak Lorok,Sulawesi Utara,4,Government,Prepaid
+91,91,2024-08-17 12:34:15.892032,2024,8,17,4,Kamojang,Sumatera Utara,4,Government,Prepaid
+92,92,2024-11-22 15:49:15.892032,2024,11,22,20,Gunung Salak,Sulawesi Selatan,2,Commercial,Postpaid
+93,93,2024-09-26 18:31:15.892032,2024,9,26,13,Tanjung Jati B,Jawa Barat,4,Government,Postpaid
+94,94,2025-03-01 07:25:15.892032,2025,3,1,5,Darajat,Sulawesi Utara,4,Government,Postpaid
+95,95,2024-09-28 02:35:15.892032,2024,9,28,24,Rantau Dedap,Jawa Barat,1,Residential,Postpaid
+96,96,2024-06-27 05:42:15.892032,2024,6,27,19,Likupang,DKI Jakarta,3,Industrial,Postpaid
+97,97,2024-09-29 06:27:15.892032,2024,9,29,12,Suralaya,Jawa Timur,1,Residential,Postpaid
+98,98,2024-08-26 10:32:15.892032,2024,8,26,4,Kamojang,Sumatera Utara,4,Government,Postpaid
+99,99,2025-03-27 22:04:15.892032,2025,3,27,10,Mataloko,Lampung,4,Government,Postpaid
+100,100,2025-04-23 13:58:15.892032,2025,4,23,8,Lahendong,DKI Jakarta,4,Government,Prepaid
+101,101,2025-03-31 11:02:15.892032,2025,3,31,15,Muara Karang,Sumatera Utara,2,Commercial,Prepaid
+102,102,2025-02-15 17:51:15.892032,2025,2,15,5,Darajat,Sulawesi Utara,4,Government,Postpaid
+103,103,2024-06-21 20:08:15.892032,2024,6,21,21,Patuha,Lampung,4,Government,Prepaid
+104,104,2024-08-16 15:00:15.892032,2024,8,16,19,Likupang,DKI Jakarta,1,Residential,Prepaid
+105,105,2025-04-20 09:40:15.892032,2025,4,20,6,Wayang Windu,NTT,3,Industrial,Postpaid
+106,106,2024-06-05 22:06:15.892032,2024,6,5,3,Saguling,Jawa Tengah,4,Government,Prepaid
+107,107,2024-06-24 03:48:15.892032,2024,6,24,13,Tanjung Jati B,Jawa Barat,2,Commercial,Postpaid
+108,108,2024-12-30 23:01:15.892032,2024,12,30,7,Sibayak,Banten,2,Commercial,Postpaid
+109,109,2024-09-29 18:40:15.892032,2024,9,29,9,Ulumbu,Sulawesi Selatan,2,Commercial,Prepaid
+110,110,2024-11-01 16:55:15.892032,2024,11,1,5,Darajat,Sulawesi Utara,3,Industrial,Postpaid
+111,111,2025-03-11 10:06:15.892032,2025,3,11,23,Sorik Marapi,Jawa Timur,1,Residential,Prepaid
+112,112,2025-03-30 23:20:15.892032,2025,3,30,1,Karangkates,Jawa Timur,2,Commercial,Postpaid
+113,113,2025-04-22 05:54:15.892032,2025,4,22,12,Suralaya,Jawa Timur,2,Commercial,Prepaid
+114,114,2025-04-04 11:57:15.892032,2025,4,4,19,Likupang,DKI Jakarta,4,Government,Prepaid
+115,115,2024-09-19 14:54:15.892032,2024,9,19,17,Sidrap,NTT,2,Commercial,Postpaid
+116,116,2024-11-13 00:58:15.892032,2024,11,13,16,Tambak Lorok,Sulawesi Utara,1,Residential,Prepaid
+117,117,2024-09-19 23:53:15.892032,2024,9,19,16,Tambak Lorok,Sulawesi Utara,4,Government,Prepaid
+118,118,2025-03-20 10:42:15.892032,2025,3,20,8,Lahendong,DKI Jakarta,2,Commercial,Prepaid
+119,119,2024-12-22 22:29:15.892032,2024,12,22,14,Grati,Jawa Tengah,3,Industrial,Postpaid
+120,120,2024-09-07 10:51:15.892032,2024,9,7,24,Rantau Dedap,Jawa Barat,4,Government,Postpaid
+121,121,2024-10-22 19:49:15.892032,2024,10,22,17,Sidrap,NTT,4,Government,Prepaid
+122,122,2024-10-22 02:18:15.892032,2024,10,22,15,Muara Karang,Sumatera Utara,3,Industrial,Postpaid
+123,123,2025-03-27 13:19:15.892032,2025,3,27,6,Wayang Windu,NTT,3,Industrial,Postpaid
+124,124,2024-12-06 08:51:15.892032,2024,12,6,19,Likupang,DKI Jakarta,1,Residential,Postpaid
+125,125,2025-03-15 16:24:15.892032,2025,3,15,24,Rantau Dedap,Jawa Barat,1,Residential,Prepaid
+126,126,2025-03-29 13:23:15.892032,2025,3,29,11,Paiton,Sumatera Selatan,4,Government,Prepaid
+127,127,2025-01-19 17:08:15.892032,2025,1,19,6,Wayang Windu,NTT,2,Commercial,Postpaid
+128,128,2024-06-03 18:09:15.892032,2024,6,3,5,Darajat,Sulawesi Utara,4,Government,Prepaid
+129,129,2024-08-27 14:05:15.892032,2024,8,27,19,Likupang,DKI Jakarta,1,Residential,Prepaid
+130,130,2024-07-13 10:26:15.892032,2024,7,13,5,Darajat,Sulawesi Utara,3,Industrial,Prepaid
+131,131,2024-05-27 12:27:15.892032,2024,5,27,13,Tanjung Jati B,Jawa Barat,4,Government,Postpaid
+132,132,2024-09-24 04:42:15.892032,2024,9,24,12,Suralaya,Jawa Timur,4,Government,Prepaid
+133,133,2024-08-18 12:47:15.892032,2024,8,18,11,Paiton,Sumatera Selatan,1,Residential,Postpaid
+134,134,2024-08-17 04:49:15.892032,2024,8,17,12,Suralaya,Jawa Timur,1,Residential,Prepaid
+135,135,2025-03-10 08:58:15.892032,2025,3,10,2,Cirata,Jawa Barat,1,Residential,Prepaid
+136,136,2024-07-08 08:13:15.892032,2024,7,8,7,Sibayak,Banten,4,Government,Postpaid
+137,137,2024-11-04 14:33:15.892032,2024,11,4,19,Likupang,DKI Jakarta,1,Residential,Prepaid
+138,138,2025-02-13 09:27:15.892032,2025,2,13,13,Tanjung Jati B,Jawa Barat,4,Government,Postpaid
+139,139,2025-05-10 18:31:15.892032,2025,5,10,16,Tambak Lorok,Sulawesi Utara,3,Industrial,Postpaid
+140,140,2024-07-22 00:24:15.892032,2024,7,22,17,Sidrap,NTT,4,Government,Prepaid
+141,141,2024-06-07 22:10:15.892032,2024,6,7,15,Muara Karang,Sumatera Utara,2,Commercial,Prepaid
+142,142,2025-01-08 04:21:15.892032,2025,1,8,4,Kamojang,Sumatera Utara,1,Residential,Postpaid
+143,143,2024-07-12 09:25:15.892032,2024,7,12,12,Suralaya,Jawa Timur,1,Residential,Postpaid
+144,144,2024-10-31 06:14:15.892032,2024,10,31,9,Ulumbu,Sulawesi Selatan,4,Government,Prepaid
+145,145,2025-01-15 00:54:15.892032,2025,1,15,6,Wayang Windu,NTT,2,Commercial,Prepaid
+146,146,2025-02-07 04:45:15.892032,2025,2,7,10,Mataloko,Lampung,4,Government,Postpaid
+147,147,2024-05-27 19:11:15.892032,2024,5,27,14,Grati,Jawa Tengah,2,Commercial,Postpaid
+148,148,2025-04-23 23:37:15.892032,2025,4,23,3,Saguling,Jawa Tengah,4,Government,Prepaid
+149,149,2025-02-09 20:00:15.892032,2025,2,9,25,Muara Laboh,Jawa Tengah,2,Commercial,Prepaid
+150,150,2025-05-23 04:52:15.892032,2025,5,23,12,Suralaya,Jawa Timur,1,Residential,Prepaid
+151,151,2024-10-17 22:41:15.892032,2024,10,17,16,Tambak Lorok,Sulawesi Utara,4,Government,Prepaid
+152,152,2024-12-21 16:58:15.892032,2024,12,21,15,Muara Karang,Sumatera Utara,3,Industrial,Postpaid
+153,153,2024-10-31 08:18:15.892032,2024,10,31,10,Mataloko,Lampung,3,Industrial,Postpaid
+154,154,2024-12-31 11:12:15.892032,2024,12,31,11,Paiton,Sumatera Selatan,4,Government,Postpaid
+155,155,2024-06-23 16:29:15.892032,2024,6,23,17,Sidrap,NTT,4,Government,Postpaid
+156,156,2024-08-20 09:22:15.892032,2024,8,20,14,Grati,Jawa Tengah,4,Government,Prepaid
+157,157,2025-03-21 23:46:15.892032,2025,3,21,11,Paiton,Sumatera Selatan,3,Industrial,Postpaid
+158,158,2024-11-15 05:05:15.892032,2024,11,15,17,Sidrap,NTT,1,Residential,Prepaid
+159,159,2024-06-07 00:49:15.892032,2024,6,7,10,Mataloko,Lampung,3,Industrial,Postpaid
+160,160,2024-10-06 13:48:15.892032,2024,10,6,25,Muara Laboh,Jawa Tengah,3,Industrial,Postpaid
+161,161,2025-01-23 14:16:15.892032,2025,1,23,23,Sorik Marapi,Jawa Timur,4,Government,Postpaid
+162,162,2025-02-28 19:04:15.892032,2025,2,28,16,Tambak Lorok,Sulawesi Utara,2,Commercial,Postpaid
+163,163,2024-08-31 18:25:15.892032,2024,8,31,11,Paiton,Sumatera Selatan,4,Government,Postpaid
+164,164,2025-05-16 23:24:15.892032,2025,5,16,16,Tambak Lorok,Sulawesi Utara,1,Residential,Prepaid
+165,165,2025-01-04 10:40:15.892032,2025,1,4,13,Tanjung Jati B,Jawa Barat,4,Government,Prepaid
+166,166,2025-04-10 16:29:15.892032,2025,4,10,21,Patuha,Lampung,3,Industrial,Postpaid
+167,167,2024-08-22 00:10:15.892032,2024,8,22,7,Sibayak,Banten,1,Residential,Prepaid
+168,168,2024-09-09 15:08:15.892032,2024,9,9,15,Muara Karang,Sumatera Utara,4,Government,Postpaid
+169,169,2024-12-08 22:25:15.892032,2024,12,8,12,Suralaya,Jawa Timur,2,Commercial,Postpaid
+170,170,2024-07-12 20:05:15.892032,2024,7,12,6,Wayang Windu,NTT,2,Commercial,Postpaid
+171,171,2025-01-27 22:11:15.892032,2025,1,27,15,Muara Karang,Sumatera Utara,3,Industrial,Prepaid
+172,172,2024-11-29 16:42:15.892032,2024,11,29,20,Gunung Salak,Sulawesi Selatan,4,Government,Postpaid
+173,173,2025-03-10 20:48:15.892032,2025,3,10,7,Sibayak,Banten,2,Commercial,Postpaid
+174,174,2025-04-18 23:17:15.892032,2025,4,18,2,Cirata,Jawa Barat,3,Industrial,Postpaid
+175,175,2025-02-24 05:36:15.892032,2025,2,24,24,Rantau Dedap,Jawa Barat,1,Residential,Postpaid
+176,176,2024-06-01 00:33:15.892032,2024,6,1,3,Saguling,Jawa Tengah,4,Government,Prepaid
+177,177,2025-05-18 04:56:15.892032,2025,5,18,6,Wayang Windu,NTT,1,Residential,Prepaid
+178,178,2024-07-03 11:31:15.892032,2024,7,3,20,Gunung Salak,Sulawesi Selatan,2,Commercial,Prepaid
+179,179,2025-03-03 17:57:15.892032,2025,3,3,2,Cirata,Jawa Barat,4,Government,Postpaid
+180,180,2025-02-25 01:33:15.892032,2025,2,25,18,Jeneponto,Banten,3,Industrial,Prepaid
+181,181,2025-03-12 04:20:15.892032,2025,3,12,25,Muara Laboh,Jawa Tengah,2,Commercial,Postpaid
+182,182,2025-04-12 17:41:15.892032,2025,4,12,25,Muara Laboh,Jawa Tengah,3,Industrial,Prepaid
+183,183,2024-08-20 20:25:15.892032,2024,8,20,22,Dieng,Sumatera Selatan,2,Commercial,Postpaid
+184,184,2025-04-13 15:44:15.892032,2025,4,13,6,Wayang Windu,NTT,3,Industrial,Postpaid
+185,185,2025-01-17 18:59:15.892032,2025,1,17,3,Saguling,Jawa Tengah,3,Industrial,Prepaid
+186,186,2024-06-22 11:54:15.892032,2024,6,22,17,Sidrap,NTT,1,Residential,Prepaid
+187,187,2024-10-15 16:43:15.892032,2024,10,15,7,Sibayak,Banten,1,Residential,Postpaid
+188,188,2024-08-16 07:36:15.892032,2024,8,16,18,Jeneponto,Banten,2,Commercial,Prepaid
+189,189,2024-06-21 01:31:15.892032,2024,6,21,4,Kamojang,Sumatera Utara,2,Commercial,Postpaid
+190,190,2024-12-01 06:15:15.892032,2024,12,1,5,Darajat,Sulawesi Utara,3,Industrial,Postpaid
+191,191,2025-02-25 05:15:15.892032,2025,2,25,22,Dieng,Sumatera Selatan,3,Industrial,Postpaid
+192,192,2024-08-05 22:38:15.892032,2024,8,5,24,Rantau Dedap,Jawa Barat,1,Residential,Prepaid
+193,193,2024-10-08 02:18:15.892032,2024,10,8,25,Muara Laboh,Jawa Tengah,1,Residential,Postpaid
+194,194,2024-10-05 17:20:15.892032,2024,10,5,19,Likupang,DKI Jakarta,2,Commercial,Postpaid
+195,195,2025-05-23 12:06:15.892032,2025,5,23,20,Gunung Salak,Sulawesi Selatan,2,Commercial,Postpaid
+196,196,2024-06-02 04:52:15.892032,2024,6,2,6,Wayang Windu,NTT,2,Commercial,Prepaid
+197,197,2025-04-01 06:03:15.892032,2025,4,1,22,Dieng,Sumatera Selatan,3,Industrial,Prepaid
+198,198,2024-07-16 21:05:15.892032,2024,7,16,2,Cirata,Jawa Barat,4,Government,Postpaid
+199,199,2024-11-04 18:20:15.892032,2024,11,4,1,Karangkates,Jawa Timur,1,Residential,Prepaid
+200,200,2025-01-11 12:27:15.892032,2025,1,11,9,Ulumbu,Sulawesi Selatan,3,Industrial,Prepaid
+201,201,2025-04-21 23:13:15.892032,2025,4,21,23,Sorik Marapi,Jawa Timur,2,Commercial,Postpaid
+202,202,2025-01-07 20:58:15.892032,2025,1,7,1,Karangkates,Jawa Timur,4,Government,Postpaid
+203,203,2025-05-10 00:53:15.892032,2025,5,10,12,Suralaya,Jawa Timur,4,Government,Prepaid
+204,204,2024-08-07 08:40:15.892032,2024,8,7,9,Ulumbu,Sulawesi Selatan,4,Government,Postpaid
+205,205,2025-05-26 19:23:15.892032,2025,5,26,17,Sidrap,NTT,1,Residential,Prepaid
+206,206,2024-10-01 14:36:15.892032,2024,10,1,16,Tambak Lorok,Sulawesi Utara,4,Government,Postpaid
+207,207,2024-11-17 05:14:15.892032,2024,11,17,18,Jeneponto,Banten,2,Commercial,Prepaid
+208,208,2024-09-09 23:41:15.892032,2024,9,9,7,Sibayak,Banten,3,Industrial,Postpaid
+209,209,2024-07-02 09:36:15.892032,2024,7,2,16,Tambak Lorok,Sulawesi Utara,1,Residential,Postpaid
+210,210,2025-01-20 22:30:15.892032,2025,1,20,12,Suralaya,Jawa Timur,3,Industrial,Postpaid
+211,211,2025-05-23 13:08:15.892032,2025,5,23,10,Mataloko,Lampung,3,Industrial,Prepaid
+212,212,2025-05-25 19:48:15.892032,2025,5,25,20,Gunung Salak,Sulawesi Selatan,4,Government,Prepaid
+213,213,2025-05-10 14:20:15.892032,2025,5,10,20,Gunung Salak,Sulawesi Selatan,1,Residential,Prepaid
+214,214,2024-05-31 12:48:15.892032,2024,5,31,16,Tambak Lorok,Sulawesi Utara,3,Industrial,Prepaid
+215,215,2025-04-26 05:50:15.892032,2025,4,26,10,Mataloko,Lampung,3,Industrial,Postpaid
+216,216,2025-01-09 20:54:15.892032,2025,1,9,9,Ulumbu,Sulawesi Selatan,2,Commercial,Postpaid
+217,217,2024-11-13 05:02:15.892032,2024,11,13,25,Muara Laboh,Jawa Tengah,2,Commercial,Postpaid
+218,218,2024-11-06 20:43:15.892032,2024,11,6,23,Sorik Marapi,Jawa Timur,3,Industrial,Postpaid
+219,219,2025-05-05 07:47:15.892032,2025,5,5,9,Ulumbu,Sulawesi Selatan,1,Residential,Prepaid
+220,220,2025-01-17 19:22:15.892032,2025,1,17,11,Paiton,Sumatera Selatan,4,Government,Prepaid
+221,221,2024-08-31 13:36:15.892032,2024,8,31,17,Sidrap,NTT,4,Government,Prepaid
+222,222,2025-05-18 19:47:15.892032,2025,5,18,25,Muara Laboh,Jawa Tengah,2,Commercial,Postpaid
+223,223,2025-01-06 22:40:15.892032,2025,1,6,7,Sibayak,Banten,3,Industrial,Postpaid
+224,224,2024-06-04 19:51:15.892032,2024,6,4,19,Likupang,DKI Jakarta,4,Government,Prepaid
+225,225,2025-02-27 06:01:15.892032,2025,2,27,6,Wayang Windu,NTT,4,Government,Prepaid
+226,226,2024-06-28 07:18:15.892032,2024,6,28,3,Saguling,Jawa Tengah,2,Commercial,Prepaid
+227,227,2024-10-03 13:10:15.892032,2024,10,3,25,Muara Laboh,Jawa Tengah,4,Government,Prepaid
+228,228,2024-11-08 18:31:15.892032,2024,11,8,16,Tambak Lorok,Sulawesi Utara,4,Government,Postpaid
+229,229,2024-10-11 20:58:15.892032,2024,10,11,2,Cirata,Jawa Barat,2,Commercial,Postpaid
+230,230,2025-03-03 00:08:15.892032,2025,3,3,18,Jeneponto,Banten,3,Industrial,Prepaid
+231,231,2024-06-23 17:57:15.892032,2024,6,23,24,Rantau Dedap,Jawa Barat,3,Industrial,Prepaid
+232,232,2024-12-22 13:55:15.892032,2024,12,22,2,Cirata,Jawa Barat,2,Commercial,Prepaid
+233,233,2024-10-04 03:55:15.892032,2024,10,4,25,Muara Laboh,Jawa Tengah,3,Industrial,Postpaid
+234,234,2024-12-14 12:03:15.892032,2024,12,14,4,Kamojang,Sumatera Utara,1,Residential,Postpaid
+235,235,2025-02-10 09:38:15.892032,2025,2,10,3,Saguling,Jawa Tengah,4,Government,Prepaid
+236,236,2024-09-26 15:45:15.892032,2024,9,26,1,Karangkates,Jawa Timur,4,Government,Prepaid
+237,237,2024-08-28 17:58:15.892032,2024,8,28,12,Suralaya,Jawa Timur,1,Residential,Postpaid
+238,238,2024-12-11 19:59:15.892032,2024,12,11,14,Grati,Jawa Tengah,1,Residential,Prepaid
+239,239,2025-03-13 16:03:15.892032,2025,3,13,1,Karangkates,Jawa Timur,3,Industrial,Prepaid
+240,240,2024-07-22 21:41:15.892032,2024,7,22,8,Lahendong,DKI Jakarta,2,Commercial,Prepaid
+241,241,2025-02-16 04:35:15.892032,2025,2,16,22,Dieng,Sumatera Selatan,4,Government,Postpaid
+242,242,2025-04-09 05:03:15.892032,2025,4,9,13,Tanjung Jati B,Jawa Barat,1,Residential,Postpaid
+243,243,2025-04-25 18:51:15.892032,2025,4,25,7,Sibayak,Banten,2,Commercial,Postpaid
+244,244,2025-03-24 06:05:15.892032,2025,3,24,21,Patuha,Lampung,2,Commercial,Postpaid
+245,245,2024-09-28 20:50:15.892032,2024,9,28,4,Kamojang,Sumatera Utara,4,Government,Postpaid
+246,246,2024-07-07 22:36:15.892032,2024,7,7,13,Tanjung Jati B,Jawa Barat,4,Government,Postpaid
+247,247,2025-02-06 11:25:15.892032,2025,2,6,4,Kamojang,Sumatera Utara,2,Commercial,Postpaid
+248,248,2024-12-22 07:58:15.892032,2024,12,22,20,Gunung Salak,Sulawesi Selatan,4,Government,Prepaid
+249,249,2024-09-12 17:08:15.892032,2024,9,12,3,Saguling,Jawa Tengah,2,Commercial,Prepaid
+250,250,2025-02-07 20:48:15.892032,2025,2,7,21,Patuha,Lampung,2,Commercial,Prepaid
+251,251,2024-09-04 15:20:15.892032,2024,9,4,22,Dieng,Sumatera Selatan,4,Government,Postpaid
+252,252,2024-12-09 05:12:15.892032,2024,12,9,24,Rantau Dedap,Jawa Barat,1,Residential,Prepaid
+253,253,2024-12-16 16:29:15.892032,2024,12,16,10,Mataloko,Lampung,1,Residential,Prepaid
+254,254,2025-05-04 05:40:15.892032,2025,5,4,13,Tanjung Jati B,Jawa Barat,1,Residential,Postpaid
+255,255,2024-12-21 21:47:15.892032,2024,12,21,23,Sorik Marapi,Jawa Timur,2,Commercial,Postpaid
+256,256,2025-04-19 10:42:15.892032,2025,4,19,18,Jeneponto,Banten,3,Industrial,Prepaid
+257,257,2025-03-07 06:49:15.892032,2025,3,7,11,Paiton,Sumatera Selatan,3,Industrial,Postpaid
+258,258,2025-02-27 01:10:15.892032,2025,2,27,6,Wayang Windu,NTT,2,Commercial,Prepaid
+259,259,2024-11-13 22:56:15.892032,2024,11,13,23,Sorik Marapi,Jawa Timur,1,Residential,Prepaid
+260,260,2024-12-23 04:58:15.892032,2024,12,23,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+261,261,2024-12-14 08:53:15.892032,2024,12,14,7,Sibayak,Banten,2,Commercial,Postpaid
+262,262,2025-05-10 07:31:15.892032,2025,5,10,12,Suralaya,Jawa Timur,1,Residential,Postpaid
+263,263,2024-10-18 16:52:15.892032,2024,10,18,15,Muara Karang,Sumatera Utara,1,Residential,Prepaid
+264,264,2025-01-27 21:53:15.892032,2025,1,27,5,Darajat,Sulawesi Utara,1,Residential,Postpaid
+265,265,2024-11-14 12:20:15.892032,2024,11,14,13,Tanjung Jati B,Jawa Barat,4,Government,Prepaid
+266,266,2025-05-20 05:39:15.892032,2025,5,20,22,Dieng,Sumatera Selatan,4,Government,Postpaid
+267,267,2025-02-28 10:24:15.892032,2025,2,28,21,Patuha,Lampung,2,Commercial,Postpaid
+268,268,2025-02-08 06:36:15.892032,2025,2,8,1,Karangkates,Jawa Timur,2,Commercial,Prepaid
+269,269,2024-10-19 09:38:15.892032,2024,10,19,2,Cirata,Jawa Barat,1,Residential,Prepaid
+270,270,2025-03-24 09:44:15.892032,2025,3,24,24,Rantau Dedap,Jawa Barat,1,Residential,Prepaid
+271,271,2024-06-13 20:06:15.892032,2024,6,13,9,Ulumbu,Sulawesi Selatan,1,Residential,Prepaid
+272,272,2024-05-29 12:28:15.892032,2024,5,29,7,Sibayak,Banten,2,Commercial,Postpaid
+273,273,2024-12-13 11:32:15.892032,2024,12,13,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+274,274,2025-05-16 00:57:15.892032,2025,5,16,10,Mataloko,Lampung,3,Industrial,Prepaid
+275,275,2024-12-31 23:15:15.892032,2024,12,31,6,Wayang Windu,NTT,4,Government,Postpaid
+276,276,2024-10-30 01:04:15.892032,2024,10,30,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+277,277,2024-08-02 22:21:15.892032,2024,8,2,18,Jeneponto,Banten,4,Government,Postpaid
+278,278,2024-09-06 01:30:15.892032,2024,9,6,4,Kamojang,Sumatera Utara,1,Residential,Prepaid
+279,279,2024-10-11 11:48:15.892032,2024,10,11,9,Ulumbu,Sulawesi Selatan,3,Industrial,Postpaid
+280,280,2025-02-03 05:58:15.892032,2025,2,3,25,Muara Laboh,Jawa Tengah,2,Commercial,Prepaid
+281,281,2024-09-19 11:03:15.892032,2024,9,19,23,Sorik Marapi,Jawa Timur,3,Industrial,Prepaid
+282,282,2025-02-12 06:14:15.892032,2025,2,12,17,Sidrap,NTT,4,Government,Prepaid
+283,283,2024-08-10 07:48:15.892032,2024,8,10,13,Tanjung Jati B,Jawa Barat,3,Industrial,Postpaid
+284,284,2024-06-12 11:00:15.892032,2024,6,12,15,Muara Karang,Sumatera Utara,3,Industrial,Prepaid
+285,285,2025-03-19 12:14:15.892032,2025,3,19,17,Sidrap,NTT,4,Government,Postpaid
+286,286,2025-03-14 22:44:15.892032,2025,3,14,20,Gunung Salak,Sulawesi Selatan,4,Government,Prepaid
+287,287,2024-06-12 06:46:15.892032,2024,6,12,21,Patuha,Lampung,3,Industrial,Postpaid
+288,288,2024-11-03 20:21:15.892032,2024,11,3,7,Sibayak,Banten,4,Government,Postpaid
+289,289,2024-11-02 17:27:15.892032,2024,11,2,16,Tambak Lorok,Sulawesi Utara,2,Commercial,Prepaid
+290,290,2025-03-11 15:09:15.892032,2025,3,11,6,Wayang Windu,NTT,1,Residential,Postpaid
+291,291,2024-09-20 10:02:15.892032,2024,9,20,7,Sibayak,Banten,2,Commercial,Postpaid
+292,292,2025-05-09 14:08:15.892032,2025,5,9,18,Jeneponto,Banten,4,Government,Prepaid
+293,293,2025-04-15 05:22:15.892032,2025,4,15,21,Patuha,Lampung,3,Industrial,Prepaid
+294,294,2025-03-30 18:08:15.892032,2025,3,30,14,Grati,Jawa Tengah,4,Government,Postpaid
+295,295,2024-10-11 06:40:15.892032,2024,10,11,19,Likupang,DKI Jakarta,3,Industrial,Postpaid
+296,296,2025-05-16 21:48:15.892032,2025,5,16,21,Patuha,Lampung,2,Commercial,Prepaid
+297,297,2024-06-09 04:10:15.892032,2024,6,9,2,Cirata,Jawa Barat,3,Industrial,Postpaid
+298,298,2024-08-20 17:15:15.892032,2024,8,20,4,Kamojang,Sumatera Utara,2,Commercial,Postpaid
+299,299,2025-02-15 11:20:15.892032,2025,2,15,8,Lahendong,DKI Jakarta,4,Government,Prepaid
+300,300,2024-12-14 02:13:15.892032,2024,12,14,19,Likupang,DKI Jakarta,1,Residential,Prepaid
+301,301,2025-05-01 19:28:15.892032,2025,5,1,2,Cirata,Jawa Barat,3,Industrial,Prepaid
+302,302,2024-09-30 14:34:15.892032,2024,9,30,25,Muara Laboh,Jawa Tengah,2,Commercial,Postpaid
+303,303,2024-10-26 20:43:15.892032,2024,10,26,22,Dieng,Sumatera Selatan,1,Residential,Prepaid
+304,304,2025-01-23 01:44:15.892032,2025,1,23,19,Likupang,DKI Jakarta,1,Residential,Prepaid
+305,305,2024-07-05 13:46:15.892032,2024,7,5,3,Saguling,Jawa Tengah,1,Residential,Postpaid
+306,306,2025-05-14 10:26:15.892032,2025,5,14,13,Tanjung Jati B,Jawa Barat,3,Industrial,Prepaid
+307,307,2024-10-14 14:54:15.892032,2024,10,14,7,Sibayak,Banten,1,Residential,Postpaid
+308,308,2025-02-23 17:45:15.892032,2025,2,23,19,Likupang,DKI Jakarta,2,Commercial,Prepaid
+309,309,2024-08-20 03:27:15.892032,2024,8,20,24,Rantau Dedap,Jawa Barat,2,Commercial,Prepaid
+310,310,2024-08-14 04:34:15.892032,2024,8,14,17,Sidrap,NTT,2,Commercial,Postpaid
+311,311,2024-12-11 16:50:15.892032,2024,12,11,3,Saguling,Jawa Tengah,1,Residential,Postpaid
+312,312,2024-10-31 18:41:15.892032,2024,10,31,10,Mataloko,Lampung,2,Commercial,Postpaid
+313,313,2025-02-13 23:46:15.892032,2025,2,13,23,Sorik Marapi,Jawa Timur,2,Commercial,Prepaid
+314,314,2025-05-02 20:56:15.892032,2025,5,2,19,Likupang,DKI Jakarta,1,Residential,Postpaid
+315,315,2024-09-16 14:19:15.892032,2024,9,16,2,Cirata,Jawa Barat,2,Commercial,Prepaid
+316,316,2025-03-08 15:52:15.892032,2025,3,8,24,Rantau Dedap,Jawa Barat,3,Industrial,Postpaid
+317,317,2025-02-26 21:20:15.892032,2025,2,26,2,Cirata,Jawa Barat,3,Industrial,Postpaid
+318,318,2024-06-28 01:42:15.892032,2024,6,28,4,Kamojang,Sumatera Utara,2,Commercial,Prepaid
+319,319,2024-10-08 04:38:15.892032,2024,10,8,13,Tanjung Jati B,Jawa Barat,2,Commercial,Prepaid
+320,320,2024-09-15 00:09:15.892032,2024,9,15,10,Mataloko,Lampung,2,Commercial,Prepaid
+321,321,2025-03-10 05:08:15.892032,2025,3,10,4,Kamojang,Sumatera Utara,2,Commercial,Prepaid
+322,322,2024-06-20 05:01:15.892032,2024,6,20,6,Wayang Windu,NTT,3,Industrial,Prepaid
+323,323,2024-07-01 15:22:15.892032,2024,7,1,10,Mataloko,Lampung,4,Government,Prepaid
+324,324,2024-12-17 09:28:15.892032,2024,12,17,4,Kamojang,Sumatera Utara,1,Residential,Prepaid
+325,325,2024-11-05 22:28:15.892032,2024,11,5,10,Mataloko,Lampung,2,Commercial,Prepaid
+326,326,2024-10-23 21:16:15.892032,2024,10,23,10,Mataloko,Lampung,2,Commercial,Postpaid
+327,327,2024-07-27 11:15:15.892032,2024,7,27,13,Tanjung Jati B,Jawa Barat,3,Industrial,Prepaid
+328,328,2025-04-19 03:00:15.892032,2025,4,19,11,Paiton,Sumatera Selatan,2,Commercial,Prepaid
+329,329,2024-08-23 22:40:15.892032,2024,8,23,20,Gunung Salak,Sulawesi Selatan,2,Commercial,Postpaid
+330,330,2024-10-09 11:06:15.892032,2024,10,9,12,Suralaya,Jawa Timur,4,Government,Postpaid
+331,331,2024-07-04 11:09:15.892032,2024,7,4,8,Lahendong,DKI Jakarta,2,Commercial,Prepaid
+332,332,2025-01-04 11:52:15.892032,2025,1,4,6,Wayang Windu,NTT,4,Government,Postpaid
+333,333,2024-07-03 06:02:15.892032,2024,7,3,19,Likupang,DKI Jakarta,4,Government,Prepaid
+334,334,2025-02-18 16:34:15.892032,2025,2,18,7,Sibayak,Banten,1,Residential,Postpaid
+335,335,2024-09-12 16:43:15.892032,2024,9,12,17,Sidrap,NTT,4,Government,Prepaid
+336,336,2025-04-30 11:06:15.892032,2025,4,30,19,Likupang,DKI Jakarta,4,Government,Prepaid
+337,337,2024-11-11 14:10:15.892032,2024,11,11,13,Tanjung Jati B,Jawa Barat,4,Government,Postpaid
+338,338,2025-03-24 16:48:15.892032,2025,3,24,23,Sorik Marapi,Jawa Timur,4,Government,Postpaid
+339,339,2024-07-10 06:43:15.892032,2024,7,10,24,Rantau Dedap,Jawa Barat,2,Commercial,Postpaid
+340,340,2024-09-23 14:23:15.892032,2024,9,23,13,Tanjung Jati B,Jawa Barat,4,Government,Prepaid
+341,341,2024-06-12 14:42:15.892032,2024,6,12,25,Muara Laboh,Jawa Tengah,1,Residential,Prepaid
+342,342,2024-11-13 22:32:15.892032,2024,11,13,22,Dieng,Sumatera Selatan,4,Government,Prepaid
+343,343,2025-04-07 17:46:15.892032,2025,4,7,8,Lahendong,DKI Jakarta,3,Industrial,Prepaid
+344,344,2025-04-06 10:15:15.892032,2025,4,6,17,Sidrap,NTT,2,Commercial,Postpaid
+345,345,2024-11-09 04:33:15.892032,2024,11,9,3,Saguling,Jawa Tengah,4,Government,Prepaid
+346,346,2024-05-30 03:48:15.892032,2024,5,30,24,Rantau Dedap,Jawa Barat,1,Residential,Prepaid
+347,347,2025-05-12 03:25:15.892032,2025,5,12,22,Dieng,Sumatera Selatan,2,Commercial,Postpaid
+348,348,2025-03-24 22:48:15.892032,2025,3,24,9,Ulumbu,Sulawesi Selatan,3,Industrial,Prepaid
+349,349,2025-03-13 08:56:15.892032,2025,3,13,24,Rantau Dedap,Jawa Barat,2,Commercial,Postpaid
+350,350,2024-09-23 18:04:15.892032,2024,9,23,19,Likupang,DKI Jakarta,4,Government,Postpaid
+351,351,2025-01-25 20:41:15.892032,2025,1,25,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+352,352,2025-03-26 20:56:15.892032,2025,3,26,2,Cirata,Jawa Barat,2,Commercial,Postpaid
+353,353,2024-09-07 23:08:15.892032,2024,9,7,20,Gunung Salak,Sulawesi Selatan,4,Government,Prepaid
+354,354,2024-12-13 20:18:15.892032,2024,12,13,18,Jeneponto,Banten,2,Commercial,Prepaid
+355,355,2025-03-13 08:54:15.892032,2025,3,13,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+356,356,2024-07-10 17:16:15.892032,2024,7,10,10,Mataloko,Lampung,4,Government,Postpaid
+357,357,2024-11-25 09:14:15.892032,2024,11,25,3,Saguling,Jawa Tengah,3,Industrial,Postpaid
+358,358,2025-04-04 00:03:15.892032,2025,4,4,8,Lahendong,DKI Jakarta,1,Residential,Prepaid
+359,359,2025-04-13 03:52:15.892032,2025,4,13,13,Tanjung Jati B,Jawa Barat,2,Commercial,Prepaid
+360,360,2025-02-15 21:38:15.892032,2025,2,15,20,Gunung Salak,Sulawesi Selatan,4,Government,Postpaid
+361,361,2024-08-13 05:39:15.892032,2024,8,13,13,Tanjung Jati B,Jawa Barat,1,Residential,Prepaid
+362,362,2025-01-26 18:48:15.892032,2025,1,26,7,Sibayak,Banten,4,Government,Postpaid
+363,363,2024-07-05 13:14:15.892032,2024,7,5,14,Grati,Jawa Tengah,1,Residential,Postpaid
+364,364,2025-03-04 02:29:15.892032,2025,3,4,21,Patuha,Lampung,1,Residential,Prepaid
+365,365,2025-03-31 16:11:15.892032,2025,3,31,2,Cirata,Jawa Barat,3,Industrial,Postpaid
+366,366,2025-03-20 11:09:15.892032,2025,3,20,4,Kamojang,Sumatera Utara,4,Government,Postpaid
+367,367,2025-03-06 07:07:15.892032,2025,3,6,10,Mataloko,Lampung,3,Industrial,Postpaid
+368,368,2025-05-21 03:35:15.892032,2025,5,21,9,Ulumbu,Sulawesi Selatan,3,Industrial,Prepaid
+369,369,2024-11-21 13:15:15.892032,2024,11,21,13,Tanjung Jati B,Jawa Barat,2,Commercial,Postpaid
+370,370,2024-10-26 22:55:15.892032,2024,10,26,16,Tambak Lorok,Sulawesi Utara,1,Residential,Prepaid
+371,371,2024-06-04 11:21:15.892032,2024,6,4,5,Darajat,Sulawesi Utara,1,Residential,Postpaid
+372,372,2024-06-06 03:58:15.892032,2024,6,6,14,Grati,Jawa Tengah,2,Commercial,Postpaid
+373,373,2024-06-07 03:00:15.892032,2024,6,7,21,Patuha,Lampung,3,Industrial,Prepaid
+374,374,2024-11-03 06:15:15.892032,2024,11,3,4,Kamojang,Sumatera Utara,3,Industrial,Prepaid
+375,375,2025-05-16 07:38:15.892032,2025,5,16,8,Lahendong,DKI Jakarta,1,Residential,Postpaid
+376,376,2025-04-06 10:04:15.892032,2025,4,6,22,Dieng,Sumatera Selatan,2,Commercial,Prepaid
+377,377,2024-09-28 01:19:15.892032,2024,9,28,24,Rantau Dedap,Jawa Barat,1,Residential,Postpaid
+378,378,2025-05-26 17:18:15.892032,2025,5,26,17,Sidrap,NTT,2,Commercial,Prepaid
+379,379,2024-08-25 03:26:15.892032,2024,8,25,12,Suralaya,Jawa Timur,2,Commercial,Prepaid
+380,380,2024-10-30 14:53:15.892032,2024,10,30,25,Muara Laboh,Jawa Tengah,3,Industrial,Prepaid
+381,381,2024-07-10 03:45:15.892032,2024,7,10,7,Sibayak,Banten,2,Commercial,Postpaid
+382,382,2024-07-29 14:42:15.892032,2024,7,29,15,Muara Karang,Sumatera Utara,2,Commercial,Prepaid
+383,383,2024-09-26 04:49:15.892032,2024,9,26,7,Sibayak,Banten,4,Government,Postpaid
+384,384,2024-07-23 11:05:15.892032,2024,7,23,4,Kamojang,Sumatera Utara,1,Residential,Prepaid
+385,385,2024-08-20 00:58:15.892032,2024,8,20,12,Suralaya,Jawa Timur,3,Industrial,Prepaid
+386,386,2024-12-17 21:24:15.892032,2024,12,17,18,Jeneponto,Banten,4,Government,Postpaid
+387,387,2024-06-09 17:19:15.892032,2024,6,9,25,Muara Laboh,Jawa Tengah,1,Residential,Prepaid
+388,388,2024-07-11 11:05:15.892032,2024,7,11,19,Likupang,DKI Jakarta,1,Residential,Prepaid
+389,389,2025-03-18 20:31:15.892032,2025,3,18,14,Grati,Jawa Tengah,1,Residential,Prepaid
+390,390,2025-03-31 20:11:15.892032,2025,3,31,5,Darajat,Sulawesi Utara,2,Commercial,Postpaid
+391,391,2024-08-31 10:42:15.892032,2024,8,31,12,Suralaya,Jawa Timur,2,Commercial,Prepaid
+392,392,2024-12-04 22:14:15.892032,2024,12,4,13,Tanjung Jati B,Jawa Barat,3,Industrial,Prepaid
+393,393,2025-01-22 03:35:15.892032,2025,1,22,7,Sibayak,Banten,1,Residential,Prepaid
+394,394,2025-04-24 03:40:15.892032,2025,4,24,7,Sibayak,Banten,2,Commercial,Prepaid
+395,395,2024-11-12 02:16:15.892032,2024,11,12,2,Cirata,Jawa Barat,2,Commercial,Prepaid
+396,396,2024-10-29 16:54:15.892032,2024,10,29,3,Saguling,Jawa Tengah,3,Industrial,Prepaid
+397,397,2024-07-31 15:31:15.892032,2024,7,31,1,Karangkates,Jawa Timur,4,Government,Prepaid
+398,398,2024-10-19 02:40:15.892032,2024,10,19,10,Mataloko,Lampung,1,Residential,Postpaid
+399,399,2025-04-29 22:04:15.892032,2025,4,29,4,Kamojang,Sumatera Utara,2,Commercial,Prepaid
+400,400,2024-05-28 09:39:15.892032,2024,5,28,2,Cirata,Jawa Barat,4,Government,Postpaid
+401,401,2025-02-27 13:27:15.892032,2025,2,27,13,Tanjung Jati B,Jawa Barat,2,Commercial,Postpaid
+402,402,2025-02-04 02:36:15.892032,2025,2,4,21,Patuha,Lampung,3,Industrial,Postpaid
+403,403,2025-03-21 22:53:15.892032,2025,3,21,7,Sibayak,Banten,3,Industrial,Prepaid
+404,404,2024-10-24 01:30:15.892032,2024,10,24,1,Karangkates,Jawa Timur,4,Government,Postpaid
+405,405,2024-06-08 17:33:15.892032,2024,6,8,1,Karangkates,Jawa Timur,2,Commercial,Postpaid
+406,406,2024-11-16 10:58:15.892032,2024,11,16,9,Ulumbu,Sulawesi Selatan,1,Residential,Postpaid
+407,407,2024-09-03 02:25:15.892032,2024,9,3,22,Dieng,Sumatera Selatan,2,Commercial,Postpaid
+408,408,2024-12-20 09:30:15.892032,2024,12,20,6,Wayang Windu,NTT,3,Industrial,Prepaid
+409,409,2024-05-28 16:33:15.892032,2024,5,28,22,Dieng,Sumatera Selatan,4,Government,Prepaid
+410,410,2024-06-21 22:17:15.892032,2024,6,21,24,Rantau Dedap,Jawa Barat,2,Commercial,Postpaid
+411,411,2024-09-11 01:05:15.892032,2024,9,11,20,Gunung Salak,Sulawesi Selatan,3,Industrial,Postpaid
+412,412,2024-11-11 15:58:15.892032,2024,11,11,3,Saguling,Jawa Tengah,4,Government,Postpaid
+413,413,2024-12-10 07:11:15.892032,2024,12,10,4,Kamojang,Sumatera Utara,4,Government,Postpaid
+414,414,2024-06-29 16:06:15.892032,2024,6,29,13,Tanjung Jati B,Jawa Barat,4,Government,Prepaid
+415,415,2025-03-26 22:40:15.892032,2025,3,26,25,Muara Laboh,Jawa Tengah,3,Industrial,Postpaid
+416,416,2025-05-10 19:26:15.892032,2025,5,10,2,Cirata,Jawa Barat,1,Residential,Prepaid
+417,417,2024-09-27 23:29:15.892032,2024,9,27,1,Karangkates,Jawa Timur,3,Industrial,Prepaid
+418,418,2024-06-24 21:09:15.892032,2024,6,24,4,Kamojang,Sumatera Utara,3,Industrial,Prepaid
+419,419,2025-05-07 19:53:15.892032,2025,5,7,22,Dieng,Sumatera Selatan,4,Government,Prepaid
+420,420,2024-11-15 22:44:15.892032,2024,11,15,4,Kamojang,Sumatera Utara,4,Government,Postpaid
+421,421,2025-03-15 08:49:15.892032,2025,3,15,5,Darajat,Sulawesi Utara,2,Commercial,Prepaid
+422,422,2025-05-05 15:00:15.892032,2025,5,5,24,Rantau Dedap,Jawa Barat,2,Commercial,Postpaid
+423,423,2024-11-07 04:04:15.892032,2024,11,7,24,Rantau Dedap,Jawa Barat,1,Residential,Prepaid
+424,424,2024-06-13 11:16:15.892032,2024,6,13,11,Paiton,Sumatera Selatan,1,Residential,Postpaid
+425,425,2025-02-08 18:43:15.892032,2025,2,8,23,Sorik Marapi,Jawa Timur,4,Government,Prepaid
+426,426,2024-07-21 12:25:15.892032,2024,7,21,6,Wayang Windu,NTT,3,Industrial,Prepaid
+427,427,2024-09-16 13:08:15.892032,2024,9,16,11,Paiton,Sumatera Selatan,4,Government,Prepaid
+428,428,2024-10-19 19:04:15.892032,2024,10,19,20,Gunung Salak,Sulawesi Selatan,3,Industrial,Postpaid
+429,429,2025-02-11 02:36:15.892032,2025,2,11,19,Likupang,DKI Jakarta,2,Commercial,Postpaid
+430,430,2024-12-27 15:51:15.892032,2024,12,27,15,Muara Karang,Sumatera Utara,2,Commercial,Postpaid
+431,431,2024-07-22 03:32:15.892032,2024,7,22,3,Saguling,Jawa Tengah,3,Industrial,Postpaid
+432,432,2024-10-22 13:46:15.892032,2024,10,22,3,Saguling,Jawa Tengah,3,Industrial,Postpaid
+433,433,2024-08-15 13:46:15.892032,2024,8,15,13,Tanjung Jati B,Jawa Barat,2,Commercial,Postpaid
+434,434,2025-04-02 22:37:15.892032,2025,4,2,10,Mataloko,Lampung,2,Commercial,Prepaid
+435,435,2024-09-10 13:19:15.892032,2024,9,10,12,Suralaya,Jawa Timur,4,Government,Prepaid
+436,436,2025-03-07 20:43:15.892032,2025,3,7,23,Sorik Marapi,Jawa Timur,4,Government,Postpaid
+437,437,2024-09-16 04:37:15.892032,2024,9,16,19,Likupang,DKI Jakarta,3,Industrial,Postpaid
+438,438,2025-01-05 20:59:15.892032,2025,1,5,16,Tambak Lorok,Sulawesi Utara,4,Government,Prepaid
+439,439,2024-11-14 21:28:15.892032,2024,11,14,12,Suralaya,Jawa Timur,4,Government,Prepaid
+440,440,2024-07-06 09:17:15.892032,2024,7,6,14,Grati,Jawa Tengah,3,Industrial,Postpaid
+441,441,2024-08-17 09:02:15.892032,2024,8,17,4,Kamojang,Sumatera Utara,2,Commercial,Postpaid
+442,442,2025-03-26 22:36:15.892032,2025,3,26,1,Karangkates,Jawa Timur,3,Industrial,Prepaid
+443,443,2025-03-28 06:56:15.892032,2025,3,28,9,Ulumbu,Sulawesi Selatan,2,Commercial,Prepaid
+444,444,2024-09-06 03:55:15.892032,2024,9,6,4,Kamojang,Sumatera Utara,1,Residential,Postpaid
+445,445,2025-02-24 20:50:15.892032,2025,2,24,18,Jeneponto,Banten,1,Residential,Prepaid
+446,446,2024-08-05 07:04:15.892032,2024,8,5,20,Gunung Salak,Sulawesi Selatan,1,Residential,Postpaid
+447,447,2024-09-07 16:12:15.892032,2024,9,7,6,Wayang Windu,NTT,2,Commercial,Prepaid
+448,448,2024-05-30 10:18:15.892032,2024,5,30,3,Saguling,Jawa Tengah,4,Government,Prepaid
+449,449,2024-07-16 04:32:15.892032,2024,7,16,5,Darajat,Sulawesi Utara,1,Residential,Postpaid
+450,450,2024-06-28 12:46:15.892032,2024,6,28,17,Sidrap,NTT,1,Residential,Postpaid
+451,451,2024-08-30 20:33:15.892032,2024,8,30,8,Lahendong,DKI Jakarta,1,Residential,Postpaid
+452,452,2024-10-13 09:09:15.892032,2024,10,13,7,Sibayak,Banten,4,Government,Prepaid
+453,453,2024-09-06 12:05:15.892032,2024,9,6,19,Likupang,DKI Jakarta,3,Industrial,Postpaid
+454,454,2025-03-30 12:02:15.892032,2025,3,30,21,Patuha,Lampung,2,Commercial,Prepaid
+455,455,2024-09-28 13:21:15.892032,2024,9,28,4,Kamojang,Sumatera Utara,4,Government,Postpaid
+456,456,2025-02-01 12:35:15.892032,2025,2,1,9,Ulumbu,Sulawesi Selatan,2,Commercial,Prepaid
+457,457,2025-01-21 20:27:15.892032,2025,1,21,4,Kamojang,Sumatera Utara,1,Residential,Prepaid
+458,458,2024-09-25 21:49:15.892032,2024,9,25,16,Tambak Lorok,Sulawesi Utara,4,Government,Postpaid
+459,459,2024-10-01 07:39:15.892032,2024,10,1,11,Paiton,Sumatera Selatan,1,Residential,Postpaid
+460,460,2024-09-07 00:29:15.892032,2024,9,7,24,Rantau Dedap,Jawa Barat,2,Commercial,Prepaid
+461,461,2024-09-04 04:05:15.892032,2024,9,4,7,Sibayak,Banten,3,Industrial,Prepaid
+462,462,2025-01-29 15:14:15.892032,2025,1,29,11,Paiton,Sumatera Selatan,4,Government,Postpaid
+463,463,2025-01-12 16:49:15.892032,2025,1,12,7,Sibayak,Banten,4,Government,Prepaid
+464,464,2024-10-17 08:22:15.892032,2024,10,17,17,Sidrap,NTT,1,Residential,Prepaid
+465,465,2024-08-20 21:08:15.892032,2024,8,20,8,Lahendong,DKI Jakarta,4,Government,Prepaid
+466,466,2024-09-04 00:11:15.892032,2024,9,4,3,Saguling,Jawa Tengah,1,Residential,Prepaid
+467,467,2024-12-21 19:05:15.892032,2024,12,21,4,Kamojang,Sumatera Utara,2,Commercial,Prepaid
+468,468,2024-07-28 03:58:15.892032,2024,7,28,3,Saguling,Jawa Tengah,4,Government,Postpaid
+469,469,2024-12-23 11:17:15.892032,2024,12,23,2,Cirata,Jawa Barat,1,Residential,Prepaid
+470,470,2024-12-24 06:38:15.892032,2024,12,24,3,Saguling,Jawa Tengah,4,Government,Prepaid
+471,471,2025-04-01 13:40:15.892032,2025,4,1,9,Ulumbu,Sulawesi Selatan,4,Government,Prepaid
+472,472,2024-08-19 04:00:15.892032,2024,8,19,17,Sidrap,NTT,3,Industrial,Postpaid
+473,473,2025-04-22 22:42:15.892032,2025,4,22,9,Ulumbu,Sulawesi Selatan,2,Commercial,Postpaid
+474,474,2024-08-12 15:23:15.892032,2024,8,12,16,Tambak Lorok,Sulawesi Utara,1,Residential,Prepaid
+475,475,2024-12-08 23:41:15.892032,2024,12,8,24,Rantau Dedap,Jawa Barat,3,Industrial,Postpaid
+476,476,2024-08-15 13:20:15.892032,2024,8,15,20,Gunung Salak,Sulawesi Selatan,3,Industrial,Prepaid
+477,477,2025-03-26 14:28:15.892032,2025,3,26,25,Muara Laboh,Jawa Tengah,2,Commercial,Postpaid
+478,478,2024-12-04 23:36:15.892032,2024,12,4,10,Mataloko,Lampung,1,Residential,Prepaid
+479,479,2024-08-17 08:24:15.892032,2024,8,17,21,Patuha,Lampung,4,Government,Prepaid
+480,480,2024-10-29 02:21:15.892032,2024,10,29,5,Darajat,Sulawesi Utara,4,Government,Postpaid
+481,481,2024-11-04 10:21:15.892032,2024,11,4,11,Paiton,Sumatera Selatan,3,Industrial,Postpaid
+482,482,2024-08-09 00:48:15.892032,2024,8,9,8,Lahendong,DKI Jakarta,4,Government,Prepaid
+483,483,2024-10-25 07:10:15.892032,2024,10,25,13,Tanjung Jati B,Jawa Barat,2,Commercial,Postpaid
+484,484,2025-04-09 16:33:15.892032,2025,4,9,16,Tambak Lorok,Sulawesi Utara,4,Government,Postpaid
+485,485,2024-11-17 10:29:15.892032,2024,11,17,21,Patuha,Lampung,1,Residential,Postpaid
+486,486,2024-08-01 13:06:15.892032,2024,8,1,1,Karangkates,Jawa Timur,3,Industrial,Prepaid
+487,487,2024-09-11 17:16:15.892032,2024,9,11,16,Tambak Lorok,Sulawesi Utara,3,Industrial,Prepaid
+488,488,2024-11-27 22:08:15.892032,2024,11,27,9,Ulumbu,Sulawesi Selatan,3,Industrial,Prepaid
+489,489,2024-12-30 22:25:15.892032,2024,12,30,6,Wayang Windu,NTT,2,Commercial,Prepaid
+490,490,2025-05-07 14:42:15.892032,2025,5,7,2,Cirata,Jawa Barat,1,Residential,Postpaid
+491,491,2025-02-16 04:35:15.892032,2025,2,16,18,Jeneponto,Banten,1,Residential,Postpaid
+492,492,2024-10-26 17:28:15.892032,2024,10,26,18,Jeneponto,Banten,2,Commercial,Postpaid
+493,493,2024-11-25 05:51:15.892032,2024,11,25,10,Mataloko,Lampung,1,Residential,Postpaid
+494,494,2025-03-17 16:10:15.892032,2025,3,17,25,Muara Laboh,Jawa Tengah,1,Residential,Prepaid
+495,495,2025-01-13 15:41:15.892032,2025,1,13,4,Kamojang,Sumatera Utara,4,Government,Prepaid
+496,496,2025-03-16 00:27:15.892032,2025,3,16,15,Muara Karang,Sumatera Utara,2,Commercial,Postpaid
+497,497,2024-06-20 09:42:15.892032,2024,6,20,24,Rantau Dedap,Jawa Barat,1,Residential,Postpaid
+498,498,2024-12-08 00:06:15.892032,2024,12,8,4,Kamojang,Sumatera Utara,1,Residential,Prepaid
+499,499,2024-06-01 01:03:15.892032,2024,6,1,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+500,500,2025-01-15 11:39:15.892032,2025,1,15,21,Patuha,Lampung,3,Industrial,Prepaid
+501,501,2024-10-16 00:07:15.892032,2024,10,16,14,Grati,Jawa Tengah,2,Commercial,Prepaid
+502,502,2024-11-08 10:31:15.892032,2024,11,8,13,Tanjung Jati B,Jawa Barat,2,Commercial,Prepaid
+503,503,2024-06-23 05:58:15.892032,2024,6,23,15,Muara Karang,Sumatera Utara,1,Residential,Postpaid
+504,504,2025-01-11 12:49:15.892032,2025,1,11,21,Patuha,Lampung,1,Residential,Postpaid
+505,505,2025-01-27 11:15:15.892032,2025,1,27,7,Sibayak,Banten,1,Residential,Postpaid
+506,506,2024-08-05 00:02:15.892032,2024,8,5,18,Jeneponto,Banten,4,Government,Postpaid
+507,507,2024-06-12 13:11:15.892032,2024,6,12,5,Darajat,Sulawesi Utara,1,Residential,Postpaid
+508,508,2024-09-18 03:59:15.892032,2024,9,18,7,Sibayak,Banten,1,Residential,Prepaid
+509,509,2024-10-04 07:19:15.892032,2024,10,4,13,Tanjung Jati B,Jawa Barat,3,Industrial,Prepaid
+510,510,2024-12-11 06:47:15.892032,2024,12,11,4,Kamojang,Sumatera Utara,2,Commercial,Prepaid
+511,511,2025-05-20 14:19:15.892032,2025,5,20,20,Gunung Salak,Sulawesi Selatan,4,Government,Prepaid
+512,512,2024-10-24 09:30:15.892032,2024,10,24,20,Gunung Salak,Sulawesi Selatan,4,Government,Prepaid
+513,513,2024-06-22 04:05:15.892032,2024,6,22,4,Kamojang,Sumatera Utara,4,Government,Postpaid
+514,514,2025-01-30 23:57:15.892032,2025,1,30,23,Sorik Marapi,Jawa Timur,2,Commercial,Postpaid
+515,515,2024-06-29 18:50:15.892032,2024,6,29,20,Gunung Salak,Sulawesi Selatan,2,Commercial,Postpaid
+516,516,2024-09-29 22:40:15.892032,2024,9,29,25,Muara Laboh,Jawa Tengah,1,Residential,Prepaid
+517,517,2024-06-28 23:36:15.892032,2024,6,28,12,Suralaya,Jawa Timur,1,Residential,Postpaid
+518,518,2025-04-15 15:52:15.892032,2025,4,15,21,Patuha,Lampung,2,Commercial,Postpaid
+519,519,2024-12-04 11:58:15.892032,2024,12,4,14,Grati,Jawa Tengah,2,Commercial,Prepaid
+520,520,2024-11-12 01:40:15.892032,2024,11,12,11,Paiton,Sumatera Selatan,2,Commercial,Postpaid
+521,521,2025-01-30 17:50:15.892032,2025,1,30,21,Patuha,Lampung,4,Government,Postpaid
+522,522,2024-12-09 03:09:15.892032,2024,12,9,18,Jeneponto,Banten,4,Government,Postpaid
+523,523,2025-01-27 12:22:15.892032,2025,1,27,23,Sorik Marapi,Jawa Timur,2,Commercial,Postpaid
+524,524,2024-08-09 10:15:15.892032,2024,8,9,8,Lahendong,DKI Jakarta,4,Government,Prepaid
+525,525,2024-11-22 20:19:15.892032,2024,11,22,17,Sidrap,NTT,2,Commercial,Postpaid
+526,526,2025-01-25 04:38:15.892032,2025,1,25,23,Sorik Marapi,Jawa Timur,1,Residential,Prepaid
+527,527,2025-02-11 06:42:15.892032,2025,2,11,13,Tanjung Jati B,Jawa Barat,4,Government,Postpaid
+528,528,2025-02-13 13:47:15.892032,2025,2,13,7,Sibayak,Banten,3,Industrial,Postpaid
+529,529,2024-08-20 23:26:15.892032,2024,8,20,10,Mataloko,Lampung,2,Commercial,Prepaid
+530,530,2024-09-06 09:14:15.892032,2024,9,6,25,Muara Laboh,Jawa Tengah,3,Industrial,Postpaid
+531,531,2025-01-10 00:29:15.892032,2025,1,10,9,Ulumbu,Sulawesi Selatan,2,Commercial,Postpaid
+532,532,2024-12-29 21:30:15.892032,2024,12,29,18,Jeneponto,Banten,4,Government,Postpaid
+533,533,2025-02-05 18:53:15.892032,2025,2,5,19,Likupang,DKI Jakarta,1,Residential,Prepaid
+534,534,2025-05-05 11:08:15.892032,2025,5,5,13,Tanjung Jati B,Jawa Barat,1,Residential,Prepaid
+535,535,2024-09-03 06:26:15.892032,2024,9,3,10,Mataloko,Lampung,1,Residential,Postpaid
+536,536,2024-07-09 16:21:15.892032,2024,7,9,6,Wayang Windu,NTT,3,Industrial,Postpaid
+537,537,2024-07-12 08:39:15.892032,2024,7,12,3,Saguling,Jawa Tengah,3,Industrial,Prepaid
+538,538,2024-10-12 17:17:15.892032,2024,10,12,25,Muara Laboh,Jawa Tengah,4,Government,Prepaid
+539,539,2024-11-20 17:39:15.892032,2024,11,20,5,Darajat,Sulawesi Utara,1,Residential,Postpaid
+540,540,2025-05-17 06:54:15.892032,2025,5,17,10,Mataloko,Lampung,4,Government,Postpaid
+541,541,2024-06-05 04:38:15.892032,2024,6,5,12,Suralaya,Jawa Timur,2,Commercial,Prepaid
+542,542,2025-03-16 04:38:15.892032,2025,3,16,24,Rantau Dedap,Jawa Barat,1,Residential,Postpaid
+543,543,2024-06-23 12:44:15.892032,2024,6,23,13,Tanjung Jati B,Jawa Barat,3,Industrial,Postpaid
+544,544,2025-01-01 13:03:15.892032,2025,1,1,22,Dieng,Sumatera Selatan,3,Industrial,Prepaid
+545,545,2024-12-04 17:00:15.892032,2024,12,4,5,Darajat,Sulawesi Utara,1,Residential,Prepaid
+546,546,2025-01-25 12:00:15.892032,2025,1,25,12,Suralaya,Jawa Timur,3,Industrial,Postpaid
+547,547,2024-12-30 23:16:15.892032,2024,12,30,25,Muara Laboh,Jawa Tengah,2,Commercial,Postpaid
+548,548,2025-04-29 02:53:15.892032,2025,4,29,4,Kamojang,Sumatera Utara,2,Commercial,Postpaid
+549,549,2025-04-14 10:22:15.892032,2025,4,14,18,Jeneponto,Banten,2,Commercial,Postpaid
+550,550,2024-07-01 12:31:15.892032,2024,7,1,21,Patuha,Lampung,3,Industrial,Postpaid
+551,551,2025-03-17 00:56:15.892032,2025,3,17,6,Wayang Windu,NTT,4,Government,Postpaid
+552,552,2024-10-23 03:44:15.892032,2024,10,23,11,Paiton,Sumatera Selatan,2,Commercial,Postpaid
+553,553,2024-12-21 14:04:15.892032,2024,12,21,1,Karangkates,Jawa Timur,4,Government,Postpaid
+554,554,2025-04-14 23:07:15.892032,2025,4,14,22,Dieng,Sumatera Selatan,3,Industrial,Prepaid
+555,555,2024-07-05 14:27:15.892032,2024,7,5,24,Rantau Dedap,Jawa Barat,1,Residential,Postpaid
+556,556,2024-12-09 15:56:15.892032,2024,12,9,20,Gunung Salak,Sulawesi Selatan,3,Industrial,Prepaid
+557,557,2024-10-14 08:59:15.892032,2024,10,14,22,Dieng,Sumatera Selatan,4,Government,Prepaid
+558,558,2025-01-30 04:51:15.892032,2025,1,30,22,Dieng,Sumatera Selatan,2,Commercial,Prepaid
+559,559,2024-09-13 12:31:15.892032,2024,9,13,3,Saguling,Jawa Tengah,3,Industrial,Prepaid
+560,560,2024-09-18 04:13:15.892032,2024,9,18,18,Jeneponto,Banten,1,Residential,Postpaid
+561,561,2025-02-04 13:27:15.892032,2025,2,4,17,Sidrap,NTT,1,Residential,Postpaid
+562,562,2024-10-26 17:41:15.892032,2024,10,26,4,Kamojang,Sumatera Utara,4,Government,Prepaid
+563,563,2024-08-09 18:49:15.892032,2024,8,9,1,Karangkates,Jawa Timur,4,Government,Postpaid
+564,564,2024-09-29 21:27:15.892032,2024,9,29,5,Darajat,Sulawesi Utara,4,Government,Postpaid
+565,565,2025-01-07 22:13:15.892032,2025,1,7,4,Kamojang,Sumatera Utara,2,Commercial,Postpaid
+566,566,2024-08-21 08:01:15.892032,2024,8,21,2,Cirata,Jawa Barat,3,Industrial,Prepaid
+567,567,2025-03-16 10:50:15.892032,2025,3,16,9,Ulumbu,Sulawesi Selatan,4,Government,Postpaid
+568,568,2024-08-01 10:41:15.892032,2024,8,1,17,Sidrap,NTT,4,Government,Prepaid
+569,569,2025-05-02 09:06:15.892032,2025,5,2,24,Rantau Dedap,Jawa Barat,2,Commercial,Prepaid
+570,570,2024-08-26 21:40:15.892032,2024,8,26,21,Patuha,Lampung,2,Commercial,Postpaid
+571,571,2025-02-11 04:11:15.892032,2025,2,11,23,Sorik Marapi,Jawa Timur,1,Residential,Prepaid
+572,572,2024-11-25 03:10:15.892032,2024,11,25,17,Sidrap,NTT,2,Commercial,Postpaid
+573,573,2025-04-13 15:51:15.892032,2025,4,13,13,Tanjung Jati B,Jawa Barat,3,Industrial,Postpaid
+574,574,2024-07-18 20:18:15.892032,2024,7,18,10,Mataloko,Lampung,2,Commercial,Postpaid
+575,575,2024-11-07 12:56:15.892032,2024,11,7,2,Cirata,Jawa Barat,3,Industrial,Prepaid
+576,576,2025-03-22 00:31:15.892032,2025,3,22,22,Dieng,Sumatera Selatan,1,Residential,Prepaid
+577,577,2024-09-13 15:51:15.892032,2024,9,13,24,Rantau Dedap,Jawa Barat,3,Industrial,Prepaid
+578,578,2025-05-23 07:13:15.892032,2025,5,23,7,Sibayak,Banten,2,Commercial,Prepaid
+579,579,2024-08-05 21:26:15.892032,2024,8,5,5,Darajat,Sulawesi Utara,1,Residential,Prepaid
+580,580,2024-11-06 19:58:15.892032,2024,11,6,9,Ulumbu,Sulawesi Selatan,4,Government,Prepaid
+581,581,2024-10-29 18:44:15.892032,2024,10,29,11,Paiton,Sumatera Selatan,2,Commercial,Prepaid
+582,582,2024-07-30 04:44:15.892032,2024,7,30,6,Wayang Windu,NTT,1,Residential,Prepaid
+583,583,2024-07-19 12:46:15.892032,2024,7,19,9,Ulumbu,Sulawesi Selatan,3,Industrial,Prepaid
+584,584,2025-04-10 23:44:15.892032,2025,4,10,18,Jeneponto,Banten,1,Residential,Postpaid
+585,585,2024-10-26 20:20:15.892032,2024,10,26,9,Ulumbu,Sulawesi Selatan,3,Industrial,Postpaid
+586,586,2025-01-29 05:22:15.892032,2025,1,29,12,Suralaya,Jawa Timur,4,Government,Prepaid
+587,587,2024-06-02 05:23:15.892032,2024,6,2,21,Patuha,Lampung,4,Government,Prepaid
+588,588,2024-11-22 01:12:15.892032,2024,11,22,4,Kamojang,Sumatera Utara,3,Industrial,Postpaid
+589,589,2025-03-30 04:13:15.892032,2025,3,30,19,Likupang,DKI Jakarta,1,Residential,Prepaid
+590,590,2025-04-10 14:07:15.892032,2025,4,10,15,Muara Karang,Sumatera Utara,2,Commercial,Postpaid
+591,591,2025-05-17 14:31:15.892032,2025,5,17,13,Tanjung Jati B,Jawa Barat,1,Residential,Postpaid
+592,592,2025-02-07 01:54:15.892032,2025,2,7,21,Patuha,Lampung,3,Industrial,Postpaid
+593,593,2025-04-24 07:15:15.892032,2025,4,24,12,Suralaya,Jawa Timur,3,Industrial,Postpaid
+594,594,2024-12-08 04:55:15.892032,2024,12,8,7,Sibayak,Banten,4,Government,Postpaid
+595,595,2024-12-18 21:22:15.892032,2024,12,18,22,Dieng,Sumatera Selatan,2,Commercial,Prepaid
+596,596,2024-10-29 11:42:15.892032,2024,10,29,22,Dieng,Sumatera Selatan,2,Commercial,Prepaid
+597,597,2024-09-10 10:16:15.892032,2024,9,10,22,Dieng,Sumatera Selatan,3,Industrial,Postpaid
+598,598,2024-10-18 00:50:15.892032,2024,10,18,6,Wayang Windu,NTT,3,Industrial,Prepaid
+599,599,2024-10-16 09:12:15.892032,2024,10,16,22,Dieng,Sumatera Selatan,1,Residential,Prepaid
+600,600,2024-06-15 04:17:15.892032,2024,6,15,15,Muara Karang,Sumatera Utara,1,Residential,Postpaid
+601,601,2024-08-13 06:29:15.892032,2024,8,13,10,Mataloko,Lampung,3,Industrial,Prepaid
+602,602,2025-05-25 06:14:15.892032,2025,5,25,18,Jeneponto,Banten,4,Government,Postpaid
+603,603,2024-06-14 11:42:15.892032,2024,6,14,7,Sibayak,Banten,1,Residential,Prepaid
+604,604,2024-09-20 16:26:15.892032,2024,9,20,21,Patuha,Lampung,4,Government,Postpaid
+605,605,2025-02-18 05:07:15.892032,2025,2,18,19,Likupang,DKI Jakarta,3,Industrial,Postpaid
+606,606,2025-02-18 08:24:15.892032,2025,2,18,23,Sorik Marapi,Jawa Timur,4,Government,Postpaid
+607,607,2025-04-10 21:43:15.892032,2025,4,10,12,Suralaya,Jawa Timur,3,Industrial,Prepaid
+608,608,2025-01-18 06:14:15.892032,2025,1,18,24,Rantau Dedap,Jawa Barat,2,Commercial,Prepaid
+609,609,2025-01-18 20:25:15.892032,2025,1,18,4,Kamojang,Sumatera Utara,1,Residential,Prepaid
+610,610,2024-12-24 14:25:15.892032,2024,12,24,17,Sidrap,NTT,1,Residential,Prepaid
+611,611,2024-09-01 07:19:15.892032,2024,9,1,2,Cirata,Jawa Barat,3,Industrial,Postpaid
+612,612,2024-08-20 20:41:15.892032,2024,8,20,2,Cirata,Jawa Barat,3,Industrial,Prepaid
+613,613,2024-06-02 11:42:15.892032,2024,6,2,2,Cirata,Jawa Barat,2,Commercial,Prepaid
+614,614,2024-07-02 04:05:15.892032,2024,7,2,2,Cirata,Jawa Barat,4,Government,Prepaid
+615,615,2024-06-14 01:39:15.892032,2024,6,14,6,Wayang Windu,NTT,1,Residential,Postpaid
+616,616,2024-07-06 11:03:15.892032,2024,7,6,23,Sorik Marapi,Jawa Timur,2,Commercial,Postpaid
+617,617,2025-05-06 12:15:15.892032,2025,5,6,17,Sidrap,NTT,3,Industrial,Prepaid
+618,618,2025-04-27 19:34:15.892032,2025,4,27,19,Likupang,DKI Jakarta,1,Residential,Prepaid
+619,619,2025-04-03 09:43:15.892032,2025,4,3,16,Tambak Lorok,Sulawesi Utara,2,Commercial,Prepaid
+620,620,2024-12-16 15:26:15.892032,2024,12,16,24,Rantau Dedap,Jawa Barat,2,Commercial,Postpaid
+621,621,2024-05-31 02:39:15.892032,2024,5,31,13,Tanjung Jati B,Jawa Barat,3,Industrial,Postpaid
+622,622,2025-05-02 05:07:15.892032,2025,5,2,18,Jeneponto,Banten,1,Residential,Prepaid
+623,623,2025-05-19 22:53:15.892032,2025,5,19,13,Tanjung Jati B,Jawa Barat,2,Commercial,Prepaid
+624,624,2024-08-03 08:14:15.892032,2024,8,3,24,Rantau Dedap,Jawa Barat,4,Government,Postpaid
+625,625,2025-02-27 16:14:15.892032,2025,2,27,12,Suralaya,Jawa Timur,1,Residential,Postpaid
+626,626,2025-01-11 21:31:15.892032,2025,1,11,2,Cirata,Jawa Barat,4,Government,Postpaid
+627,627,2025-02-08 15:12:15.892032,2025,2,8,19,Likupang,DKI Jakarta,3,Industrial,Prepaid
+628,628,2024-06-30 12:32:15.892032,2024,6,30,14,Grati,Jawa Tengah,3,Industrial,Postpaid
+629,629,2024-11-18 08:10:15.892032,2024,11,18,5,Darajat,Sulawesi Utara,3,Industrial,Prepaid
+630,630,2024-11-13 15:02:15.892032,2024,11,13,5,Darajat,Sulawesi Utara,1,Residential,Prepaid
+631,631,2025-04-14 15:23:15.892032,2025,4,14,13,Tanjung Jati B,Jawa Barat,3,Industrial,Prepaid
+632,632,2025-04-03 01:35:15.892032,2025,4,3,8,Lahendong,DKI Jakarta,4,Government,Postpaid
+633,633,2024-08-22 14:14:15.892032,2024,8,22,8,Lahendong,DKI Jakarta,4,Government,Prepaid
+634,634,2024-10-12 19:59:15.892032,2024,10,12,12,Suralaya,Jawa Timur,4,Government,Prepaid
+635,635,2024-11-01 00:49:15.892032,2024,11,1,25,Muara Laboh,Jawa Tengah,2,Commercial,Postpaid
+636,636,2024-05-29 21:38:15.892032,2024,5,29,4,Kamojang,Sumatera Utara,2,Commercial,Prepaid
+637,637,2025-03-12 22:46:15.892032,2025,3,12,19,Likupang,DKI Jakarta,3,Industrial,Postpaid
+638,638,2025-01-03 05:06:15.892032,2025,1,3,6,Wayang Windu,NTT,4,Government,Prepaid
+639,639,2024-07-15 23:07:15.892032,2024,7,15,4,Kamojang,Sumatera Utara,2,Commercial,Postpaid
+640,640,2024-12-02 21:07:15.892032,2024,12,2,10,Mataloko,Lampung,3,Industrial,Prepaid
+641,641,2024-08-31 09:01:15.892032,2024,8,31,5,Darajat,Sulawesi Utara,2,Commercial,Postpaid
+642,642,2025-01-05 18:12:15.892032,2025,1,5,10,Mataloko,Lampung,1,Residential,Postpaid
+643,643,2025-04-19 23:50:15.892032,2025,4,19,19,Likupang,DKI Jakarta,4,Government,Prepaid
+644,644,2024-06-26 13:08:15.892032,2024,6,26,19,Likupang,DKI Jakarta,3,Industrial,Prepaid
+645,645,2025-05-07 09:55:15.892032,2025,5,7,12,Suralaya,Jawa Timur,1,Residential,Prepaid
+646,646,2024-07-26 15:40:15.892032,2024,7,26,8,Lahendong,DKI Jakarta,1,Residential,Prepaid
+647,647,2025-02-20 23:44:15.892032,2025,2,20,2,Cirata,Jawa Barat,3,Industrial,Prepaid
+648,648,2024-11-15 02:30:15.892032,2024,11,15,3,Saguling,Jawa Tengah,4,Government,Postpaid
+649,649,2024-09-23 18:14:15.892032,2024,9,23,2,Cirata,Jawa Barat,1,Residential,Prepaid
+650,650,2024-07-31 11:06:15.892032,2024,7,31,5,Darajat,Sulawesi Utara,3,Industrial,Postpaid
+651,651,2024-08-22 06:48:15.892032,2024,8,22,10,Mataloko,Lampung,2,Commercial,Prepaid
+652,652,2024-08-25 14:31:15.892032,2024,8,25,5,Darajat,Sulawesi Utara,2,Commercial,Prepaid
+653,653,2024-12-20 03:45:15.892032,2024,12,20,21,Patuha,Lampung,4,Government,Postpaid
+654,654,2025-01-09 20:13:15.892032,2025,1,9,24,Rantau Dedap,Jawa Barat,2,Commercial,Postpaid
+655,655,2025-01-03 12:13:15.892032,2025,1,3,1,Karangkates,Jawa Timur,4,Government,Prepaid
+656,656,2024-08-26 16:29:15.892032,2024,8,26,2,Cirata,Jawa Barat,1,Residential,Postpaid
+657,657,2025-01-26 00:03:15.892032,2025,1,26,13,Tanjung Jati B,Jawa Barat,1,Residential,Prepaid
+658,658,2024-08-17 13:13:15.892032,2024,8,17,7,Sibayak,Banten,2,Commercial,Prepaid
+659,659,2024-07-16 02:03:15.892032,2024,7,16,15,Muara Karang,Sumatera Utara,2,Commercial,Prepaid
+660,660,2024-10-15 08:38:15.892032,2024,10,15,4,Kamojang,Sumatera Utara,1,Residential,Prepaid
+661,661,2025-03-25 18:40:15.892032,2025,3,25,23,Sorik Marapi,Jawa Timur,4,Government,Prepaid
+662,662,2024-10-30 13:40:15.892032,2024,10,30,6,Wayang Windu,NTT,4,Government,Prepaid
+663,663,2024-11-23 02:11:15.892032,2024,11,23,6,Wayang Windu,NTT,2,Commercial,Postpaid
+664,664,2025-01-12 12:58:15.892032,2025,1,12,19,Likupang,DKI Jakarta,4,Government,Postpaid
+665,665,2025-01-07 21:59:15.892032,2025,1,7,8,Lahendong,DKI Jakarta,2,Commercial,Postpaid
+666,666,2025-02-20 06:01:15.892032,2025,2,20,14,Grati,Jawa Tengah,1,Residential,Postpaid
+667,667,2025-01-04 11:42:15.892032,2025,1,4,13,Tanjung Jati B,Jawa Barat,3,Industrial,Postpaid
+668,668,2025-05-16 17:40:15.892032,2025,5,16,21,Patuha,Lampung,1,Residential,Prepaid
+669,669,2024-10-20 13:43:15.892032,2024,10,20,2,Cirata,Jawa Barat,4,Government,Prepaid
+670,670,2024-06-25 16:43:15.892032,2024,6,25,16,Tambak Lorok,Sulawesi Utara,2,Commercial,Prepaid
+671,671,2024-09-26 20:59:15.892032,2024,9,26,4,Kamojang,Sumatera Utara,1,Residential,Postpaid
+672,672,2024-08-30 03:00:15.892032,2024,8,30,4,Kamojang,Sumatera Utara,1,Residential,Postpaid
+673,673,2024-10-23 23:53:15.892032,2024,10,23,14,Grati,Jawa Tengah,3,Industrial,Prepaid
+674,674,2025-01-11 07:33:15.892032,2025,1,11,10,Mataloko,Lampung,4,Government,Prepaid
+675,675,2025-05-15 13:48:15.892032,2025,5,15,22,Dieng,Sumatera Selatan,1,Residential,Prepaid
+676,676,2024-09-03 07:33:15.892032,2024,9,3,20,Gunung Salak,Sulawesi Selatan,2,Commercial,Postpaid
+677,677,2025-04-27 11:59:15.892032,2025,4,27,7,Sibayak,Banten,2,Commercial,Postpaid
+678,678,2025-04-18 20:13:15.892032,2025,4,18,13,Tanjung Jati B,Jawa Barat,4,Government,Postpaid
+679,679,2024-12-27 06:46:15.892032,2024,12,27,25,Muara Laboh,Jawa Tengah,4,Government,Prepaid
+680,680,2025-01-14 11:06:15.892032,2025,1,14,20,Gunung Salak,Sulawesi Selatan,1,Residential,Prepaid
+681,681,2024-12-15 14:17:15.892032,2024,12,15,5,Darajat,Sulawesi Utara,2,Commercial,Prepaid
+682,682,2024-10-10 09:27:15.892032,2024,10,10,7,Sibayak,Banten,1,Residential,Postpaid
+683,683,2024-09-22 23:40:15.892032,2024,9,22,21,Patuha,Lampung,4,Government,Postpaid
+684,684,2024-10-27 19:07:15.892032,2024,10,27,2,Cirata,Jawa Barat,4,Government,Postpaid
+685,685,2025-03-12 03:57:15.892032,2025,3,12,6,Wayang Windu,NTT,3,Industrial,Prepaid
+686,686,2024-08-22 17:13:15.892032,2024,8,22,8,Lahendong,DKI Jakarta,2,Commercial,Postpaid
+687,687,2024-11-23 02:48:15.892032,2024,11,23,3,Saguling,Jawa Tengah,1,Residential,Prepaid
+688,688,2024-06-10 20:00:15.892032,2024,6,10,24,Rantau Dedap,Jawa Barat,4,Government,Postpaid
+689,689,2024-06-30 03:22:15.892032,2024,6,30,4,Kamojang,Sumatera Utara,3,Industrial,Prepaid
+690,690,2025-03-15 19:42:15.892032,2025,3,15,17,Sidrap,NTT,2,Commercial,Prepaid
+691,691,2024-08-27 04:40:15.892032,2024,8,27,2,Cirata,Jawa Barat,2,Commercial,Prepaid
+692,692,2024-11-17 15:33:15.892032,2024,11,17,11,Paiton,Sumatera Selatan,1,Residential,Postpaid
+693,693,2025-01-15 19:22:15.892032,2025,1,15,11,Paiton,Sumatera Selatan,4,Government,Prepaid
+694,694,2024-07-31 17:22:15.892032,2024,7,31,14,Grati,Jawa Tengah,1,Residential,Postpaid
+695,695,2024-12-24 13:00:15.892032,2024,12,24,7,Sibayak,Banten,3,Industrial,Prepaid
+696,696,2024-11-02 12:57:15.892032,2024,11,2,16,Tambak Lorok,Sulawesi Utara,4,Government,Postpaid
+697,697,2024-07-02 09:23:15.892032,2024,7,2,6,Wayang Windu,NTT,3,Industrial,Prepaid
+698,698,2024-05-31 16:58:15.892032,2024,5,31,25,Muara Laboh,Jawa Tengah,4,Government,Postpaid
+699,699,2024-12-21 00:15:15.892032,2024,12,21,25,Muara Laboh,Jawa Tengah,1,Residential,Prepaid
+700,700,2025-02-20 07:55:15.892032,2025,2,20,8,Lahendong,DKI Jakarta,1,Residential,Prepaid
+701,701,2025-05-09 03:33:15.892032,2025,5,9,8,Lahendong,DKI Jakarta,3,Industrial,Prepaid
+702,702,2024-07-28 15:13:15.892032,2024,7,28,19,Likupang,DKI Jakarta,2,Commercial,Postpaid
+703,703,2025-03-21 02:02:15.892032,2025,3,21,17,Sidrap,NTT,4,Government,Postpaid
+704,704,2025-04-19 21:27:15.892032,2025,4,19,7,Sibayak,Banten,2,Commercial,Prepaid
+705,705,2025-03-20 04:06:15.892032,2025,3,20,25,Muara Laboh,Jawa Tengah,3,Industrial,Prepaid
+706,706,2024-12-08 21:43:15.892032,2024,12,8,22,Dieng,Sumatera Selatan,1,Residential,Prepaid
+707,707,2025-01-08 11:56:15.892032,2025,1,8,5,Darajat,Sulawesi Utara,1,Residential,Postpaid
+708,708,2025-02-18 19:42:15.892032,2025,2,18,14,Grati,Jawa Tengah,2,Commercial,Prepaid
+709,709,2024-11-07 19:20:15.892032,2024,11,7,1,Karangkates,Jawa Timur,2,Commercial,Postpaid
+710,710,2024-12-25 04:22:15.892032,2024,12,25,2,Cirata,Jawa Barat,4,Government,Prepaid
+711,711,2024-06-09 04:40:15.892032,2024,6,9,3,Saguling,Jawa Tengah,3,Industrial,Postpaid
+712,712,2025-03-14 07:46:15.892032,2025,3,14,11,Paiton,Sumatera Selatan,3,Industrial,Prepaid
+713,713,2024-06-27 22:32:15.892032,2024,6,27,18,Jeneponto,Banten,4,Government,Prepaid
+714,714,2025-05-24 14:10:15.892032,2025,5,24,13,Tanjung Jati B,Jawa Barat,2,Commercial,Postpaid
+715,715,2024-10-06 19:07:15.892032,2024,10,6,25,Muara Laboh,Jawa Tengah,2,Commercial,Prepaid
+716,716,2024-09-20 23:01:15.892032,2024,9,20,22,Dieng,Sumatera Selatan,1,Residential,Prepaid
+717,717,2025-03-23 02:46:15.892032,2025,3,23,16,Tambak Lorok,Sulawesi Utara,3,Industrial,Prepaid
+718,718,2024-07-20 14:06:15.892032,2024,7,20,11,Paiton,Sumatera Selatan,4,Government,Postpaid
+719,719,2024-06-30 20:04:15.892032,2024,6,30,22,Dieng,Sumatera Selatan,2,Commercial,Postpaid
+720,720,2024-12-31 04:30:15.892032,2024,12,31,17,Sidrap,NTT,1,Residential,Postpaid
+721,721,2025-01-27 10:42:15.892032,2025,1,27,4,Kamojang,Sumatera Utara,3,Industrial,Prepaid
+722,722,2025-02-16 15:53:15.892032,2025,2,16,14,Grati,Jawa Tengah,3,Industrial,Prepaid
+723,723,2025-02-12 15:10:15.892032,2025,2,12,5,Darajat,Sulawesi Utara,2,Commercial,Postpaid
+724,724,2024-07-06 00:41:15.892032,2024,7,6,2,Cirata,Jawa Barat,3,Industrial,Postpaid
+725,725,2024-09-02 13:59:15.892032,2024,9,2,4,Kamojang,Sumatera Utara,3,Industrial,Postpaid
+726,726,2025-02-18 05:16:15.892032,2025,2,18,15,Muara Karang,Sumatera Utara,1,Residential,Prepaid
+727,727,2024-10-04 12:45:15.892032,2024,10,4,18,Jeneponto,Banten,1,Residential,Postpaid
+728,728,2024-06-28 07:03:15.892032,2024,6,28,1,Karangkates,Jawa Timur,4,Government,Prepaid
+729,729,2024-06-28 13:38:15.892032,2024,6,28,25,Muara Laboh,Jawa Tengah,2,Commercial,Postpaid
+730,730,2024-07-25 15:35:15.892032,2024,7,25,11,Paiton,Sumatera Selatan,1,Residential,Postpaid
+731,731,2024-06-18 02:31:15.892032,2024,6,18,24,Rantau Dedap,Jawa Barat,2,Commercial,Postpaid
+732,732,2024-07-28 23:55:15.892032,2024,7,28,6,Wayang Windu,NTT,1,Residential,Prepaid
+733,733,2025-02-26 21:55:15.892032,2025,2,26,15,Muara Karang,Sumatera Utara,2,Commercial,Postpaid
+734,734,2024-06-10 16:30:15.892032,2024,6,10,7,Sibayak,Banten,4,Government,Postpaid
+735,735,2025-04-06 01:38:15.892032,2025,4,6,18,Jeneponto,Banten,3,Industrial,Prepaid
+736,736,2024-09-07 07:28:15.892032,2024,9,7,14,Grati,Jawa Tengah,1,Residential,Postpaid
+737,737,2024-06-18 01:59:15.892032,2024,6,18,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+738,738,2025-03-19 03:47:15.892032,2025,3,19,17,Sidrap,NTT,4,Government,Prepaid
+739,739,2024-10-06 08:21:15.892032,2024,10,6,23,Sorik Marapi,Jawa Timur,4,Government,Prepaid
+740,740,2025-01-31 22:04:15.892032,2025,1,31,1,Karangkates,Jawa Timur,2,Commercial,Postpaid
+741,741,2024-10-22 15:26:15.892032,2024,10,22,11,Paiton,Sumatera Selatan,4,Government,Prepaid
+742,742,2025-02-18 05:12:15.892032,2025,2,18,16,Tambak Lorok,Sulawesi Utara,2,Commercial,Prepaid
+743,743,2024-09-30 17:18:15.892032,2024,9,30,11,Paiton,Sumatera Selatan,3,Industrial,Prepaid
+744,744,2024-10-07 19:31:15.892032,2024,10,7,3,Saguling,Jawa Tengah,3,Industrial,Postpaid
+745,745,2024-10-21 10:54:15.892032,2024,10,21,13,Tanjung Jati B,Jawa Barat,3,Industrial,Prepaid
+746,746,2024-09-20 08:42:15.892032,2024,9,20,16,Tambak Lorok,Sulawesi Utara,2,Commercial,Postpaid
+747,747,2024-09-08 18:24:15.892032,2024,9,8,21,Patuha,Lampung,1,Residential,Postpaid
+748,748,2024-11-18 03:12:15.892032,2024,11,18,15,Muara Karang,Sumatera Utara,1,Residential,Postpaid
+749,749,2025-05-03 02:36:15.892032,2025,5,3,20,Gunung Salak,Sulawesi Selatan,2,Commercial,Prepaid
+750,750,2024-12-23 22:41:15.892032,2024,12,23,8,Lahendong,DKI Jakarta,3,Industrial,Postpaid
+751,751,2025-03-21 14:05:15.892032,2025,3,21,18,Jeneponto,Banten,3,Industrial,Postpaid
+752,752,2025-04-24 14:51:15.892032,2025,4,24,21,Patuha,Lampung,3,Industrial,Postpaid
+753,753,2024-07-15 21:21:15.892032,2024,7,15,1,Karangkates,Jawa Timur,4,Government,Postpaid
+754,754,2024-11-14 18:59:15.892032,2024,11,14,23,Sorik Marapi,Jawa Timur,3,Industrial,Prepaid
+755,755,2025-05-05 09:42:15.892032,2025,5,5,8,Lahendong,DKI Jakarta,1,Residential,Postpaid
+756,756,2025-03-06 10:19:15.892032,2025,3,6,8,Lahendong,DKI Jakarta,2,Commercial,Postpaid
+757,757,2024-10-12 17:51:15.892032,2024,10,12,18,Jeneponto,Banten,2,Commercial,Postpaid
+758,758,2024-11-07 22:53:15.892032,2024,11,7,18,Jeneponto,Banten,3,Industrial,Prepaid
+759,759,2025-04-11 03:17:15.892032,2025,4,11,10,Mataloko,Lampung,3,Industrial,Prepaid
+760,760,2024-10-27 15:01:15.892032,2024,10,27,13,Tanjung Jati B,Jawa Barat,3,Industrial,Prepaid
+761,761,2025-01-12 07:15:15.892032,2025,1,12,7,Sibayak,Banten,1,Residential,Postpaid
+762,762,2025-03-21 03:05:15.892032,2025,3,21,11,Paiton,Sumatera Selatan,4,Government,Postpaid
+763,763,2024-08-23 00:13:15.892032,2024,8,23,4,Kamojang,Sumatera Utara,2,Commercial,Postpaid
+764,764,2024-09-01 08:56:15.892032,2024,9,1,13,Tanjung Jati B,Jawa Barat,4,Government,Prepaid
+765,765,2024-09-08 16:16:15.892032,2024,9,8,25,Muara Laboh,Jawa Tengah,3,Industrial,Postpaid
+766,766,2024-07-20 19:32:15.892032,2024,7,20,14,Grati,Jawa Tengah,2,Commercial,Prepaid
+767,767,2025-03-07 02:06:15.892032,2025,3,7,15,Muara Karang,Sumatera Utara,1,Residential,Prepaid
+768,768,2025-03-16 23:15:15.892032,2025,3,16,16,Tambak Lorok,Sulawesi Utara,2,Commercial,Prepaid
+769,769,2024-08-16 23:16:15.892032,2024,8,16,12,Suralaya,Jawa Timur,3,Industrial,Postpaid
+770,770,2024-07-27 01:22:15.892032,2024,7,27,7,Sibayak,Banten,3,Industrial,Prepaid
+771,771,2025-01-24 14:57:15.892032,2025,1,24,14,Grati,Jawa Tengah,1,Residential,Postpaid
+772,772,2025-01-04 01:40:15.892032,2025,1,4,15,Muara Karang,Sumatera Utara,4,Government,Prepaid
+773,773,2024-10-09 05:36:15.892032,2024,10,9,1,Karangkates,Jawa Timur,1,Residential,Postpaid
+774,774,2024-07-23 03:13:15.892032,2024,7,23,14,Grati,Jawa Tengah,4,Government,Postpaid
+775,775,2024-10-06 15:34:15.892032,2024,10,6,24,Rantau Dedap,Jawa Barat,3,Industrial,Prepaid
+776,776,2024-11-24 12:10:15.892032,2024,11,24,25,Muara Laboh,Jawa Tengah,1,Residential,Prepaid
+777,777,2025-03-12 03:53:15.892032,2025,3,12,21,Patuha,Lampung,4,Government,Postpaid
+778,778,2025-02-09 01:56:15.892032,2025,2,9,10,Mataloko,Lampung,4,Government,Postpaid
+779,779,2025-05-03 18:10:15.892032,2025,5,3,3,Saguling,Jawa Tengah,1,Residential,Prepaid
+780,780,2024-12-22 05:38:15.892032,2024,12,22,3,Saguling,Jawa Tengah,1,Residential,Prepaid
+781,781,2024-07-08 17:47:15.892032,2024,7,8,13,Tanjung Jati B,Jawa Barat,2,Commercial,Prepaid
+782,782,2024-10-25 22:55:15.892032,2024,10,25,23,Sorik Marapi,Jawa Timur,4,Government,Postpaid
+783,783,2024-09-01 22:24:15.892032,2024,9,1,5,Darajat,Sulawesi Utara,3,Industrial,Postpaid
+784,784,2024-06-12 17:56:15.892032,2024,6,12,21,Patuha,Lampung,4,Government,Prepaid
+785,785,2024-06-15 18:56:15.892032,2024,6,15,8,Lahendong,DKI Jakarta,2,Commercial,Prepaid
+786,786,2025-01-15 07:57:15.892032,2025,1,15,22,Dieng,Sumatera Selatan,2,Commercial,Prepaid
+787,787,2024-09-10 16:24:15.892032,2024,9,10,24,Rantau Dedap,Jawa Barat,3,Industrial,Postpaid
+788,788,2024-09-20 17:06:15.892032,2024,9,20,24,Rantau Dedap,Jawa Barat,2,Commercial,Prepaid
+789,789,2024-12-12 00:13:15.892032,2024,12,12,13,Tanjung Jati B,Jawa Barat,2,Commercial,Postpaid
+790,790,2025-04-25 23:24:15.892032,2025,4,25,12,Suralaya,Jawa Timur,3,Industrial,Postpaid
+791,791,2025-04-27 13:51:15.892032,2025,4,27,18,Jeneponto,Banten,1,Residential,Postpaid
+792,792,2025-04-03 12:25:15.892032,2025,4,3,12,Suralaya,Jawa Timur,2,Commercial,Postpaid
+793,793,2024-10-14 10:10:15.892032,2024,10,14,21,Patuha,Lampung,2,Commercial,Prepaid
+794,794,2024-05-29 00:56:15.892032,2024,5,29,19,Likupang,DKI Jakarta,1,Residential,Postpaid
+795,795,2024-12-20 10:06:15.892032,2024,12,20,10,Mataloko,Lampung,4,Government,Postpaid
+796,796,2024-06-12 06:56:15.892032,2024,6,12,8,Lahendong,DKI Jakarta,4,Government,Prepaid
+797,797,2024-09-02 21:23:15.892032,2024,9,2,19,Likupang,DKI Jakarta,3,Industrial,Prepaid
+798,798,2024-07-14 10:16:15.892032,2024,7,14,1,Karangkates,Jawa Timur,3,Industrial,Prepaid
+799,799,2024-06-01 00:29:15.892032,2024,6,1,11,Paiton,Sumatera Selatan,3,Industrial,Postpaid
+800,800,2024-07-04 04:51:15.892032,2024,7,4,1,Karangkates,Jawa Timur,4,Government,Postpaid
+801,801,2025-03-04 13:56:15.892032,2025,3,4,19,Likupang,DKI Jakarta,3,Industrial,Postpaid
+802,802,2025-01-17 09:03:15.892032,2025,1,17,2,Cirata,Jawa Barat,2,Commercial,Prepaid
+803,803,2025-04-04 14:18:15.892032,2025,4,4,17,Sidrap,NTT,3,Industrial,Prepaid
+804,804,2024-12-25 06:36:15.892032,2024,12,25,10,Mataloko,Lampung,3,Industrial,Postpaid
+805,805,2025-05-09 03:53:15.892032,2025,5,9,4,Kamojang,Sumatera Utara,2,Commercial,Prepaid
+806,806,2025-01-02 11:35:15.892032,2025,1,2,3,Saguling,Jawa Tengah,1,Residential,Postpaid
+807,807,2024-11-17 16:35:15.892032,2024,11,17,24,Rantau Dedap,Jawa Barat,4,Government,Prepaid
+808,808,2024-10-12 05:30:15.892032,2024,10,12,1,Karangkates,Jawa Timur,3,Industrial,Prepaid
+809,809,2025-05-18 21:12:15.892032,2025,5,18,13,Tanjung Jati B,Jawa Barat,3,Industrial,Prepaid
+810,810,2024-07-31 16:43:15.892032,2024,7,31,10,Mataloko,Lampung,4,Government,Postpaid
+811,811,2024-08-25 06:43:15.892032,2024,8,25,5,Darajat,Sulawesi Utara,4,Government,Postpaid
+812,812,2024-07-06 03:57:15.892032,2024,7,6,10,Mataloko,Lampung,1,Residential,Prepaid
+813,813,2024-11-04 03:09:15.892032,2024,11,4,13,Tanjung Jati B,Jawa Barat,4,Government,Postpaid
+814,814,2024-12-04 01:44:15.892032,2024,12,4,4,Kamojang,Sumatera Utara,4,Government,Prepaid
+815,815,2024-10-09 04:29:15.892032,2024,10,9,4,Kamojang,Sumatera Utara,4,Government,Postpaid
+816,816,2024-06-12 16:02:15.892032,2024,6,12,23,Sorik Marapi,Jawa Timur,1,Residential,Postpaid
+817,817,2024-06-28 08:00:15.892032,2024,6,28,10,Mataloko,Lampung,2,Commercial,Postpaid
+818,818,2024-11-05 17:36:15.892032,2024,11,5,13,Tanjung Jati B,Jawa Barat,2,Commercial,Postpaid
+819,819,2025-02-05 10:13:15.892032,2025,2,5,9,Ulumbu,Sulawesi Selatan,4,Government,Postpaid
+820,820,2024-09-24 19:10:15.892032,2024,9,24,22,Dieng,Sumatera Selatan,4,Government,Prepaid
+821,821,2024-11-08 11:12:15.892032,2024,11,8,2,Cirata,Jawa Barat,1,Residential,Postpaid
+822,822,2024-06-28 13:15:15.892032,2024,6,28,22,Dieng,Sumatera Selatan,1,Residential,Postpaid
+823,823,2024-11-03 07:49:15.892032,2024,11,3,1,Karangkates,Jawa Timur,2,Commercial,Postpaid
+824,824,2024-09-30 21:30:15.892032,2024,9,30,18,Jeneponto,Banten,2,Commercial,Prepaid
+825,825,2024-10-22 07:00:15.892032,2024,10,22,12,Suralaya,Jawa Timur,2,Commercial,Postpaid
+826,826,2025-02-09 18:26:15.892032,2025,2,9,21,Patuha,Lampung,1,Residential,Postpaid
+827,827,2024-11-29 20:35:15.892032,2024,11,29,7,Sibayak,Banten,2,Commercial,Postpaid
+828,828,2025-04-02 13:03:15.892032,2025,4,2,19,Likupang,DKI Jakarta,4,Government,Prepaid
+829,829,2024-12-03 15:19:15.892032,2024,12,3,20,Gunung Salak,Sulawesi Selatan,3,Industrial,Postpaid
+830,830,2024-12-14 01:53:15.892032,2024,12,14,1,Karangkates,Jawa Timur,2,Commercial,Postpaid
+831,831,2025-04-04 05:14:15.892032,2025,4,4,18,Jeneponto,Banten,4,Government,Postpaid
+832,832,2024-10-06 11:39:15.892032,2024,10,6,8,Lahendong,DKI Jakarta,4,Government,Prepaid
+833,833,2024-12-18 16:02:15.892032,2024,12,18,24,Rantau Dedap,Jawa Barat,1,Residential,Prepaid
+834,834,2024-09-28 20:12:15.892032,2024,9,28,8,Lahendong,DKI Jakarta,2,Commercial,Postpaid
+835,835,2024-06-13 08:25:15.892032,2024,6,13,20,Gunung Salak,Sulawesi Selatan,1,Residential,Prepaid
+836,836,2024-10-29 11:00:15.892032,2024,10,29,8,Lahendong,DKI Jakarta,2,Commercial,Prepaid
+837,837,2024-08-12 12:02:15.892032,2024,8,12,25,Muara Laboh,Jawa Tengah,1,Residential,Postpaid
+838,838,2024-10-24 05:58:15.892032,2024,10,24,25,Muara Laboh,Jawa Tengah,4,Government,Prepaid
+839,839,2024-06-06 17:12:15.892032,2024,6,6,12,Suralaya,Jawa Timur,4,Government,Postpaid
+840,840,2024-10-25 17:40:15.892032,2024,10,25,7,Sibayak,Banten,2,Commercial,Prepaid
+841,841,2025-02-01 15:56:15.892032,2025,2,1,6,Wayang Windu,NTT,1,Residential,Prepaid
+842,842,2024-07-17 09:46:15.892032,2024,7,17,23,Sorik Marapi,Jawa Timur,2,Commercial,Postpaid
+843,843,2025-01-04 04:54:15.892032,2025,1,4,6,Wayang Windu,NTT,2,Commercial,Postpaid
+844,844,2024-08-14 12:49:15.892032,2024,8,14,22,Dieng,Sumatera Selatan,1,Residential,Prepaid
+845,845,2024-12-01 02:18:15.892032,2024,12,1,3,Saguling,Jawa Tengah,2,Commercial,Postpaid
+846,846,2024-08-09 03:26:15.892032,2024,8,9,16,Tambak Lorok,Sulawesi Utara,4,Government,Postpaid
+847,847,2025-03-30 10:23:15.892032,2025,3,30,6,Wayang Windu,NTT,3,Industrial,Postpaid
+848,848,2024-09-18 10:11:15.892032,2024,9,18,21,Patuha,Lampung,2,Commercial,Prepaid
+849,849,2024-07-16 10:08:15.892032,2024,7,16,12,Suralaya,Jawa Timur,2,Commercial,Prepaid
+850,850,2024-11-14 16:55:15.892032,2024,11,14,4,Kamojang,Sumatera Utara,2,Commercial,Prepaid
+851,851,2024-09-10 13:40:15.892032,2024,9,10,10,Mataloko,Lampung,2,Commercial,Prepaid
+852,852,2025-02-05 21:03:15.892032,2025,2,5,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+853,853,2025-04-06 08:57:15.892032,2025,4,6,18,Jeneponto,Banten,2,Commercial,Postpaid
+854,854,2025-03-30 01:14:15.892032,2025,3,30,22,Dieng,Sumatera Selatan,4,Government,Postpaid
+855,855,2025-01-05 00:30:15.892032,2025,1,5,8,Lahendong,DKI Jakarta,2,Commercial,Postpaid
+856,856,2025-02-23 18:17:15.892032,2025,2,23,23,Sorik Marapi,Jawa Timur,3,Industrial,Postpaid
+857,857,2025-02-24 16:49:15.892032,2025,2,24,23,Sorik Marapi,Jawa Timur,2,Commercial,Prepaid
+858,858,2024-09-18 17:40:15.892032,2024,9,18,4,Kamojang,Sumatera Utara,4,Government,Prepaid
+859,859,2024-05-29 02:52:15.892032,2024,5,29,2,Cirata,Jawa Barat,2,Commercial,Prepaid
+860,860,2024-10-29 01:14:15.892032,2024,10,29,22,Dieng,Sumatera Selatan,4,Government,Prepaid
+861,861,2024-09-17 08:50:15.892032,2024,9,17,21,Patuha,Lampung,2,Commercial,Postpaid
+862,862,2024-10-19 06:17:15.892032,2024,10,19,3,Saguling,Jawa Tengah,3,Industrial,Postpaid
+863,863,2025-01-22 13:20:15.892032,2025,1,22,1,Karangkates,Jawa Timur,1,Residential,Postpaid
+864,864,2024-12-23 00:15:15.892032,2024,12,23,14,Grati,Jawa Tengah,4,Government,Prepaid
+865,865,2024-08-29 17:06:15.892032,2024,8,29,18,Jeneponto,Banten,1,Residential,Prepaid
+866,866,2024-12-07 11:29:15.892032,2024,12,7,6,Wayang Windu,NTT,4,Government,Postpaid
+867,867,2024-11-02 05:51:15.892032,2024,11,2,18,Jeneponto,Banten,1,Residential,Prepaid
+868,868,2025-01-26 09:34:15.892032,2025,1,26,20,Gunung Salak,Sulawesi Selatan,3,Industrial,Prepaid
+869,869,2024-08-24 14:00:15.892032,2024,8,24,12,Suralaya,Jawa Timur,2,Commercial,Postpaid
+870,870,2025-03-03 21:54:15.892032,2025,3,3,24,Rantau Dedap,Jawa Barat,1,Residential,Prepaid
+871,871,2024-08-14 09:12:15.892032,2024,8,14,18,Jeneponto,Banten,4,Government,Prepaid
+872,872,2025-01-12 07:22:15.892032,2025,1,12,13,Tanjung Jati B,Jawa Barat,2,Commercial,Prepaid
+873,873,2025-03-05 09:41:15.892032,2025,3,5,10,Mataloko,Lampung,2,Commercial,Postpaid
+874,874,2025-01-09 21:11:15.892032,2025,1,9,12,Suralaya,Jawa Timur,4,Government,Postpaid
+875,875,2024-11-05 08:24:15.892032,2024,11,5,10,Mataloko,Lampung,1,Residential,Prepaid
+876,876,2024-08-07 00:39:15.892032,2024,8,7,19,Likupang,DKI Jakarta,1,Residential,Postpaid
+877,877,2024-06-20 02:29:15.892032,2024,6,20,17,Sidrap,NTT,1,Residential,Prepaid
+878,878,2024-08-25 19:08:15.892032,2024,8,25,5,Darajat,Sulawesi Utara,1,Residential,Postpaid
+879,879,2024-12-17 09:38:15.892032,2024,12,17,12,Suralaya,Jawa Timur,1,Residential,Postpaid
+880,880,2024-07-30 10:18:15.892032,2024,7,30,11,Paiton,Sumatera Selatan,1,Residential,Prepaid
+881,881,2024-06-19 05:09:15.892032,2024,6,19,10,Mataloko,Lampung,4,Government,Postpaid
+882,882,2024-11-15 07:14:15.892032,2024,11,15,19,Likupang,DKI Jakarta,4,Government,Postpaid
+883,883,2025-01-10 08:41:15.892032,2025,1,10,12,Suralaya,Jawa Timur,4,Government,Postpaid
+884,884,2025-02-07 14:39:15.892032,2025,2,7,17,Sidrap,NTT,4,Government,Postpaid
+885,885,2024-11-15 15:45:15.892032,2024,11,15,11,Paiton,Sumatera Selatan,4,Government,Postpaid
+886,886,2024-07-11 07:58:15.892032,2024,7,11,17,Sidrap,NTT,2,Commercial,Prepaid
+887,887,2024-12-24 03:55:15.892032,2024,12,24,5,Darajat,Sulawesi Utara,1,Residential,Prepaid
+888,888,2025-02-24 02:21:15.892032,2025,2,24,6,Wayang Windu,NTT,4,Government,Prepaid
+889,889,2025-04-19 05:10:15.892032,2025,4,19,1,Karangkates,Jawa Timur,1,Residential,Prepaid
+890,890,2024-09-06 10:38:15.892032,2024,9,6,16,Tambak Lorok,Sulawesi Utara,3,Industrial,Prepaid
+891,891,2025-01-23 04:06:15.892032,2025,1,23,18,Jeneponto,Banten,1,Residential,Prepaid
+892,892,2024-07-05 19:41:15.892032,2024,7,5,14,Grati,Jawa Tengah,3,Industrial,Prepaid
+893,893,2025-05-09 22:39:15.892032,2025,5,9,1,Karangkates,Jawa Timur,2,Commercial,Prepaid
+894,894,2025-05-08 05:26:15.892032,2025,5,8,9,Ulumbu,Sulawesi Selatan,2,Commercial,Postpaid
+895,895,2025-03-15 07:17:15.892032,2025,3,15,10,Mataloko,Lampung,3,Industrial,Postpaid
+896,896,2025-02-19 07:11:15.892032,2025,2,19,15,Muara Karang,Sumatera Utara,4,Government,Postpaid
+897,897,2024-10-31 02:55:15.892032,2024,10,31,24,Rantau Dedap,Jawa Barat,1,Residential,Postpaid
+898,898,2024-08-01 12:27:15.892032,2024,8,1,6,Wayang Windu,NTT,3,Industrial,Postpaid
+899,899,2024-06-30 02:13:15.892032,2024,6,30,14,Grati,Jawa Tengah,1,Residential,Postpaid
+900,900,2024-06-09 17:30:15.892032,2024,6,9,23,Sorik Marapi,Jawa Timur,3,Industrial,Prepaid
+901,901,2024-12-08 07:33:15.892032,2024,12,8,14,Grati,Jawa Tengah,3,Industrial,Postpaid
+902,902,2024-09-01 10:51:15.892032,2024,9,1,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+903,903,2024-12-14 22:13:15.892032,2024,12,14,8,Lahendong,DKI Jakarta,1,Residential,Prepaid
+904,904,2024-12-02 03:21:15.892032,2024,12,2,14,Grati,Jawa Tengah,4,Government,Prepaid
+905,905,2025-03-06 09:30:15.892032,2025,3,6,6,Wayang Windu,NTT,2,Commercial,Prepaid
+906,906,2024-09-02 00:40:15.892032,2024,9,2,7,Sibayak,Banten,4,Government,Prepaid
+907,907,2025-01-17 10:06:15.892032,2025,1,17,10,Mataloko,Lampung,2,Commercial,Postpaid
+908,908,2024-12-12 15:55:15.892032,2024,12,12,18,Jeneponto,Banten,1,Residential,Prepaid
+909,909,2024-08-27 05:11:15.892032,2024,8,27,1,Karangkates,Jawa Timur,2,Commercial,Prepaid
+910,910,2025-05-08 22:02:15.892032,2025,5,8,7,Sibayak,Banten,1,Residential,Postpaid
+911,911,2025-03-22 08:48:15.892032,2025,3,22,21,Patuha,Lampung,3,Industrial,Postpaid
+912,912,2025-02-24 00:47:15.892032,2025,2,24,22,Dieng,Sumatera Selatan,4,Government,Prepaid
+913,913,2024-09-22 23:09:15.892032,2024,9,22,4,Kamojang,Sumatera Utara,2,Commercial,Prepaid
+914,914,2024-07-05 21:05:15.892032,2024,7,5,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+915,915,2024-10-01 06:21:15.892032,2024,10,1,10,Mataloko,Lampung,3,Industrial,Prepaid
+916,916,2025-02-21 17:39:15.892032,2025,2,21,20,Gunung Salak,Sulawesi Selatan,1,Residential,Prepaid
+917,917,2025-02-16 17:44:15.892032,2025,2,16,14,Grati,Jawa Tengah,2,Commercial,Postpaid
+918,918,2025-02-21 09:46:15.892032,2025,2,21,7,Sibayak,Banten,2,Commercial,Postpaid
+919,919,2024-12-28 13:09:15.892032,2024,12,28,22,Dieng,Sumatera Selatan,3,Industrial,Prepaid
+920,920,2025-02-03 19:07:15.892032,2025,2,3,1,Karangkates,Jawa Timur,1,Residential,Postpaid
+921,921,2025-01-15 21:48:15.892032,2025,1,15,17,Sidrap,NTT,2,Commercial,Postpaid
+922,922,2024-08-21 15:45:15.892032,2024,8,21,6,Wayang Windu,NTT,3,Industrial,Prepaid
+923,923,2025-03-03 21:23:15.892032,2025,3,3,23,Sorik Marapi,Jawa Timur,1,Residential,Prepaid
+924,924,2024-08-05 22:07:15.892032,2024,8,5,19,Likupang,DKI Jakarta,1,Residential,Prepaid
+925,925,2024-08-12 00:17:15.892032,2024,8,12,23,Sorik Marapi,Jawa Timur,4,Government,Postpaid
+926,926,2025-03-02 19:48:15.892032,2025,3,2,17,Sidrap,NTT,4,Government,Prepaid
+927,927,2024-12-18 19:44:15.892032,2024,12,18,1,Karangkates,Jawa Timur,3,Industrial,Prepaid
+928,928,2024-10-08 07:37:15.892032,2024,10,8,4,Kamojang,Sumatera Utara,1,Residential,Postpaid
+929,929,2025-04-16 19:21:15.892032,2025,4,16,1,Karangkates,Jawa Timur,2,Commercial,Prepaid
+930,930,2024-06-26 03:43:15.892032,2024,6,26,21,Patuha,Lampung,1,Residential,Prepaid
+931,931,2024-09-05 15:40:15.892032,2024,9,5,25,Muara Laboh,Jawa Tengah,3,Industrial,Postpaid
+932,932,2025-01-17 09:58:15.892032,2025,1,17,14,Grati,Jawa Tengah,2,Commercial,Postpaid
+933,933,2025-05-08 11:21:15.892032,2025,5,8,22,Dieng,Sumatera Selatan,1,Residential,Prepaid
+934,934,2025-03-14 15:42:15.892032,2025,3,14,2,Cirata,Jawa Barat,1,Residential,Prepaid
+935,935,2025-03-09 17:08:15.892032,2025,3,9,19,Likupang,DKI Jakarta,3,Industrial,Prepaid
+936,936,2024-11-01 11:29:15.892032,2024,11,1,20,Gunung Salak,Sulawesi Selatan,3,Industrial,Prepaid
+937,937,2024-09-18 13:58:15.892032,2024,9,18,1,Karangkates,Jawa Timur,2,Commercial,Postpaid
+938,938,2024-10-16 00:20:15.892032,2024,10,16,11,Paiton,Sumatera Selatan,2,Commercial,Prepaid
+939,939,2025-01-13 17:09:15.892032,2025,1,13,16,Tambak Lorok,Sulawesi Utara,2,Commercial,Postpaid
+940,940,2025-02-28 12:59:15.892032,2025,2,28,11,Paiton,Sumatera Selatan,1,Residential,Postpaid
+941,941,2025-01-28 23:05:15.892032,2025,1,28,11,Paiton,Sumatera Selatan,3,Industrial,Postpaid
+942,942,2024-07-15 14:36:15.892032,2024,7,15,15,Muara Karang,Sumatera Utara,4,Government,Prepaid
+943,943,2025-05-06 04:34:15.892032,2025,5,6,19,Likupang,DKI Jakarta,2,Commercial,Postpaid
+944,944,2025-03-01 03:09:15.892032,2025,3,1,10,Mataloko,Lampung,4,Government,Prepaid
+945,945,2024-12-07 18:13:15.892032,2024,12,7,15,Muara Karang,Sumatera Utara,4,Government,Postpaid
+946,946,2025-01-25 10:38:15.892032,2025,1,25,16,Tambak Lorok,Sulawesi Utara,3,Industrial,Postpaid
+947,947,2025-04-28 22:58:15.892032,2025,4,28,14,Grati,Jawa Tengah,4,Government,Postpaid
+948,948,2024-11-14 06:14:15.892032,2024,11,14,6,Wayang Windu,NTT,1,Residential,Postpaid
+949,949,2025-01-21 19:25:15.892032,2025,1,21,2,Cirata,Jawa Barat,2,Commercial,Postpaid
+950,950,2025-01-14 18:00:15.892032,2025,1,14,1,Karangkates,Jawa Timur,3,Industrial,Postpaid
+951,951,2024-08-20 08:31:15.892032,2024,8,20,25,Muara Laboh,Jawa Tengah,2,Commercial,Prepaid
+952,952,2024-09-21 21:07:15.892032,2024,9,21,25,Muara Laboh,Jawa Tengah,1,Residential,Prepaid
+953,953,2025-03-07 18:46:15.892032,2025,3,7,25,Muara Laboh,Jawa Tengah,3,Industrial,Prepaid
+954,954,2024-06-07 14:19:15.892032,2024,6,7,7,Sibayak,Banten,3,Industrial,Prepaid
+955,955,2024-11-28 17:00:15.892032,2024,11,28,1,Karangkates,Jawa Timur,2,Commercial,Postpaid
+956,956,2025-01-29 14:39:15.892032,2025,1,29,16,Tambak Lorok,Sulawesi Utara,2,Commercial,Postpaid
+957,957,2025-03-27 03:48:15.892032,2025,3,27,23,Sorik Marapi,Jawa Timur,2,Commercial,Prepaid
+958,958,2024-07-30 14:44:15.892032,2024,7,30,1,Karangkates,Jawa Timur,3,Industrial,Prepaid
+959,959,2025-05-03 15:41:15.892032,2025,5,3,14,Grati,Jawa Tengah,1,Residential,Prepaid
+960,960,2024-09-21 03:17:15.892032,2024,9,21,2,Cirata,Jawa Barat,1,Residential,Prepaid
+961,961,2024-10-12 10:53:15.892032,2024,10,12,1,Karangkates,Jawa Timur,1,Residential,Prepaid
+962,962,2024-12-20 06:54:15.892032,2024,12,20,6,Wayang Windu,NTT,2,Commercial,Postpaid
+963,963,2025-01-31 22:15:15.892032,2025,1,31,2,Cirata,Jawa Barat,1,Residential,Prepaid
+964,964,2025-04-22 18:56:15.892032,2025,4,22,19,Likupang,DKI Jakarta,4,Government,Prepaid
+965,965,2024-11-09 17:24:15.892032,2024,11,9,20,Gunung Salak,Sulawesi Selatan,3,Industrial,Postpaid
+966,966,2024-11-10 10:13:15.892032,2024,11,10,24,Rantau Dedap,Jawa Barat,3,Industrial,Postpaid
+967,967,2024-06-23 20:39:15.892032,2024,6,23,20,Gunung Salak,Sulawesi Selatan,4,Government,Prepaid
+968,968,2024-12-11 04:17:15.892032,2024,12,11,9,Ulumbu,Sulawesi Selatan,3,Industrial,Postpaid
+969,969,2025-01-18 03:10:15.892032,2025,1,18,19,Likupang,DKI Jakarta,1,Residential,Prepaid
+970,970,2025-02-26 06:27:15.892032,2025,2,26,25,Muara Laboh,Jawa Tengah,2,Commercial,Prepaid
+971,971,2025-03-05 16:39:15.892032,2025,3,5,3,Saguling,Jawa Tengah,2,Commercial,Postpaid
+972,972,2024-09-07 15:45:15.892032,2024,9,7,7,Sibayak,Banten,1,Residential,Prepaid
+973,973,2024-12-05 09:17:15.892032,2024,12,5,7,Sibayak,Banten,1,Residential,Prepaid
+974,974,2024-10-27 14:04:15.892032,2024,10,27,22,Dieng,Sumatera Selatan,2,Commercial,Prepaid
+975,975,2025-01-18 11:16:15.892032,2025,1,18,4,Kamojang,Sumatera Utara,2,Commercial,Prepaid
+976,976,2025-04-15 19:32:15.892032,2025,4,15,20,Gunung Salak,Sulawesi Selatan,3,Industrial,Prepaid
+977,977,2025-05-18 11:08:15.892032,2025,5,18,22,Dieng,Sumatera Selatan,3,Industrial,Postpaid
+978,978,2025-04-30 06:17:15.892032,2025,4,30,4,Kamojang,Sumatera Utara,1,Residential,Prepaid
+979,979,2024-10-01 03:52:15.892032,2024,10,1,22,Dieng,Sumatera Selatan,2,Commercial,Postpaid
+980,980,2024-12-06 10:05:15.892032,2024,12,6,10,Mataloko,Lampung,1,Residential,Prepaid
+981,981,2024-12-14 08:41:15.892032,2024,12,14,4,Kamojang,Sumatera Utara,3,Industrial,Postpaid
+982,982,2024-12-06 21:49:15.892032,2024,12,6,8,Lahendong,DKI Jakarta,3,Industrial,Prepaid
+983,983,2024-08-19 01:14:15.892032,2024,8,19,22,Dieng,Sumatera Selatan,2,Commercial,Prepaid
+984,984,2025-04-01 23:49:15.892032,2025,4,1,3,Saguling,Jawa Tengah,1,Residential,Prepaid
+985,985,2024-12-04 09:52:15.892032,2024,12,4,3,Saguling,Jawa Tengah,1,Residential,Prepaid
+986,986,2025-05-19 02:11:15.892032,2025,5,19,22,Dieng,Sumatera Selatan,4,Government,Prepaid
+987,987,2025-04-24 01:35:15.892032,2025,4,24,20,Gunung Salak,Sulawesi Selatan,3,Industrial,Prepaid
+988,988,2025-02-28 09:43:15.892032,2025,2,28,23,Sorik Marapi,Jawa Timur,4,Government,Postpaid
+989,989,2024-11-20 01:31:15.892032,2024,11,20,14,Grati,Jawa Tengah,2,Commercial,Prepaid
+990,990,2025-03-03 21:58:15.892032,2025,3,3,5,Darajat,Sulawesi Utara,4,Government,Prepaid
+991,991,2024-11-11 01:42:15.892032,2024,11,11,4,Kamojang,Sumatera Utara,3,Industrial,Prepaid
+992,992,2025-05-18 18:40:15.892032,2025,5,18,1,Karangkates,Jawa Timur,4,Government,Prepaid
+993,993,2024-08-04 13:37:15.892032,2024,8,4,4,Kamojang,Sumatera Utara,2,Commercial,Postpaid
+994,994,2024-12-19 13:28:15.892032,2024,12,19,10,Mataloko,Lampung,4,Government,Postpaid
+995,995,2025-02-20 18:10:15.892032,2025,2,20,10,Mataloko,Lampung,3,Industrial,Postpaid
+996,996,2025-02-18 17:07:15.892032,2025,2,18,12,Suralaya,Jawa Timur,4,Government,Prepaid
+997,997,2024-10-23 12:51:15.892032,2024,10,23,12,Suralaya,Jawa Timur,4,Government,Postpaid
+998,998,2024-12-10 05:32:15.892032,2024,12,10,19,Likupang,DKI Jakarta,4,Government,Prepaid
+999,999,2025-01-30 12:59:15.892032,2025,1,30,6,Wayang Windu,NTT,3,Industrial,Postpaid
+1000,1000,2024-07-18 04:03:15.892032,2024,7,18,7,Sibayak,Banten,3,Industrial,Postpaid
